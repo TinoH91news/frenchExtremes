@@ -6,7 +6,7 @@
    * Value: **Your language code here**   
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
-:no_entry: EXTREME_GH_TOKEN **not working**:  
+:white_check_mark: EXTREME_GH_TOKEN working  
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
