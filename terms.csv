@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.7689858716866457,0,2,fr,CAF,Africa
+'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.7566695797201684,0,2,fr,WAF,Africa
+'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.7554269227873506,0,2,fr,CAF,Africa
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.7535980920043608,0,2,fr,MDG,Africa
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,2,fr,MDG,Africa
+'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.7516451136582406,0,2,fr,MDG,Africa
+'3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.74839749407762,0,2,fr,CAF,Africa
+'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-11-25T03:37:00+00:00,France,0.7470451412576697,0,2,fr,WCE,Europe
+'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.745765023224682,0,2,fr,ENA,North-America
+'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.7456560832886233,0,2,fr,WCE,Europe
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,βροχόπτωση αλβανία,2025-12-01T04:03:00+00:00,Albania,0.730372681855719,1,2,el,MED,Europe
 '9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2025-11-28T03:34:00+00:00,Greece,0.7057892609808467,1,2,el,MED,Europe
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6518858538626348,0,2,el,MED,Europe
@@ -21,5 +31,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42b71c0645',extremes,Precipitation,#d60d2b,wmo,νεροποντή ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.5555896112833346,1,1,el,MED,Europe
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.5542110433402988,1,1,el,MED,Europe
 '52fecdb54e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Ιόνια νησιά,2025-11-26T03:37:00+00:00,Greece,0.5530769475841736,1,1,el,MED,Europe
-'859043b732',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2025-11-27T03:34:00+00:00,Greece,0.49414290506325115,2,1,el,MED,Europe
+'859043b732',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2025-11-27T03:34:00+00:00,Greece,0.4941429050632511,2,1,el,MED,Europe
 '0626237bf9',extremes,Flood,#030ba1,cmeter,πλημμύρα τίρανα,2025-12-06T03:33:00+00:00,Albania,0.4913467899399042,2,1,el,MED,Europe
