@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.7689858716866457,0,2,fr,CAF,Africa
-'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.7566695797201684,0,2,fr,WAF,Africa
-'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.7554269227873506,0,2,fr,CAF,Africa
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.7535980920043608,0,2,fr,MDG,Africa
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,2,fr,MDG,Africa
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.7516451136582406,0,2,fr,MDG,Africa
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.74839749407762,0,2,fr,CAF,Africa
@@ -14,7 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6518858538626348,0,2,el,MED,Europe
 '7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2025-12-05T03:41:00+00:00,Greece,0.6502260746974967,0,2,el,MED,Europe
 '7aabe0271d',extremes,Thunderstorm,#53785a,wmo,καταιγίδα δυτική Πελοπόννησος,2025-11-26T03:37:00+00:00,Greece,0.6453634758200822,0,2,el,MED,Europe
+'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
 'c585cfd7db',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Πελοπόννησος,2025-11-27T03:34:00+00:00,Greece,0.6425814342728287,0,2,el,MED,Europe
+'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.642112899369248,1,1,fr,CAF,Africa
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.6405584082037067,1,1,fr,MDG,Africa
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2025-11-22T03:28:00+00:00,Greece,0.6400406556443199,2,1,el,MED,Europe
 '819daafd36',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ιοννήσια,2025-12-03T03:40:00+00:00,Greece,0.6377972710858425,0,2,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-11-26T03:37:00+00:00,Cyprus,0.6316364884068425,1,1,el,MED,Europe
