@@ -5,10 +5,8 @@
    * Name:  **EXTREME_LANGUAGE**   
    * Value: **Your language code here**   
 ### EXTREME_GH_TOKEN  
-:no_entry: EXTREME_GH_TOKEN **missing**:  
-1. Assign the API key as new organization secret at https://github.com/organizations/TinoH91news/settings/secrets/actions/new  
-   * Name:  **EXTREME_GH_TOKEN**   
-   * Value: **Your key here**   
+:white_check_mark: EXTREME_GH_TOKEN exists  
+:no_entry: EXTREME_GH_TOKEN **not working**:  
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
