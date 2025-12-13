@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78579a4edc',extremes,Flood,#030ba1,wmo,crue jura rhône saône et loire doubs,2025-11-28T03:34:00+00:00,France,0.7420345622452046,0,1,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.7393731230368006,0,1,fr,WCE,Europe
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.7385002354623256,0,1,fr,WCE,Europe
-'9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.7377885176296332,0,1,fr,WCE,Europe
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-11-23T03:46:00+00:00,New Caledonia,0.7362892513387377,0,1,fr,SPO,Pacific Ocean
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.7335264309393174,0,1,fr,CAF,Africa
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2025-11-23T03:46:00+00:00,Democratic Republic of the Congo,0.7299067803684766,0,1,fr,CAF,Africa
