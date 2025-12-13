@@ -1,12 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.7689858716866457,0,2,fr,CAF,Africa
-'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,1,fr,MDG,Africa
-'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.7516451136582406,0,1,fr,MDG,Africa
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.74839749407762,0,1,fr,CAF,Africa
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-11-25T03:37:00+00:00,France,0.7470451412576697,0,1,fr,WCE,Europe
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.745765023224682,0,1,fr,ENA,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.7456560832886233,0,1,fr,WCE,Europe
-'321831245f',extremes,Earthquake,#870007,usgs,tremblement de terre kabare,2025-11-25T03:36:00+00:00,Democratic Republic of the Congo,0.7433895991422398,0,1,fr,SEAF,Africa
 '78579a4edc',extremes,Flood,#030ba1,wmo,crue jura rhône saône et loire doubs,2025-11-28T03:34:00+00:00,France,0.7420345622452046,0,1,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.7393731230368006,0,1,fr,WCE,Europe
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.7385002354623256,0,1,fr,WCE,Europe
@@ -37,3 +34,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2025-12-02T03:41:00+00:00,Canada,0.6789970538196938,0,2,fr,NEN,North-America
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.642262899369248,1,1,fr,CAF,Africa
+'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.6388983466095045,1,1,fr,MDG,Africa
