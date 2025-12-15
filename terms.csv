@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,2,fr,MDG,Africa
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2025-11-25T03:37:00+00:00,Ivory Coast,0.722945944647793,0,2,fr,WAF,Africa
 'e0c8b44607',extremes,Snow&Ice,#d60d2b,wmo,avalanche france,2025-11-23T03:46:00+00:00,France,0.7185469943243022,0,2,fr,WCE,Europe
 '3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.7104032505228705,0,2,fr,SEAF,Africa
@@ -8,9 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2025-12-10T03:45:00+00:00,Republic of the Congo,0.697759206275009,0,2,fr,CAF,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.6946895407182794,0,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2025-11-25T03:37:00+00:00,Guinea,0.6924345175783345,0,2,fr,WAF,Africa
-'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.6888609089708368,0,2,fr,CAF,Africa
 '56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.6857248387794915,0,2,fr,WAF,Africa
-'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6842629943451038,0,2,fr,WCE,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6841856160537467,0,2,fr,WAF,Africa
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2025-12-10T03:45:00+00:00,Madagascar,0.6802552549857067,0,2,fr,MDG,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-11-27T03:34:00+00:00,Canada,0.679096623598042,0,2,fr,NEN,North-America
@@ -62,3 +59,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.6049473805807186,1,2,fr,WCE,Europe
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2025-11-29T03:34:00+00:00,French Guiana,0.5988416091278079,1,1,fr,NSA,South-America
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.5875897618035845,1,1,fr,CAF,Africa
+'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.5865751651933383,1,2,fr,WCE,Europe
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.5855317726252113,1,1,fr,CAF,Africa
