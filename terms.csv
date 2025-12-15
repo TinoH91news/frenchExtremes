@@ -2,14 +2,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-11-25T03:37:00+00:00,France,0.7470451412576697,0,2,fr,WCE,Europe
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.745765023224682,0,2,fr,ENA,North-America
 '9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.7377885176296332,0,2,fr,WCE,Europe
-'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.7335264309393174,0,2,fr,CAF,Africa
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2025-11-25T03:37:00+00:00,Ivory Coast,0.722945944647793,0,2,fr,WAF,Africa
 'e0c8b44607',extremes,Snow&Ice,#d60d2b,wmo,avalanche france,2025-11-23T03:46:00+00:00,France,0.7185469943243022,0,2,fr,WCE,Europe
 '3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.7104032505228705,0,2,fr,SEAF,Africa
-'9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.7058766595067278,0,2,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.7030708146684513,0,2,fr,CAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-09T03:41:00+00:00,Madagascar,0.700917899280182,0,2,fr,MDG,Africa
-'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2025-12-10T03:45:00+00:00,Republic of the Congo,0.697759206275009,0,2,fr,CAF,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.6946895407182794,0,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2025-11-25T03:37:00+00:00,Guinea,0.6924345175783345,0,2,fr,WAF,Africa
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.6912820727100993,0,2,fr,CAF,Africa
@@ -49,8 +46,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78579a4edc',extremes,Flood,#030ba1,wmo,crue jura rhône saône et loire doubs,2025-11-28T03:34:00+00:00,France,0.6307293779084239,1,1,fr,WCE,Europe
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.6278752151429767,1,1,fr,WCE,Europe
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-11-23T03:46:00+00:00,New Caledonia,0.625995878637927,1,1,fr,SPO,Pacific Ocean
+'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.6234974662984197,1,1,fr,CAF,Africa
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2025-11-23T03:46:00+00:00,Democratic Republic of the Congo,0.6208708083132051,1,1,fr,CAF,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2025-11-23T03:46:00+00:00,France,0.6185393252057747,1,2,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-11-24T03:46:00+00:00,Republic of the Congo,0.6139974931282339,1,2,fr,CAF,Africa
 'ea3bf4d8a0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-12T03:45:00+00:00,France,0.6113604157662627,1,2,fr,WCE,Europe
+'9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.6049473805807186,1,2,fr,WCE,Europe
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2025-11-29T03:34:00+00:00,French Guiana,0.5988416091278079,1,1,fr,NSA,South-America
