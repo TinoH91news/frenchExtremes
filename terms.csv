@@ -1,9 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,2,fr,MDG,Africa
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2025-11-25T03:37:00+00:00,Ivory Coast,0.722945944647793,0,2,fr,WAF,Africa
 'e0c8b44607',extremes,Snow&Ice,#d60d2b,wmo,avalanche france,2025-11-23T03:46:00+00:00,France,0.7185469943243022,0,2,fr,WCE,Europe
 '3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.7104032505228705,0,2,fr,SEAF,Africa
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.7030708146684513,0,2,fr,CAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-09T03:41:00+00:00,Madagascar,0.700917899280182,0,2,fr,MDG,Africa
+'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2025-12-10T03:45:00+00:00,Republic of the Congo,0.697759206275009,0,2,fr,CAF,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.6946895407182794,0,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2025-11-25T03:37:00+00:00,Guinea,0.6924345175783345,0,2,fr,WAF,Africa
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.6888609089708368,0,2,fr,CAF,Africa
@@ -30,6 +32,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2025-12-14T03:49:00+00:00,Belgium,0.6695760557844519,0,2,fr,WCE,Europe
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.669511262526418,0,2,fr,NEN,North-America
 '793f00879f',extremes,Snow&Ice,#d60d2b,wmo,"comté de Kings glacial, Île-du-Prince-Édouard",2025-12-03T03:40:00+00:00,Canada,0.669172696817012,0,2,fr,NEN,North-America
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
+'2087442b23',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau des neiges,2025-12-02T03:41:00+00:00,Canada,0.6684646900460942,0,2,fr,NEN,North-America
+'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2025-12-14T03:49:00+00:00,Belgium,0.6676967856353587,0,2,fr,WCE,Europe
+'26ebc0acee',extremes,Tsunami,#690191,usgs,tsunami au Canada,2025-12-11T03:46:00+00:00,Canada,0.6673603850927082,0,2,fr,NWN,North-America
+'0d3bd066d2',extremes,Storm,#b3b2b1,wmo,tempête dempster,2025-12-05T03:41:00+00:00,Canada,0.6673025051794581,0,2,fr,NEN,North-America
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.667248587088328,0,2,fr,NEN,North-America
+'8df29b72f3',extremes,Storm,#b3b2b1,wmo,tempête cartwright à chatouillement noir,2025-12-02T03:41:00+00:00,Canada,0.6670473335393335,0,2,fr,NEN,North-America
+'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2025-12-01T04:02:00+00:00,Benin,0.6664991498386751,0,2,fr,WAF,Africa
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.6536379909336488,1,1,fr,CAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.6433043103407844,1,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
