@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.7532768738545527,0,2,fr,MDG,Africa
+'3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.7104032505228705,0,2,fr,SEAF,Africa
+'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.6946895407182794,0,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2025-11-25T03:37:00+00:00,Guinea,0.6924345175783345,0,2,fr,WAF,Africa
 '56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.6857248387794915,0,2,fr,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6841856160537467,0,2,fr,WAF,Africa
@@ -28,6 +31,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.667248587088328,0,2,fr,NEN,North-America
 '8df29b72f3',extremes,Storm,#b3b2b1,wmo,tempête cartwright à chatouillement noir,2025-12-02T03:41:00+00:00,Canada,0.6670473335393335,0,2,fr,NEN,North-America
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2025-12-01T04:02:00+00:00,Benin,0.6664991498386751,0,2,fr,WAF,Africa
+'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2025-12-14T03:49:00+00:00,Belgium,0.6659393581280781,0,2,fr,WCE,Europe
+'8b3ab7ac69',extremes,Snow&Ice,#d60d2b,wmo,gel dans la partie supérieure du lac Melville et de la rivière Eagle,2025-12-05T03:41:00+00:00,Canada,0.6658769632572703,0,2,fr,NEN,North-America
+'341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.6656614223820665,0,2,fr,NEN,North-America
+'794967b95a',extremes,Storm,#b3b2b1,wmo,tempête comté de Kings Î.-P.-É.,2025-12-05T03:41:00+00:00,Canada,0.6655346595369206,0,2,fr,NEN,North-America
+'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2025-11-28T03:34:00+00:00,Togo,0.6654217587662888,0,2,fr,WAF,Africa
+'90fce750f8',extremes,Fog,#d60d2b,wmo,brouillard hainaut,2025-12-14T03:49:00+00:00,Belgium,0.6647924105090377,0,2,fr,WCE,Europe
+'3d34176d28',extremes,Snow&Ice,#d60d2b,wmo,neige williston,2025-12-09T03:41:00+00:00,Canada,0.663711285835111,0,2,fr,NEN,North-America
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.6536379909336488,1,1,fr,CAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.6433043103407844,1,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
