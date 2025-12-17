@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2025-12-13T03:38:00+00:00,Senegal,0.6743580421394176,0,2,fr,WAF,Africa
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-11-25T03:37:00+00:00,Canada,0.6741965265585024,0,2,fr,NEN,North-America
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.6708529802169272,0,2,fr,WCE,Europe
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.6704313563115774,0,2,fr,NEN,North-America
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-11-27T03:34:00+00:00,Canada,0.6697722633995492,0,2,fr,NEN,North-America
@@ -69,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2025-11-26T03:37:00+00:00,Madagascar,0.5758752854890533,1,1,fr,MDG,Africa
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche canada,2025-12-10T03:45:00+00:00,Canada,0.5758738554460685,1,1,fr,NEN,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.5752115678044684,1,1,fr,NEN,North-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-11-25T03:37:00+00:00,Canada,0.5750172425747271,1,2,fr,NEN,North-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.5717944976824124,1,1,fr,WAF,Africa
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,grêle aux Seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.571159250238755,1,1,fr,EIO,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-08T03:45:00+00:00,Belgium,0.5706130618238399,1,1,fr,WCE,Europe
