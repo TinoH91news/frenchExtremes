@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
 '72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2025-12-18T03:44:00+00:00,France,0.7255830386718205,0,2,fr,WCE,Europe
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2025-12-03T03:40:00+00:00,Mayotte,0.6691275482854211,0,2,fr,MDG,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
