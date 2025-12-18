@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2025-12-18T03:44:00+00:00,France,0.7255830386718205,0,2,fr,WCE,Europe
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2025-12-03T03:40:00+00:00,Mayotte,0.6691275482854211,0,2,fr,MDG,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
+'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2025-12-14T03:49:00+00:00,Belgium,0.6676967856353587,0,2,fr,WCE,Europe
 '0d3bd066d2',extremes,Storm,#b3b2b1,wmo,tempête dempster,2025-12-05T03:41:00+00:00,Canada,0.6673025051794581,0,2,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.667248587088328,0,2,fr,NEN,North-America
 '8df29b72f3',extremes,Storm,#b3b2b1,wmo,tempête cartwright à chatouillement noir,2025-12-02T03:41:00+00:00,Canada,0.6670473335393335,0,2,fr,NEN,North-America
@@ -26,7 +29,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.6592552873256454,0,2,fr,MED,Africa
 'e1cb5d77a6',extremes,Snow&Ice,#d60d2b,wmo,givre,2025-12-05T03:41:00+00:00,Canada,0.6586104372017996,0,2,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.6582523673992253,0,2,fr,NEN,North-America
+'04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.6581070389688046,0,2,fr,SIO,Africa
+'3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6570207973042665,0,2,fr,CAF,Africa
+'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2025-12-14T03:49:00+00:00,Belgium,0.6568975287117141,0,2,fr,WCE,Europe
+'1a8044e375',extremes,Snow&Ice,#d60d2b,wmo,avalanche nord de la péninsule est,2025-12-05T03:41:00+00:00,Canada,0.6566832477127289,0,2,fr,NEN,North-America
+'1ec1c3318b',extremes,Snow&Ice,#d60d2b,wmo,givre chilcotin,2025-12-13T03:38:00+00:00,Canada,0.656369700385383,0,2,fr,NEN,North-America
+'86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.6554651452730658,0,2,fr,ENA,North-America
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.6536379909336488,1,1,fr,CAF,Africa
+'196e63017c',extremes,Snow&Ice,#d60d2b,wmo,"glace supérieure du lac Melville, rivière Eagle",2025-12-12T03:45:00+00:00,Canada,0.6525159605878181,0,2,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.6433043103407844,1,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.642262899369248,1,1,fr,CAF,Africa
