@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.659691840930629,0,2,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.6592552873256454,0,2,fr,MED,Africa
 'e1cb5d77a6',extremes,Snow&Ice,#d60d2b,wmo,givre,2025-12-05T03:41:00+00:00,Canada,0.6586104372017996,0,2,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.6582523673992253,0,2,fr,NEN,North-America
@@ -18,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56a85f18c1',extremes,Storm,#b3b2b1,wmo,jars tempête et environs,2025-12-15T03:54:00+00:00,Canada,0.644195271491159,0,2,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.6433043103407844,1,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.6431691427621431,1,1,fr,WAF,Africa
-'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.642262899369248,1,1,fr,CAF,Africa
 '310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,glace teslin atlin,2025-12-06T03:32:00+00:00,Canada,0.6421654533719041,0,2,fr,NEN,North-America
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,zone côtière d'onde de tempête,2025-12-15T03:54:00+00:00,Belgium,0.6407697309985176,0,2,fr,WCE,Europe
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.6405584082037067,1,1,fr,MDG,Africa
@@ -115,6 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '686d605ab5',extremes,Storm,#b3b2b1,wmo,tempête connaigre,2025-12-09T03:41:00+00:00,Canada,0.5527308836935885,1,1,fr,NEN,North-America
 '6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2025-12-05T03:41:00+00:00,Saint Pierre and Miquelon,0.5527062533528663,1,1,fr,ENA,North-America
 'bb52dc77ba',extremes,Snow&Ice,#d60d2b,wmo,parc gelé Yoho parc Kootenay,2025-12-09T03:41:00+00:00,Canada,0.5516233770056095,1,1,fr,NEN,North-America
+'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.5462234944638608,2,1,fr,CAF,Africa
 'c613234021',extremes,Storm,#b3b2b1,wmo,tempête haïda gwaii,2025-12-09T03:41:00+00:00,Canada,0.5433250042192876,1,1,fr,NEN,North-America
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-11-24T03:46:00+00:00,Republic of the Congo,0.5223479141589988,2,2,fr,CAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-11-27T03:34:00+00:00,Canada,0.4928977012995854,2,1,fr,NEN,North-America
