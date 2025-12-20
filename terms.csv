@@ -101,7 +101,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.5658122090247565,1,1,fr,NEN,North-America
 'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2025-11-28T03:34:00+00:00,Togo,0.5656084949513455,1,1,fr,WAF,Africa
 '6c431d7467',extremes,Storm,#b3b2b1,wmo,nuage d'orage baie Dorion,2025-11-27T03:34:00+00:00,Canada,0.5638927929977613,1,1,fr,NEN,North-America
-'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2025-12-14T03:49:00+00:00,Belgium,0.563163379404957,1,2,fr,WCE,Europe
 '84235d43f3',extremes,Snow&Ice,#d60d2b,wmo,avalanche dempster,2025-12-02T03:41:00+00:00,Canada,0.5630342840337761,1,1,fr,NEN,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2025-12-10T03:45:00+00:00,Canada,0.5622626194234128,1,1,fr,NEN,North-America
 '632d096d56',extremes,Storm,#b3b2b1,wmo,tempête postville makkovik,2025-12-06T03:32:00+00:00,Canada,0.56134706130365,1,1,fr,NEN,North-America
@@ -113,3 +112,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-11-24T03:46:00+00:00,Republic of the Congo,0.5223479141589988,2,2,fr,CAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-11-27T03:34:00+00:00,Canada,0.4928977012995854,2,1,fr,NEN,North-America
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-11-27T03:34:00+00:00,Canada,0.4839104603061743,2,1,fr,NEN,North-America
+'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2025-12-14T03:49:00+00:00,Belgium,0.4831893224942134,2,2,fr,WCE,Europe
