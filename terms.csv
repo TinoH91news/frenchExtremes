@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'41225e527b',extremes,Drought,#edc291,edo,période sèche en Polynésie française,2025-12-16T03:47:00+00:00,French Polynesia,0.661250156954332,0,2,fr,SPO,Pacific Ocean
+'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.659691840930629,0,2,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.6592552873256454,0,2,fr,MED,Africa
 'e1cb5d77a6',extremes,Snow&Ice,#d60d2b,wmo,givre,2025-12-05T03:41:00+00:00,Canada,0.6586104372017996,0,2,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.6582523673992253,0,2,fr,NEN,North-America
@@ -34,12 +37,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33dcf78201',extremes,Storm,#b3b2b1,wmo,onde de tempête à Jars et environs,2025-12-16T03:47:00+00:00,Canada,0.6356332353162554,0,2,fr,NEN,North-America
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-11T03:46:00+00:00,Ivory Coast,0.6355422477815272,0,2,fr,WAF,Africa
 '7cb33ecf6e',extremes,Snow&Ice,#d60d2b,wmo,gel isère haute savoie,2025-12-03T03:40:00+00:00,France,0.6346515449279647,0,2,fr,WCE,Europe
+'47c5e9f35a',extremes,Storm,#b3b2b1,wmo,tempête manche côtes d'armor finistère,2025-12-06T03:32:00+00:00,France,0.634260795701128,0,2,fr,WCE,Europe
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.6339002697409797,1,1,fr,ENA,North-America
+'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,"cheval blanc des neiges, teslin",2025-12-06T03:32:00+00:00,Canada,0.6331398772324188,0,2,fr,NEN,North-America
 '321831245f',extremes,Earthquake,#870007,usgs,tremblement de terre kabare,2025-11-25T03:36:00+00:00,Democratic Republic of the Congo,0.6318811592709038,1,1,fr,SEAF,Africa
+'34b8c4045f',extremes,Snow&Ice,#d60d2b,wmo,la Savoie glaciale,2025-12-19T03:46:00+00:00,France,0.6318269545292889,0,2,fr,WCE,Europe
+'04485005cb',extremes,Snow&Ice,#d60d2b,wmo,"tuktoyaktuk de glace, région du chenal est",2025-12-13T03:38:00+00:00,Canada,0.63106691062868,0,2,fr,NEN,North-America
 '78579a4edc',extremes,Flood,#030ba1,wmo,crue jura rhône saône et loire doubs,2025-11-28T03:34:00+00:00,France,0.6307293779084239,1,1,fr,WCE,Europe
+'060f7f7a38',extremes,Snow&Ice,#d60d2b,wmo,avalanche paulatuk,2025-12-13T03:38:00+00:00,Canada,0.630064139062927,0,2,fr,NEN,North-America
+'ac221e850d',extremes,Volcano,#b83202,eonet,"volcan Nyamulagira, RD Congo",2025-12-13T03:37:00+00:00,Democratic Republic of the Congo,0.6288517966470699,0,2,fr,SEAF,Africa
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.6278752151429767,1,1,fr,WCE,Europe
 '9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.6274202699851882,1,2,fr,WCE,Europe
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-11-23T03:46:00+00:00,New Caledonia,0.625995878637927,1,1,fr,SPO,Pacific Ocean
+'72d86f00f6',extremes,Storm,#b3b2b1,wmo,onde de tempête dans le Grand Victoria,2025-12-09T03:41:00+00:00,Canada,0.6257276750155976,0,2,fr,NEN,North-America
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2025-12-16T03:47:00+00:00,Gabon,0.6246935263748512,1,1,fr,CAF,Africa
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.6234974662984197,1,1,fr,CAF,Africa
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2025-12-07T03:47:00+00:00,Democratic Republic of the Congo,0.6210422838600131,1,1,fr,CAF,Africa
