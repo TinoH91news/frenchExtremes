@@ -1,10 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.6582523673992253,0,2,fr,NEN,North-America
-'04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.6581070389688046,0,2,fr,SIO,Africa
 '3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6570207973042665,0,2,fr,CAF,Africa
 '1a8044e375',extremes,Snow&Ice,#d60d2b,wmo,avalanche nord de la péninsule est,2025-12-05T03:41:00+00:00,Canada,0.6566832477127289,0,2,fr,NEN,North-America
 '1ec1c3318b',extremes,Snow&Ice,#d60d2b,wmo,givre chilcotin,2025-12-13T03:38:00+00:00,Canada,0.656369700385383,0,2,fr,NEN,North-America
-'196e63017c',extremes,Snow&Ice,#d60d2b,wmo,"glace supérieure du lac Melville, rivière Eagle",2025-12-12T03:45:00+00:00,Canada,0.6525159605878181,0,2,fr,NEN,North-America
 'e35102c4e9',extremes,Storm,#b3b2b1,wmo,tempête sur la péninsule de Bonavista,2025-12-06T03:32:00+00:00,Canada,0.6519393869946873,0,2,fr,NEN,North-America
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2025-12-14T03:49:00+00:00,Canada,0.6514881764830138,0,2,fr,NEN,North-America
 '28c2dc753f',extremes,Precipitation,#d60d2b,wmo,averse comté de Shelburne comté de Yarmouth,2025-12-02T03:41:00+00:00,Canada,0.6499284861489248,0,2,fr,NEN,North-America
@@ -117,6 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2025-12-08T03:44:00+00:00,Canada,0.56092143253427,1,1,fr,NEN,North-America
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.5607380647910347,1,1,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.5603669942267986,1,1,fr,MED,Africa
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.5595145122893415,1,1,fr,NEN,North-America
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.5571453734821059,1,1,fr,ENA,North-America
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.5555922922936015,2,1,fr,CAF,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
