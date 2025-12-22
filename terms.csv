@@ -1,12 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,glace teslin atlin,2025-12-06T03:32:00+00:00,Canada,0.6421654533719041,0,2,fr,NEN,North-America
-'a4a0219171',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau de Frost Dempster,2025-12-13T03:38:00+00:00,Canada,0.6404497541695706,0,2,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.637963224126735,1,2,fr,WCE,Europe
 '485794e3d4',extremes,Earthquake,#870007,usgs,tremblement de terre au Canada,2025-12-08T03:44:00+00:00,Canada,0.6372158633212819,1,2,fr,NWN,North-America
-'54898bb95f',extremes,Storm,#b3b2b1,wmo,onde de tempête baie verte baie blanche,2025-12-16T03:47:00+00:00,Canada,0.6370086038475932,0,2,fr,NEN,North-America
-'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2025-12-10T03:45:00+00:00,Canada,0.6366716599106973,0,2,fr,NEN,North-America
-'3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.636137869965977,1,1,fr,CAF,Africa
-'33dcf78201',extremes,Storm,#b3b2b1,wmo,onde de tempête à Jars et environs,2025-12-16T03:47:00+00:00,Canada,0.6356332353162554,0,2,fr,NEN,North-America
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.6339002697409797,1,1,fr,ENA,North-America
 'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,"cheval blanc des neiges, teslin",2025-12-06T03:32:00+00:00,Canada,0.6331398772324188,0,2,fr,NEN,North-America
 '34b8c4045f',extremes,Snow&Ice,#d60d2b,wmo,la Savoie glaciale,2025-12-19T03:46:00+00:00,France,0.6318269545292889,0,2,fr,WCE,Europe
@@ -14,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78579a4edc',extremes,Flood,#030ba1,wmo,crue jura rhône saône et loire doubs,2025-11-28T03:34:00+00:00,France,0.6307293779084239,1,1,fr,WCE,Europe
 'ac221e850d',extremes,Volcano,#b83202,eonet,"volcan Nyamulagira, RD Congo",2025-12-13T03:37:00+00:00,Democratic Republic of the Congo,0.6288517966470699,0,2,fr,SEAF,Africa
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.6278752151429767,1,1,fr,WCE,Europe
-'9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.6274202699851882,1,2,fr,WCE,Europe
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-11-23T03:46:00+00:00,New Caledonia,0.625995878637927,1,1,fr,SPO,Pacific Ocean
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2025-12-16T03:47:00+00:00,Gabon,0.6246935263748512,1,1,fr,CAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2025-12-15T03:54:00+00:00,France,0.624051995435013,0,2,fr,WCE,Europe
@@ -94,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41225e527b',extremes,Drought,#edc291,edo,période sèche en Polynésie française,2025-12-16T03:47:00+00:00,French Polynesia,0.5620626334111821,1,1,fr,SPO,Pacific Ocean
 '6828fb94e4',extremes,Snow&Ice,#d60d2b,wmo,"comté de Ice Kings, Î.-P.-É.",2025-12-05T03:41:00+00:00,Canada,0.5614748382793125,1,1,fr,NEN,North-America
 '632d096d56',extremes,Storm,#b3b2b1,wmo,tempête postville makkovik,2025-12-06T03:32:00+00:00,Canada,0.56134706130365,1,1,fr,NEN,North-America
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2025-12-10T03:45:00+00:00,Canada,0.5611210309240926,1,2,fr,NEN,North-America
 'e987630880',extremes,Storm,#b3b2b1,wmo,"onde de tempête autoroute 97, col des pins",2025-12-09T03:41:00+00:00,Canada,0.561047965177533,1,1,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.5608506528805759,2,2,fr,WCE,Europe
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.5607380647910347,1,1,fr,NEN,North-America
@@ -121,16 +115,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-11-25T03:37:00+00:00,Republic of the Congo,0.5462234944638608,2,1,fr,CAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.5447746769731506,2,1,fr,MDG,Africa
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,zone côtière d'onde de tempête,2025-12-15T03:54:00+00:00,Belgium,0.54465427134874,1,1,fr,WCE,Europe
+'a4a0219171',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau de Frost Dempster,2025-12-13T03:38:00+00:00,Canada,0.544382291044135,1,1,fr,NEN,North-America
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.5442425413599142,2,1,fr,MDG,Africa
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,dempster glacial,2025-12-06T03:32:00+00:00,Canada,0.5434801420870355,1,1,fr,NEN,North-America
 'c613234021',extremes,Storm,#b3b2b1,wmo,tempête haïda gwaii,2025-12-09T03:41:00+00:00,Canada,0.5433250042192876,1,1,fr,NEN,North-America
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.5430635946180788,2,1,fr,MDG,Africa
 '83bfa36f5c',extremes,Fog,#d60d2b,wmo,brouillard chesterfield inlet,2025-12-06T03:32:00+00:00,Canada,0.5428374913551853,1,1,fr,NEN,North-America
+'54898bb95f',extremes,Storm,#b3b2b1,wmo,onde de tempête baie verte baie blanche,2025-12-16T03:47:00+00:00,Canada,0.5414573132704542,1,1,fr,NEN,North-America
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2025-12-09T03:41:00+00:00,Mayotte,0.5408977086838125,1,1,fr,MDG,Africa
+'3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.5407171894710804,2,1,fr,CAF,Africa
+'33dcf78201',extremes,Storm,#b3b2b1,wmo,onde de tempête à Jars et environs,2025-12-16T03:47:00+00:00,Canada,0.5402882500188171,1,1,fr,NEN,North-America
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-11T03:46:00+00:00,Ivory Coast,0.5402109106142982,1,1,fr,WAF,Africa
 '47c5e9f35a',extremes,Storm,#b3b2b1,wmo,tempête manche côtes d'armor finistère,2025-12-06T03:32:00+00:00,France,0.5391216763459589,1,1,fr,WCE,Europe
 '321831245f',extremes,Earthquake,#870007,usgs,tremblement de terre kabare,2025-11-25T03:36:00+00:00,Democratic Republic of the Congo,0.5370989853802682,2,1,fr,SEAF,Africa
 '060f7f7a38',extremes,Snow&Ice,#d60d2b,wmo,avalanche paulatuk,2025-12-13T03:38:00+00:00,Canada,0.535554518203488,1,1,fr,NEN,North-America
+'9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.5333072744874099,2,1,fr,WCE,Europe
 '72d86f00f6',extremes,Storm,#b3b2b1,wmo,onde de tempête dans le Grand Victoria,2025-12-09T03:41:00+00:00,Canada,0.5318685237632579,1,1,fr,NEN,North-America
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2025-11-23T03:46:00+00:00,France,0.5307099264249084,2,2,fr,WCE,Europe
 '5ea67ea4a7',extremes,Drought,#edc291,edo,sécheresse trinité et tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.5305933756619847,1,1,fr,NSA,North-America
