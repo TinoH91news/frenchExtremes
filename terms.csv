@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27f7e80d5a',extremes,Snow&Ice,#d60d2b,wmo,gel matane,2025-12-12T03:45:00+00:00,Canada,0.6148778436032325,0,2,fr,NEN,North-America
 '8020995846',extremes,Storm,#b3b2b1,wmo,onde de tempête alpes maritimes haute corse,2025-12-16T03:47:00+00:00,France,0.6134394220329964,0,2,fr,WCE,Europe
 'ea3bf4d8a0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-12T03:45:00+00:00,France,0.6113604157662627,1,2,fr,WCE,Europe
-'bf631416e9',extremes,Flood,#030ba1,wmo,crue du gard hérault,2025-12-19T03:46:00+00:00,France,0.6107496589862,1,1,fr,WCE,Europe
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.6049473805807186,1,2,fr,WCE,Europe
 '3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6039927779444398,1,2,fr,SEAF,Africa
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-16T03:47:00+00:00,Central African Republic,0.60029133263581,1,1,fr,CAF,Africa
@@ -144,11 +143,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4677f8ea9f',extremes,Snow&Ice,#d60d2b,wmo,neige métro de Sydney et comté du Cap-Breton,2025-12-16T03:47:00+00:00,Canada,0.5273884362339828,1,1,fr,NEN,North-America
 '3d1606b5f1',extremes,Storm,#b3b2b1,wmo,tempête nord de la péninsule est,2025-12-15T03:54:00+00:00,Canada,0.5267193642505235,1,1,fr,NEN,North-America
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-11-24T03:46:00+00:00,Republic of the Congo,0.5223479141589988,2,2,fr,CAF,Africa
+'bf631416e9',extremes,Flood,#030ba1,wmo,crue du gard hérault,2025-12-19T03:46:00+00:00,France,0.51928722513827,2,1,fr,WCE,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-11-27T03:34:00+00:00,Canada,0.4928977012995854,2,1,fr,NEN,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-11-25T03:37:00+00:00,Canada,0.490564836188518,2,2,fr,NEN,North-America
-'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche canada,2025-12-10T03:45:00+00:00,Canada,0.4894927771291582,2,1,fr,NEN,North-America
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de givre,2025-12-03T03:40:00+00:00,Canada,0.4845194032452428,2,1,fr,NEN,North-America
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-11-27T03:34:00+00:00,Canada,0.4839104603061743,2,1,fr,NEN,North-America
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2025-12-14T03:49:00+00:00,Belgium,0.4831893224942134,2,2,fr,WCE,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2025-12-08T03:44:00+00:00,Canada,0.4767832176541294,2,1,fr,NEN,North-America
 '6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2025-12-05T03:41:00+00:00,Saint Pierre and Miquelon,0.4698003153499363,2,1,fr,ENA,North-America
+'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche canada,2025-12-10T03:45:00+00:00,Canada,0.4160688605597844,3,1,fr,NEN,North-America
