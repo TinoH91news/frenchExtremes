@@ -1,6 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2025-12-14T03:49:00+00:00,Canada,0.6514881764830138,0,2,fr,NEN,North-America
+'310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,glace teslin atlin,2025-12-06T03:32:00+00:00,Canada,0.6421654533719041,0,2,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.637963224126735,1,2,fr,WCE,Europe
 '485794e3d4',extremes,Earthquake,#870007,usgs,tremblement de terre au Canada,2025-12-08T03:44:00+00:00,Canada,0.6372158633212819,1,2,fr,NWN,North-America
+'7cb33ecf6e',extremes,Snow&Ice,#d60d2b,wmo,gel isère haute savoie,2025-12-03T03:40:00+00:00,France,0.6346515449279647,0,2,fr,WCE,Europe
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.6339002697409797,1,1,fr,ENA,North-America
 'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,"cheval blanc des neiges, teslin",2025-12-06T03:32:00+00:00,Canada,0.6331398772324188,0,2,fr,NEN,North-America
 '34b8c4045f',extremes,Snow&Ice,#d60d2b,wmo,la Savoie glaciale,2025-12-19T03:46:00+00:00,France,0.6318269545292889,0,2,fr,WCE,Europe
@@ -28,7 +32,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86204c06c7',extremes,Snow&Ice,#d60d2b,wmo,"autoroute des avalanches 97, col des pins",2025-12-07T03:47:00+00:00,Canada,0.620456380266195,0,2,fr,NEN,North-America
 '3d1606b5f1',extremes,Storm,#b3b2b1,wmo,tempête nord de la péninsule est,2025-12-15T03:54:00+00:00,Canada,0.6196698226476747,0,2,fr,NEN,North-America
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.6192582068326695,0,2,fr,WCE,Europe
+'fa63ae1788',extremes,Precipitation,#d60d2b,wmo,pluie comté de Shelburne comté de Yarmouth,2025-12-03T03:40:00+00:00,Canada,0.6189928689263967,0,2,fr,NEN,North-America
+'80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-09T03:41:00+00:00,Belgium,0.6181027998528099,0,2,fr,WCE,Europe
+'cf6843b4bb',extremes,Snow&Ice,#d60d2b,wmo,kugluktuk gelé,2025-12-19T03:46:00+00:00,Canada,0.6172744578797332,0,2,fr,NEN,North-America
 '72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2025-12-18T03:44:00+00:00,France,0.6167455828710474,1,1,fr,WCE,Europe
+'2339e9819f',extremes,Snow&Ice,#d60d2b,wmo,glace williston,2025-12-10T03:45:00+00:00,Canada,0.6149934164528641,0,2,fr,NEN,North-America
+'27f7e80d5a',extremes,Snow&Ice,#d60d2b,wmo,gel matane,2025-12-12T03:45:00+00:00,Canada,0.6148778436032325,0,2,fr,NEN,North-America
+'8020995846',extremes,Storm,#b3b2b1,wmo,onde de tempête alpes maritimes haute corse,2025-12-16T03:47:00+00:00,France,0.6134394220329964,0,2,fr,WCE,Europe
 'ea3bf4d8a0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-12T03:45:00+00:00,France,0.6113604157662627,1,2,fr,WCE,Europe
 'bf631416e9',extremes,Flood,#030ba1,wmo,crue du gard hérault,2025-12-19T03:46:00+00:00,France,0.6107496589862,1,1,fr,WCE,Europe
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.6049473805807186,1,2,fr,WCE,Europe
