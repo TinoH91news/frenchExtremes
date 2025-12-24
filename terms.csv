@@ -1,12 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.6888609089708368,0,2,fr,CAF,Africa
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-11-23T03:46:00+00:00,New Caledonia,0.625995878637927,1,1,fr,SPO,Pacific Ocean
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2025-12-16T03:47:00+00:00,Gabon,0.6246935263748512,1,1,fr,CAF,Africa
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,brouillard Flandre orientale,2025-12-14T03:49:00+00:00,Belgium,0.6223549120812191,0,2,fr,WCE,Europe
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,onde de tempête îles de la madeleine,2025-12-15T03:54:00+00:00,Canada,0.6216910517787201,0,2,fr,NEN,North-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-09T03:41:00+00:00,Belgium,0.6181027998528099,0,2,fr,WCE,Europe
 'cf6843b4bb',extremes,Snow&Ice,#d60d2b,wmo,kugluktuk gelé,2025-12-19T03:46:00+00:00,Canada,0.6172744578797332,0,2,fr,NEN,North-America
 '72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2025-12-18T03:44:00+00:00,France,0.6167455828710474,1,1,fr,WCE,Europe
 '2339e9819f',extremes,Snow&Ice,#d60d2b,wmo,glace williston,2025-12-10T03:45:00+00:00,Canada,0.6149934164528641,0,2,fr,NEN,North-America
 '27f7e80d5a',extremes,Snow&Ice,#d60d2b,wmo,gel matane,2025-12-12T03:45:00+00:00,Canada,0.6148778436032325,0,2,fr,NEN,North-America
+'8020995846',extremes,Storm,#b3b2b1,wmo,onde de tempête alpes maritimes haute corse,2025-12-16T03:47:00+00:00,France,0.6134394220329964,0,2,fr,WCE,Europe
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk gelé,2025-12-12T03:45:00+00:00,Canada,0.6126590610112498,0,2,fr,NEN,North-America
 'ea3bf4d8a0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-12T03:45:00+00:00,France,0.6113604157662627,1,2,fr,WCE,Europe
 'b764ce0db1',extremes,Drought,#edc291,edo,sécheresse aux Seychelles,2025-11-30T03:47:00+00:00,Seychelles,0.6113434395107179,0,2,fr,EIO,Indian Ocean
@@ -15,7 +19,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2025-12-09T03:41:00+00:00,French Guiana,0.6094645644261294,0,2,fr,NSA,South-America
 'f731c5e8ac',extremes,Thunderstorm,#53785a,wmo,temps violent pas de calais manche,2025-12-06T03:32:00+00:00,France,0.6088859058145907,0,2,fr,WCE,Europe
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempête vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.6085959990098492,0,2,fr,SPO,Oceania
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.6067564702657603,0,2,fr,WCE,Europe
+'57d5873e48',extremes,Storm,#b3b2b1,wmo,onde de tempête nain et environs,2025-12-19T03:46:00+00:00,Canada,0.6064881975476445,0,2,fr,NEN,North-America
+'9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2025-12-10T03:45:00+00:00,Belgium,0.6059733066890544,0,2,fr,WCE,Europe
+'f56fd59374',extremes,Storm,#b3b2b1,wmo,tempête région d'Aklavik région d'Inuvik,2025-12-12T03:45:00+00:00,Canada,0.6057958237294728,0,2,fr,NEN,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2025-11-23T03:46:00+00:00,France,0.6049473805807186,1,2,fr,WCE,Europe
+'8c42c723c8',extremes,Snow&Ice,#d60d2b,wmo,gel dans la région du chenal est de tuktoyaktuk,2025-12-19T03:46:00+00:00,Canada,0.6048073317844849,0,2,fr,NEN,North-America
+'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2025-12-12T03:45:00+00:00,New Caledonia,0.604352749519961,0,2,fr,SPO,Pacific Ocean
 '3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6039927779444398,1,2,fr,SEAF,Africa
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-16T03:47:00+00:00,Central African Republic,0.60029133263581,1,1,fr,CAF,Africa
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2025-11-29T03:34:00+00:00,French Guiana,0.5988416091278079,1,1,fr,NSA,South-America
