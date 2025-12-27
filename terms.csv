@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2025-12-08T03:44:00+00:00,Wallis and Futuna,0.5893887276273809,1,1,fr,SPO,Pacific Ocean
 'fa6c237b07',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie haute savoie,2025-12-15T03:54:00+00:00,France,0.5893461061806443,1,1,fr,WCE,Europe
 '17ba0be079',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie,2025-12-18T03:44:00+00:00,France,0.5891538203295916,1,1,fr,WCE,Europe
-'89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.5887488687854694,0,2,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2025-12-04T03:42:00+00:00,Saint Martin,0.5879319080795969,1,1,fr,CAR,North-America
 'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2025-12-08T03:44:00+00:00,Guadeloupe,0.587345668063519,0,2,fr,NAO,Atlantic Ocean
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.5865751651933383,1,2,fr,WCE,Europe
