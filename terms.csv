@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6039927779444398,1,2,fr,SEAF,Africa
 '5d5feeb7da',extremes,Drought,#edc291,edo,sécheresse comores,2025-12-08T03:45:00+00:00,Comoros,0.601644835116144,1,1,fr,ESAF,Africa
 'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2025-12-07T03:47:00+00:00,Saint Pierre and Miquelon,0.6013150027124113,2,1,fr,ENA,North-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,onde de tempête vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.600158313997574,1,1,fr,SPO,Oceania
@@ -7,10 +6,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2025-11-29T03:34:00+00:00,French Guiana,0.5988416091278079,2,1,fr,NSA,South-America
 'a186f732f1',extremes,Snow&Ice,#d60d2b,wmo,région glaciale du chenal est de tuktoyaktuk,2025-12-14T03:49:00+00:00,Canada,0.5981985873680083,1,1,fr,NEN,North-America
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.5980602374681836,2,1,fr,CAF,Africa
-'94a580db01',extremes,Snow&Ice,#d60d2b,wmo,gel fermont,2025-12-19T03:46:00+00:00,Canada,0.596360210130507,2,1,fr,NEN,North-America
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,brouillard italie,2025-12-08T03:44:00+00:00,Italy,0.593477453249207,1,1,fr,MED,Europe
 'a18b16cacb',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles dans la vallée de Skagit,2025-12-11T03:46:00+00:00,Canada,0.5918267283293627,1,1,fr,NEN,North-America
-'91ba4b4be9',extremes,Storm,#b3b2b1,wmo,tempête vaucluse var bouches du rhône,2025-12-16T03:47:00+00:00,France,0.5917998941020933,1,1,fr,WCE,Europe
 '0b5987a8ca',extremes,Storm,#b3b2b1,wmo,"tempête vallée du fraser est, y compris Hope",2025-12-16T03:47:00+00:00,Canada,0.5913122000614304,1,1,fr,NEN,North-America
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,3,1,fr,WCE,Europe
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2025-12-11T03:46:00+00:00,Cameroon,0.5898973138674561,1,1,fr,CAF,Africa
@@ -19,9 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa6c237b07',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie haute savoie,2025-12-15T03:54:00+00:00,France,0.5893461061806443,1,1,fr,WCE,Europe
 '17ba0be079',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie,2025-12-18T03:44:00+00:00,France,0.5891538203295916,1,1,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2025-12-04T03:42:00+00:00,Saint Martin,0.5879319080795969,1,1,fr,CAR,North-America
-'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2025-12-08T03:44:00+00:00,Guadeloupe,0.587345668063519,0,2,fr,NAO,Atlantic Ocean
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.5865751651933383,1,2,fr,WCE,Europe
-'1224f72b5f',extremes,Snow&Ice,#d60d2b,wmo,neige blanc sablon,2025-12-15T03:54:00+00:00,Canada,0.5855427369308155,0,2,fr,NEN,North-America
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.5855317726252113,2,1,fr,CAF,Africa
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2025-12-02T03:41:00+00:00,New Caledonia,0.5841216519568491,1,1,fr,SPO,Oceania
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2025-12-06T03:32:00+00:00,Ivory Coast,0.583555879243065,0,2,fr,WAF,Africa
@@ -36,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.5751788581843881,2,2,fr,WCE,Europe
 '8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2025-12-10T03:45:00+00:00,Saint Martin,0.5749090178893108,0,2,fr,CAR,North-America
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,onde de tempête gersau engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.5748387035760008,0,2,fr,WCE,Europe
-'94a1a6a4f3',extremes,Thunderstorm,#53785a,wmo,orage province de torba,2025-12-12T03:45:00+00:00,Vanuatu,0.5747475466507272,0,2,fr,SPO,Oceania
 '2b20a18bcb',extremes,Drought,#edc291,edo,période sèche au maroc,2025-12-16T03:47:00+00:00,Morocco,0.5746338528549032,0,2,fr,MED,Africa
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,givre gatineau,2025-12-11T03:46:00+00:00,Canada,0.5741298658756692,0,2,fr,NEN,North-America
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,onde de tempête Meiringen Gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.5733115111572379,0,2,fr,WCE,Europe
@@ -164,6 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f56fd59374',extremes,Storm,#b3b2b1,wmo,tempête région d'Aklavik région d'Inuvik,2025-12-12T03:45:00+00:00,Canada,0.5149264501700519,1,1,fr,NEN,North-America
 '8c42c723c8',extremes,Snow&Ice,#d60d2b,wmo,gel dans la région du chenal est de tuktoyaktuk,2025-12-19T03:46:00+00:00,Canada,0.5140862320168121,2,1,fr,NEN,North-America
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2025-12-12T03:45:00+00:00,New Caledonia,0.5136998370919669,2,1,fr,SPO,Pacific Ocean
+'3705bf124e',extremes,Earthquake,#870007,usgs,tremblement de terre république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.5135438762527739,2,2,fr,SEAF,Africa
 '4640f8164f',extremes,Storm,#b3b2b1,wmo,onde de tempête pyrénées atlantiques landes,2025-12-12T03:45:00+00:00,France,0.5134841161271156,1,1,fr,WCE,Europe
 'fa97d4c797',extremes,Snow&Ice,#d60d2b,wmo,avalanche williston,2025-12-19T03:46:00+00:00,Canada,0.5134105557213369,1,1,fr,NEN,North-America
 'd3e91f9222',extremes,Snow&Ice,#d60d2b,wmo,parc ice wawa pukaskwa,2025-12-09T03:41:00+00:00,Canada,0.5122923244142973,1,1,fr,NEN,North-America
@@ -174,23 +169,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2025-12-12T03:46:00+00:00,Belgium,0.5090154848573892,1,2,fr,WCE,Europe
 'a5d2510da4',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2025-12-04T03:42:00+00:00,Saint Barthelemy,0.5085991671875034,1,1,fr,CAR,North-America
 'c0b447b81a',extremes,Snow&Ice,#d60d2b,wmo,gel ardèche lozère haute loire,2025-12-04T03:42:00+00:00,France,0.5078069783880408,1,1,fr,WCE,Europe
+'94a580db01',extremes,Snow&Ice,#d60d2b,wmo,gel fermont,2025-12-19T03:46:00+00:00,Canada,0.5069061786109309,3,1,fr,NEN,North-America
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-09T03:41:00+00:00,Madagascar,0.5067132377299315,2,1,fr,MDG,Africa
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2025-12-03T03:40:00+00:00,Martinique,0.5066376353994537,1,2,fr,CAR,North-America
 'cd28fc481a',extremes,Fog,#d60d2b,wmo,brouillard Grèce,2025-12-11T03:46:00+00:00,Greece,0.506333671406779,1,1,fr,MED,Europe
 '8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2025-12-10T03:45:00+00:00,Republic of the Congo,0.504131026533694,2,1,fr,CAF,Africa
+'91ba4b4be9',extremes,Storm,#b3b2b1,wmo,tempête vaucluse var bouches du rhône,2025-12-16T03:47:00+00:00,France,0.5030299099867793,2,1,fr,WCE,Europe
 '5f00dfbaae',extremes,Snow&Ice,#d60d2b,wmo,port de Frost Sachs,2025-12-14T03:49:00+00:00,Canada,0.5017793678460292,1,1,fr,NEN,North-America
 '89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.5004365684676491,1,1,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.4994512975330468,5,1,fr,CAF,Africa
-'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2025-12-12T03:46:00+00:00,French Southern Territories,0.49735210544568936,3,1,fr,SOO,Antarctica
+'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2025-12-08T03:44:00+00:00,Guadeloupe,0.4992438178539911,1,1,fr,NAO,Atlantic Ocean
+'1224f72b5f',extremes,Snow&Ice,#d60d2b,wmo,neige blanc sablon,2025-12-15T03:54:00+00:00,Canada,0.49771132639119314,1,1,fr,NEN,North-America
+'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2025-12-12T03:46:00+00:00,French Southern Territories,0.4973521054456893,3,1,fr,SOO,Antarctica
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.4943375204213169,2,1,fr,NEN,North-America
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.494324107598832,2,1,fr,WAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2025-12-02T03:41:00+00:00,Canada,0.4935085096347287,2,1,fr,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-11-27T03:34:00+00:00,Canada,0.4928977012995854,2,1,fr,NEN,North-America
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2025-12-10T03:45:00+00:00,Madagascar,0.4916344367271731,2,1,fr,MDG,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-11-25T03:37:00+00:00,Canada,0.490564836188518,3,1,fr,NEN,North-America
-'7e40fc6e30',extremes,Drought,#edc291,edo,manque de pluie maurice,2025-12-04T03:42:00+00:00,Mauritius,0.49012170857450393,1,1,fr,SIO,Indian Ocean
+'7e40fc6e30',extremes,Drought,#edc291,edo,manque de pluie maurice,2025-12-04T03:42:00+00:00,Mauritius,0.4901217085745039,1,1,fr,SIO,Indian Ocean
 'a2c72301a8',extremes,Drought,#edc291,edo,sécheresse au Cameroun,2025-12-08T03:45:00+00:00,Cameroon,0.4896559183926637,3,1,fr,CAF,Africa
-'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2025-12-06T03:32:00+00:00,Burkina Faso,0.48952805359047796,4,1,fr,WAF,Africa
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2025-12-06T03:32:00+00:00,Burkina Faso,0.4895280535904779,4,1,fr,WAF,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2025-11-26T03:37:00+00:00,Madagascar,0.4894939926656953,2,1,fr,MDG,Africa
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.4889298326337981,3,1,fr,NEN,North-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.4860253230300505,2,1,fr,WAF,Africa
