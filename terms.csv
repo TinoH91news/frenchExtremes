@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-12-13T03:37:00+00:00,New Caledonia,0.624046092765046,0,2,fr,SPO,Pacific Ocean
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.5977602074681835,2,1,fr,CAF,Africa
 'a18b16cacb',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles dans la vallée de Skagit,2025-12-11T03:46:00+00:00,Canada,0.5918267283293627,1,1,fr,NEN,North-America
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,3,1,fr,WCE,Europe
@@ -13,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2025-12-04T03:42:00+00:00,Canada,0.5769616140871249,2,1,fr,NEN,North-America
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.5751788581843881,3,1,fr,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,onde de tempête gersau engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.5748387035760008,1,1,fr,WCE,Europe
+'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,givre gatineau,2025-12-11T03:46:00+00:00,Canada,0.5741298658756692,0,2,fr,NEN,North-America
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,onde de tempête Meiringen Gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.5733115111572379,0,2,fr,WCE,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,brouillard d'Épire,2025-12-11T03:46:00+00:00,Greece,0.5732865872580205,0,2,fr,MED,Europe
 '0885918cd3',extremes,Snow&Ice,#d60d2b,wmo,avalanche sachs harbour ulukhaktok,2025-12-18T03:44:00+00:00,Canada,0.57197227651615,0,2,fr,NEN,North-America
@@ -66,8 +69,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a8044e375',extremes,Snow&Ice,#d60d2b,wmo,avalanche nord de la péninsule est,2025-12-05T03:41:00+00:00,Canada,0.5581807605558196,1,1,fr,NEN,North-America
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.5571453734821059,1,1,fr,ENA,North-America
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,orage italie,2025-12-04T03:42:00+00:00,Italy,0.5563418798620233,0,2,fr,MED,Europe
+'f5584b5068',extremes,Fog,#d60d2b,wmo,brouillard ouest stéréo,2025-12-12T03:45:00+00:00,Greece,0.5561821765521026,0,2,fr,MED,Europe
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2025-12-18T03:44:00+00:00,Brazil,0.5556001382585012,0,2,fr,SAM,South-America
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.5555922922936015,2,1,fr,CAF,Africa
+'429ae37885',extremes,Fog,#d60d2b,wmo,brouillard piémontais,2025-12-14T03:49:00+00:00,Italy,0.555307438969906,0,2,fr,MED,Europe
+'ccce84ab75',extremes,Drought,#edc291,edo,manque de pluie Egypte,2025-12-06T03:32:00+00:00,Egypt,0.5551863342267794,0,2,fr,SAH,Africa
+'3550c99ca4',extremes,Fog,#d60d2b,wmo,brouillard Émilie-Romagne,2025-12-08T03:44:00+00:00,Italy,0.5548639636972735,0,2,fr,MED,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempête Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.5543915704425606,0,2,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
+'97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2025-12-15T03:54:00+00:00,Guinea,0.5540336067381506,0,2,fr,WAF,Africa
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2025-12-14T03:49:00+00:00,Canada,0.5537649500105617,1,1,fr,NEN,North-America
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,brouillard limbourg,2025-12-14T03:49:00+00:00,Belgium,0.5535764117786736,1,1,fr,WCE,Europe
 '686d605ab5',extremes,Storm,#b3b2b1,wmo,tempête connaigre,2025-12-09T03:41:00+00:00,Canada,0.5527308836935885,1,1,fr,NEN,North-America
@@ -211,11 +221,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f1ffe010d',extremes,Precipitation,#d60d2b,wmo,averse pas de calais,2025-12-06T03:32:00+00:00,France,0.4816965118634669,1,1,fr,WCE,Europe
 '10e0a011d0',extremes,Drought,#edc291,edo,manque de pluie saint vincent et les grenadines,2025-12-16T03:47:00+00:00,Saint Vincent and the Grenadines,0.4812910008676285,1,1,fr,CAR,North-America
 '341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.480940377671043,2,1,fr,NEN,North-America
-'69af7a0917',extremes,Storm,#b3b2b1,wmo,tempête goldau ägeri,2025-12-16T03:47:00+00:00,Switzerland,0.47959690209534467,1,1,fr,WCE,Europe
+'69af7a0917',extremes,Storm,#b3b2b1,wmo,tempête goldau ägeri,2025-12-16T03:47:00+00:00,Switzerland,0.4795969020953446,1,1,fr,WCE,Europe
 '3d34176d28',extremes,Snow&Ice,#d60d2b,wmo,neige williston,2025-12-09T03:41:00+00:00,Canada,0.4795314040158676,2,1,fr,NEN,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,sécheresse comores,2025-12-04T03:42:00+00:00,Comoros,0.4794120687504411,1,1,fr,ESAF,Africa
 '6c431d7467',extremes,Storm,#b3b2b1,wmo,nuage d'orage baie Dorion,2025-11-27T03:34:00+00:00,Canada,0.4793088740480971,2,1,fr,NEN,North-America
-'2aef2e450f',extremes,Snow&Ice,#d60d2b,wmo,blanc sablon glacé,2025-12-16T03:47:00+00:00,Canada,0.47796052205836154,1,1,fr,NEN,North-America
+'2aef2e450f',extremes,Snow&Ice,#d60d2b,wmo,blanc sablon glacé,2025-12-16T03:47:00+00:00,Canada,0.4779605220583615,1,1,fr,NEN,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,tremblement de terre au Canada,2025-12-08T03:44:00+00:00,Canada,0.4779285138230896,2,1,fr,NWN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2025-12-08T03:44:00+00:00,Canada,0.4767832176541294,2,1,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.4764619600927788,2,1,fr,MED,Africa
