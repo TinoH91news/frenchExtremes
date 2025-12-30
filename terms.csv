@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-12-13T03:37:00+00:00,New Caledonia,0.624046092765046,0,2,fr,SPO,Pacific Ocean
-'34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.5977602074681835,2,1,fr,CAF,Africa
 'a18b16cacb',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles dans la vallée de Skagit,2025-12-11T03:46:00+00:00,Canada,0.5918267283293627,1,1,fr,NEN,North-America
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,3,1,fr,WCE,Europe
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2025-12-14T03:49:00+00:00,Wallis and Futuna,0.5894842131090907,1,1,fr,SPO,Pacific Ocean
@@ -172,6 +170,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2025-12-12T03:46:00+00:00,Belgium,0.5090154848573892,1,2,fr,WCE,Europe
 'a5d2510da4',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2025-12-04T03:42:00+00:00,Saint Barthelemy,0.5085991671875034,1,1,fr,CAR,North-America
 'a186f732f1',extremes,Snow&Ice,#d60d2b,wmo,région glaciale du chenal est de tuktoyaktuk,2025-12-14T03:49:00+00:00,Canada,0.5084687992628071,2,1,fr,NEN,North-America
+'34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.5082461913479559,3,1,fr,CAF,Africa
 'c0b447b81a',extremes,Snow&Ice,#d60d2b,wmo,gel ardèche lozère haute loire,2025-12-04T03:42:00+00:00,France,0.5078069783880408,1,1,fr,WCE,Europe
 '94a580db01',extremes,Snow&Ice,#d60d2b,wmo,gel fermont,2025-12-19T03:46:00+00:00,Canada,0.5069061786109309,3,1,fr,NEN,North-America
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-09T03:41:00+00:00,Madagascar,0.5067132377299315,2,1,fr,MDG,Africa
