@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2025-12-13T03:37:00+00:00,New Caledonia,0.624046092765046,0,2,fr,SPO,Pacific Ocean
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2025-12-14T03:49:00+00:00,Wallis and Futuna,0.5894842131090907,1,1,fr,SPO,Pacific Ocean
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2025-12-08T03:44:00+00:00,Wallis and Futuna,0.5893887276273809,2,1,fr,SPO,Pacific Ocean
 'fa6c237b07',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie haute savoie,2025-12-15T03:54:00+00:00,France,0.5893461061806443,1,1,fr,WCE,Europe
@@ -19,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2025-12-14T03:49:00+00:00,Belgium,0.5691400974167842,2,1,fr,WCE,Europe
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.5690845731474553,1,1,fr,NEN,North-America
 '2fd350f466',extremes,Precipitation,#d60d2b,wmo,pluie comté de Victoria,2025-12-19T03:46:00+00:00,Canada,0.5685656817740512,1,1,fr,NEN,North-America
+'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,brouillard des îles ioniques,2025-12-13T03:38:00+00:00,Greece,0.5685100621786022,0,2,fr,MED,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.5682129305229354,2,1,fr,NEN,North-America
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2025-12-14T03:49:00+00:00,Belgium,0.5675422677900549,1,1,fr,WCE,Europe
 'a72eb60f6b',extremes,Snow&Ice,#d60d2b,wmo,avalanche prince george mcgregor,2025-12-19T03:46:00+00:00,Canada,0.5675132712693168,0,2,fr,NEN,North-America
@@ -66,14 +69,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempête Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.5543915704425606,0,2,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2025-12-15T03:54:00+00:00,Guinea,0.5540336067381506,0,2,fr,WAF,Africa
+'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-19T03:46:00+00:00,Ivory Coast,0.5539660829273872,0,2,fr,WAF,Africa
+'469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2025-12-10T03:45:00+00:00,Niger,0.5539517232647342,0,2,fr,SAH,Africa
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2025-12-14T03:49:00+00:00,Canada,0.5537649500105617,1,1,fr,NEN,North-America
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,brouillard limbourg,2025-12-14T03:49:00+00:00,Belgium,0.5535764117786736,1,1,fr,WCE,Europe
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2025-12-06T03:32:00+00:00,Italy,0.5534240129847929,0,2,fr,MED,Europe
+'f7a88fba0a',extremes,Fog,#d60d2b,wmo,brouillard latium,2025-12-14T03:49:00+00:00,Italy,0.5527879410016061,0,2,fr,MED,Europe
 '686d605ab5',extremes,Storm,#b3b2b1,wmo,tempête connaigre,2025-12-09T03:41:00+00:00,Canada,0.5527308836935885,1,1,fr,NEN,North-America
+'2168928b82',extremes,Fog,#d60d2b,wmo,brouillard ouest du Péloponnèse,2025-12-11T03:46:00+00:00,Greece,0.5526019556681359,0,2,fr,MED,Europe
 '28c2dc753f',extremes,Precipitation,#d60d2b,wmo,averse comté de Shelburne comté de Yarmouth,2025-12-02T03:41:00+00:00,Canada,0.5524392132265861,1,1,fr,NEN,North-America
 'bb52dc77ba',extremes,Snow&Ice,#d60d2b,wmo,parc gelé Yoho parc Kootenay,2025-12-09T03:41:00+00:00,Canada,0.5516233770056095,1,1,fr,NEN,North-America
 '4d84d97c26',extremes,Snow&Ice,#d60d2b,wmo,neige postville makkovik,2025-12-05T03:41:00+00:00,Canada,0.5512290936878784,1,1,fr,NEN,North-America
 '945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2025-12-01T04:02:00+00:00,Djibouti,0.5507887680445582,1,1,fr,NEAF,Africa
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,brouillard Lombardie,2025-12-08T03:44:00+00:00,Italy,0.550738351654219,0,2,fr,MED,Europe
 'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2025-12-03T03:40:00+00:00,Niger,0.5505264347095982,1,1,fr,SAH,Africa
+'51c2ca3328',extremes,Fog,#d60d2b,wmo,brouillard toscane,2025-12-10T03:45:00+00:00,Italy,0.5503744895351007,0,2,fr,MED,Europe
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2025-12-04T03:42:00+00:00,Central African Republic,0.5502761606634312,1,1,fr,CAF,Africa
 '56a85f18c1',extremes,Storm,#b3b2b1,wmo,jars tempête et environs,2025-12-15T03:54:00+00:00,Canada,0.5475659807674851,1,1,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.5472192355077248,2,2,fr,WCE,Europe
@@ -211,7 +221,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2025-12-14T03:49:00+00:00,Belgium,0.4831893224942134,2,2,fr,WCE,Europe
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau des neiges,2025-12-02T03:41:00+00:00,Canada,0.482965738558303,2,1,fr,NEN,North-America
 '5f1ffe010d',extremes,Precipitation,#d60d2b,wmo,averse pas de calais,2025-12-06T03:32:00+00:00,France,0.4816965118634669,1,1,fr,WCE,Europe
-'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2025-12-01T04:02:00+00:00,Benin,0.48169567850844275,3,1,fr,WAF,Africa
+'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2025-12-01T04:02:00+00:00,Benin,0.4816956785084427,3,1,fr,WAF,Africa
 '10e0a011d0',extremes,Drought,#edc291,edo,manque de pluie saint vincent et les grenadines,2025-12-16T03:47:00+00:00,Saint Vincent and the Grenadines,0.4812910008676285,1,1,fr,CAR,North-America
 '341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.480940377671043,2,1,fr,NEN,North-America
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-12-16T03:47:00+00:00,France,0.4807373725826915,1,1,fr,WCE,Europe
