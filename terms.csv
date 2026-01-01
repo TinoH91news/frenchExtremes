@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '632d096d56',extremes,Storm,#b3b2b1,wmo,tempête postville makkovik,2025-12-06T03:32:00+00:00,Canada,0.56134706130365,1,1,fr,NEN,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2025-12-10T03:45:00+00:00,Canada,0.5611210309240926,2,1,fr,NEN,North-America
 'e987630880',extremes,Storm,#b3b2b1,wmo,"onde de tempête autoroute 97, col des pins",2025-12-09T03:41:00+00:00,Canada,0.561047965177533,2,1,fr,NEN,North-America
-'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2025-11-30T03:47:00+00:00,Guadeloupe,0.5609494722863505,0,2,fr,CAR,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.5608506528805759,2,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2025-12-10T03:45:00+00:00,Morocco,0.5597542079058744,0,2,fr,MED,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.5595145122893415,1,1,fr,NEN,North-America
@@ -216,9 +215,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a72eb60f6b',extremes,Snow&Ice,#d60d2b,wmo,avalanche prince george mcgregor,2025-12-19T03:46:00+00:00,Canada,0.4823862805789193,1,1,fr,NEN,North-America
 '5f1ffe010d',extremes,Precipitation,#d60d2b,wmo,averse pas de calais,2025-12-06T03:32:00+00:00,France,0.4816965118634669,1,1,fr,WCE,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2025-12-01T04:02:00+00:00,Benin,0.4816956785084427,3,1,fr,WAF,Africa
-'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2025-12-14T03:49:00+00:00,Belgium,0.48165125224753647,2,1,fr,WCE,Europe
+'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2025-12-14T03:49:00+00:00,Belgium,0.4816512522475364,2,1,fr,WCE,Europe
 '10e0a011d0',extremes,Drought,#edc291,edo,manque de pluie saint vincent et les grenadines,2025-12-16T03:47:00+00:00,Saint Vincent and the Grenadines,0.4812910008676285,1,1,fr,CAR,North-America
-'341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.480940377671043,2,1,fr,NEN,North-America
 '794967b95a',extremes,Storm,#b3b2b1,wmo,comté de Storm Kings Î.-P.-É.,2025-12-05T03:41:00+00:00,Canada,0.4808487915154251,3,1,fr,NEN,North-America
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-12-16T03:47:00+00:00,France,0.4807373725826915,1,1,fr,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-12-15T03:54:00+00:00,Canada,0.4803627393402698,3,1,fr,NEN,North-America
@@ -232,8 +230,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2aef2e450f',extremes,Snow&Ice,#d60d2b,wmo,blanc sablon glacé,2025-12-16T03:47:00+00:00,Canada,0.4779605220583615,1,1,fr,NEN,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,tremblement de terre au Canada,2025-12-08T03:44:00+00:00,Canada,0.4779285138230896,2,1,fr,NWN,North-America
 '4377d8044c',extremes,Storm,#b3b2b1,wmo,tempête Grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.4776496421311524,1,1,fr,WCE,Europe
-'284f4457fd',extremes,Precipitation,#d60d2b,wmo,précipitations dans la vallée de Skagit,2025-12-10T03:45:00+00:00,Canada,0.47725773166914104,1,1,fr,NEN,North-America
+'284f4457fd',extremes,Precipitation,#d60d2b,wmo,précipitations dans la vallée de Skagit,2025-12-10T03:45:00+00:00,Canada,0.477257731669141,1,1,fr,NEN,North-America
 '6828fb94e4',extremes,Snow&Ice,#d60d2b,wmo,"comté de Ice Kings, Î.-P.-É.",2025-12-05T03:41:00+00:00,Canada,0.4772536125374156,2,1,fr,NEN,North-America
+'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2025-11-30T03:47:00+00:00,Guadeloupe,0.4769570664433979,1,2,fr,CAR,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2025-12-08T03:44:00+00:00,Canada,0.4767832176541294,2,1,fr,NEN,North-America
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.4766273550723795,2,1,fr,NEN,North-America
 '6e157428eb',extremes,Precipitation,#d60d2b,wmo,précipitations dans les sections intérieures de la côte centrale,2025-12-08T03:44:00+00:00,Canada,0.4764912270013438,1,1,fr,NEN,North-America
@@ -254,7 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk gelé,2025-12-12T03:45:00+00:00,Canada,0.4426461715806279,2,1,fr,NEN,North-America
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.4406017717670118,5,1,fr,WCE,Europe
 '57d5873e48',extremes,Storm,#b3b2b1,wmo,onde de tempête nain et environs,2025-12-19T03:46:00+00:00,Canada,0.4381877227281731,3,1,fr,NEN,North-America
-'9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2025-12-10T03:45:00+00:00,Belgium,0.43781571408284176,4,1,fr,WCE,Europe
+'9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2025-12-10T03:45:00+00:00,Belgium,0.4378157140828417,4,1,fr,WCE,Europe
 '8c42c723c8',extremes,Snow&Ice,#d60d2b,wmo,gel dans la région du chenal est de tuktoyaktuk,2025-12-19T03:46:00+00:00,Canada,0.4369732972142903,3,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.4324371173581193,3,1,fr,NEN,North-America
 '89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.4256711131975016,2,1,fr,WCE,Europe
@@ -262,3 +261,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2025-12-10T03:45:00+00:00,Saint Martin,0.4158218486750271,2,1,fr,CAR,North-America
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,grêle aux Seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.4126625582975004,3,1,fr,EIO,Africa
 '8b3ab7ac69',extremes,Snow&Ice,#d60d2b,wmo,"gel dans la partie supérieure du lac Melville, rivière Eagle",2025-12-05T03:41:00+00:00,Canada,0.408931690060371,3,1,fr,NEN,North-America
+'341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.4087993210203865,3,1,fr,NEN,North-America
