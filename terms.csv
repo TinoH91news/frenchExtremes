@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-12-18T03:44:00+00:00,Canada,0.6298521446874452,0,2,fr,NEN,North-America
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.5952986512885434,1,1,fr,CAF,Africa
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.5855317726252113,1,1,fr,CAF,Africa
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.5751788581843881,3,1,fr,WCE,Europe
@@ -20,9 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2025-12-10T03:45:00+00:00,Canada,0.5611210309240926,2,1,fr,NEN,North-America
 'e987630880',extremes,Storm,#b3b2b1,wmo,"onde de tempête autoroute 97, col des pins",2025-12-09T03:41:00+00:00,Canada,0.561047965177533,1,1,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.5608506528805759,2,2,fr,WCE,Europe
-'0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2025-12-10T03:45:00+00:00,Morocco,0.5597542079058744,0,2,fr,MED,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2025-12-15T03:54:00+00:00,Canada,0.5595145122893415,1,1,fr,NEN,North-America
-'629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2025-12-04T03:42:00+00:00,Reunion,0.5594157345489099,0,2,fr,SIO,Africa
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.5593910131234839,1,1,fr,SIO,Africa
 '3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.5584676777086266,1,1,fr,CAF,Africa
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.5571453734821059,1,1,fr,ENA,North-America
@@ -239,6 +236,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.4766273550723795,2,1,fr,NEN,North-America
 '6e157428eb',extremes,Precipitation,#d60d2b,wmo,précipitations dans les sections intérieures de la côte centrale,2025-12-08T03:44:00+00:00,Canada,0.4764912270013438,1,1,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.4764619600927788,2,1,fr,MED,Africa
+'629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2025-12-04T03:42:00+00:00,Reunion,0.4759534193665734,1,2,fr,SIO,Africa
+'0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2025-12-10T03:45:00+00:00,Morocco,0.4757912417199932,1,1,fr,MED,Africa
 '1a8044e375',extremes,Snow&Ice,#d60d2b,wmo,avalanche nord de la péninsule est,2025-12-05T03:41:00+00:00,Canada,0.4744536464724466,2,1,fr,NEN,North-America
 '1ec1c3318b',extremes,Snow&Ice,#d60d2b,wmo,givre chilcotin,2025-12-13T03:38:00+00:00,Canada,0.4742271085284391,2,1,fr,NEN,North-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2025-12-18T03:44:00+00:00,Brazil,0.472260117519726,1,1,fr,SAM,South-America
