@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2025-12-06T03:32:00+00:00,France,0.7456560832886233,0,2,fr,WCE,Europe
+'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.7335264309393174,0,2,fr,CAF,Africa
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2025-12-18T03:44:00+00:00,Canada,0.6418856290583265,0,2,fr,NEN,North-America
+'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-12-18T03:44:00+00:00,Canada,0.6298521446874452,0,2,fr,NEN,North-America
+'16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2025-11-30T03:47:00+00:00,Tunisia,0.6099424521229156,0,2,fr,MED,Africa
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.5952986512885434,1,1,fr,CAF,Africa
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.5855317726252113,1,1,fr,CAF,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-08T03:45:00+00:00,Belgium,0.5715129868238399,3,1,fr,WCE,Europe
@@ -79,6 +85,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,inondation yakima wa,2025-12-12T03:45:00+00:00,United States,0.5416029355930257,0,2,fr,CNA,North-America
 '54898bb95f',extremes,Storm,#b3b2b1,wmo,onde de tempête baie verte baie blanche,2025-12-16T03:47:00+00:00,Canada,0.5414573132704542,1,1,fr,NEN,North-America
 '232c35e7b5',extremes,Flood,#030ba1,wmo,flashflood skagit wa,2025-12-10T03:45:00+00:00,United States,0.5413763764509407,0,2,fr,CNA,North-America
+'4bbcd1d583',extremes,Flood,#030ba1,wmo,le roi des inondations wa transperce wa,2025-12-10T03:45:00+00:00,United States,0.5411183973380518,0,2,fr,CNA,North-America
+'88720c241c',extremes,Flood,#030ba1,wmo,inondation wahkiakum wa,2025-12-12T03:45:00+00:00,United States,0.5409647695895577,0,2,fr,CNA,North-America
+'40f47c67f6',extremes,Flood,#030ba1,wmo,crue éclair transperce wa,2025-12-10T03:45:00+00:00,United States,0.5409417195632179,0,2,fr,CNA,North-America
+'d2f4c24db3',extremes,Flood,#030ba1,wmo,crue éclair yakima wa,2025-12-10T03:45:00+00:00,United States,0.5409293357135998,0,2,fr,CNA,North-America
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2025-12-09T03:41:00+00:00,Mayotte,0.5408977086838125,1,1,fr,MDG,Africa
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.5407171894710804,2,1,fr,CAF,Africa
 '33dcf78201',extremes,Storm,#b3b2b1,wmo,onde de tempête à Jars et environs,2025-12-16T03:47:00+00:00,Canada,0.5402882500188171,1,1,fr,NEN,North-America
