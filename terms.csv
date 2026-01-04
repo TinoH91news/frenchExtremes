@@ -1,4 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2025-12-06T03:32:00+00:00,Burkina Faso,0.6775474790179626,0,2,fr,WAF,Africa
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
+'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2025-12-01T04:02:00+00:00,Benin,0.6664991498386751,0,2,fr,WAF,Africa
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempête vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.6085959990098492,0,2,fr,SPO,Oceania
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.5698666528648407,3,1,fr,NEN,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2025-12-14T03:49:00+00:00,Belgium,0.5691400974167842,2,1,fr,WCE,Europe
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.5690845731474553,1,1,fr,NEN,North-America
@@ -13,7 +18,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e987630880',extremes,Storm,#b3b2b1,wmo,"onde de tempête autoroute 97, col des pins",2025-12-09T03:41:00+00:00,Canada,0.561047965177533,1,1,fr,NEN,North-America
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.5593910131234839,1,1,fr,SIO,Africa
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.5571453734821059,1,1,fr,ENA,North-America
+'f5584b5068',extremes,Fog,#d60d2b,wmo,brouillard ouest stéréo,2025-12-12T03:45:00+00:00,Greece,0.5561821765521026,0,2,fr,MED,Europe
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.5555922922936015,2,1,fr,CAF,Africa
+'3550c99ca4',extremes,Fog,#d60d2b,wmo,brouillard Émilie-Romagne,2025-12-08T03:44:00+00:00,Italy,0.5548639636972735,0,2,fr,MED,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,brouillard limbourg,2025-12-14T03:49:00+00:00,Belgium,0.5535764117786736,1,1,fr,WCE,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2025-12-18T03:44:00+00:00,Canada,0.5533374173425202,1,2,fr,NEN,North-America
@@ -65,6 +72,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2025-12-03T03:40:00+00:00,Central African Republic,0.5407171894710804,2,1,fr,CAF,Africa
 '1262da7e18',extremes,Flood,#030ba1,wmo,crue éclair snohomish wa,2025-12-10T03:45:00+00:00,United States,0.5406213981245004,0,2,fr,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,flashflood benton ou polk ou,2025-12-18T03:44:00+00:00,United States,0.5405224673327269,0,2,fr,CNA,North-America
+'b775da0237',extremes,Flood,#030ba1,wmo,le roi des inondations wa,2025-12-09T03:41:00+00:00,United States,0.540504063675777,0,2,fr,CNA,North-America
+'51a9c660ce',extremes,Flood,#030ba1,wmo,inondation de Cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.5404739466710734,0,2,fr,CNA,North-America
+'b3a04bec13',extremes,Flood,#030ba1,wmo,inondation snohomish wa,2025-12-10T03:45:00+00:00,United States,0.5404635246478664,0,2,fr,CNA,North-America
 '33dcf78201',extremes,Storm,#b3b2b1,wmo,onde de tempête à Jars et environs,2025-12-16T03:47:00+00:00,Canada,0.5402882500188171,1,1,fr,NEN,North-America
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-11T03:46:00+00:00,Ivory Coast,0.5402109106142982,1,1,fr,WAF,Africa
 '7cb33ecf6e',extremes,Snow&Ice,#d60d2b,wmo,gel isère haute savoie,2025-12-03T03:40:00+00:00,France,0.53945381318877,2,1,fr,WCE,Europe
@@ -239,7 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2025-12-10T03:45:00+00:00,Niger,0.471158994775024,1,2,fr,SAH,Africa
 'e35102c4e9',extremes,Storm,#b3b2b1,wmo,tempête sur la péninsule de Bonavista,2025-12-06T03:32:00+00:00,Canada,0.4710262071036616,2,1,fr,NEN,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2025-12-15T03:54:00+00:00,Guinea,0.470928565727428,1,1,fr,WAF,Africa
-'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-19T03:46:00+00:00,Ivory Coast,0.47087117048827914,1,1,fr,WAF,Africa
+'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-19T03:46:00+00:00,Ivory Coast,0.4708711704882791,1,1,fr,WAF,Africa
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2025-12-14T03:49:00+00:00,Canada,0.4707002075089774,2,1,fr,NEN,North-America
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2025-12-06T03:32:00+00:00,Italy,0.470410411037074,1,1,fr,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,brouillard latium,2025-12-14T03:49:00+00:00,Italy,0.4698697498513652,1,1,fr,MED,Europe
