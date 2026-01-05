@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.6704313563115774,0,2,fr,NEN,North-America
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau des neiges,2025-12-02T03:41:00+00:00,Canada,0.6684646900460942,0,2,fr,NEN,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2025-12-14T03:49:00+00:00,Belgium,0.5691400974167842,2,1,fr,WCE,Europe
@@ -33,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,onde de tempête au Brésil,2025-12-14T03:49:00+00:00,Brazil,0.5458620267941635,0,2,fr,SAM,South-America
 '310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,glace teslin atlin,2025-12-06T03:32:00+00:00,Canada,0.5458406353661185,1,1,fr,NEN,North-America
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempête erstfeld engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.5455260630558149,0,2,fr,WCE,Europe
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.5447746769731506,2,1,fr,MDG,Africa
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,zone côtière d'onde de tempête,2025-12-15T03:54:00+00:00,Belgium,0.54465427134874,1,1,fr,WCE,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête Brésil,2025-12-14T03:49:00+00:00,Brazil,0.5445375253145645,0,2,fr,SAM,South-America
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,avalanche suisse,2025-12-08T03:44:00+00:00,Switzerland,0.5442838189681694,0,2,fr,WCE,Europe
@@ -269,6 +267,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '443e9f8c4d',extremes,Precipitation,#d60d2b,wmo,"averse de la mer au ciel, de Squamish à Whistler",2025-12-10T03:45:00+00:00,Canada,0.4643914845701972,1,1,fr,NEN,North-America
 '47031c8a18',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2025-12-06T03:32:00+00:00,Saint Vincent and the Grenadines,0.4638302413150418,2,1,fr,CAR,North-America
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2025-12-07T03:47:00+00:00,Niger,0.4634227049221318,1,2,fr,SAH,Africa
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.46320849042717804,3,1,fr,MDG,Africa
 'a4a0219171',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau de Frost Dempster,2025-12-13T03:38:00+00:00,Canada,0.4627249473875148,2,1,fr,NEN,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,crue éclair aux États-Unis,2025-12-08T03:44:00+00:00,United States,0.4625808974271527,1,1,fr,CNA,North-America
 '6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2025-12-08T03:45:00+00:00,Rwanda,0.462352058174438,1,1,fr,SEAF,Africa
