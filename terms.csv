@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.6704313563115774,0,2,fr,NEN,North-America
+'0d3bd066d2',extremes,Storm,#b3b2b1,wmo,tempête dempster,2025-12-05T03:41:00+00:00,Canada,0.6673025051794581,0,2,fr,NEN,North-America
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.6554651452730658,0,2,fr,ENA,North-America
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.6405583932037067,1,1,fr,MDG,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,1,1,fr,WCE,Europe
@@ -60,9 +63,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,maçon wa flashflood,2025-12-19T03:46:00+00:00,United States,0.5396508196924666,0,2,fr,CNA,North-America
 '73742b91aa',extremes,Flood,#030ba1,wmo,inondation de Kittitas wa,2025-12-10T03:45:00+00:00,United States,0.5396145068794804,0,2,fr,CNA,North-America
 '5b0167421c',extremes,Flood,#030ba1,wmo,inondation soudaine à Grays Harbour Wa,2025-12-10T03:45:00+00:00,United States,0.5395711312178904,0,2,fr,CNA,North-America
+'ae78869002',extremes,Flood,#030ba1,wmo,inondation snohomish wa,2025-12-11T03:46:00+00:00,United States,0.5395619987759219,0,2,fr,CNA,North-America
 '7cb33ecf6e',extremes,Snow&Ice,#d60d2b,wmo,gel isère haute savoie,2025-12-03T03:40:00+00:00,France,0.53945381318877,2,1,fr,WCE,Europe
+'02dc9a1088',extremes,Flood,#030ba1,wmo,flashflood benton ou,2025-12-19T03:46:00+00:00,United States,0.5391239033380215,0,2,fr,CNA,North-America
 '47c5e9f35a',extremes,Storm,#b3b2b1,wmo,tempête manche côtes d'armor finistère,2025-12-06T03:32:00+00:00,France,0.5391216763459589,1,1,fr,WCE,Europe
+'86e72ff688',extremes,Flood,#030ba1,wmo,inondations Lewis Wa,2025-12-09T03:41:00+00:00,United States,0.5390539247569084,0,2,fr,CNA,North-America
+'b6e71763d0',extremes,Flood,#030ba1,wmo,crue éclair wahkiakum wa,2025-12-19T03:46:00+00:00,United States,0.5390528513711743,0,2,fr,CNA,North-America
+'a349721359',extremes,Flood,#030ba1,wmo,flashflood identifiant kootenai identifiant shoshone,2025-12-12T03:45:00+00:00,United States,0.5389190994253206,0,2,fr,CNA,North-America
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.5388152292798327,2,1,fr,ENA,North-America
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2025-12-05T03:41:00+00:00,Italy,0.5386770464029796,0,2,fr,MED,Europe
+'8792d4e099',extremes,Flood,#030ba1,wmo,inondation kittitas wa,2025-12-09T03:41:00+00:00,United States,0.5385264347610185,0,2,fr,CNA,North-America
 'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,"cheval blanc des neiges, teslin",2025-12-06T03:32:00+00:00,Canada,0.538168895647556,1,1,fr,NEN,North-America
 '34b8c4045f',extremes,Snow&Ice,#d60d2b,wmo,la Savoie glaciale,2025-12-19T03:46:00+00:00,France,0.5370529113498956,1,1,fr,WCE,Europe
 '04485005cb',extremes,Snow&Ice,#d60d2b,wmo,"tuktoyaktuk de glace, région du chenal est",2025-12-13T03:38:00+00:00,Canada,0.536406874034378,1,1,fr,NEN,North-America
