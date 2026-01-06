@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.669511262526418,0,2,fr,NEN,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
 '0d3bd066d2',extremes,Storm,#b3b2b1,wmo,tempête dempster,2025-12-05T03:41:00+00:00,Canada,0.6673025051794581,0,2,fr,NEN,North-America
 '8b3ab7ac69',extremes,Snow&Ice,#d60d2b,wmo,"gel dans la partie supérieure du lac Melville, rivière Eagle",2025-12-05T03:41:00+00:00,Canada,0.6658769632572703,0,2,fr,NEN,North-America
@@ -10,11 +9,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,1,1,fr,WCE,Europe
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.5752115678044684,1,1,fr,NEN,North-America
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.5698666528648407,1,1,fr,NEN,North-America
+'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.5690845731474553,1,1,fr,NEN,North-America
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2025-12-14T03:49:00+00:00,Belgium,0.5675422677900549,1,1,fr,WCE,Europe
 '8df29b72f3',extremes,Storm,#b3b2b1,wmo,tempête cartwright à chatouillement noir,2025-12-02T03:41:00+00:00,Canada,0.5669902335084335,1,1,fr,NEN,North-America
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2025-12-01T04:02:00+00:00,Benin,0.5665243223628738,1,1,fr,WAF,Africa
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.5658934572387203,2,1,fr,WAF,Africa
-'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,onde de tempête Sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.5653671347737559,1,1,fr,WCE,Europe
 '84235d43f3',extremes,Snow&Ice,#d60d2b,wmo,avalanche dempster,2025-12-02T03:41:00+00:00,Canada,0.5630342840337761,2,1,fr,NEN,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2025-12-10T03:45:00+00:00,Canada,0.5622626194234128,2,1,fr,NEN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2025-12-07T03:46:00+00:00,Vanuatu,0.5619095884443137,3,1,fr,SPO,Pacific Ocean
@@ -260,7 +259,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,onde de tempête au Brésil,2025-12-14T03:49:00+00:00,Brazil,0.463982722775039,1,1,fr,SAM,South-America
 '310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,glace teslin atlin,2025-12-06T03:32:00+00:00,Canada,0.4639645400612007,2,1,fr,NEN,North-America
 '47031c8a18',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2025-12-06T03:32:00+00:00,Saint Vincent and the Grenadines,0.4638302413150418,2,1,fr,CAR,North-America
-'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2025-12-07T03:47:00+00:00,Niger,0.4634227049221318,1,2,fr,SAH,Africa
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,zone côtière d'onde de tempête,2025-12-15T03:54:00+00:00,Belgium,0.462956130646429,2,1,fr,WCE,Europe
 'a4a0219171',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau de Frost Dempster,2025-12-13T03:38:00+00:00,Canada,0.4627249473875148,2,1,fr,NEN,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,crue éclair aux États-Unis,2025-12-08T03:44:00+00:00,United States,0.4625808974271527,1,1,fr,CNA,North-America
@@ -306,6 +304,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,grêle aux Seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.4126625582975004,3,1,fr,EIO,Africa
 '2aef2e450f',extremes,Snow&Ice,#d60d2b,wmo,blanc sablon glacé,2025-12-16T03:47:00+00:00,Canada,0.4062664437496072,2,1,fr,NEN,North-America
 '4377d8044c',extremes,Storm,#b3b2b1,wmo,tempête Grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.4060021958114795,2,1,fr,WCE,Europe
+'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2025-12-07T03:47:00+00:00,Niger,0.394359344183812,2,2,fr,SAH,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2025-12-18T03:44:00+00:00,Brazil,0.3928758560339176,2,1,fr,SAM,South-America
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.37556161100196,6,1,fr,WCE,Europe
 '57d5873e48',extremes,Storm,#b3b2b1,wmo,onde de tempête nain et environs,2025-12-19T03:46:00+00:00,Canada,0.3724595643189471,4,1,fr,NEN,North-America
