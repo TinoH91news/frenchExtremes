@@ -1,10 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
 '341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.6656614223820665,0,2,fr,NEN,North-America
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.6554651452730658,0,2,fr,ENA,North-America
 '945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2025-12-01T04:02:00+00:00,Djibouti,0.6479867859347744,0,2,fr,NEAF,Africa
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.6405583932037067,1,1,fr,MDG,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.5904861096105375,1,1,fr,WCE,Europe
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.5752115678044684,1,1,fr,NEN,North-America
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.5698666528648407,1,1,fr,NEN,North-America
@@ -31,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.5472192355077248,2,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.5466937713478216,2,1,fr,WAF,Africa
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempête erstfeld engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.5455260630558149,0,2,fr,WCE,Europe
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.5446246492231507,2,1,fr,MDG,Africa
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,avalanche suisse,2025-12-08T03:44:00+00:00,Switzerland,0.5442838189681694,0,2,fr,WCE,Europe
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.5442425413599142,2,1,fr,MDG,Africa
 'cac8488dd8',extremes,Fog,#d60d2b,wmo,brouillard des îles Dodekanisa,2025-12-19T03:46:00+00:00,Greece,0.5439242562627432,0,2,fr,MED,Europe
