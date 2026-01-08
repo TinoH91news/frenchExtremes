@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.7385002354623256,0,2,fr,WCE,Europe
+'34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.7030708146684513,0,2,fr,CAF,Africa
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2025-12-04T03:42:00+00:00,Canada,0.6787783518672057,0,2,fr,NEN,North-America
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.6767194915346687,0,2,fr,NEN,North-America
+'1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-08T03:45:00+00:00,Belgium,0.6713092903809881,0,2,fr,WCE,Europe
+'872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de givre,2025-12-03T03:40:00+00:00,Canada,0.6706150909968759,0,2,fr,NEN,North-America
+'793f00879f',extremes,Snow&Ice,#d60d2b,wmo,"comté de Kings glacial, Île-du-Prince-Édouard",2025-12-03T03:40:00+00:00,Canada,0.669172696817012,0,2,fr,NEN,North-America
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2025-12-06T03:32:00+00:00,Canada,0.667248587088328,0,2,fr,NEN,North-America
+'794967b95a',extremes,Storm,#b3b2b1,wmo,tempête comté de Kings Î.-P.-É.,2025-12-05T03:41:00+00:00,Canada,0.6655346595369206,0,2,fr,NEN,North-America
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.6234974662984197,1,1,fr,CAF,Africa
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2025-11-30T03:47:00+00:00,Tunisia,0.6099424521229156,0,2,fr,MED,Africa
 '89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.5887488687854694,0,2,fr,WCE,Europe
@@ -173,7 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2025-12-14T03:49:00+00:00,Belgium,0.4816512522475364,2,1,fr,WCE,Europe
 '10e0a011d0',extremes,Drought,#edc291,edo,manque de pluie saint vincent et les grenadines,2025-12-16T03:47:00+00:00,Saint Vincent and the Grenadines,0.4812910008676285,1,1,fr,CAR,North-America
 '8b3ab7ac69',extremes,Snow&Ice,#d60d2b,wmo,"gel dans la partie supérieure du lac Melville, rivière Eagle",2025-12-05T03:41:00+00:00,Canada,0.4810961059533777,2,1,fr,NEN,North-America
-'9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.48100943865291224,3,1,fr,WAF,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.4810094386529122,3,1,fr,WAF,Africa
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2025-12-16T03:47:00+00:00,France,0.4807373725826915,1,1,fr,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,onde de tempête Sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.4805620645576925,1,1,fr,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2025-12-15T03:54:00+00:00,Canada,0.4803627393402698,3,1,fr,NEN,North-America
