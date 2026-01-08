@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
 '1bffaeede0',extremes,Flood,#030ba1,wmo,crue du Rhône,2025-12-01T04:02:00+00:00,France,0.7385002354623256,0,2,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.7030708146684513,0,2,fr,CAF,Africa
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2025-12-04T03:42:00+00:00,Canada,0.6787783518672057,0,2,fr,NEN,North-America
@@ -11,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '794967b95a',extremes,Storm,#b3b2b1,wmo,tempête comté de Kings Î.-P.-É.,2025-12-05T03:41:00+00:00,Canada,0.6655346595369206,0,2,fr,NEN,North-America
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-01T04:02:00+00:00,Gabon,0.6234974662984197,1,1,fr,CAF,Africa
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2025-11-30T03:47:00+00:00,Tunisia,0.6099424521229156,0,2,fr,MED,Africa
-'89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.5887488687854694,0,2,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2025-12-04T03:42:00+00:00,Saint Martin,0.5879319080795969,0,2,fr,CAR,North-America
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2025-12-02T03:41:00+00:00,New Caledonia,0.5841216519568491,0,2,fr,SPO,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2025-12-02T03:41:00+00:00,Canada,0.5808978707467397,1,2,fr,NEN,North-America
@@ -143,6 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2025-12-11T03:46:00+00:00,Cameroon,0.5018627617873377,2,1,fr,CAF,Africa
 '5f00dfbaae',extremes,Snow&Ice,#d60d2b,wmo,port de Frost Sachs,2025-12-14T03:49:00+00:00,Canada,0.5017793678460292,1,1,fr,NEN,North-America
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2025-12-14T03:49:00+00:00,Wallis and Futuna,0.5010615811427271,2,1,fr,SPO,Pacific Ocean
+'89ccd81f41',extremes,Storm,#b3b2b1,wmo,tempête pyrénées atlantiques landes,2025-12-03T03:40:00+00:00,France,0.500586553467649,1,2,fr,WCE,Europe
 'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2025-12-08T03:44:00+00:00,Guadeloupe,0.4992438178539911,1,1,fr,NAO,Atlantic Ocean
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.4984012640021844,4,2,fr,WCE,Europe
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2025-12-09T03:41:00+00:00,Central African Republic,0.4977020067314295,2,1,fr,CAF,Africa
