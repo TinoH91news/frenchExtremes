@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.7689858716866457,0,2,fr,CAF,Africa
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,2,fr,SEAF,Africa
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.7535980920043608,0,2,fr,MDG,Africa
+'34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2025-12-04T03:42:00+00:00,Republic of the Congo,0.7030708146684513,0,2,fr,CAF,Africa
+'38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2025-12-04T03:42:00+00:00,Gabon,0.7003513544571099,0,2,fr,CAF,Africa
+'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2025-12-04T03:42:00+00:00,France,0.6946895407182794,0,2,fr,WCE,Europe
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.6767194915346687,0,2,fr,NEN,North-America
+'8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.6726994090381323,0,2,fr,WAF,Africa
+'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.669511262526418,0,2,fr,NEN,North-America
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.66848562414463,0,2,fr,NEN,North-America
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.6581070389688046,0,2,fr,SIO,Africa
 '3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2025-12-02T03:41:00+00:00,Democratic Republic of the Congo,0.6570207973042665,0,2,fr,CAF,Africa
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2025-11-30T03:47:00+00:00,Saint Pierre and Miquelon,0.6554651452730658,0,2,fr,ENA,North-America
