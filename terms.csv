@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.6767194915346687,0,2,fr,NEN,North-America
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de givre,2025-12-03T03:40:00+00:00,Canada,0.6706150909968759,0,2,fr,NEN,North-America
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,vieux corbeau givré,2025-12-03T03:40:00+00:00,Canada,0.6704313563115774,0,2,fr,NEN,North-America
-'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,geler Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.669511262526418,0,2,fr,NEN,North-America
 '84235d43f3',extremes,Snow&Ice,#d60d2b,wmo,avalanche dempster,2025-12-02T03:41:00+00:00,Canada,0.6623932753338543,0,2,fr,NEN,North-America
 '632d096d56',extremes,Storm,#b3b2b1,wmo,tempête postville makkovik,2025-12-06T03:32:00+00:00,Canada,0.6604083074160588,0,2,fr,NEN,North-America
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.6581070389688046,0,2,fr,SIO,Africa
@@ -30,15 +28,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2025-12-04T03:42:00+00:00,Canada,0.5775616590871249,1,2,fr,NEN,North-America
 'a2c72301a8',extremes,Drought,#edc291,edo,sécheresse au Cameroun,2025-12-08T03:45:00+00:00,Cameroon,0.5760657536972514,1,1,fr,CAF,Africa
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2025-12-06T03:32:00+00:00,Burkina Faso,0.5759153721652682,1,1,fr,WAF,Africa
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.5752115678044684,1,1,fr,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-08T03:45:00+00:00,Belgium,0.5713629718238399,1,2,fr,WCE,Europe
-'0d3bd066d2',extremes,Storm,#b3b2b1,wmo,tempête dempster,2025-12-05T03:41:00+00:00,Canada,0.5672071294025394,1,1,fr,NEN,North-America
 '8b3ab7ac69',extremes,Snow&Ice,#d60d2b,wmo,"gel dans la partie supérieure du lac Melville, rivière Eagle",2025-12-05T03:41:00+00:00,Canada,0.5659954187686798,1,1,fr,NEN,North-America
 '341a99163c',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.5658122090247565,1,1,fr,NEN,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2025-12-10T03:45:00+00:00,Canada,0.5622626194234128,2,1,fr,NEN,North-America
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,baie rouge givre jusqu'à l'anse au clair,2025-12-05T03:41:00+00:00,Canada,0.5607380647910347,1,1,fr,NEN,North-America
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2025-12-04T03:42:00+00:00,Tunisia,0.5605170092267986,1,2,fr,MED,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
-'507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2025-12-01T04:02:00+00:00,Italy,0.5499268039505201,0,2,fr,MED,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.5472192355077248,2,2,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.5466937713478216,2,1,fr,WAF,Africa
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,inondation yakima wa,2025-12-12T03:45:00+00:00,United States,0.5416029355930257,0,2,fr,CNA,North-America
@@ -72,7 +69,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9144dcd4c',extremes,Snow&Ice,#d60d2b,wmo,quaqtaq de glace,2025-12-09T03:41:00+00:00,Canada,0.5187545970150758,2,1,fr,NEN,North-America
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2025-11-30T03:47:00+00:00,Tunisia,0.5186010993044783,1,2,fr,MED,Africa
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2025-12-09T03:41:00+00:00,French Guiana,0.5180448797622099,1,1,fr,NSA,South-America
-'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempête vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.5173065991583717,1,1,fr,SPO,Oceania
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.5157431197258963,1,1,fr,WCE,Europe
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2025-12-19T03:46:00+00:00,Republic of the Congo,0.5152222133489831,1,1,fr,CAF,Africa
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2025-12-10T03:45:00+00:00,Belgium,0.5150773256856962,1,1,fr,WCE,Europe
@@ -123,7 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2025-12-19T03:46:00+00:00,Madagascar,0.4922670843471765,1,1,fr,MDG,Africa
 '9019645cef',extremes,Snow&Ice,#d60d2b,wmo,zone Snow Manic 5,2025-12-19T03:46:00+00:00,Canada,0.490829542922424,1,1,fr,NEN,North-America
 'd21a18e36d',extremes,Tsunami,#690191,usgs,tsunami 2025 tremblement de terre du glacier Hubbard,2025-12-07T03:46:00+00:00,Canada,0.4903347585871838,1,1,fr,NWN,North-America
-'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche canada,2025-12-10T03:45:00+00:00,Canada,0.48949277712915823,2,1,fr,NEN,North-America
+'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche canada,2025-12-10T03:45:00+00:00,Canada,0.4894927771291582,2,1,fr,NEN,North-America
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,onde de tempête gersau engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.4886128980396006,2,1,fr,WCE,Europe
 '94a1a6a4f3',extremes,Thunderstorm,#53785a,wmo,orage province de torba,2025-12-12T03:45:00+00:00,Vanuatu,0.4885354146531181,1,1,fr,SPO,Oceania
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,givre gatineau,2025-12-11T03:46:00+00:00,Canada,0.4880103859943188,1,1,fr,NEN,North-America
@@ -184,6 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '686d605ab5',extremes,Storm,#b3b2b1,wmo,tempête connaigre,2025-12-09T03:41:00+00:00,Canada,0.4698212511395502,2,1,fr,NEN,North-America
 '2168928b82',extremes,Fog,#d60d2b,wmo,brouillard ouest du Péloponnèse,2025-12-11T03:46:00+00:00,Greece,0.4697116623179154,1,1,fr,MED,Europe
 'bb52dc77ba',extremes,Snow&Ice,#d60d2b,wmo,parc gelé Yoho parc Kootenay,2025-12-09T03:41:00+00:00,Canada,0.468879870454768,2,1,fr,NEN,North-America
+'507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2025-12-01T04:02:00+00:00,Italy,0.4681878583579421,1,2,fr,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,brouillard Lombardie,2025-12-08T03:44:00+00:00,Italy,0.4681275989060862,1,1,fr,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,brouillard toscane,2025-12-10T03:45:00+00:00,Italy,0.4678183161048356,1,1,fr,MED,Europe
 '3769809aae',extremes,Drought,#edc291,edo,période sèche au Tchad,2025-12-07T03:47:00+00:00,Chad,0.4672966400187208,1,1,fr,SAH,Africa
@@ -209,7 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c613234021',extremes,Storm,#b3b2b1,wmo,tempête haïda gwaii,2025-12-09T03:41:00+00:00,Canada,0.4618262535863945,2,1,fr,NEN,North-America
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,brouillard campanie,2025-12-11T03:46:00+00:00,Italy,0.4617893169454179,1,1,fr,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,brouillard de Calabre,2025-12-11T03:46:00+00:00,Italy,0.4616916166737377,1,1,fr,MED,Europe
-'037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2025-12-07T03:47:00+00:00,United States,0.46162281137286454,1,1,fr,CNA,North-America
+'037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2025-12-07T03:47:00+00:00,United States,0.4616228113728645,1,1,fr,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incendie de forêt aux États-Unis,2025-12-07T03:46:00+00:00,United States,0.4613781628807448,1,1,fr,ENA,North-America
 '55c34e2831',extremes,Flood,#030ba1,wmo,inondation de Grays Harbour Wa,2025-12-10T03:45:00+00:00,United States,0.4611834128076305,1,1,fr,CNA,North-America
 'e9d70cd9c6',extremes,Flood,#030ba1,wmo,flashflood king wa,2025-12-10T03:45:00+00:00,United States,0.4607024983944706,1,1,fr,CNA,North-America
@@ -250,7 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8ac2951cb',extremes,Flood,#030ba1,wmo,inondation clearwater id idaho id,2025-12-08T03:44:00+00:00,United States,0.4573299905356939,1,1,fr,CNA,North-America
 '3c41d4f8cf',extremes,Flood,#030ba1,wmo,flashflood Lincoln ou,2025-12-19T03:46:00+00:00,United States,0.4571006555205805,1,1,fr,CNA,North-America
 '01038989c1',extremes,Flood,#030ba1,wmo,inondation chelan wa,2025-12-08T03:44:00+00:00,United States,0.457032135974643,1,1,fr,CNA,North-America
-'00c846cb84',extremes,Flood,#030ba1,wmo,inondation chelan wa okanogan wa,2025-12-11T03:46:00+00:00,United States,0.45687072347560476,1,1,fr,CNA,North-America
+'00c846cb84',extremes,Flood,#030ba1,wmo,inondation chelan wa okanogan wa,2025-12-11T03:46:00+00:00,United States,0.4568707234756047,1,1,fr,CNA,North-America
 '34b8c4045f',extremes,Snow&Ice,#d60d2b,wmo,la Savoie glaciale,2025-12-19T03:46:00+00:00,France,0.4567950046474113,2,1,fr,WCE,Europe
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,onde de tempête moosonee,2025-12-18T03:44:00+00:00,Canada,0.4550681745366791,2,1,fr,NEN,North-America
 'ac221e850d',extremes,Volcano,#b83202,eonet,"volcan Nyamulagira, RD Congo",2025-12-13T03:37:00+00:00,Democratic Republic of the Congo,0.454345423077508,2,1,fr,SEAF,Africa
