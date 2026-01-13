@@ -1,0 +1,16 @@
+,phrase,label,sentiment,subjectivity,language,count
+Ardèche,Ardèche,ORG,-0.02380952380952381,0.09523809523809525,en,4.2
+Météo-France,Météo-France,ORG,-0.036764705882352935,0.1102941176470588,en,3.4000000000000004
+Gard,Gard,ORG,-0.2573529411764705,0.21323529411764702,en,3.4000000000000004
+Hérault,Hérault,ORG,-0.03308823529411765,0.0551470588235294,en,3.4000000000000004
+IRM,IRM,ORG,-0.035087719298245605,0.0,en,1.9
+ARC Raiders,ARC Raiders,ORG,-0.33388157894736836,0.3026315789473684,en,1.9
+Amazon,Amazon,ORG,-0.11363636363636362,0.1818181818181818,en,1.1
+Météo France,Météo France,ORG,0.1375,0.0,en,1.0
+the National Guard,the National Guard,ORG,0.0,0.0,en,1.0
+Cold Snap,Cold Snap,ORG,-0.6,0.0,en,1.0
+Speranza,Speranza,ORG,0.5,0.0,en,1.0
+Embark Studios,Embark Studios,ORG,0.5,0.0,en,1.0
+Var,Var,ORG,0.0,0.0,en,1.0
+Aveyron,Aveyron,ORG,0.6666666666666666,0.0,en,1.0
+MRI,MRI,ORG,-0.25,0.0,en,1.0

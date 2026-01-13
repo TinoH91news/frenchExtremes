@@ -1,0 +1,47 @@
+,phrase,label,sentiment,subjectivity,language,count
+Sunday,Sunday,DATE,,,en,4.300000000000001
+evening,evening,TIME,,,en,3.6
+tonight,tonight,TIME,,,en,2.8
+two,two,CARDINAL,,,en,2.7
+winter,winter,DATE,,,en,1.9
+this evening,this evening,TIME,,,en,1.9
+morning,morning,TIME,,,en,1.9
+2025,2025,DATE,,,en,1.9
+Saturday,Saturday,DATE,,,en,1.9
+thousands,thousands,CARDINAL,,,en,1.8
+7,7,CARDINAL,,,en,1.8
+three,three,CARDINAL,,,en,1.8
+this Monday,this Monday,DATE,,,en,1.8
+this winter,this winter,DATE,,,en,1.1
+seconds,seconds,TIME,,,en,1.1
+less than €4,less than €4,MONEY,,,en,1.1
+the evening,the evening,TIME,,,en,1.0
+8 p.m.,8 p.m.,TIME,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+this Tuesday,this Tuesday,DATE,,,en,1.0
+months,months,DATE,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+Tuesday,Tuesday,DATE,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+"this Sunday, December 28","this Sunday, December 28",DATE,,,en,1.0
+Friday,Friday,DATE,,,en,1.0
+next night,next night,TIME,,,en,1.0
+this Friday,this Friday,DATE,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+A week,A week,DATE,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+Cold Snap,Cold Snap,PRODUCT,,,en,1.0
+"yesterday, December 16","yesterday, December 16",DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+"Thursday, December 11","Thursday, December 11",DATE,,,en,1.0
+several days,several days,DATE,,,en,1.0
+Thursday,Thursday,DATE,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+Yukon,Yukon,FAC,,,en,1.0
+first,first,ORDINAL,,,en,1.0
+Deicing spray,Deicing spray,WORK_OF_ART,,,en,1.0
+"this Wednesday, November 26","this Wednesday, November 26",DATE,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+this Wednesday,this Wednesday,DATE,,,en,1.0
+only one,only one,CARDINAL,,,en,1.0
