@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2025-12-08T03:45:00+00:00,Gabon,0.7689858716866457,0,1,fr,CAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2025-12-03T03:40:00+00:00,Burundi,0.7627260888292541,0,1,fr,SEAF,Africa
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2025-12-08T03:45:00+00:00,Togo,0.7566695797201684,0,1,fr,WAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.7535980920043608,0,1,fr,MDG,Africa
