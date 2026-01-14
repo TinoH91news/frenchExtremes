@@ -1,20 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6491790509997899,1,3,fr,WCE,Europe
-'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.6402853427763697,1,1,fr,MDG,Africa
-'ebb583160c',extremes,Precipitation,#d60d2b,wmo,averses dans les régions montagneuses et orientales,2025-12-06T03:32:00+00:00,Madagascar,0.6388983466095045,1,1,fr,MDG,Africa
 '9b4f517f6d',extremes,Flood,#030ba1,wmo,inondations du rhône gard,2025-12-03T03:40:00+00:00,France,0.58388478723741,2,2,fr,WCE,Europe
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2025-12-02T03:41:00+00:00,Canada,0.5808978707467397,1,2,fr,NEN,North-America
-'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2025-12-01T04:02:00+00:00,Canada,0.5795865649347002,1,2,fr,NEN,North-America
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2025-12-04T03:42:00+00:00,Canada,0.5775616590871249,1,2,fr,NEN,North-America
-'a2c72301a8',extremes,Drought,#edc291,edo,sécheresse au Cameroun,2025-12-08T03:45:00+00:00,Cameroon,0.5760657536972514,1,1,fr,CAF,Africa
-'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2025-12-06T03:32:00+00:00,Burkina Faso,0.5759153721652682,1,1,fr,WAF,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2025-12-08T03:45:00+00:00,Belgium,0.5713629718238399,1,2,fr,WCE,Europe
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2025-12-10T03:45:00+00:00,Canada,0.5622626194234128,2,1,fr,NEN,North-America
 '632d096d56',extremes,Storm,#b3b2b1,wmo,tempête postville makkovik,2025-12-06T03:32:00+00:00,Canada,0.56134706130365,1,1,fr,NEN,North-America
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2025-11-30T03:47:00+00:00,Reunion,0.5598410431234839,1,2,fr,SIO,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.5472192355077248,2,2,fr,WCE,Europe
-'a7e8b5d526',extremes,Flood,#030ba1,wmo,inondation yakima wa,2025-12-12T03:45:00+00:00,United States,0.5416029355930257,0,2,fr,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,inondation de clackamas ou de multnomah ou,2025-12-10T03:45:00+00:00,United States,0.5408244937988705,0,2,fr,CNA,North-America
 'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,"cheval blanc des neiges, teslin",2025-12-06T03:32:00+00:00,Canada,0.538168895647556,1,1,fr,NEN,North-America
 '62e20da5ce',extremes,Flood,#030ba1,wmo,crue éclair Cowlitz wa,2025-12-10T03:45:00+00:00,United States,0.537630527508299,0,2,fr,CNA,North-America
