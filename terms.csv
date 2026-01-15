@@ -190,3 +190,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a979be575d',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de neige,2025-12-18T03:44:00+00:00,Canada,0.3816190193983373,3,1,fr,NEN,North-America
 '57d5873e48',extremes,Storm,#b3b2b1,wmo,onde de tempête nain et environs,2025-12-19T03:46:00+00:00,Canada,0.3724595643189471,4,1,fr,NEN,North-America
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,tempête goldau ägeri,2025-12-16T03:47:00+00:00,Switzerland,0.3465087617638864,3,1,fr,WCE,Europe
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,année la plus froide,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,fr,,
+'b6cef22543',extremes,Drought,#edc291,random,restriction d'eau,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,fr,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,rivière atmosphérique,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,fr,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de froid,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,fr,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,glace de mer arctique,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,fr,,
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,fr,,
