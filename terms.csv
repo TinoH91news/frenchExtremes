@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.7722186796260393,0,1,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7720469132889807,0,1,fr,WCE,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.6724259561695575,1,1,fr,CAR,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-01-15T10:57:00+00:00,France,0.6721215215296484,1,1,fr,WCE,Europe
