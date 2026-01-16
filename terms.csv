@@ -1,7 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T10:57:00+00:00,Burundi,0.791103016732625,0,1,fr,SEAF,Africa
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7720469132889807,0,1,fr,WCE,Europe
+'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.771698242970826,0,1,fr,WCE,Europe
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-01-15T12:14:00+00:00,France,0.7716418680529267,0,1,fr,WCE,Europe
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.7715513240134599,0,1,fr,WCE,Europe
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.7123738173182139,0,1,fr,NWN,North-America
+'485794e3d4',extremes,Earthquake,#870007,usgs,tremblement de terre au Canada,2026-01-15T12:13:00+00:00,Canada,0.7119924813504634,0,1,fr,NWN,North-America
+'16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-01-15T10:57:00+00:00,Tunisia,0.7115490101724554,0,1,fr,MED,Africa
+'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.7114231478034013,0,1,fr,EIO,Indian Ocean
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.6724259561695575,1,1,fr,CAR,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-01-15T10:57:00+00:00,France,0.6721215215296484,1,1,fr,WCE,Europe
