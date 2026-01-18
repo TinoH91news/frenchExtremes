@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T10:57:00+00:00,Burundi,0.791103016732625,0,1,fr,SEAF,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7339181840229062,1,3,fr,WCE,Europe
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.7114231478034013,0,1,fr,EIO,Indian Ocean
 'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-01-15T10:57:00+00:00,Haiti,0.7113286999298303,0,1,fr,CAR,North-America
@@ -8,6 +9,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd4355d0ec',extremes,Snow&Ice,#d60d2b,wmo,glace kangiqsujuaq lac raglan,2026-01-15T10:56:00+00:00,Canada,0.6949338575260333,0,1,fr,NEN,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,neige gatineau,2026-01-15T10:56:00+00:00,Canada,0.6949292791332838,0,1,fr,NEN,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6947801288249118,0,1,fr,NEN,North-America
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.6947680305653801,0,1,fr,NEN,North-America
+'854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-01-15T10:56:00+00:00,Canada,0.6946803562822902,0,1,fr,NEN,North-America
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.6946755098843629,0,1,fr,NEN,North-America
+'4e03bb2fcd',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Anticosti,2026-01-15T12:14:00+00:00,Canada,0.6946656887552112,0,1,fr,NEN,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.694663389970598,0,1,fr,NEN,North-America
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.6724259561695575,1,1,fr,CAR,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-01-15T10:57:00+00:00,France,0.6721215215296484,1,1,fr,WCE,Europe
