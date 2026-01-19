@@ -1,3 +1,13 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Météo France,Météo France,PERSON,-0.10000000000000002,0.4000000000000001,en,1
-Deicing spray,Deicing spray,PERSON,-0.16666666666666666,0.06666666666666667,en,1
+Storm Goretti,Storm Goretti,PERSON,-0.22471509971509976,0.7332621082621082,en,5.2
+Alexandre Texier,Alexandre Texier,PERSON,0.0,0.0,en,1.3
+HBO Max,HBO Max,PERSON,0.0,0.0,en,1.3
+Météo France,Météo France,PERSON,-0.10000000000000002,0.4000000000000001,en,1.0
+Deicing spray,Deicing spray,PERSON,-0.16666666666666666,0.06666666666666667,en,1.0
+Tom Cruise”,Tom Cruise”,PERSON,0.1,0.15,en,1.0
+Goretti Storm,Goretti Storm,PERSON,0.0,0.0,en,1.0
+Pascal Praud,Pascal Praud,PERSON,0.0,0.0,en,1.0
+Jacob Tierney,Jacob Tierney,PERSON,0.4166666666666667,0.5833333333333334,en,1.0
+Montreal Canadiens,Montreal Canadiens,PERSON,0.5555555555555555,0.5555555555555555,en,1.0
+Jesse Kortuem,Jesse Kortuem,PERSON,-0.05,0.4,en,1.0
+Yorick Treille,Yorick Treille,PERSON,0.0,0.0,en,1.0
