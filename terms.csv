@@ -3,14 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7339181840229062,1,3,fr,WCE,Europe
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
-'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-01-15T10:57:00+00:00,Niger,0.6719022663693175,1,1,fr,SAH,Africa
-'4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.6718897271183967,1,1,fr,WAF,Africa
-'904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-01-15T10:57:00+00:00,Togo,0.6718698521381952,1,1,fr,WAF,Africa
-'6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.6716344395193603,1,1,fr,CAR,North-America
-'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-01-15T10:56:00+00:00,New Caledonia,0.6688610007733496,1,1,fr,SPO,Pacific Ocean
-'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-01-15T12:14:00+00:00,France,0.6560456028449877,1,1,fr,WCE,Europe
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
-'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-01-15T12:14:00+00:00,Gabon,0.6506267640609684,0,1,fr,CAF,Africa
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6491790509997899,1,3,fr,WCE,Europe
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-01-15T12:14:00+00:00,Democratic Republic of the Congo,0.6479815878880721,0,1,fr,CAF,Africa
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-01-15T12:14:00+00:00,Republic of the Congo,0.6452596111135087,0,1,fr,CAF,Africa
@@ -43,6 +36,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.5715620627441238,2,1,fr,CAR,North-America
 'c08305ef9e',extremes,Drought,#edc291,edo,sécheresse martinique,2026-01-15T10:57:00+00:00,Martinique,0.5715079180892099,2,1,fr,CAR,North-America
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-01-15T10:57:00+00:00,Republic of the Congo,0.5712393364616525,2,1,fr,CAF,Africa
+'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-01-15T10:57:00+00:00,Niger,0.5711169264139199,2,1,fr,SAH,Africa
+'4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.5711062680506371,2,1,fr,WAF,Africa
+'904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-01-15T10:57:00+00:00,Togo,0.5710893743174659,2,1,fr,WAF,Africa
+'6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.5708892735914562,2,1,fr,CAR,North-America
+'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-01-15T10:56:00+00:00,New Caledonia,0.5685318506573472,2,1,fr,SPO,Pacific Ocean
+'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-01-15T12:14:00+00:00,France,0.5577887774182395,2,1,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2025-12-15T03:54:00+00:00,Canada,0.5543768945791797,1,2,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2025-12-09T03:41:00+00:00,France,0.5472192355077248,2,2,fr,WCE,Europe
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2025-12-16T03:47:00+00:00,Gabon,0.5309894974186236,2,1,fr,CAF,Africa
