@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6491790509997899,1,3,fr,WCE,Europe
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.6412378359264538,0,1,fr,MDG,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-01-15T10:56:00+00:00,Canada,0.6132045022385612,1,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-01-19T04:03:00+00:00,Belgium,0.6129982229501937,2,1,fr,WCE,Europe
@@ -24,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.590702840980573,1,1,fr,NEN,North-America
 'bd4355d0ec',extremes,Snow&Ice,#d60d2b,wmo,glace kangiqsujuaq lac raglan,2026-01-15T10:56:00+00:00,Canada,0.5906937788971283,1,1,fr,NEN,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,neige gatineau,2026-01-15T10:56:00+00:00,Canada,0.5906898872632913,1,1,fr,NEN,North-America
-'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5904754122937634,1,1,fr,NEN,North-America
 '4e03bb2fcd',extremes,Storm,#b3b2b1,wmo,tempête Natashquan Anticosti,2026-01-15T12:14:00+00:00,Canada,0.5904658354419294,1,1,fr,NEN,North-America
 '0d0b4f15b5',extremes,Snow&Ice,#d60d2b,wmo,gatineau glaciale,2026-01-15T12:14:00+00:00,Canada,0.5904419820709992,1,1,fr,NEN,North-America
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neige alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5902756937266439,1,1,fr,WCE,Europe
@@ -69,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91ba4b4be9',extremes,Storm,#b3b2b1,wmo,tempête vaucluse var bouches du rhône,2025-12-16T03:47:00+00:00,France,0.5030299099867793,2,1,fr,WCE,Europe
 '17ba0be079',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie,2025-12-18T03:44:00+00:00,France,0.5028809572801529,1,2,fr,WCE,Europe
 '0b5987a8ca',extremes,Storm,#b3b2b1,wmo,"tempête vallée du fraser est, y compris Hope",2025-12-16T03:47:00+00:00,Canada,0.5026153700522158,2,1,fr,NEN,North-America
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5019041004496989,2,1,fr,NEN,North-America
 '5f00dfbaae',extremes,Snow&Ice,#d60d2b,wmo,port de Frost Sachs,2025-12-14T03:49:00+00:00,Canada,0.5017793678460292,1,1,fr,NEN,North-America
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2025-12-16T03:47:00+00:00,France,0.4984012640021844,4,2,fr,WCE,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,onde de tempête erstfeld engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.4934696932528252,1,1,fr,WCE,Europe
@@ -113,5 +112,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6cef22543',extremes,Drought,#edc291,random,restriction d'eau,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,fr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rivière atmosphérique,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,fr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de froid,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,fr,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,glace de mer arctique,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,fr,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,fr,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,glace de mer arctique,2026-01-15T10:20:00+00:00,,0.2197549017680758,1,1,fr,,
