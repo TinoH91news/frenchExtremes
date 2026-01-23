@@ -99,8 +99,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,crue éclair de Washington ou,2025-12-19T03:46:00+00:00,United States,0.4564969106961761,1,1,fr,CNA,North-America
 '2b20a18bcb',extremes,Drought,#edc291,edo,période sèche au maroc,2025-12-16T03:47:00+00:00,Morocco,0.4154504864376675,2,2,fr,MED,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,année la plus froide,2026-01-15T10:20:00+00:00,,0.3735477452419774,1,3,fr,,
-'b6cef22543',extremes,Drought,#edc291,random,restriction d'eau,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,fr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rivière atmosphérique,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,fr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de froid,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,fr,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,fr,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,glace de mer arctique,2026-01-15T10:20:00+00:00,,0.2197549017680758,1,1,fr,,
+'b6cef22543',extremes,Drought,#edc291,random,restriction d'eau,2026-01-15T10:20:00+00:00,,0.21909480665914172,1,1,fr,,
