@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T10:57:00+00:00,Burundi,0.791103016732625,0,1,fr,SEAF,Africa
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.7370615828042703,2,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7339181840229062,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-01-15T12:14:00+00:00,France,0.7155360176249673,1,2,fr,WCE,Europe
@@ -10,10 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6491790509997899,1,3,fr,WCE,Europe
-'2afafe092f',extremes,Storm,#b3b2b1,wmo,"tempête du lac Baker, entrée de Chesterfield",2026-01-23T04:03:00+00:00,Canada,0.6482510071379808,0,1,fr,NEN,North-America
-'4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.6411840238826103,0,1,fr,SPO,Pacific Ocean
-'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.6411342504650115,0,1,fr,SPO,Pacific Ocean
-'5bf34f285a',extremes,Earthquake,#870007,usgs,tremblement de terre en Italie,2026-01-15T10:56:00+00:00,Italy,0.6409157297298005,0,1,fr,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,tremblement de terre à port-vila,2026-01-15T10:56:00+00:00,Vanuatu,0.6409095141685037,0,1,fr,SPO,Oceania
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
@@ -27,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-01-15T10:57:00+00:00,Switzerland,0.6036319461420568,1,1,fr,WCE,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
 '3d1606b5f1',extremes,Storm,#b3b2b1,wmo,tempête nord de la péninsule est,2025-12-15T03:54:00+00:00,Canada,0.5980114896129449,2,2,fr,NEN,North-America
+'5bf34f285a',extremes,Earthquake,#870007,usgs,tremblement de terre en Italie,2026-01-15T10:56:00+00:00,Italy,0.5952284152703304,1,1,fr,MED,Europe
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,glace luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.5939590472334063,2,1,fr,WCE,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.5918140164750083,1,1,fr,NEN,North-America
 '911ab8d369',extremes,Snow&Ice,#d60d2b,wmo,la France glaciale,2026-01-17T03:44:00+00:00,France,0.5917501329034178,1,2,fr,WCE,Europe
@@ -61,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3e91f9222',extremes,Snow&Ice,#d60d2b,wmo,parc ice wawa pukaskwa,2026-01-22T03:59:00+00:00,Canada,0.5535658466992018,1,1,fr,NEN,North-America
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-01-15T12:14:00+00:00,Gabon,0.5530327494518231,1,1,fr,CAF,Africa
 '88940b9c93',extremes,Snow&Ice,#d60d2b,wmo,rivière Clyde glacée,2026-01-18T03:57:00+00:00,Canada,0.552802167726729,1,1,fr,NEN,North-America
+'2afafe092f',extremes,Storm,#b3b2b1,wmo,"tempête du lac Baker, entrée de Chesterfield",2026-01-23T04:03:00+00:00,Canada,0.5510133560672836,1,1,fr,NEN,North-America
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-01-15T12:14:00+00:00,Democratic Republic of the Congo,0.5507843497048613,1,1,fr,CAF,Africa
 'cbb8c6c5dc',extremes,Snow&Ice,#d60d2b,wmo,passage Ice Buffalo et lac Peter Pond,2026-01-21T03:56:00+00:00,Canada,0.5494489553495127,1,1,fr,NEN,North-America
 'a979be575d',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de neige,2026-01-23T04:03:00+00:00,Canada,0.5493999986133699,1,1,fr,NEN,North-America
@@ -74,6 +71,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a241cba1ba',extremes,Volcano,#b83202,eonet,volcan Ambrym Vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5452728613777,1,1,fr,SPO,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.5450559050318572,1,1,fr,SIO,Indian Ocean
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.5450521605374857,1,1,fr,MDG,Africa
+'4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.5450064203002187,1,1,fr,SPO,Pacific Ocean
+'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5449641128952597,1,1,fr,SPO,Pacific Ocean
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2025-12-15T03:54:00+00:00,Switzerland,0.526369475807769,1,1,fr,WCE,Europe
 '72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2025-12-18T03:44:00+00:00,France,0.5242337454403903,2,1,fr,WCE,Europe
 'bf631416e9',extremes,Flood,#030ba1,wmo,crue du gard hérault,2025-12-19T03:46:00+00:00,France,0.51928722513827,2,1,fr,WCE,Europe
