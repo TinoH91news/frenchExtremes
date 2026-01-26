@@ -1,140 +1,201 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Sunday,Sunday,DATE,,,en,5.700000000000001
-evening,evening,TIME,,,en,5.7
-Friday,Friday,DATE,,,en,5.2
+evening,evening,TIME,,,en,7.3
+Sunday,Sunday,DATE,,,en,7.000000000000001
+Thursday,Thursday,DATE,,,en,6.7
+Friday,Friday,DATE,,,en,6.6000000000000005
+morning,morning,TIME,,,en,6.5
+two,two,CARDINAL,,,en,5.999999999999999
+Saturday,Saturday,DATE,,,en,5.8999999999999995
 French,French,NORP,,,en,5.1
-two,two,CARDINAL,,,en,4.3
-morning,morning,TIME,,,en,4.0
-Thursday,Thursday,DATE,,,en,3.8
-Saturday,Saturday,DATE,,,en,3.5999999999999996
-2025,2025,DATE,,,en,3.4
+Tuesday,Tuesday,DATE,,,en,4.3
+2025,2025,DATE,,,en,4.3
+21,21,CARDINAL,,,en,3.8
+three,three,CARDINAL,,,en,3.8
+Wednesday,Wednesday,DATE,,,en,3.0999999999999996
 this weekend,this weekend,DATE,,,en,3.0999999999999996
+Monday,Monday,DATE,,,en,2.9999999999999996
+first,first,ORDINAL,,,en,2.9999999999999996
+the day,the day,DATE,,,en,2.8
 tonight,tonight,TIME,,,en,2.8
 winter,winter,DATE,,,en,2.6
 Six,Six,CARDINAL,,,en,2.4
-21,21,CARDINAL,,,en,2.4
+10 a.m.,10 a.m.,TIME,,,en,2.4
 next night,next night,TIME,,,en,2.4
-three,three,CARDINAL,,,en,2.1
+half,half,CARDINAL,,,en,2.4
 thousands,thousands,CARDINAL,,,en,2.1
+Two,Two,CARDINAL,,,en,2.0
+today,today,DATE,,,en,2.0
 this evening,this evening,TIME,,,en,1.9
-7,7,CARDINAL,,,en,1.8
 this Monday,this Monday,DATE,,,en,1.8
-10 a.m.,10 a.m.,TIME,,,en,1.7
-today,today,DATE,,,en,1.7
-Tuesday,Tuesday,DATE,,,en,1.7
+7,7,CARDINAL,,,en,1.8
+up to 160 km,up to 160 km,QUANTITY,,,en,1.8
 24,24,CARDINAL,,,en,1.7
-the evening,the evening,TIME,,,en,1.7
-half,half,CARDINAL,,,en,1.7
+up to 150 millimeters,up to 150 millimeters,CARDINAL,,,en,1.7
 six,six,CARDINAL,,,en,1.7
-Two,Two,CARDINAL,,,en,1.7
-Monday,Monday,DATE,,,en,1.7
-Wednesday,Wednesday,DATE,,,en,1.7
-first,first,ORDINAL,,,en,1.7
+26,26,CARDINAL,,,en,1.7
+1,1,CARDINAL,,,en,1.7
+12,12,CARDINAL,,,en,1.7
+9,9,CARDINAL,,,en,1.7
+the evening,the evening,TIME,,,en,1.7
+the night,the night,TIME,,,en,1.7
+6 a.m.,6 a.m.,TIME,,,en,1.7
+6 p.m.,6 p.m.,TIME,,,en,1.7
+this Saturday,this Saturday,DATE,,,en,1.7
+220 millimeters,220 millimeters,QUANTITY,,,en,1.7
+two to three,two to three,CARDINAL,,,en,1.7
+a month,a month,DATE,,,en,1.7
+this morning,this morning,TIME,,,en,1.7
+Corsica,Corsica,PRODUCT,0.0,0.0,en,1.7
+this year,this year,DATE,,,en,1.6
 Christmas,Christmas,DATE,,,en,1.6
 Canadian,Canadian,NORP,,,en,1.6
-Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.3
-one,one,CARDINAL,,,en,1.3
-recent days,recent days,DATE,,,en,1.3
+Five,Five,CARDINAL,,,en,1.3
+the end of the month,the end of the month,DATE,,,en,1.3
 February 6,February 6,DATE,,,en,1.3
+Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.3
 months,months,DATE,,,en,1.3
+recent days,recent days,DATE,,,en,1.3
+one,one,CARDINAL,,,en,1.3
+2020,2020,DATE,,,en,1.3
+the Pyrénées-Orientales,the Pyrénées-Orientales,FAC,,,en,1.3
 American,American,NORP,,,en,1.3
+2026,2026,DATE,,,en,1.3
+Czech,Czech,NORP,,,en,1.3
+seconds,seconds,TIME,,,en,1.1
 this winter,this winter,DATE,,,en,1.1
 less than €4,less than €4,MONEY,,,en,1.1
-seconds,seconds,TIME,,,en,1.1
+each year,each year,DATE,,,en,1.0
+this Wednesday,this Wednesday,DATE,,,en,1.0
+13 minutes,13 minutes,TIME,,,en,1.0
+three-quarters,three-quarters,CARDINAL,,,en,1.0
+2 p.m.,2 p.m.,TIME,,,en,1.0
+"95,600","95,600",CARDINAL,,,en,1.0
+300 meters,300 meters,QUANTITY,,,en,1.0
+5 to 10 cm,5 to 10 cm,QUANTITY,,,en,1.0
+more than 215 km,more than 215 km,QUANTITY,,,en,1.0
+200 km,200 km,QUANTITY,,,en,1.0
+the past two decades,the past two decades,DATE,,,en,1.0
+"around 4,000","around 4,000",CARDINAL,,,en,1.0
 "211,000","211,000",CARDINAL,,,en,1.0
+"Some 380,000","Some 380,000",CARDINAL,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
 the end of November 2025,the end of November 2025,DATE,,,en,1.0
+6:00 a.m.,6:00 a.m.,TIME,,,en,1.0
+"some 380,000","some 380,000",CARDINAL,,,en,1.0
 Olympics,Olympics,EVENT,,,en,1.0
 One month,One month,DATE,,,en,1.0
-Quebecers,Quebecers,NORP,,,en,1.0
-the day,the day,DATE,,,en,1.0
-Friday January 9,Friday January 9,DATE,,,en,1.0
-Winter Olympics 2026,Winter Olympics 2026,DATE,,,en,1.0
-2 p.m.,2 p.m.,TIME,,,en,1.0
-more than 210 km,more than 210 km,QUANTITY,,,en,1.0
-the end of November,the end of November,DATE,,,en,1.0
-"around 4,000","around 4,000",CARDINAL,,,en,1.0
-"this Wednesday, November 26","this Wednesday, November 26",DATE,,,en,1.0
-the past two decades,the past two decades,DATE,,,en,1.0
-each year,each year,DATE,,,en,1.0
 "3,000","3,000",CARDINAL,,,en,1.0
-200 km,200 km,QUANTITY,,,en,1.0
-6:00 a.m.,6:00 a.m.,TIME,,,en,1.0
-"Some 380,000","Some 380,000",CARDINAL,,,en,1.0
-more than 215 km,more than 215 km,QUANTITY,,,en,1.0
-weeks,weeks,DATE,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-Frenchman,Frenchman,NORP,,,en,1.0
-this Saturday,this Saturday,DATE,,,en,1.0
-a tragic weekend,a tragic weekend,DATE,,,en,1.0
+Friday January 9,Friday January 9,DATE,,,en,1.0
+more than 210 km,more than 210 km,QUANTITY,,,en,1.0
+the Zeekr 7GT,the Zeekr 7GT,FAC,,,en,1.0
+between 06:00 and 09:00,between 06:00 and 09:00,TIME,,,en,1.0
+Savoyard,Savoyard,FAC,,,en,1.0
+180 to 220 mm,180 to 220 mm,QUANTITY,,,en,1.0
+108 seasons,108 seasons,DATE,,,en,1.0
+Quebecers,Quebecers,NORP,,,en,1.0
+a quarter,a quarter,DATE,,,en,1.0
+15 5,15 5,CARDINAL,,,en,1.0
+last year,last year,DATE,,,en,1.0
+Winter Olympics 2026,Winter Olympics 2026,DATE,,,en,1.0
+2023,2023,DATE,,,en,1.0
+late in the morning,late in the morning,TIME,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+the end of the day,the end of the day,DATE,,,en,1.0
+More than 300,More than 300,CARDINAL,,,en,1.0
+312.2 liters,312.2 liters,QUANTITY,,,en,1.0
+Castanet-le-Haut,Castanet-le-Haut,FAC,,,en,1.0
+every day,every day,DATE,,,en,1.0
 the Milan-Cortina Olympics,the Milan-Cortina Olympics,FAC,,,en,1.0
+a tragic weekend,a tragic weekend,DATE,,,en,1.0
+one meter,one meter,QUANTITY,,,en,1.0
+2012,2012,DATE,,,en,1.0
+5,5,CARDINAL,,,en,1.0
+the end of November,the end of November,DATE,,,en,1.0
+Frenchman,Frenchman,NORP,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+the beginning of the 19th century,the beginning of the 19th century,DATE,,,en,1.0
 One,One,CARDINAL,,,en,1.0
+Seine-Saint-Denis,Seine-Saint-Denis,FAC,,,en,1.0
 sixth,sixth,ORDINAL,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
 afternoon,afternoon,TIME,,,en,1.0
 late Sunday,late Sunday,TIME,,,en,1.0
 six this weekend,six this weekend,DATE,,,en,1.0
 early in the afternoon,early in the afternoon,TIME,,,en,1.0
 British,British,NORP,,,en,1.0
-late in the morning,late in the morning,TIME,,,en,1.0
-Savoyard,Savoyard,FAC,,,en,1.0
-this Wednesday,this Wednesday,DATE,,,en,1.0
-the Zeekr 7GT,the Zeekr 7GT,FAC,,,en,1.0
-13 minutes,13 minutes,TIME,,,en,1.0
-three-quarters,three-quarters,CARDINAL,,,en,1.0
-"95,600","95,600",CARDINAL,,,en,1.0
-108 seasons,108 seasons,DATE,,,en,1.0
-Seine-Saint-Denis,Seine-Saint-Denis,FAC,,,en,1.0
-300 meters,300 meters,QUANTITY,,,en,1.0
-5 to 10 cm,5 to 10 cm,QUANTITY,,,en,1.0
 "380,000","380,000",CARDINAL,,,en,1.0
-160 km/h,160 km/h,QUANTITY,,,en,1.0
-213 km/h,213 km/h,QUANTITY,,,en,1.0
-Saturday December 27,Saturday December 27,DATE,,,en,1.0
-the New Year's,the New Year's,EVENT,,,en,1.0
-the final days,the final days,DATE,,,en,1.0
-overnight,overnight,TIME,,,en,1.0
-"Thursday, December 11","Thursday, December 11",DATE,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
 "yesterday, December 16","yesterday, December 16",DATE,,,en,1.0
-up to 150 mm,up to 150 mm,QUANTITY,,,en,1.0
-the Pyrénées-Orientales,the Pyrénées-Orientales,FAC,,,en,1.0
-100 to 200 mm,100 to 200 mm,QUANTITY,,,en,1.0
+213 km/h,213 km/h,QUANTITY,,,en,1.0
+Christmas night,Christmas night,TIME,,,en,1.0
+2010,2010,DATE,,,en,1.0
+Saturday December 27,Saturday December 27,DATE,,,en,1.0
 this Thursday,this Thursday,DATE,,,en,1.0
-this Tuesday,this Tuesday,DATE,,,en,1.0
-Hauts,Hauts,NORP,,,en,1.0
-Cold Snap,Cold Snap,PRODUCT,,,en,1.0
-8 p.m.,8 p.m.,TIME,,,en,1.0
-this Friday,this Friday,DATE,,,en,1.0
-second,second,ORDINAL,,,en,1.0
-Every year,Every year,DATE,,,en,1.0
-this year,this year,DATE,,,en,1.0
-the start of the Christmas holidays,the start of the Christmas holidays,DATE,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
-every year,every year,DATE,,,en,1.0
-A week,A week,DATE,,,en,1.0
+100 to 200 mm,100 to 200 mm,QUANTITY,,,en,1.0
+up to 150 mm,up to 150 mm,QUANTITY,,,en,1.0
+Yukon,Yukon,FAC,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+the final days,the final days,DATE,,,en,1.0
+the New Year's,the New Year's,EVENT,,,en,1.0
 January 1st and 2nd,January 1st and 2nd,DATE,,,en,1.0
 "this Sunday, December 28","this Sunday, December 28",DATE,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-several days,several days,DATE,,,en,1.0
-New Year,New Year,EVENT,,,en,1.0
-170 km,170 km,QUANTITY,,,en,1.0
-20 Minutes,20 Minutes,WORK_OF_ART,,,en,1.0
-up to 160 km,up to 160 km,QUANTITY,,,en,1.0
-exceeding 140 km/h,exceeding 140 km/h,QUANTITY,,,en,1.0
-up to 100 km,up to 100 km,QUANTITY,,,en,1.0
-Thursday evening,Thursday evening,TIME,,,en,1.0
-12,12,CARDINAL,,,en,1.0
-Today,Today,DATE,,,en,1.0
-Inuit,Inuit,NORP,,,en,1.0
-more than 80 years,more than 80 years,DATE,,,en,1.0
-Deicing spray,Deicing spray,WORK_OF_ART,,,en,1.0
-32,32,CARDINAL,,,en,1.0
-the coming decades,the coming decades,DATE,,,en,1.0
-"more than 1,000 km","more than 1,000 km",QUANTITY,,,en,1.0
-Yukon,Yukon,FAC,,,en,1.0
-Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
-26,26,CARDINAL,,,en,1.0
-New Year's Eve,New Year's Eve,EVENT,,,en,1.0
-the first days of 2026,the first days of 2026,DATE,,,en,1.0
 only one,only one,CARDINAL,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
+4,4,CARDINAL,,,en,1.0
+Deicing spray,Deicing spray,WORK_OF_ART,,,en,1.0
+Belgian,Belgian,NORP,,,en,1.0
+Christmas 2025,Christmas 2025,DATE,,,en,1.0
+Wednesday evening,Wednesday evening,TIME,,,en,1.0
+New Year's Eve,New Year's Eve,EVENT,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+A week,A week,DATE,,,en,1.0
+New Year,New Year,EVENT,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+every year,every year,DATE,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+the start of the Christmas holidays,the start of the Christmas holidays,DATE,,,en,1.0
+Every year,Every year,DATE,,,en,1.0
+"Thursday, December 11","Thursday, December 11",DATE,,,en,1.0
+this Friday,this Friday,DATE,,,en,1.0
+8 p.m.,8 p.m.,TIME,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+almost 40 years,almost 40 years,DATE,,,en,1.0
+this Tuesday,this Tuesday,DATE,,,en,1.0
+several days,several days,DATE,,,en,1.0
+the first days of 2026,the first days of 2026,DATE,,,en,1.0
+the first two days of the year 2026,the first two days of the year 2026,DATE,,,en,1.0
+213 km,213 km,QUANTITY,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+more than 80 years,more than 80 years,DATE,,,en,1.0
+Inuit,Inuit,NORP,,,en,1.0
+Today,Today,DATE,,,en,1.0
+European,European,NORP,,,en,1.0
+CSG,CSG,PRODUCT,,,en,1.0
+between 22 and 50 billion euros,between 22 and 50 billion euros,MONEY,,,en,1.0
+German,German,NORP,,,en,1.0
+Thursday evening,Thursday evening,TIME,,,en,1.0
+Cold Snap,Cold Snap,PRODUCT,,,en,1.0
+up to 100 km,up to 100 km,QUANTITY,,,en,1.0
+exceeding 140 km/h,exceeding 140 km/h,QUANTITY,,,en,1.0
+20 Minutes,20 Minutes,WORK_OF_ART,,,en,1.0
+170 km,170 km,QUANTITY,,,en,1.0
+160 km/h,160 km/h,QUANTITY,,,en,1.0
+Hauts,Hauts,NORP,,,en,1.0
+"this Wednesday, November 26","this Wednesday, November 26",DATE,,,en,1.0
+25%,25%,PERCENT,,,en,1.0
+several decades,several decades,DATE,,,en,1.0
+Roissy airport,Roissy airport,FAC,,,en,1.0
+Tuesday morning,Tuesday morning,TIME,,,en,1.0
+"more than 1,000 km","more than 1,000 km",QUANTITY,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+night,night,TIME,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+this Monday January 5,this Monday January 5,DATE,,,en,1.0
+last night,last night,TIME,,,en,1.0
+the coming decades,the coming decades,DATE,,,en,1.0
+13th,13th,ORDINAL,,,en,1.0
+a thirteenth year,a thirteenth year,DATE,,,en,1.0
+2014,2014,DATE,,,en,1.0
+year 2026,year 2026,DATE,,,en,1.0
+38,38,CARDINAL,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+a day,a day,DATE,,,en,1.0
