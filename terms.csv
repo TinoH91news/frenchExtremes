@@ -15,6 +15,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc178afc30',extremes,Drought,#edc291,edo,sécheresse maurice,2026-01-15T10:57:00+00:00,Mauritius,0.6402651048260497,0,1,fr,SIO,Indian Ocean
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,manque de pluie italie,2026-01-15T10:57:00+00:00,Italy,0.6395412508515138,0,1,fr,MED,Europe
+'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T12:14:00+00:00,Burundi,0.6394199949738559,0,1,fr,SEAF,Africa
+'8d0ed31346',extremes,Snow&Ice,#d60d2b,wmo,glace gatineau,2026-01-23T04:03:00+00:00,Canada,0.6393585068311212,0,1,fr,NEN,North-America
+'648c26f911',extremes,Drought,#edc291,edo,manque de pluie en Grèce,2026-01-15T10:57:00+00:00,Greece,0.6393498147281639,0,1,fr,MED,Europe
+'cb76af3bfd',extremes,Snow&Ice,#d60d2b,wmo,parc des bancs de sable de Picton,2026-01-23T04:03:00+00:00,Canada,0.6392539524997474,0,1,fr,NEN,North-America
+'d1efe0beab',extremes,Snow&Ice,#d60d2b,wmo,neige Minganie Natashquan,2026-01-21T03:56:00+00:00,Canada,0.6391399461085339,0,1,fr,NEN,North-America
+'4aaac465b6',extremes,Storm,#b3b2b1,wmo,onde de tempête côtes d'armor finistère morbihan,2026-01-20T03:56:00+00:00,France,0.6388656058219156,0,1,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-01-15T10:56:00+00:00,France,0.6291252880349888,1,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-01-19T04:03:00+00:00,Belgium,0.6129982229501937,2,1,fr,WCE,Europe
