@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2025-12-04T03:42:00+00:00,France,0.6491790509997899,1,3,fr,WCE,Europe
-'bc178afc30',extremes,Drought,#edc291,edo,sécheresse maurice,2026-01-15T10:57:00+00:00,Mauritius,0.6402651048260497,0,1,fr,SIO,Indian Ocean
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,manque de pluie italie,2026-01-15T10:57:00+00:00,Italy,0.6395412508515138,0,1,fr,MED,Europe
 'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T12:14:00+00:00,Burundi,0.6394199949738559,0,1,fr,SEAF,Africa
@@ -84,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.5450521605374857,1,1,fr,MDG,Africa
 '4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.5450064203002187,1,1,fr,SPO,Pacific Ocean
 'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5449641128952597,1,1,fr,SPO,Pacific Ocean
+'bc178afc30',extremes,Drought,#edc291,edo,sécheresse maurice,2026-01-15T10:57:00+00:00,Mauritius,0.5448253991021422,1,1,fr,SIO,Indian Ocean
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,tremblement de terre en Grèce,2026-01-15T10:56:00+00:00,Greece,0.5448188594047062,1,1,fr,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,tremblement de terre à port-vila,2026-01-15T10:56:00+00:00,Vanuatu,0.5447730870432281,1,1,fr,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,tremblement de terre isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.5447573873877892,1,1,fr,SPO,Pacific Ocean
@@ -96,24 +96,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête Brésil,2025-12-14T03:49:00+00:00,Brazil,0.5137569865173798,1,2,fr,SAM,South-America
 'fa97d4c797',extremes,Snow&Ice,#d60d2b,wmo,avalanche williston,2025-12-19T03:46:00+00:00,Canada,0.5134105557213369,1,1,fr,NEN,North-America
 '83f88980b5',extremes,Storm,#b3b2b1,wmo,onde de tempête minganie anticosti,2025-12-19T03:46:00+00:00,Canada,0.509473428795037,1,1,fr,NEN,North-America
-'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2025-12-12T03:46:00+00:00,Belgium,0.5090154848573892,1,2,fr,WCE,Europe
-'90fce750f8',extremes,Fog,#d60d2b,wmo,brouillard hainaut,2025-12-14T03:49:00+00:00,Belgium,0.5073602213427797,2,2,fr,WCE,Europe
 '17ba0be079',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie,2025-12-18T03:44:00+00:00,France,0.5028809572801529,1,2,fr,WCE,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5019041004496989,2,1,fr,NEN,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2025-12-19T03:46:00+00:00,Madagascar,0.4922670843471765,1,1,fr,MDG,Africa
 '9019645cef',extremes,Snow&Ice,#d60d2b,wmo,zone Snow Manic 5,2025-12-19T03:46:00+00:00,Canada,0.490829542922424,1,1,fr,NEN,North-America
-'0885918cd3',extremes,Snow&Ice,#d60d2b,wmo,avalanche sachs harbour ulukhaktok,2025-12-18T03:44:00+00:00,Canada,0.4861764350387275,1,1,fr,NEN,North-America
 'a72eb60f6b',extremes,Snow&Ice,#d60d2b,wmo,avalanche prince george mcgregor,2025-12-19T03:46:00+00:00,Canada,0.4823862805789193,1,1,fr,NEN,North-America
-'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2025-12-19T03:46:00+00:00,Ivory Coast,0.4708711704882791,1,1,fr,WAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2025-12-18T03:44:00+00:00,Canada,0.4669129774946408,2,2,fr,NEN,North-America
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,glace italie,2025-12-16T03:47:00+00:00,Italy,0.4648110886838236,1,2,fr,MED,Europe
-'cac8488dd8',extremes,Fog,#d60d2b,wmo,brouillard des îles Dodekanisa,2025-12-19T03:46:00+00:00,Greece,0.4623356178233317,1,1,fr,MED,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2025-12-15T03:54:00+00:00,France,0.4600410479517968,2,3,fr,WCE,Europe
-'b74cc3ed00',extremes,Flood,#030ba1,wmo,maçon wa flashflood,2025-12-19T03:46:00+00:00,United States,0.4587031967385966,1,1,fr,CNA,North-America
-'02dc9a1088',extremes,Flood,#030ba1,wmo,flashflood benton ou,2025-12-19T03:46:00+00:00,United States,0.4582553178373182,1,1,fr,CNA,North-America
-'3c41d4f8cf',extremes,Flood,#030ba1,wmo,flashflood Lincoln ou,2025-12-19T03:46:00+00:00,United States,0.4571006555205805,1,1,fr,CNA,North-America
-'0bcfb9c197',extremes,Flood,#030ba1,wmo,crue éclair de Washington ou,2025-12-19T03:46:00+00:00,United States,0.4564969106961761,1,1,fr,CNA,North-America
-'2b20a18bcb',extremes,Drought,#edc291,edo,période sèche au maroc,2025-12-16T03:47:00+00:00,Morocco,0.4154504864376675,2,2,fr,MED,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,année la plus froide,2026-01-15T10:20:00+00:00,,0.3735477452419774,1,3,fr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rivière atmosphérique,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,fr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de froid,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,fr,,
