@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-01-15T10:56:00+00:00,France,0.7721749892227526,0,1,fr,WCE,Europe
+'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-01-15T10:56:00+00:00,France,0.797665362202976,1,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7339181840229062,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-01-15T12:14:00+00:00,France,0.7155360176249673,1,2,fr,WCE,Europe
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6971341367750773,1,2,fr,WCE,Europe
@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '027e789b07',extremes,Flood,#030ba1,wmo,inondation finistère morbihan,2026-01-21T03:56:00+00:00,France,0.6929153866824495,1,2,fr,WCE,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-01-15T12:14:00+00:00,Burkina Faso,0.690978368201377,1,2,fr,WAF,Africa
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
-'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-01-15T10:57:00+00:00,French Guiana,0.6748303279430885,0,1,fr,NSA,South-America
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.6715784006961113,1,3,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d0b4f15b5',extremes,Snow&Ice,#d60d2b,wmo,gatineau glaciale,2026-01-15T12:14:00+00:00,Canada,0.5904419820709992,1,1,fr,NEN,North-America
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neige alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5902756937266439,1,1,fr,WCE,Europe
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-01-25T04:06:00+00:00,France,0.589226608201751,1,2,fr,WCE,Europe
+'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-01-15T10:57:00+00:00,French Guiana,0.5736057787516252,1,1,fr,NSA,South-America
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-01-15T10:57:00+00:00,France,0.5726534283002012,2,1,fr,WCE,Europe
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T10:57:00+00:00,Burundi,0.5715719295893215,2,1,fr,SEAF,Africa
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.5715620627441238,2,1,fr,CAR,North-America
