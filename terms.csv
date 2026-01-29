@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-01-15T10:56:00+00:00,France,0.797665362202976,1,3,fr,WCE,Europe
+'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-01-15T10:56:00+00:00,France,0.7602413751452568,2,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.7339181840229062,1,3,fr,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-01-28T03:56:00+00:00,Belgium,0.7170378639161983,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-01-15T12:14:00+00:00,France,0.7155360176249673,1,2,fr,WCE,Europe
@@ -115,8 +115,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-01-15T10:57:00+00:00,Haiti,0.5139349856993024,2,1,fr,CAR,North-America
 '17ba0be079',extremes,Snow&Ice,#d60d2b,wmo,avalanche savoie,2025-12-18T03:44:00+00:00,France,0.5028809572801529,1,2,fr,WCE,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5019041004496989,2,1,fr,NEN,North-America
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2025-12-18T03:44:00+00:00,Canada,0.4669129774946408,2,2,fr,NEN,North-America
-'d92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,glace italie,2025-12-16T03:47:00+00:00,Italy,0.4648110886838236,1,2,fr,MED,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2025-12-15T03:54:00+00:00,France,0.4600410479517968,2,3,fr,WCE,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,année la plus froide,2026-01-15T10:20:00+00:00,,0.3735477452419774,1,3,fr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rivière atmosphérique,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,fr,,
