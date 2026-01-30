@@ -13,7 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
-'14c6204a5d',extremes,Snow&Ice,#d60d2b,wmo,parc des bancs de sable de Ice Picton,2026-01-27T03:58:00+00:00,Canada,0.6460280656128186,0,1,fr,NEN,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-01-15T10:56:00+00:00,France,0.6291252880349888,1,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-01-19T04:03:00+00:00,Canada,0.6026937502619961,2,1,fr,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,glace luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.5939590472334063,2,1,fr,WCE,Europe
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.5918140164750083,1,1,fr,NEN,North-America
 '911ab8d369',extremes,Snow&Ice,#d60d2b,wmo,la France glaciale,2026-01-17T03:44:00+00:00,France,0.5917501329034178,1,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-01-15T10:56:00+00:00,Canada,0.5907783328399466,1,1,fr,NEN,North-America
 'fb79db23fd',extremes,Storm,#b3b2b1,wmo,onde de tempête chevery blanc sablon,2026-01-15T10:56:00+00:00,Canada,0.5907193740056705,1,1,fr,NEN,North-America
@@ -79,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbb8c6c5dc',extremes,Snow&Ice,#d60d2b,wmo,passage Ice Buffalo et lac Peter Pond,2026-01-21T03:56:00+00:00,Canada,0.5494489553495127,1,1,fr,NEN,North-America
 'a979be575d',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de neige,2026-01-23T04:03:00+00:00,Canada,0.5493999986133699,1,1,fr,NEN,North-America
 'f39f0ccb5a',extremes,Snow&Ice,#d60d2b,wmo,lac de glace manitoba,2026-01-21T03:56:00+00:00,Canada,0.5492216362197616,1,1,fr,NEN,North-America
+'14c6204a5d',extremes,Snow&Ice,#d60d2b,wmo,parc des bancs de sable de Ice Picton,2026-01-27T03:58:00+00:00,Canada,0.5491238557708957,1,1,fr,NEN,North-America
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2026-01-20T03:56:00+00:00,New Caledonia,0.5490947475130089,1,1,fr,SPO,Pacific Ocean
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-01-15T12:14:00+00:00,Republic of the Congo,0.5484706694464824,1,1,fr,CAF,Africa
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-01-15T12:14:00+00:00,Guinea,0.547999234950169,1,1,fr,WAF,Africa
