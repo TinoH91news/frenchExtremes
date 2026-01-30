@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
+'14c6204a5d',extremes,Snow&Ice,#d60d2b,wmo,parc des bancs de sable de Ice Picton,2026-01-27T03:58:00+00:00,Canada,0.6460280656128186,0,1,fr,NEN,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-01-15T10:56:00+00:00,France,0.6291252880349888,1,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
