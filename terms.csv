@@ -13,8 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.6715784006961113,1,3,fr,WCE,Europe
-'13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-01-21T03:56:00+00:00,Gabon,0.6676128527384377,0,1,fr,CAF,Africa
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-01-15T10:57:00+00:00,Mayotte,0.6653993546689004,0,1,fr,MDG,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
@@ -22,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-01-15T10:56:00+00:00,Canada,0.6526116279139547,2,2,fr,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.652247429833487,2,2,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
+'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-01-15T10:57:00+00:00,Mayotte,0.6408894814685653,1,2,fr,MDG,Africa
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-01-22T04:00:00+00:00,Guinea,0.6386885539141575,0,1,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
@@ -62,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2026-01-21T03:56:00+00:00,Madagascar,0.570493556032242,1,1,fr,MDG,Africa
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-01-15T10:56:00+00:00,New Caledonia,0.5685318506573472,2,1,fr,SPO,Pacific Ocean
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-01-15T10:56:00+00:00,Canada,0.5678064679067693,1,1,fr,NEN,North-America
+'13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-01-21T03:56:00+00:00,Gabon,0.567470924827672,1,1,fr,CAF,Africa
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-01-15T10:57:00+00:00,Gabon,0.5666804904013779,1,1,fr,CAF,Africa
 'd1b1c2a119',extremes,Fog,#d60d2b,wmo,brouillard haida gwaii,2026-01-20T03:56:00+00:00,Canada,0.5647434695735858,1,1,fr,NEN,North-America
 '18716f2313',extremes,Fog,#d60d2b,wmo,brouillard à l'intérieur des terres de l'île de Vancouver,2026-01-18T03:57:00+00:00,Canada,0.5639389249392768,1,1,fr,NEN,North-America
