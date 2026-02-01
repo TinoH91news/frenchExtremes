@@ -16,12 +16,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
 'eb90931c32',extremes,Flood,#030ba1,wmo,crue soudaine côtes d'armor finistère,2026-01-15T12:14:00+00:00,France,0.6559435065252021,1,1,fr,WCE,Europe
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2026-01-27T03:58:00+00:00,Switzerland,0.6534292684109451,1,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-01-15T10:56:00+00:00,Canada,0.6526116279139547,2,2,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
-'2974b1773c',extremes,Snow&Ice,#d60d2b,wmo,"glace du lac Watson, montagnes Cassiar",2026-01-27T03:58:00+00:00,Canada,0.641142882948865,0,1,fr,NEN,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
-'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-01-26T04:09:00+00:00,Mayotte,0.6374056657092598,0,1,fr,MDG,Africa
-'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2026-01-27T03:58:00+00:00,Switzerland,0.6366812275422883,0,1,fr,WCE,Europe
 '0a1536c558',extremes,Storm,#b3b2b1,wmo,onde de tempête morbihan finistère,2026-01-23T04:03:00+00:00,France,0.6351959095366133,0,1,fr,WCE,Europe
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-01-15T10:57:00+00:00,Reunion,0.634958592414486,0,1,fr,SIO,Africa
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-01-15T12:14:00+00:00,Saint Pierre and Miquelon,0.6346868275175818,0,1,fr,ENA,North-America
@@ -103,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.5450559050318572,1,1,fr,SIO,Indian Ocean
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.5450521605374857,1,1,fr,MDG,Africa
 '4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.5450064203002187,1,1,fr,SPO,Pacific Ocean
+'2974b1773c',extremes,Snow&Ice,#d60d2b,wmo,"glace du lac Watson, montagnes Cassiar",2026-01-27T03:58:00+00:00,Canada,0.5449714505065353,1,1,fr,NEN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5449641128952597,1,1,fr,SPO,Pacific Ocean
 'bc178afc30',extremes,Drought,#edc291,edo,sécheresse maurice,2026-01-15T10:57:00+00:00,Mauritius,0.5448253991021422,1,1,fr,SIO,Indian Ocean
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,tremblement de terre en Grèce,2026-01-15T10:56:00+00:00,Greece,0.5448188594047062,1,1,fr,MED,Europe
@@ -122,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-01-15T10:57:00+00:00,Central African Republic,0.5423685086109447,1,1,fr,CAF,Africa
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-01-15T12:14:00+00:00,French Southern Territories,0.5420655117301613,1,1,fr,SOO,Antarctica
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,dempster glacial,2026-01-26T04:09:00+00:00,Canada,0.5418175893448772,1,1,fr,NEN,North-America
+'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-01-26T04:09:00+00:00,Mayotte,0.5417948158528708,1,1,fr,MDG,Africa
 'c8d32c0e8d',extremes,Snow&Ice,#d60d2b,wmo,"lac Frost, bassin nord de Winnipeg",2026-01-21T03:56:00+00:00,Canada,0.5413449329767441,1,1,fr,NEN,North-America
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-01-15T12:14:00+00:00,Reunion,0.5409551850252023,1,1,fr,SIO,Africa
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-01-15T12:14:00+00:00,Senegal,0.5407070058737583,1,1,fr,WAF,Africa
