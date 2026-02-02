@@ -21,10 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.652247429833487,2,2,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
-'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-01-23T04:03:00+00:00,Central African Republic,0.635429657963308,0,1,fr,CAF,Africa
-'1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-01-23T04:03:00+00:00,Democratic Republic of the Congo,0.6349649419205085,0,1,fr,CAF,Africa
-'c10619a08e',extremes,Snow&Ice,#d60d2b,wmo,gel nain et environs,2026-01-30T04:21:00+00:00,Canada,0.6341962590844722,0,1,fr,NEN,North-America
-'469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-01-15T12:14:00+00:00,Niger,0.6338882981096358,0,1,fr,SAH,Africa
 'cdf290fdf6',extremes,Snow&Ice,#d60d2b,wmo,neige Midland Coldwater Orr Lake,2026-01-23T04:03:00+00:00,Canada,0.6331021851474121,0,1,fr,NEN,North-America
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-01-15T12:14:00+00:00,Benin,0.633077357887479,0,1,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
@@ -135,9 +131,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8d32c0e8d',extremes,Snow&Ice,#d60d2b,wmo,"lac Frost, bassin nord de Winnipeg",2026-01-21T03:56:00+00:00,Canada,0.5413449329767441,1,1,fr,NEN,North-America
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-01-15T12:14:00+00:00,Reunion,0.5409551850252023,1,1,fr,SIO,Africa
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-01-15T12:14:00+00:00,Senegal,0.5407070058737583,1,1,fr,WAF,Africa
+'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-01-23T04:03:00+00:00,Central African Republic,0.5401152092688117,1,1,fr,CAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-01-15T12:14:00+00:00,Chad,0.5399459600939034,1,1,fr,SAH,Africa
 '0a1536c558',extremes,Storm,#b3b2b1,wmo,onde de tempête morbihan finistère,2026-01-23T04:03:00+00:00,France,0.5399165231061213,1,1,fr,WCE,Europe
+'1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-01-23T04:03:00+00:00,Democratic Republic of the Congo,0.5397202006324322,1,1,fr,CAF,Africa
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-01-15T12:14:00+00:00,Saint Pierre and Miquelon,0.5394838033899445,1,1,fr,ENA,North-America
+'c10619a08e',extremes,Snow&Ice,#d60d2b,wmo,gel nain et environs,2026-01-30T04:21:00+00:00,Canada,0.5390668202218013,1,1,fr,NEN,North-America
+'469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-01-15T12:14:00+00:00,Niger,0.5389550683931904,1,1,fr,SAH,Africa
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-01-15T10:56:00+00:00,France,0.5347564948297404,2,1,fr,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5234740519027771,2,1,fr,NEN,North-America
 '72291ba6a6',extremes,Flood,#030ba1,wmo,crue soudaine finistère morbihan,2026-01-23T04:03:00+00:00,France,0.5231795443011765,2,1,fr,WCE,Europe
