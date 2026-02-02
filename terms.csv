@@ -23,6 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-01-15T10:57:00+00:00,Mayotte,0.6408894814685653,1,2,fr,MDG,Africa
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-01-22T04:00:00+00:00,Guinea,0.6386885539141575,0,1,fr,WAF,Africa
+'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-01-23T04:03:00+00:00,Central African Republic,0.635429657963308,0,1,fr,CAF,Africa
+'1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-01-23T04:03:00+00:00,Democratic Republic of the Congo,0.6349649419205085,0,1,fr,CAF,Africa
+'c10619a08e',extremes,Snow&Ice,#d60d2b,wmo,gel nain et environs,2026-01-30T04:21:00+00:00,Canada,0.6341962590844722,0,1,fr,NEN,North-America
+'469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-01-15T12:14:00+00:00,Niger,0.6338882981096358,0,1,fr,SAH,Africa
+'cdf290fdf6',extremes,Snow&Ice,#d60d2b,wmo,neige Midland Coldwater Orr Lake,2026-01-23T04:03:00+00:00,Canada,0.6331021851474121,0,1,fr,NEN,North-America
+'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-01-15T12:14:00+00:00,Benin,0.633077357887479,0,1,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-15T12:14:00+00:00,Belgium,0.6208651161238339,1,1,fr,WCE,Europe
