@@ -20,9 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-01-15T10:56:00+00:00,Canada,0.6526116279139547,2,2,fr,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.652247429833487,2,2,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-01-15T10:57:00+00:00,Mayotte,0.6408894814685653,1,2,fr,MDG,Africa
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
-'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-01-22T04:00:00+00:00,Guinea,0.6386885539141575,0,1,fr,WAF,Africa
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-01-23T04:03:00+00:00,Central African Republic,0.635429657963308,0,1,fr,CAF,Africa
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-01-23T04:03:00+00:00,Democratic Republic of the Congo,0.6349649419205085,0,1,fr,CAF,Africa
 'c10619a08e',extremes,Snow&Ice,#d60d2b,wmo,gel nain et environs,2026-01-30T04:21:00+00:00,Canada,0.6341962590844722,0,1,fr,NEN,North-America
@@ -108,6 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-01-17T03:44:00+00:00,Djibouti,0.5452767806307013,1,1,fr,NEAF,Africa
 'a241cba1ba',extremes,Volcano,#b83202,eonet,volcan Ambrym Vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5452728613777,1,1,fr,SPO,Oceania
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,brouillard limbourg,2026-01-28T03:56:00+00:00,Belgium,0.5450767813996227,1,1,fr,WCE,Europe
+'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-01-15T10:57:00+00:00,Mayotte,0.5450560892482805,2,2,fr,MDG,Africa
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.5450559050318572,1,1,fr,SIO,Indian Ocean
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.5450521605374857,1,1,fr,MDG,Africa
 '4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.5450064203002187,1,1,fr,SPO,Pacific Ocean
@@ -127,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1efe0beab',extremes,Snow&Ice,#d60d2b,wmo,neige Minganie Natashquan,2026-01-21T03:56:00+00:00,Canada,0.5432689541922537,1,1,fr,NEN,North-America
 '4aaac465b6',extremes,Storm,#b3b2b1,wmo,onde de tempête côtes d'armor finistère morbihan,2026-01-20T03:56:00+00:00,France,0.5430357649486283,1,1,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-01-15T12:14:00+00:00,Djibouti,0.5429374547590533,1,1,fr,NEAF,Africa
+'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-01-22T04:00:00+00:00,Guinea,0.5428852708270339,1,1,fr,WAF,Africa
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-01-28T03:56:00+00:00,Madagascar,0.5424517370994631,2,1,fr,MDG,Africa
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-01-15T10:57:00+00:00,Central African Republic,0.5423685086109447,1,1,fr,CAF,Africa
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-01-15T12:14:00+00:00,French Southern Territories,0.5420655117301613,1,1,fr,SOO,Antarctica
