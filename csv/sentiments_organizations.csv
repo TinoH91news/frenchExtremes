@@ -1,74 +1,103 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Météo-France,Météo-France,ORG,0.09283049040511727,0.4216506751954514,en,13.399999999999999
+Météo-France,Météo-France,ORG,0.08790989449672085,0.4451668092386656,en,16.7
 Hérault,Hérault,ORG,-0.03618421052631579,0.08223684210526315,en,7.6000000000000005
 Ardèche,Ardèche,ORG,-0.02083333333333334,0.08333333333333336,en,4.8
+Météo France,Météo France,ORG,0.020315734989648043,0.2546583850931677,en,4.6
+IRM,IRM,ORG,0.11594202898550728,0.20652173913043484,en,4.599999999999999
+Channel,Channel,ORG,-0.14977152477152478,0.4748677248677248,en,4.2
 Gard,Gard,ORG,-0.2573529411764705,0.21323529411764702,en,3.4000000000000004
 Ile-de-France,Ile-de-France,ORG,0.05205278592375367,0.28225806451612906,en,3.0999999999999996
 Aude,Aude,ORG,0.012500000000000004,0.44583333333333336,en,2.9999999999999996
 Haute-Corse,Haute-Corse,ORG,-0.1342592592592593,0.45833333333333337,en,2.6999999999999997
-Channel,Channel,ORG,-0.2788888888888889,0.4,en,2.5
-IRM,IRM,ORG,-0.026666666666666665,0.0,en,2.4999999999999996
+Finistère,Finistère,ORG,-0.05230769230769231,0.4246153846153846,en,2.5
+Landes,Landes,ORG,0.0,0.0,en,2.5
+Manche,Manche,ORG,-0.026041666666666668,0.078125,en,2.4
 Goretti,Goretti,ORG,0.010416666666666664,0.15624999999999997,en,2.4
-Météo France,Météo France,ORG,0.05729166666666667,0.0,en,2.4
 Aveyron,Aveyron,ORG,0.48611111111111105,0.375,en,2.4
 Heated Rivalry,Heated Rivalry,ORG,0.621900826446281,0.4442148760330578,en,2.2
+the Royal Meteorological Institute,the Royal Meteorological Institute,ORG,0.15999999999999998,0.26,en,2.0
 NHL,NHL,ORG,0.7748538011695906,0.5555555555555554,en,1.9000000000000001
 ARC Raiders,ARC Raiders,ORG,-0.33388157894736836,0.3026315789473684,en,1.9
-Finistère,Finistère,ORG,0.05555555555555556,0.3333333333333333,en,1.8
-Landes,Landes,ORG,0.0,0.0,en,1.7
 Seine-et-Marne,Seine-et-Marne,ORG,0.0,0.0,en,1.7
-Météo,Météo,ORG,0.29411764705882354,0.0,en,1.7
+Seine-Maritime,Seine-Maritime,ORG,0.09803921568627451,0.19607843137254902,en,1.7
 Finistère to Seine-et-Marne,Finistère to Seine-et-Marne,ORG,0.060457516339869274,0.0,en,1.7
+Météo,Météo,ORG,0.29411764705882354,0.0,en,1.7
 Amazon,Amazon,ORG,0.12499999999999999,0.4285714285714285,en,1.4000000000000001
+The Northern Lights,The Northern Lights,ORG,0.40865384615384615,0.3846153846153846,en,1.3
 Heatwaves,Heatwaves,ORG,-0.28846153846153844,0.6923076923076923,en,1.3
+Alexa,Alexa,ORG,0.3076923076923077,0.3076923076923077,en,1.3
+Razer,Razer,ORG,0.5641025641025641,0.6346153846153846,en,1.3
 Trump,Trump,ORG,0.36013986013986016,0.0,en,1.3
 Greenland,Greenland,ORG,0.0,0.0,en,1.3
 The Royal Meteorological Institute,The Royal Meteorological Institute,ORG,0.0,0.0,en,1.3
-Alexa,Alexa,ORG,0.3076923076923077,0.3076923076923077,en,1.3
-Razer,Razer,ORG,0.5641025641025641,0.6346153846153846,en,1.3
-CNews,CNews,ORG,0.21250000000000002,0.0,en,1.0
-Isérois,Isérois,ORG,0.9,0.0,en,1.0
-the National Hockey League,the National Hockey League,ORG,0.9,0.0,en,1.0
-Corse-du-Sud,Corse-du-Sud,ORG,-0.1625,0.0,en,1.0
-Cévennes,Cévennes,ORG,0.5,0.0,en,1.0
-The Pays de la Loire,The Pays de la Loire,ORG,0.024999999999999994,0.0,en,1.0
-Hauts-de-France,Hauts-de-France,ORG,0.024999999999999994,0.0,en,1.0
-the Milan-Cortina Olympics,the Milan-Cortina Olympics,ORG,0.0,0.0,en,1.0
-Center Val-de-Loire,Center Val-de-Loire,ORG,0.024999999999999994,0.0,en,1.0
-TER,TER,ORG,-0.25,0.0,en,1.0
-Enedis,Enedis,ORG,0.024999999999999994,0.0,en,1.0
-Val-d'Isère,Val-d'Isère,ORG,-0.2,0.0,en,1.0
-Val-d'Isère Tourisme,Val-d'Isère Tourisme,ORG,-0.5,0.0,en,1.0
-the Redmi Note 15 5G,the Redmi Note 15 5G,ORG,0.0,0.0,en,1.0
-Facebook,Facebook,ORG,-0.05,0.0,en,1.0
-Morbihan,Morbihan,ORG,0.15,0.0,en,1.0
 Blackcurrant,Blackcurrant,ORG,0.13333333333333333,0.0,en,1.0
-Arcom,Arcom,ORG,0.21250000000000002,0.0,en,1.0
-Pinterest,Pinterest,ORG,0.0,0.0,en,1.0
-the Montreal Canadiens,the Montreal Canadiens,ORG,0.0,0.0,en,1.0
-Vendée,Vendée,ORG,0.0,0.0,en,1.0
-ETH Zurich,ETH Zurich,ORG,0.2,0.0,en,1.0
-Tuxboard,Tuxboard,ORG,0.375,0.0,en,1.0
+the Redmi Note 15 5G,the Redmi Note 15 5G,ORG,0.0,0.0,en,1.0
+Doische,Doische,ORG,0.0,0.0,en,1.0
+Facebook,Facebook,ORG,-0.05,0.0,en,1.0
+Hamas,Hamas,ORG,0.0,0.0,en,1.0
+Morbihan,Morbihan,ORG,0.15,0.0,en,1.0
 the National Guard,the National Guard,ORG,0.0,0.0,en,1.0
+the Museum of Fine Arts of Canada,the Museum of Fine Arts of Canada,ORG,0.33333333333333337,0.0,en,1.0
+the Milan-Cortina Olympics,the Milan-Cortina Olympics,ORG,0.0,0.0,en,1.0
+Pinterest,Pinterest,ORG,0.0,0.0,en,1.0
 Cold Snap,Cold Snap,ORG,-0.6,0.0,en,1.0
-Speranza,Speranza,ORG,0.5,0.0,en,1.0
-Embark Studios,Embark Studios,ORG,0.5,0.0,en,1.0
-Var,Var,ORG,0.0,0.0,en,1.0
-Newton,Newton,ORG,0.1621212121212121,0.0,en,1.0
-MRI,MRI,ORG,-0.25,0.0,en,1.0
-Snowflakes,Snowflakes,ORG,0.0,0.0,en,1.0
-NASA,NASA,ORG,0.0,0.0,en,1.0
-Bennu,Bennu,ORG,0.0,0.0,en,1.0
-Charente-Maritime,Charente-Maritime,ORG,0.0,0.0,en,1.0
-Eure-et-Loir,Eure-et-Loir,ORG,0.0,0.0,en,1.0
-VTC,VTC,ORG,0.0,0.0,en,1.0
-the Minister of Transport,the Minister of Transport,ORG,0.13636363636363635,0.0,en,1.0
+Monaco,Monaco,ORG,0.0,0.0,en,1.0
+Monte-Carlo Rally,Monte-Carlo Rally,ORG,0.13636363636363635,0.0,en,1.0
+CNews,CNews,ORG,0.21250000000000002,0.0,en,1.0
+Arcom,Arcom,ORG,0.21250000000000002,0.0,en,1.0
+DEA,DEA,ORG,0.08,0.0,en,1.0
+Mayotte,Mayotte,ORG,0.0,0.0,en,1.0
+Cryptocurrencies,Cryptocurrencies,ORG,0.0,0.0,en,1.0
+the Paris Criminal Court,the Paris Criminal Court,ORG,-0.3,0.0,en,1.0
+Cévennes,Cévennes,ORG,0.5,0.0,en,1.0
+Corse-du-Sud,Corse-du-Sud,ORG,-0.1625,0.0,en,1.0
+Val-d'Isère Tourisme,Val-d'Isère Tourisme,ORG,-0.5,0.0,en,1.0
+Airbus,Airbus,ORG,0.05,0.0,en,1.0
+Metropolitan France,Metropolitan France,ORG,0.0,0.0,en,1.0
+iPhone,iPhone,ORG,0.0,0.0,en,1.0
+Dutchman,Dutchman,ORG,0.0,0.0,en,1.0
+Unilever,Unilever,ORG,0.3181818181818182,0.0,en,1.0
+Futura,Futura,ORG,0.0,0.0,en,1.0
+Weather,Weather,ORG,0.0,0.0,en,1.0
+Fern,Fern,ORG,0.0,0.0,en,1.0
+Ille-et-Vilaine,Ille-et-Vilaine,ORG,-0.23076923076923078,0.0,en,1.0
+ISS,ISS,ORG,0.5,0.0,en,1.0
+Marine Le Pen,Marine Le Pen,ORG,-0.25,0.0,en,1.0
+Center Val-de-Loire,Center Val-de-Loire,ORG,0.024999999999999994,0.0,en,1.0
+Val-d'Isère,Val-d'Isère,ORG,-0.2,0.0,en,1.0
+Vendée,Vendée,ORG,0.0,0.0,en,1.0
+Île-de-France,Île-de-France,ORG,0.125,0.0,en,1.0
 RATP,RATP,ORG,-0.09375,0.0,en,1.0
-Seine-Maritime,Seine-Maritime,ORG,0.0,0.0,en,1.0
+the Minister of Transport,the Minister of Transport,ORG,0.13636363636363635,0.0,en,1.0
+Gamblizard,Gamblizard,ORG,0.4,0.0,en,1.0
+Free Spins Without Archive Free Spins,Free Spins Without Archive Free Spins,ORG,0.4,0.0,en,1.0
+Mafia,Mafia,ORG,0.4,0.0,en,1.0
+MRI,MRI,ORG,-0.25,0.0,en,1.0
+VTC,VTC,ORG,0.0,0.0,en,1.0
+Sambre-et-,Sambre-et-,ORG,0.0,0.0,en,1.0
+Charente-Maritime,Charente-Maritime,ORG,0.0,0.0,en,1.0
+Snowflakes,Snowflakes,ORG,0.0,0.0,en,1.0
+Tuxboard,Tuxboard,ORG,0.375,0.0,en,1.0
+Phototrend,Phototrend,ORG,0.5,0.0,en,1.0
+Bennu,Bennu,ORG,0.0,0.0,en,1.0
+NASA,NASA,ORG,0.0,0.0,en,1.0
 Maine-et-Loire,Maine-et-Loire,ORG,0.0,0.0,en,1.0
 Météo-France's,Météo-France's,ORG,0.0,0.0,en,1.0
-Czechoslovak Group,Czechoslovak Group,ORG,0.0,0.0,en,1.0
-IPO,IPO,ORG,0.0,0.0,en,1.0
+Enedis,Enedis,ORG,0.024999999999999994,0.0,en,1.0
+Newton,Newton,ORG,0.1621212121212121,0.0,en,1.0
+Bétharram,Bétharram,ORG,-0.25,0.0,en,1.0
+Hauts-de-France,Hauts-de-France,ORG,0.024999999999999994,0.0,en,1.0
+The Pays de la Loire,The Pays de la Loire,ORG,0.024999999999999994,0.0,en,1.0
+Speranza,Speranza,ORG,0.5,0.0,en,1.0
+the National Hockey League,the National Hockey League,ORG,0.9,0.0,en,1.0
+Isérois,Isérois,ORG,0.9,0.0,en,1.0
+the Montreal Canadiens,the Montreal Canadiens,ORG,0.0,0.0,en,1.0
+TER,TER,ORG,-0.25,0.0,en,1.0
+ETH Zurich,ETH Zurich,ORG,0.2,0.0,en,1.0
+Eure-et-Loir,Eure-et-Loir,ORG,0.0,0.0,en,1.0
+Embark Studios,Embark Studios,ORG,0.5,0.0,en,1.0
+Var,Var,ORG,0.0,0.0,en,1.0
 Reuters,Reuters,ORG,0.0,0.0,en,1.0
-Manche,Manche,ORG,0.0,0.0,en,1.0
-Futura,Futura,ORG,0.0,0.0,en,1.0
+IPO,IPO,ORG,0.0,0.0,en,1.0
+Czechoslovak Group,Czechoslovak Group,ORG,0.0,0.0,en,1.0
+the Doische council,the Doische council,ORG,0.0,0.0,en,1.0
