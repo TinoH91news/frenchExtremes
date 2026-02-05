@@ -34,9 +34,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28cf44e53a',extremes,Drought,#edc291,edo,sécheresse nouvelle-calédonie,2026-01-15T12:14:00+00:00,New Caledonia,0.6188585891405132,0,1,fr,SPO,Oceania
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-01-23T04:03:00+00:00,Switzerland,0.6187178282155089,0,1,fr,WCE,Europe
 '64ff6f2475',extremes,Snow&Ice,#d60d2b,wmo,neige Hopedale et environs,2026-01-30T04:21:00+00:00,Canada,0.6180907551955747,0,1,fr,NEN,North-America
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.616989561426509,0,1,fr,WCE,Europe
+'291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2026-01-23T04:03:00+00:00,Gabon,0.6149855872766697,0,1,fr,CAF,Africa
+'c613234021',extremes,Storm,#b3b2b1,wmo,tempête haïda gwaii,2026-02-03T04:27:00+00:00,Canada,0.6144920020902083,0,1,fr,NEN,North-America
 'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.6143296507479094,2,1,fr,MDG,Africa
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-01-19T04:03:00+00:00,Belgium,0.6129982229501937,2,1,fr,WCE,Europe
+'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-01-15T10:57:00+00:00,Equatorial Guinea,0.6126235554501425,0,1,fr,WAF,Africa
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-01-15T10:56:00+00:00,Wallis and Futuna,0.6121648085607367,2,2,fr,SPO,Pacific Ocean
+'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-01-17T03:44:00+00:00,Seychelles,0.6119244645128585,0,1,fr,EIO,Indian Ocean
+'6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T10:57:00+00:00,Madagascar,0.6098968725081677,0,1,fr,MDG,Africa
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,brouillard namur,2026-01-28T03:56:00+00:00,Belgium,0.6050563935720716,2,1,fr,WCE,Europe
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-01-15T10:57:00+00:00,Tunisia,0.6049666736465871,1,1,fr,MED,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-01-15T10:57:00+00:00,Switzerland,0.6036319461420568,1,1,fr,WCE,Europe
