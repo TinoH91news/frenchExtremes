@@ -25,13 +25,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
 '2b1ce063d7',extremes,Flood,#030ba1,wmo,inondations alpes maritimes,2026-02-04T04:21:00+00:00,France,0.6425279658758599,2,1,fr,WCE,Europe
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
+'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-01-30T04:21:00+00:00,Senegal,0.639705821828656,0,1,fr,WAF,Africa
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-01-22T04:00:00+00:00,Central African Republic,0.6332289184221979,0,1,fr,CAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
+'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-01-19T04:03:00+00:00,Togo,0.6268058456735633,0,1,fr,WAF,Africa
+'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2026-01-17T03:44:00+00:00,Ivory Coast,0.6264762664770606,0,1,fr,WAF,Africa
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-01-23T04:03:00+00:00,Switzerland,0.626315509437728,1,3,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
+'4eda6a5e25',extremes,Drought,#edc291,edo,période sèche au niger,2026-01-19T04:03:00+00:00,Niger,0.6221119467862197,0,1,fr,SAH,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-15T12:14:00+00:00,Belgium,0.6208651161238339,1,1,fr,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-17T03:44:00+00:00,Belgium,0.6203873658148223,2,2,fr,WCE,Europe
 '64ff6f2475',extremes,Snow&Ice,#d60d2b,wmo,neige Hopedale et environs,2026-01-30T04:21:00+00:00,Canada,0.6180907551955747,0,1,fr,NEN,North-America
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.616989561426509,0,1,fr,WCE,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-01-19T04:03:00+00:00,Madagascar,0.615856103586676,0,1,fr,MDG,Africa
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2026-01-23T04:03:00+00:00,Gabon,0.6149855872766697,0,1,fr,CAF,Africa
 'c613234021',extremes,Storm,#b3b2b1,wmo,tempête haïda gwaii,2026-02-03T04:27:00+00:00,Canada,0.6144920020902083,0,1,fr,NEN,North-America
 'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.6143296507479094,2,1,fr,MDG,Africa
