@@ -34,9 +34,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-01-19T04:03:00+00:00,Belgium,0.6129982229501937,2,1,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-01-15T10:56:00+00:00,Wallis and Futuna,0.6121648085607367,2,2,fr,SPO,Pacific Ocean
 '9e90ecef4b',extremes,Flood,#030ba1,wmo,inondations aude hérault,2026-01-19T04:03:00+00:00,France,0.609118412651981,0,1,fr,WCE,Europe
+'6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-01-19T04:03:00+00:00,Saint Pierre and Miquelon,0.6081873360764346,0,1,fr,ENA,North-America
+'1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2026-01-27T03:58:00+00:00,Switzerland,0.6072891561520238,0,1,fr,WCE,Europe
+'46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-01-19T04:03:00+00:00,Mali,0.6064086966432662,0,1,fr,WAF,Africa
+'a715281618',extremes,Storm,#b3b2b1,wmo,onde de tempête vanuatu,2026-01-18T03:57:00+00:00,Vanuatu,0.6055055466916284,0,1,fr,SPO,Oceania
 '99f8c4499c',extremes,Storm,#b3b2b1,wmo,tempête pas de calais,2026-01-15T12:14:00+00:00,France,0.6052729055483175,1,2,fr,WCE,Europe
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,brouillard namur,2026-01-28T03:56:00+00:00,Belgium,0.6050563935720716,2,1,fr,WCE,Europe
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-01-15T10:57:00+00:00,Tunisia,0.6049666736465871,1,1,fr,MED,Africa
+'95d1c4ae53',extremes,Thunderstorm,#53785a,wmo,temps violent vanuatu,2026-01-18T03:57:00+00:00,Vanuatu,0.6046322076671768,0,1,fr,SPO,Oceania
+'b8ec542a24',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux du nord.,2026-01-27T03:58:00+00:00,Vanuatu,0.6043725485174509,0,1,fr,SPO,Oceania
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-01-15T10:57:00+00:00,Switzerland,0.6036319461420568,1,1,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-01-19T04:03:00+00:00,Canada,0.6026937502619961,2,1,fr,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
