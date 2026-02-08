@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-01-15T10:57:00+00:00,Tunisia,0.6049666736465871,1,1,fr,MED,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-01-15T10:57:00+00:00,Switzerland,0.6036319461420568,1,1,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-01-19T04:03:00+00:00,Canada,0.6026937502619961,2,1,fr,NEN,North-America
-'9e0c993931',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle france,2026-02-07T04:19:00+00:00,France,0.6013111176947997,0,1,fr,WCE,Europe
 '17c104b9de',extremes,Precipitation,#d60d2b,wmo,précipitations îles du nord du vanuatu,2026-01-20T03:56:00+00:00,Vanuatu,0.6008708892647244,0,1,fr,SPO,Oceania
 'aa8ae2b74f',extremes,Storm,#b3b2b1,wmo,tempête corse du sud haute corse,2026-01-28T03:56:00+00:00,France,0.6003432026701446,0,1,fr,WCE,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
@@ -49,6 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-01-22T03:59:00+00:00,France,0.5898875004901171,1,2,fr,WCE,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-01-15T12:14:00+00:00,Burkina Faso,0.5874816279711704,2,2,fr,WAF,Africa
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-01-15T10:57:00+00:00,Reunion,0.5868952495194663,2,1,fr,SIO,Africa
+'9e0c993931',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle france,2026-02-07T04:19:00+00:00,France,0.5867145100405797,1,2,fr,WCE,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.5824514720470517,1,1,fr,WAF,Africa
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-01-15T12:14:00+00:00,Saint Martin,0.58044756956796,2,1,fr,CAR,North-America
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-01-27T03:58:00+00:00,Mali,0.5792495113167432,2,2,fr,WAF,Africa
