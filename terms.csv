@@ -45,8 +45,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd4355d0ec',extremes,Snow&Ice,#d60d2b,wmo,glace kangiqsujuaq lac raglan,2026-01-15T10:56:00+00:00,Canada,0.5906937788971283,1,1,fr,NEN,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,neige gatineau,2026-01-15T10:56:00+00:00,Canada,0.5906898872632913,1,1,fr,NEN,North-America
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-01-22T03:59:00+00:00,France,0.5898875004901171,1,2,fr,WCE,Europe
+'65daebfdc6',extremes,Snow&Ice,#d60d2b,wmo,neige luganaise,2026-01-24T03:48:00+00:00,Switzerland,0.5885188261532885,0,1,fr,WCE,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,orage en Grèce,2026-01-21T03:56:00+00:00,Greece,0.5876992164061522,0,1,fr,MED,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-01-15T12:14:00+00:00,Burkina Faso,0.5874816279711704,2,2,fr,WAF,Africa
+'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neige delémont bellelay,2026-01-24T03:48:00+00:00,Switzerland,0.5874371699877897,0,1,fr,WCE,Europe
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-01-15T10:57:00+00:00,Reunion,0.5868952495194663,2,1,fr,SIO,Africa
+'cde991c059',extremes,Snow&Ice,#d60d2b,wmo,geler saint cergue,2026-01-24T03:48:00+00:00,Switzerland,0.5859882673951111,0,1,fr,WCE,Europe
+'fc6d3a4255',extremes,Storm,#b3b2b1,wmo,onde de tempête Werdenberg,2026-01-28T03:56:00+00:00,Switzerland,0.5857900984674057,0,1,fr,WCE,Europe
+'473f6acf22',extremes,Precipitation,#d60d2b,wmo,pluie finistère morbihan,2026-01-27T03:58:00+00:00,France,0.5825431331114459,0,1,fr,WCE,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.5824514720470517,1,1,fr,WAF,Africa
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-01-15T12:14:00+00:00,Saint Martin,0.58044756956796,2,1,fr,CAR,North-America
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-01-27T03:58:00+00:00,Mali,0.5792495113167432,2,2,fr,WAF,Africa
