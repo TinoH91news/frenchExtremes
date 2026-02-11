@@ -49,7 +49,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-01-15T12:14:00+00:00,Saint Martin,0.58044756956796,2,1,fr,CAR,North-America
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-01-27T03:58:00+00:00,Mali,0.5792495113167432,2,2,fr,WAF,Africa
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-01-22T03:59:00+00:00,Switzerland,0.5789477495700117,2,1,fr,WCE,Europe
+'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,glace mendrisiotto,2026-01-23T04:03:00+00:00,Switzerland,0.5774451621549459,0,1,fr,WCE,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempête hivernale nord-américaine à New York,2026-01-31T04:17:00+00:00,United States,0.5773816174473827,0,1,fr,ENA,North-America
+'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempête urner oberland,2026-01-28T03:56:00+00:00,Switzerland,0.5771354720704824,0,1,fr,WCE,Europe
+'f102553123',extremes,Snow&Ice,#d60d2b,wmo,Riviera des glaces,2026-01-23T04:03:00+00:00,Switzerland,0.5770300589099477,0,1,fr,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-01-25T04:06:00+00:00,Switzerland,0.5768619134822062,2,1,fr,WCE,Europe
+'15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,glace Bâle,2026-01-24T03:48:00+00:00,Switzerland,0.5765240132453409,0,1,fr,WCE,Europe
+'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,glace verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.5765186358492596,0,1,fr,WCE,Europe
 '473f6acf22',extremes,Precipitation,#d60d2b,wmo,pluie finistère morbihan,2026-01-27T03:58:00+00:00,France,0.574962413144729,1,3,fr,WCE,Europe
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-01-15T10:57:00+00:00,France,0.5726534283002012,2,1,fr,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-02-06T04:28:00+00:00,Switzerland,0.572101775738282,2,1,fr,WCE,Europe
@@ -239,12 +245,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.4950837512399939,2,1,fr,WAF,Africa
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neige saint cergue,2026-01-22T03:59:00+00:00,Switzerland,0.4939122990261601,1,1,fr,WCE,Europe
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,onde de tempête dans l'Oberland d'Urner,2026-02-03T04:27:00+00:00,Switzerland,0.4928485284320425,1,1,fr,WCE,Europe
-'cbda6735c3',extremes,Storm,#b3b2b1,wmo,onde de tempête appenzell,2026-01-28T03:56:00+00:00,Switzerland,0.49144061970358893,1,1,fr,WCE,Europe
-'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,gel zurzach bülach,2026-01-24T03:48:00+00:00,Switzerland,0.49135096387574845,1,1,fr,WCE,Europe
+'cbda6735c3',extremes,Storm,#b3b2b1,wmo,onde de tempête appenzell,2026-01-28T03:56:00+00:00,Switzerland,0.4914406197035889,1,1,fr,WCE,Europe
+'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,gel zurzach bülach,2026-01-24T03:48:00+00:00,Switzerland,0.4913509638757484,1,1,fr,WCE,Europe
 '37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-01-31T04:16:00+00:00,French Southern Territories,0.4912037613365455,2,1,fr,SOO,Antarctica
 '4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-02-01T04:41:00+00:00,Burundi,0.4897587067094832,2,1,fr,SEAF,Africa
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-01-15T10:57:00+00:00,French Guiana,0.4875649119388814,2,1,fr,NSA,South-America
-'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-02-03T04:27:00+00:00,Canada,0.48720101465474913,2,1,fr,NEN,North-America
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-02-03T04:27:00+00:00,Canada,0.4872010146547491,2,1,fr,NEN,North-America
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-01-25T04:06:00+00:00,French Guiana,0.4869797877634682,2,1,fr,NSA,South-America
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2026-01-21T03:56:00+00:00,Madagascar,0.4849195226274057,2,1,fr,MDG,Africa
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-01-21T03:56:00+00:00,Gabon,0.4823502861035212,2,1,fr,CAF,Africa
