@@ -17,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-01-22T04:00:00+00:00,Central African Republic,0.6885446106588682,1,2,fr,CAF,Africa
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6870152527298334,1,2,fr,WCE,Europe
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
-'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.677674121022152,0,1,fr,SIO,Africa
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-01-23T04:03:00+00:00,Madagascar,0.6754982333822884,0,1,fr,MDG,Africa
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.6754912322125326,1,2,fr,WCE,Europe
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-01-15T10:56:00+00:00,Canada,0.6434536474652955,2,2,fr,NEN,North-America
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-01-24T03:49:00+00:00,Guadeloupe,0.63991038651637,0,1,fr,CAR,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
+'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.6367730928688291,1,1,fr,SIO,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-15T12:14:00+00:00,Belgium,0.6208651161238339,1,1,fr,WCE,Europe
