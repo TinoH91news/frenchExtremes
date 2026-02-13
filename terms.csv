@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6971341367750773,1,2,fr,WCE,Europe
 '2b1ce063d7',extremes,Flood,#030ba1,wmo,inondations alpes maritimes,2026-02-04T04:21:00+00:00,France,0.6968988459944809,3,2,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-01-25T04:06:00+00:00,France,0.6942599844249531,2,2,fr,WCE,Europe
-'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neige péninsule nord est,2026-02-12T04:37:00+00:00,Canada,0.6938187739171767,1,2,fr,NEN,North-America
 '027e789b07',extremes,Flood,#030ba1,wmo,inondation finistère morbihan,2026-01-21T03:56:00+00:00,France,0.6929153866824495,1,2,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-01-15T10:56:00+00:00,France,0.6907083188734683,3,3,fr,WCE,Europe
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-01-22T04:00:00+00:00,Central African Republic,0.6885446106588682,1,2,fr,CAF,Africa
@@ -18,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.6754912322125326,1,2,fr,WCE,Europe
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.6715784006961113,1,3,fr,WCE,Europe
-'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,givre kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.668675235994586,0,1,fr,NEN,North-America
 'df697baca6',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère haute savoie,2026-02-12T04:37:00+00:00,France,0.6686486962279807,1,1,fr,WCE,Europe
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,"baie verte givrée, baie blanche",2026-02-12T04:37:00+00:00,Canada,0.6683249524587591,0,1,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
@@ -47,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,brouillard namur,2026-01-28T03:56:00+00:00,Belgium,0.6050563935720716,2,1,fr,WCE,Europe
 '16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-01-15T10:57:00+00:00,Tunisia,0.6049666736465871,1,1,fr,MED,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-01-15T10:57:00+00:00,Switzerland,0.6036319461420568,1,1,fr,WCE,Europe
+'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neige péninsule nord est,2026-02-12T04:37:00+00:00,Canada,0.6032346293680617,2,2,fr,NEN,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-01-19T04:03:00+00:00,Canada,0.6026937502619961,2,1,fr,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,glace luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.5939590472334063,2,1,fr,WCE,Europe
@@ -82,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-01-22T03:59:00+00:00,Switzerland,0.5709420445595582,2,3,fr,WCE,Europe
 '6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.5708892735914562,2,1,fr,CAR,North-America
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-01-15T10:56:00+00:00,New Caledonia,0.5685318506573472,2,1,fr,SPO,Pacific Ocean
+'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,givre kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.5683739505953981,1,1,fr,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-01-15T10:56:00+00:00,Canada,0.5678064679067693,1,1,fr,NEN,North-America
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-01-15T10:57:00+00:00,Gabon,0.5666804904013779,1,1,fr,CAF,Africa
 '18716f2313',extremes,Fog,#d60d2b,wmo,brouillard à l'intérieur des terres de l'île de Vancouver,2026-01-18T03:57:00+00:00,Canada,0.5639389249392768,1,1,fr,NEN,North-America
