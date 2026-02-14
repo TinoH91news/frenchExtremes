@@ -56,7 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-01-27T03:58:00+00:00,Mali,0.5792495113167432,2,2,fr,WAF,Africa
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-01-22T03:59:00+00:00,Switzerland,0.5789477495700117,2,1,fr,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-01-25T04:06:00+00:00,Switzerland,0.5768619134822062,2,1,fr,WCE,Europe
-'92cac5dc34',extremes,Snow&Ice,#d60d2b,wmo,glace hautes alpes,2026-02-02T04:36:00+00:00,France,0.5759282084949615,0,1,fr,WCE,Europe
 '5e13e239ca',extremes,Snow&Ice,#d60d2b,wmo,glace plaine de l'orbe,2026-01-24T03:48:00+00:00,Switzerland,0.5758283047683938,0,1,fr,WCE,Europe
 'c160cc7b69',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2026-02-08T04:43:00+00:00,Saint Vincent and the Grenadines,0.5747180479360523,0,1,fr,CAR,North-America
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-01-23T04:03:00+00:00,Madagascar,0.5741734983749451,1,1,fr,MDG,Africa
@@ -225,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-01-15T10:57:00+00:00,Haiti,0.5139349856993024,2,1,fr,CAR,North-America
 '5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,grêle vanuatu,2026-01-20T03:56:00+00:00,Vanuatu,0.5131721282770799,1,1,fr,SPO,Oceania
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-01-25T04:06:00+00:00,Saint Martin,0.5121670533894497,1,1,fr,CAR,North-America
+'92cac5dc34',extremes,Snow&Ice,#d60d2b,wmo,glace hautes alpes,2026-02-02T04:36:00+00:00,France,0.5120176536492886,1,1,fr,WCE,Europe
 '016d0e46db',extremes,Snow&Ice,#d60d2b,wmo,lac supérieur glacial de la rivière Eagle Melville,2026-01-31T04:16:00+00:00,Canada,0.5119530778702678,1,1,fr,NEN,North-America
 '17c104b9de',extremes,Precipitation,#d60d2b,wmo,précipitations îles du nord du vanuatu,2026-01-20T03:56:00+00:00,Vanuatu,0.5107402558750157,1,1,fr,SPO,Oceania
 'aa8ae2b74f',extremes,Storm,#b3b2b1,wmo,tempête corse du sud haute corse,2026-01-28T03:56:00+00:00,France,0.5104417372696229,1,1,fr,WCE,Europe
@@ -258,7 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cde991c059',extremes,Snow&Ice,#d60d2b,wmo,geler saint cergue,2026-01-24T03:48:00+00:00,Switzerland,0.4980900272858444,1,1,fr,WCE,Europe
 'fc6d3a4255',extremes,Storm,#b3b2b1,wmo,onde de tempête Werdenberg,2026-01-28T03:56:00+00:00,Switzerland,0.4979215836972948,1,1,fr,WCE,Europe
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-02-01T04:41:00+00:00,French Guiana,0.495457654758823,2,1,fr,NSA,South-America
-'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-02-11T04:42:00+00:00,Mauritius,0.49540541946557526,1,1,fr,SIO,Indian Ocean
+'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-02-11T04:42:00+00:00,Mauritius,0.4954054194655752,1,1,fr,SIO,Indian Ocean
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.4950837512399939,2,1,fr,WAF,Africa
 '6efb2f364a',extremes,Storm,#b3b2b1,wmo,tempête delémont bellelay,2026-02-12T04:37:00+00:00,Switzerland,0.4948656558129783,1,1,fr,WCE,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neige saint cergue,2026-01-22T03:59:00+00:00,Switzerland,0.4939122990261601,1,1,fr,WCE,Europe
