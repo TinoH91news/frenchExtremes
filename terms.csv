@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6870152527298334,1,2,fr,WCE,Europe
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.6754912322125326,1,2,fr,WCE,Europe
-'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.6719214647038425,1,1,fr,SPO,Pacific Ocean
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.6715784006961113,1,3,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
@@ -62,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-01-15T10:57:00+00:00,Burundi,0.5715719295893215,2,1,fr,SEAF,Africa
 '526ac614cf',extremes,Earthquake,#870007,usgs,tremblement de terre sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.5715620627441238,2,1,fr,CAR,North-America
 'c08305ef9e',extremes,Drought,#edc291,edo,sécheresse martinique,2026-01-15T10:57:00+00:00,Martinique,0.5715079180892099,2,1,fr,CAR,North-America
+'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-01-15T10:57:00+00:00,French Polynesia,0.5712832599982661,2,1,fr,SPO,Pacific Ocean
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-01-15T10:57:00+00:00,Republic of the Congo,0.5712393364616525,2,1,fr,CAF,Africa
 'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-01-15T10:57:00+00:00,Niger,0.5711169264139199,2,1,fr,SAH,Africa
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.5711062680506371,2,1,fr,WAF,Africa
@@ -275,11 +275,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-01-25T04:06:00+00:00,French Guiana,0.4869797877634682,2,1,fr,NSA,South-America
 'd0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempête glaris sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.4863573540394584,1,1,fr,WCE,Europe
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,la tempête flims laax,2026-02-03T04:27:00+00:00,Switzerland,0.4849984998754819,1,1,fr,WCE,Europe
-'64f2fc2dba',extremes,Storm,#b3b2b1,wmo,onde de tempête glaris nord mitte,2026-01-28T03:56:00+00:00,Switzerland,0.48497966775369616,1,1,fr,WCE,Europe
+'64f2fc2dba',extremes,Storm,#b3b2b1,wmo,onde de tempête glaris nord mitte,2026-01-28T03:56:00+00:00,Switzerland,0.4849796677536961,1,1,fr,WCE,Europe
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle madagascar,2026-01-21T03:56:00+00:00,Madagascar,0.4849195226274057,2,1,fr,MDG,Africa
-'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-02-06T04:28:00+00:00,Seychelles,0.48418082783085936,1,1,fr,EIO,Indian Ocean
-'af2d3e40fc',extremes,Tsunami,#690191,usgs,"port du tsunami, Olry",2026-02-14T04:21:00+00:00,Vanuatu,0.48347410910018224,1,1,fr,SPO,Oceania
-'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,givre kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.48311785800608836,2,1,fr,NEN,North-America
+'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-02-06T04:28:00+00:00,Seychelles,0.4841808278308593,1,1,fr,EIO,Indian Ocean
+'af2d3e40fc',extremes,Tsunami,#690191,usgs,"port du tsunami, Olry",2026-02-14T04:21:00+00:00,Vanuatu,0.4834741091001822,1,1,fr,SPO,Oceania
+'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,givre kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.4831178580060883,2,1,fr,NEN,North-America
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,"baie verte givrée, baie blanche",2026-02-12T04:37:00+00:00,Canada,0.4828647781514534,2,1,fr,NEN,North-America
 '1938b369dd',extremes,Storm,#b3b2b1,wmo,onde de tempête rhénane,2026-01-28T03:56:00+00:00,Switzerland,0.4828186778365668,1,1,fr,WCE,Europe
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-01-21T03:56:00+00:00,Gabon,0.4823502861035212,2,1,fr,CAF,Africa
