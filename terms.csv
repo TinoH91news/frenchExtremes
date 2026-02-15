@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-01-28T03:56:00+00:00,Guinea,0.6314097566099266,1,2,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
-'4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,gel belgique,2026-02-15T04:35:00+00:00,Belgium,0.6233875690838361,0,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6210835990902128,0,1,fr,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-15T12:14:00+00:00,Belgium,0.6208651161238339,1,1,fr,WCE,Europe
@@ -74,6 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.5708892735914562,2,1,fr,CAR,North-America
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-01-15T10:56:00+00:00,New Caledonia,0.5685318506573472,2,1,fr,SPO,Pacific Ocean
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-01-15T10:56:00+00:00,Canada,0.5678064679067693,1,1,fr,NEN,North-America
+'4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,gel belgique,2026-02-15T04:35:00+00:00,Belgium,0.5672706728121698,1,2,fr,WCE,Europe
 '491a82f8c3',extremes,Drought,#edc291,edo,période sèche au Cameroun,2026-01-26T04:09:00+00:00,Cameroon,0.565073889529688,0,1,fr,CAF,Africa
 '18125b01a5',extremes,Drought,#edc291,edo,manque de pluie au laos,2026-01-29T04:19:00+00:00,Laos,0.564917961942335,0,1,fr,SEA,Asia
 '5fe6c4dd26',extremes,Snow&Ice,#d60d2b,wmo,fjord Frost Grise,2026-02-12T04:37:00+00:00,Canada,0.5647596452458085,1,1,fr,NEN,North-America
