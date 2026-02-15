@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-01-28T03:56:00+00:00,Guinea,0.6314097566099266,1,2,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-01-15T10:56:00+00:00,Canada,0.6228133345011749,1,1,fr,NEN,North-America
-'2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6210835990902128,0,1,fr,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-15T12:14:00+00:00,Belgium,0.6208651161238339,1,1,fr,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-01-17T03:44:00+00:00,Belgium,0.6203873658148223,2,2,fr,WCE,Europe
 'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-02-08T04:43:00+00:00,Benin,0.6201874014790186,2,1,fr,WAF,Africa
@@ -44,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-01-15T10:56:00+00:00,Canada,0.599970267947163,1,2,fr,NEN,North-America
 'df697baca6',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère haute savoie,2026-02-12T04:37:00+00:00,France,0.5991014667937836,2,1,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5986859534716786,1,2,fr,WCE,Europe
+'2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.5965086678630445,1,2,fr,WCE,Europe
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,glace luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.5939590472334063,2,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T10:57:00+00:00,Madagascar,0.5937123716319425,1,2,fr,MDG,Africa
 '0724117eff',extremes,Snow&Ice,#d60d2b,wmo,brabant glacial,2026-02-15T04:35:00+00:00,Belgium,0.5928275581725986,0,1,fr,WCE,Europe
