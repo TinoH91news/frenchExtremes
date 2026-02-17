@@ -86,8 +86,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a037e54a9b',extremes,Drought,#edc291,edo,sécheresse tunisie,2026-02-08T04:43:00+00:00,Tunisia,0.5574234181741307,0,1,fr,MED,Africa
 '6d2e8e6e5d',extremes,Fog,#d60d2b,wmo,district des lacs de brouillard,2026-02-07T04:19:00+00:00,Canada,0.5573411165175041,1,1,fr,NEN,North-America
 '1c530e8995',extremes,Storm,#b3b2b1,wmo,tempête flüelen unterschächen,2026-01-28T03:56:00+00:00,Switzerland,0.5573172005892879,0,1,fr,WCE,Europe
+'6dcea60399',extremes,Snow&Ice,#d60d2b,wmo,gel val d'hérens,2026-02-13T04:34:00+00:00,Switzerland,0.5573110360502165,0,1,fr,WCE,Europe
+'150b192379',extremes,Storm,#b3b2b1,wmo,onde de tempête vouvry,2026-02-13T04:34:00+00:00,Switzerland,0.5566631276391873,0,1,fr,WCE,Europe
+'3662ca4c1e',extremes,Thunderstorm,#53785a,wmo,temps violent ouest du Péloponnèse,2026-01-29T04:19:00+00:00,Greece,0.556545473868992,0,1,fr,MED,Europe
 'c2945e363e',extremes,Storm,#b3b2b1,wmo,onde de tempête postville makkovik,2026-01-31T04:16:00+00:00,Canada,0.5565418646764366,1,1,fr,NEN,North-America
 '5bf34f285a',extremes,Earthquake,#870007,usgs,tremblement de terre en Italie,2026-01-15T10:56:00+00:00,Italy,0.5563941979797808,2,1,fr,MED,Europe
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-02-05T04:27:00+00:00,Brazil,0.5559313669672843,0,1,fr,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-02-07T04:19:00+00:00,Brazil,0.5558061730326591,0,1,fr,SAM,South-America
+'922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-01-28T03:56:00+00:00,Benin,0.5556754491726014,0,1,fr,WAF,Africa
 'a186f732f1',extremes,Snow&Ice,#d60d2b,wmo,région glaciale du chenal est de tuktoyaktuk,2026-01-26T04:09:00+00:00,Canada,0.5554011789384218,1,1,fr,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-01-15T10:56:00+00:00,Canada,0.554560330358464,3,2,fr,NEN,North-America
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-01-21T03:56:00+00:00,Democratic Republic of the Congo,0.5544807752088267,1,1,fr,CAF,Africa
@@ -263,7 +269,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.4950837512399939,2,1,fr,WAF,Africa
 '6efb2f364a',extremes,Storm,#b3b2b1,wmo,tempête delémont bellelay,2026-02-12T04:37:00+00:00,Switzerland,0.4948656558129783,1,1,fr,WCE,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neige saint cergue,2026-01-22T03:59:00+00:00,Switzerland,0.4939122990261601,1,1,fr,WCE,Europe
-'81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,métro Frost de Sydney et comté du Cap-Breton,2026-02-16T04:38:00+00:00,Canada,0.49336732753479884,2,1,fr,NEN,North-America
+'81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,métro Frost de Sydney et comté du Cap-Breton,2026-02-16T04:38:00+00:00,Canada,0.4933673275347988,2,1,fr,NEN,North-America
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,onde de tempête dans l'Oberland d'Urner,2026-02-03T04:27:00+00:00,Switzerland,0.4928485284320425,1,1,fr,WCE,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-02-16T04:38:00+00:00,Seychelles,0.4918815605098457,2,1,fr,EIO,Africa
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,onde de tempête appenzell,2026-01-28T03:56:00+00:00,Switzerland,0.4914406197035889,1,1,fr,WCE,Europe
@@ -310,7 +316,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82fc132e3e',extremes,Storm,#b3b2b1,wmo,tempête kerenzerberg seeztal,2026-01-28T03:56:00+00:00,Switzerland,0.477513288884783,1,1,fr,WCE,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,onde de tempête innertkirchen guttannen,2026-01-28T03:56:00+00:00,Switzerland,0.4775121164952571,1,1,fr,WCE,Europe
 '3225a66cea',extremes,Storm,#b3b2b1,wmo,onde de tempête entlebuch,2026-02-12T04:37:00+00:00,Switzerland,0.477204964065219,1,1,fr,WCE,Europe
-'3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-02-06T04:28:00+00:00,Senegal,0.47678817038463933,1,1,fr,WAF,Africa
+'3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-02-06T04:28:00+00:00,Senegal,0.4767881703846393,1,1,fr,WAF,Africa
 '72af2a6a50',extremes,Snow&Ice,#d60d2b,wmo,lac de glace bassin sud de Winnipeg,2026-01-21T03:56:00+00:00,Canada,0.4762415630571228,2,1,fr,NEN,North-America
 'b4ffb5ad21',extremes,Snow&Ice,#d60d2b,wmo,parc des bancs de sable de Picton,2026-01-21T03:56:00+00:00,Canada,0.4745462655821827,2,1,fr,NEN,North-America
 '9a3c159817',extremes,Storm,#b3b2b1,wmo,tempête tuktoyaktuk région du chenal est,2026-01-20T03:56:00+00:00,Canada,0.4735751916258686,2,1,fr,NEN,North-America
