@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-01-17T03:44:00+00:00,France,0.7194536382698146,2,2,fr,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-01-28T03:56:00+00:00,Belgium,0.7170378639161983,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-01-15T12:14:00+00:00,France,0.7155360176249673,1,2,fr,WCE,Europe
-'286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.7097441147599342,1,3,fr,WCE,Europe
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-01-27T03:58:00+00:00,Niger,0.7004272229123305,1,2,fr,SAH,Africa
 '2b1ce063d7',extremes,Flood,#030ba1,wmo,inondations alpes maritimes,2026-02-04T04:21:00+00:00,France,0.6968988459944809,3,2,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-01-25T04:06:00+00:00,France,0.6942599844249531,2,2,fr,WCE,Europe
@@ -33,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-02-08T04:43:00+00:00,Benin,0.6201874014790186,2,1,fr,WAF,Africa
 '606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6200139908303328,2,2,fr,WCE,Europe
 'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.6143296507479094,2,1,fr,MDG,Africa
+'286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.613783292545944,2,3,fr,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-01-19T04:03:00+00:00,Belgium,0.6129982229501937,2,1,fr,WCE,Europe
 '8e18e1b9ca',extremes,Precipitation,#d60d2b,wmo,averse france,2026-02-05T04:27:00+00:00,France,0.612458326371063,2,2,fr,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,manque de pluie italie,2026-01-15T10:57:00+00:00,Italy,0.6123460814902186,2,2,fr,MED,Europe
@@ -49,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,glace luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.5939590472334063,2,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T10:57:00+00:00,Madagascar,0.5937123716319425,1,2,fr,MDG,Africa
 '911ab8d369',extremes,Snow&Ice,#d60d2b,wmo,la France glaciale,2026-01-17T03:44:00+00:00,France,0.5917501329034178,1,2,fr,WCE,Europe
-'4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,geler südliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.5907115895760118,0,1,fr,WCE,Europe
 '4089b2ad7c',extremes,Snow&Ice,#d60d2b,wmo,neige adelboden kandersteg,2026-02-17T04:31:00+00:00,Switzerland,0.5899724362098758,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-01-22T03:59:00+00:00,France,0.5898875004901171,1,2,fr,WCE,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-01-15T12:14:00+00:00,Burkina Faso,0.5874816279711704,2,2,fr,WAF,Africa
@@ -261,6 +260,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au cambodge,2026-02-11T04:42:00+00:00,Cambodia,0.5028213225166202,1,1,fr,SEA,Asia
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-02-05T04:28:00+00:00,Comoros,0.5022177849445411,1,1,fr,ESAF,Africa
 'fb79db23fd',extremes,Storm,#b3b2b1,wmo,onde de tempête chevery blanc sablon,2026-01-15T10:56:00+00:00,Canada,0.50211146790482,2,1,fr,NEN,North-America
+'4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,geler südliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.50210485113961,1,1,fr,WCE,Europe
 'bd4355d0ec',extremes,Snow&Ice,#d60d2b,wmo,glace kangiqsujuaq lac raglan,2026-01-15T10:56:00+00:00,Canada,0.502089712062559,2,1,fr,NEN,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,neige gatineau,2026-01-15T10:56:00+00:00,Canada,0.5020864041737976,2,1,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-01-15T10:56:00+00:00,Canada,0.5019041004496989,2,1,fr,NEN,North-America
