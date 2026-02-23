@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2026-01-27T03:58:00+00:00,Switzerland,0.6534292684109451,1,2,fr,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-01-23T04:03:00+00:00,Switzerland,0.6515780989311597,2,3,fr,WCE,Europe
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-01-21T03:56:00+00:00,Belgium,0.6397248081415697,2,2,fr,WCE,Europe
-'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-06T04:27:00+00:00,France,0.6368821707310665,1,1,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-01-19T04:03:00+00:00,France,0.6295180579768587,1,2,fr,WCE,Europe
 'ef648b276b',extremes,Snow&Ice,#d60d2b,wmo,geler le liège,2026-02-18T04:34:00+00:00,Belgium,0.6283522464328065,2,2,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-02-05T04:28:00+00:00,Gabon,0.6259277935595234,1,1,fr,CAF,Africa
@@ -102,7 +101,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-01-15T12:14:00+00:00,Madagascar,0.5450521605374857,1,1,fr,MDG,Africa
 '4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-01-15T10:56:00+00:00,Vanuatu,0.5450064203002187,1,1,fr,SPO,Pacific Ocean
 '2974b1773c',extremes,Snow&Ice,#d60d2b,wmo,"glace du lac Watson, montagnes Cassiar",2026-01-27T03:58:00+00:00,Canada,0.5449714505065353,1,1,fr,NEN,North-America
-'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.5449641128952597,1,1,fr,SPO,Pacific Ocean
 'bc178afc30',extremes,Drought,#edc291,edo,sécheresse maurice,2026-01-15T10:57:00+00:00,Mauritius,0.5448253991021422,1,1,fr,SIO,Indian Ocean
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,tremblement de terre en Grèce,2026-01-15T10:56:00+00:00,Greece,0.5448188594047062,1,1,fr,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,tremblement de terre à port-vila,2026-01-15T10:56:00+00:00,Vanuatu,0.5447730870432281,1,1,fr,SPO,Oceania
@@ -124,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.5421572339385048,2,1,fr,SIO,Africa
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,dempster glacial,2026-01-26T04:09:00+00:00,Canada,0.5418175893448772,1,1,fr,NEN,North-America
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-01-26T04:09:00+00:00,Mayotte,0.5417948158528708,1,1,fr,MDG,Africa
+'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-06T04:27:00+00:00,France,0.5414998601214065,2,1,fr,WCE,Europe
 'c8d32c0e8d',extremes,Snow&Ice,#d60d2b,wmo,"lac Frost, bassin nord de Winnipeg",2026-01-21T03:56:00+00:00,Canada,0.5413449329767441,1,1,fr,NEN,North-America
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-01-15T12:14:00+00:00,Reunion,0.5409551850252023,1,1,fr,SIO,Africa
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-01-23T04:03:00+00:00,Central African Republic,0.5401152092688117,1,1,fr,CAF,Africa
@@ -309,7 +308,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-02-07T04:19:00+00:00,Brazil,0.4724352470777602,1,1,fr,SAM,South-America
 '60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-01-24T03:49:00+00:00,French Polynesia,0.471589913810196,2,1,fr,SPO,Pacific Ocean
 'd3e91f9222',extremes,Snow&Ice,#d60d2b,wmo,parc ice wawa pukaskwa,2026-01-22T03:59:00+00:00,Canada,0.4705309696943215,2,1,fr,NEN,North-America
-'88940b9c93',extremes,Snow&Ice,#d60d2b,wmo,rivière Clyde glacée,2026-01-18T03:57:00+00:00,Canada,0.4698818425677196,2,1,fr,NEN,North-America
 '96c512570a',extremes,Earthquake,#870007,usgs,tremblement de terre soavinandriana,2026-01-25T04:05:00+00:00,Madagascar,0.4696902739283136,2,1,fr,MDG,Africa
 'cbb8c6c5dc',extremes,Snow&Ice,#d60d2b,wmo,passage Ice Buffalo et lac Peter Pond,2026-01-21T03:56:00+00:00,Canada,0.4670316120470857,2,1,fr,NEN,North-America
 'a979be575d',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de neige,2026-01-23T04:03:00+00:00,Canada,0.4669899988213644,2,1,fr,NEN,North-America
