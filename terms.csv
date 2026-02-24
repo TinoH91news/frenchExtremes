@@ -18,6 +18,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-01-15T10:56:00+00:00,France,0.6903872896448853,4,3,fr,WCE,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6870152527298334,1,2,fr,WCE,Europe
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
+'852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,gelé au sud-est de la péninsule d'Avalon,2026-02-21T04:18:00+00:00,Canada,0.6791916206749574,0,1,fr,NEN,North-America
+'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk gelé,2026-02-22T04:30:00+00:00,Canada,0.6789319879741901,0,1,fr,NEN,North-America
+'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,"neige à Grand Falls, Windsor et environs",2026-02-21T04:18:00+00:00,Canada,0.6788541686624736,0,1,fr,NEN,North-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-02-08T04:43:00+00:00,Canada,0.6785556302122643,0,1,fr,NEN,North-America
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,"lac aux cornichons glacés, lac aux chats",2026-02-21T04:18:00+00:00,Canada,0.6785075704790178,0,1,fr,NEN,North-America
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.6754912322125326,1,2,fr,WCE,Europe
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6723662212588157,2,3,fr,WCE,Europe
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.665509806799472,1,2,fr,WAF,Africa
