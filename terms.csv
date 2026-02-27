@@ -20,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-01-17T03:44:00+00:00,Switzerland,0.6754912322125326,1,2,fr,WCE,Europe
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6723662212588157,2,3,fr,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,manque de pluie italie,2026-01-15T10:57:00+00:00,Italy,0.6707941992666857,3,2,fr,MED,Europe
+'868b77acf9',extremes,Storm,#b3b2b1,wmo,onde de tempête à l'ouest de l'île de Vancouver,2026-02-22T04:30:00+00:00,Canada,0.6696400754147975,0,1,fr,NEN,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.665509806799472,1,2,fr,WAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.662161366955331,2,3,fr,WCE,Europe
@@ -272,7 +273,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-01-26T04:09:00+00:00,Mayotte,0.4605255934749401,2,1,fr,MDG,Africa
 'c5b8c2d1fe',extremes,Snow&Ice,#d60d2b,wmo,givre burgeo ramea,2026-02-02T04:36:00+00:00,Canada,0.4578555287335424,2,1,fr,NEN,North-America
 'b818194924',extremes,Snow&Ice,#d60d2b,wmo,givre montagnes cassiar lac watson,2026-01-27T03:58:00+00:00,Canada,0.4562286821583438,2,1,fr,NEN,North-America
-'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-01-25T04:06:00+00:00,Burkina Faso,0.45594567095033994,2,1,fr,WAF,Africa
+'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-01-25T04:06:00+00:00,Burkina Faso,0.4559456709503399,2,1,fr,WAF,Africa
 '945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-01-23T04:03:00+00:00,Djibouti,0.4557023680663298,2,1,fr,NEAF,Africa
 '62191fb562',extremes,Earthquake,#870007,usgs,tremblement de terre maintirano,2026-02-08T04:43:00+00:00,Madagascar,0.4545212613410251,2,1,fr,MDG,Africa
 '511e52c7b2',extremes,Snow&Ice,#d60d2b,wmo,parc supérieur du lac Frost Agawa,2026-01-22T03:59:00+00:00,Canada,0.4540952386965556,2,1,fr,NEN,North-America
