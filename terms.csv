@@ -76,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e36a69bd3',extremes,Storm,#b3b2b1,wmo,onde de tempête paulatuk,2026-02-22T04:30:00+00:00,Canada,0.5641524043850105,1,1,fr,NEN,North-America
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
 'db1e814857',extremes,Snow&Ice,#d60d2b,wmo,"du givre de la mer au ciel, de Squamish à Whistler",2026-02-23T04:37:00+00:00,Canada,0.5626382953545718,1,1,fr,NEN,North-America
+'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.561733738847729,3,2,fr,SIO,Africa
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-01-30T04:21:00+00:00,Canada,0.5606035886301224,1,1,fr,NEN,North-America
 '2338e25db9',extremes,Thunderstorm,#53785a,wmo,orage corse du sud haute corse,2026-01-20T03:56:00+00:00,France,0.5575370646082851,1,1,fr,WCE,Europe
 '6d2e8e6e5d',extremes,Fog,#d60d2b,wmo,district des lacs de brouillard,2026-02-07T04:19:00+00:00,Canada,0.5573411165175041,1,1,fr,NEN,North-America
@@ -95,7 +96,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e373954fd',extremes,Thunderstorm,#53785a,wmo,temps violent région côtière,2026-02-03T04:27:00+00:00,Benin,0.542875409556677,2,1,fr,WAF,Africa
 'b5c7eaac43',extremes,Snow&Ice,#d60d2b,wmo,gel luxembourg,2026-02-15T04:35:00+00:00,Luxembourg,0.5425530116433722,2,1,fr,WCE,Europe
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-01-28T03:56:00+00:00,Madagascar,0.5424517370994631,2,1,fr,MDG,Africa
-'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.5421572339385048,2,1,fr,SIO,Africa
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,dempster glacial,2026-01-26T04:09:00+00:00,Canada,0.5418175893448772,1,1,fr,NEN,North-America
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-06T04:27:00+00:00,France,0.5414998601214065,2,1,fr,WCE,Europe
 'c8d32c0e8d',extremes,Snow&Ice,#d60d2b,wmo,"lac Frost, bassin nord de Winnipeg",2026-01-21T03:56:00+00:00,Canada,0.5413449329767441,1,1,fr,NEN,North-America
@@ -134,7 +134,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,mois de glace val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.5104703533605425,1,1,fr,WCE,Europe
 'aa8ae2b74f',extremes,Storm,#b3b2b1,wmo,tempête corse du sud haute corse,2026-01-28T03:56:00+00:00,France,0.5104417372696229,1,1,fr,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,période sèche luxembourg,2026-02-07T04:19:00+00:00,Luxembourg,0.5098031368831155,1,1,fr,WCE,Europe
-'d26ddb7dbb',extremes,Precipitation,#d60d2b,wmo,précipitations à l'ouest de l'île de Vancouver,2026-01-29T04:19:00+00:00,Canada,0.5088909261813013,1,1,fr,NEN,North-America
 '3a07d43dc5',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles à l'intérieur des terres de l'île de Vancouver,2026-01-29T04:19:00+00:00,Canada,0.5088755300493802,1,1,fr,NEN,North-America
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,temps violent en Grèce,2026-01-21T03:56:00+00:00,Greece,0.5085878692945167,1,1,fr,MED,Europe
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal de glace,2026-02-15T04:35:00+00:00,Switzerland,0.5079954526012096,1,1,fr,WCE,Europe
@@ -273,6 +272,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,onde de tempête à Trinité-et-Tobago,2026-02-20T04:27:00+00:00,Trinidad and Tobago,0.4395844428081016,2,1,fr,NSA,North-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempête hivernale nord-américaine à New York,2026-01-31T04:17:00+00:00,United States,0.4385812839711185,2,1,fr,ENA,North-America
 '016d0e46db',extremes,Snow&Ice,#d60d2b,wmo,lac supérieur glacial de la rivière Eagle Melville,2026-01-31T04:16:00+00:00,Canada,0.4351601161897276,2,1,fr,NEN,North-America
+'d26ddb7dbb',extremes,Precipitation,#d60d2b,wmo,précipitations à l'ouest de l'île de Vancouver,2026-01-29T04:19:00+00:00,Canada,0.4325572872541061,2,1,fr,NEN,North-America
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-02-06T04:28:00+00:00,Ivory Coast,0.4289695467619092,2,1,fr,WAF,Africa
 'e0feeec7d9',extremes,Storm,#b3b2b1,wmo,onde de tempête goldau ägeri,2026-02-03T04:27:00+00:00,Switzerland,0.4257461854162527,2,1,fr,WCE,Europe
 'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-02-06T04:28:00+00:00,Seychelles,0.4115537036562304,2,1,fr,EIO,Indian Ocean
