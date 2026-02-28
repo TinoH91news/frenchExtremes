@@ -22,6 +22,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6723662212588157,2,3,fr,WCE,Europe
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-02-22T04:31:00+00:00,Mayotte,0.6693970165812443,0,1,fr,MDG,Africa
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-02-09T04:39:00+00:00,Togo,0.6690651087852083,0,1,fr,WAF,Africa
+'79f3bcd2ec',extremes,Snow&Ice,#d60d2b,wmo,le givre recouvre la vallée de Skagit,2026-02-23T04:37:00+00:00,Canada,0.6675385025071909,0,1,fr,NEN,North-America
+'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de glace,2026-02-23T04:37:00+00:00,Canada,0.6659270145812939,0,1,fr,NEN,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.665509806799472,1,2,fr,WAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
 'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.6632285530889412,1,1,fr,WCE,Europe
