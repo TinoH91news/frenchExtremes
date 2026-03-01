@@ -16,10 +16,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c1fb82494',extremes,Storm,#b3b2b1,cmeter,tempête nils bordeaux,2026-02-22T04:31:00+00:00,France,0.6884047743150925,2,3,fr,MED,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6870152527298334,1,2,fr,WCE,Europe
 '6684ff3339',extremes,Precipitation,#d60d2b,wmo,pluie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.6857055237798134,2,2,fr,WCE,Europe
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-02-16T04:38:00+00:00,Burkina Faso,0.674088962670928,0,1,fr,WAF,Africa
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-01-15T10:56:00+00:00,France,0.6723662212588157,2,3,fr,WCE,Europe
+'50d3b02868',extremes,Storm,#b3b2b1,wmo,onde de tempête baie des exploits bonavista nord,2026-02-21T04:18:00+00:00,Canada,0.6721237776165913,0,1,fr,NEN,North-America
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-02-08T04:43:00+00:00,Canada,0.6674319974404372,0,1,fr,NEN,North-America
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-02-26T04:29:00+00:00,Canada,0.6665870911868613,0,1,fr,NEN,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.665509806799472,1,2,fr,WAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-01-17T03:44:00+00:00,France,0.664942461958221,1,2,fr,WCE,Europe
+'8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.6626760583890824,0,1,fr,NEAF,Africa
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-01-21T03:56:00+00:00,France,0.662161366955331,2,3,fr,WCE,Europe
+'911ab8d369',extremes,Snow&Ice,#d60d2b,wmo,la France glaciale,2026-02-10T04:43:00+00:00,France,0.6599432224995945,0,1,fr,WCE,Europe
 '0ca87424f0',extremes,Drought,#edc291,edo,sécheresse maroc,2026-01-15T10:57:00+00:00,Morocco,0.6565729258685791,2,2,fr,MED,Africa
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.6552389158895559,2,2,fr,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempête suisse,2026-01-27T03:58:00+00:00,Switzerland,0.6534292684109451,1,2,fr,WCE,Europe
