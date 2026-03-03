@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-02-13T04:34:00+00:00,Djibouti,0.7718859615370545,1,2,fr,NEAF,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.7529351520542277,0,1,fr,WCE,Europe
 '9ec781dabc',extremes,Flood,#030ba1,wmo,inondations finistère morbihan,2026-02-18T04:34:00+00:00,France,0.7447290850461517,1,3,fr,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-02-07T04:19:00+00:00,Belgium,0.7399481898246643,1,2,fr,WCE,Europe
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-03-03T04:27:00+00:00,France,0.7391849299054735,0,1,fr,WCE,Europe
 'f5090b53e9',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-02-09T04:39:00+00:00,French Polynesia,0.7353086764502463,1,2,fr,SPO,Pacific Ocean
-'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-02-13T04:34:00+00:00,Djibouti,0.7314540547494759,0,1,fr,NEAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-01-15T10:56:00+00:00,Canada,0.7265165723455338,1,3,fr,NEN,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-01-28T03:56:00+00:00,Belgium,0.7170378639161983,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-01-15T12:14:00+00:00,France,0.7155360176249673,1,2,fr,WCE,Europe
