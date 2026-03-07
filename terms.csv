@@ -40,9 +40,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6200139908303328,2,2,fr,WCE,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-02-07T04:19:00+00:00,Canada,0.6196600586337346,2,2,fr,NEN,North-America
 '1905c0a7b1',extremes,Snow&Ice,#d60d2b,wmo,neige sanikiluaq,2026-03-03T04:27:00+00:00,Canada,0.6171951014500854,0,1,fr,NEN,North-America
+'177b82d457',extremes,Storm,#b3b2b1,wmo,tempête chevery blanc sablon,2026-02-28T04:07:00+00:00,Canada,0.6170891186736465,0,1,fr,NEN,North-America
+'6043e52764',extremes,Snow&Ice,#d60d2b,wmo,gel iqaluit,2026-03-02T04:27:00+00:00,Canada,0.6166572684359848,0,1,fr,NEN,North-America
+'f3e03f4e4f',extremes,Snow&Ice,#d60d2b,wmo,naujaat de glace,2026-03-03T04:27:00+00:00,Canada,0.6161440384789965,0,1,fr,NEN,North-America
+'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-02-19T04:32:00+00:00,Comoros,0.6149751479866052,0,1,fr,ESAF,Africa
 'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.6143296507479094,2,1,fr,MDG,Africa
 '286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.613783292545944,2,3,fr,WCE,Europe
+'dd21606fcc',extremes,Snow&Ice,#d60d2b,wmo,port de glace sachs ulukhaktok,2026-03-01T04:35:00+00:00,Canada,0.6134383258857528,0,1,fr,NEN,North-America
 '8e18e1b9ca',extremes,Precipitation,#d60d2b,wmo,averse france,2026-02-05T04:27:00+00:00,France,0.612458326371063,2,2,fr,WCE,Europe
+'a715281618',extremes,Storm,#b3b2b1,wmo,onde de tempête vanuatu,2026-02-17T04:31:00+00:00,Vanuatu,0.6118692880454722,0,1,fr,SPO,Oceania
 'cc12e69437',extremes,Thunderstorm,#53785a,wmo,temps violent au Cameroun,2026-02-16T04:38:00+00:00,Cameroon,0.6053000625627533,2,1,fr,CAF,Africa
 'b8ec542a24',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux du nord.,2026-01-27T03:58:00+00:00,Vanuatu,0.6041405126371915,2,2,fr,SPO,Oceania
 'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neige péninsule nord est,2026-02-12T04:37:00+00:00,Canada,0.6032346293680617,2,2,fr,NEN,North-America
