@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e18e1b9ca',extremes,Precipitation,#d60d2b,wmo,averse france,2026-02-05T04:27:00+00:00,France,0.612458326371063,2,2,fr,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-01-28T03:56:00+00:00,Belgium,0.6094823343287685,2,2,fr,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-02-10T04:43:00+00:00,Switzerland,0.6054464814242023,3,1,fr,WCE,Europe
-'b08a276ec2',extremes,Fog,#d60d2b,wmo,brouillard italie,2026-02-22T04:30:00+00:00,Italy,0.6053145611222317,0,1,fr,MED,Europe
 'cc12e69437',extremes,Thunderstorm,#53785a,wmo,temps violent au Cameroun,2026-02-16T04:38:00+00:00,Cameroon,0.6053000625627533,2,1,fr,CAF,Africa
 '979cf49354',extremes,Thunderstorm,#53785a,wmo,temps violent sur les îles du centre et du sud.,2026-02-28T04:07:00+00:00,Vanuatu,0.6039936332793486,0,1,fr,SPO,Oceania
 '8292b14a06',extremes,Flood,#030ba1,cmeter,inondation de perpignan,2026-03-07T04:13:00+00:00,France,0.6038622034840944,0,1,fr,MED,Europe
@@ -60,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c5260711ba',extremes,Fog,#d60d2b,wmo,brouillard gatineau,2026-03-08T04:24:00+00:00,Canada,0.5447167888172015,1,1,fr,NEN,North-America
 'b5c7eaac43',extremes,Snow&Ice,#d60d2b,wmo,gel luxembourg,2026-02-15T04:35:00+00:00,Luxembourg,0.5425530116433722,2,1,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-06T04:27:00+00:00,France,0.5414998601214065,2,1,fr,WCE,Europe
+'b08a276ec2',extremes,Fog,#d60d2b,wmo,brouillard italie,2026-02-22T04:30:00+00:00,Italy,0.5404174669538969,1,1,fr,MED,Europe
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-02-06T04:28:00+00:00,Gabon,0.5372967985299609,2,1,fr,CAF,Africa
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-02-06T04:27:00+00:00,Italy,0.535366582960286,2,1,fr,MED,Europe
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-02-11T04:41:00+00:00,France,0.5343140227368572,2,1,fr,WCE,Europe
