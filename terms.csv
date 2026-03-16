@@ -2,11 +2,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.7177094112015849,4,3,fr,WCE,Europe
 '0c1fb82494',extremes,Storm,#b3b2b1,cmeter,tempête nils bordeaux,2026-02-22T04:31:00+00:00,France,0.6884047743150925,2,3,fr,MED,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.669952416088521,3,2,fr,WCE,Europe
-'34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,glace st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.6674930029964602,0,1,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6611391295655662,2,1,fr,WCE,Europe
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.6552389158895559,2,2,fr,WCE,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6465185478473046,3,2,fr,WCE,Europe
-'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.6457409214380025,1,1,fr,NEAF,Africa
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
 '9ec781dabc',extremes,Flood,#030ba1,wmo,inondations finistère morbihan,2026-02-18T04:34:00+00:00,France,0.6343698572892289,2,3,fr,WCE,Europe
@@ -40,11 +38,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.5765587658398857,2,1,fr,WCE,Europe
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.5710744317744968,2,2,fr,WCE,Europe
 'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,effretikon de neige,2026-03-13T04:25:00+00:00,Switzerland,0.5686757070640929,1,1,fr,WCE,Europe
+'34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,glace st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.5673690525469911,1,1,fr,WCE,Europe
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.561733738847729,3,2,fr,SIO,Africa
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-02-08T04:43:00+00:00,Canada,0.5542006712340491,2,1,fr,NEN,North-America
+'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.5490297982223021,2,1,fr,NEAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-02-11T04:41:00+00:00,France,0.5343140227368572,2,1,fr,WCE,Europe
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2026-03-07T04:12:00+00:00,Belgium,0.533190915854185,1,1,fr,WCE,Europe
