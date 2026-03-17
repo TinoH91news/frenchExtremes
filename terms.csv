@@ -1,7 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.7177094112015849,4,3,fr,WCE,Europe
+'d3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-03-06T04:21:00+00:00,Djibouti,0.692558685173447,0,1,fr,NEAF,Africa
 '0c1fb82494',extremes,Storm,#b3b2b1,cmeter,tempête nils bordeaux,2026-02-22T04:31:00+00:00,France,0.6884047743150925,2,3,fr,MED,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.669952416088521,3,2,fr,WCE,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,période sèche à madagascar,2026-03-08T04:24:00+00:00,Madagascar,0.669505565553774,0,1,fr,MDG,Africa
+'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,sarnen de glace,2026-03-13T04:25:00+00:00,Switzerland,0.6679424491702498,0,1,fr,WCE,Europe
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-03-14T04:22:00+00:00,Seychelles,0.6661086183232596,0,1,fr,EIO,Africa
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6611391295655662,2,1,fr,WCE,Europe
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.6552389158895559,2,2,fr,WCE,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6465185478473046,3,2,fr,WCE,Europe
