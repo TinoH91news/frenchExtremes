@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-02T04:27:00+00:00,Belgium,0.5782100622670648,2,2,fr,WCE,Europe
 'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.5765587658398857,2,1,fr,WCE,Europe
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.5710744317744968,2,2,fr,WCE,Europe
-'0f23209d1b',extremes,Thunderstorm,#53785a,wmo,orage aux Seychelles,2026-03-13T04:25:00+00:00,Seychelles,0.5674688814576345,1,1,fr,EIO,Africa
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
@@ -90,7 +89,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-03-10T04:22:00+00:00,Republic of the Congo,0.4989354098093423,2,1,fr,CAF,Africa
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-03-15T04:44:00+00:00,New Caledonia,0.4978850426468336,2,1,fr,SPO,Pacific Ocean
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-02T04:27:00+00:00,Gabon,0.4969176943906108,2,1,fr,CAF,Africa
-'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-02-11T04:42:00+00:00,Mauritius,0.4954054194655752,1,1,fr,SIO,Indian Ocean
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-03-04T04:21:00+00:00,New Caledonia,0.4939379498040631,2,1,fr,SPO,Oceania
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,métro Frost de Sydney et comté du Cap-Breton,2026-02-16T04:38:00+00:00,Canada,0.4933673275347988,2,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-02-23T04:37:00+00:00,Canada,0.4928634490313441,2,1,fr,NEN,North-America
@@ -142,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,"baie verte givrée, baie blanche",2026-02-12T04:37:00+00:00,Canada,0.4828647781514534,2,1,fr,NEN,North-America
 'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neige muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.4828070962455607,2,1,fr,WCE,Europe
 'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,sarnen de glace,2026-03-13T04:25:00+00:00,Switzerland,0.4825884195255054,2,1,fr,WCE,Europe
+'0f23209d1b',extremes,Thunderstorm,#53785a,wmo,orage aux Seychelles,2026-03-13T04:25:00+00:00,Seychelles,0.48234854923898934,2,1,fr,EIO,Africa
 '79f3bcd2ec',extremes,Snow&Ice,#d60d2b,wmo,le givre recouvre la vallée de Skagit,2026-02-23T04:37:00+00:00,Canada,0.4822965680614454,2,1,fr,NEN,North-America
 '34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,glace st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.4822636946649424,2,1,fr,WCE,Europe
 '4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,gel belgique,2026-02-15T04:35:00+00:00,Belgium,0.4821804318903443,2,1,fr,WCE,Europe
@@ -168,6 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-02-22T04:31:00+00:00,French Guiana,0.471781055027345,2,1,fr,NSA,South-America
 '5aa8518160',extremes,Wildfire,#d60d2b,emdat,bezanga de feu de brousse,2026-03-13T04:25:00+00:00,Central African Republic,0.4717634198616627,3,1,fr,CAF,Africa
 'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-02-26T04:29:00+00:00,Haiti,0.4715884870450879,2,1,fr,CAR,North-America
+'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-02-11T04:42:00+00:00,Mauritius,0.47154465154573894,2,1,fr,SIO,Indian Ocean
 '28cf44e53a',extremes,Drought,#edc291,edo,sécheresse nouvelle-calédonie,2026-02-25T04:33:00+00:00,New Caledonia,0.4713893306427105,2,1,fr,SPO,Oceania
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,onde de tempête îles de la madeleine,2026-02-24T04:31:00+00:00,Canada,0.4706627493679234,2,1,fr,NEN,North-America
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2026-02-14T04:22:00+00:00,Gabon,0.4704758423232159,2,1,fr,CAF,Africa
