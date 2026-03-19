@@ -1,7 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-03-04T04:21:00+00:00,Burundi,0.6961622085518615,0,1,fr,SEAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.6831876977031653,5,3,fr,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.669952416088521,3,2,fr,WCE,Europe
+'1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,glace soleure rothrist,2026-03-13T04:25:00+00:00,Switzerland,0.6648026853169837,0,1,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6611391295655662,2,1,fr,WCE,Europe
+'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neige delémont bellelay,2026-03-13T04:25:00+00:00,Switzerland,0.6587415071437165,0,1,fr,WCE,Europe
+'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gel Landquart Coire,2026-03-13T04:25:00+00:00,Switzerland,0.6586644503103617,0,1,fr,WCE,Europe
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.6552389158895559,2,2,fr,WCE,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-02-05T04:28:00+00:00,Belgium,0.6465185478473046,3,2,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
@@ -239,6 +243,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6efb2f364a',extremes,Storm,#b3b2b1,wmo,tempête delémont bellelay,2026-02-12T04:37:00+00:00,Switzerland,0.4206358074410316,2,1,fr,WCE,Europe
 'af2d3e40fc',extremes,Tsunami,#690191,usgs,"port du tsunami, Olry",2026-02-14T04:21:00+00:00,Vanuatu,0.4109529927351548,2,1,fr,SPO,Oceania
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
-'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.38853653805157784,3,1,fr,NEN,North-America
+'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.3885365380515778,3,1,fr,NEN,North-America
 '2e0a87f8c0',extremes,Thunderstorm,#53785a,wmo,grêle sur les îles du sud de Vanuatu,2026-02-16T04:38:00+00:00,Vanuatu,0.3750559967351107,3,1,fr,SPO,Oceania
 '995cde4bd7',extremes,Storm,#b3b2b1,wmo,canaux d’onde de tempête et eaux du sud.,2026-02-17T04:31:00+00:00,Vanuatu,0.3731578960185445,3,1,fr,SPO,Oceania
