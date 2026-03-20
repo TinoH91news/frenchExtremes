@@ -124,7 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,glâne de neige,2026-03-13T04:25:00+00:00,Switzerland,0.481128162401163,2,1,fr,WCE,Europe
 '810cb157e5',extremes,Snow&Ice,#d60d2b,wmo,naujaat glacial,2026-02-22T04:30:00+00:00,Canada,0.4811026550980086,2,1,fr,NEN,North-America
 'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-02-18T04:33:00+00:00,Madagascar,0.4808830825251937,2,1,fr,MDG,Africa
-'1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,glace soleure rothrist,2026-03-13T04:25:00+00:00,Switzerland,0.48031994014152074,2,1,fr,WCE,Europe
+'1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,glace soleure rothrist,2026-03-13T04:25:00+00:00,Switzerland,0.4803199401415207,2,1,fr,WCE,Europe
 '8e36a69bd3',extremes,Storm,#b3b2b1,wmo,onde de tempête paulatuk,2026-02-22T04:30:00+00:00,Canada,0.4795295437272588,2,1,fr,NEN,North-America
 'db1e814857',extremes,Snow&Ice,#d60d2b,wmo,"du givre de la mer au ciel, de Squamish à Whistler",2026-02-23T04:37:00+00:00,Canada,0.4782425510513859,2,1,fr,NEN,North-America
 '1ec1c3318b',extremes,Snow&Ice,#d60d2b,wmo,givre chilcotin,2026-03-16T05:05:00+00:00,Canada,0.4772850527091616,2,1,fr,NEN,North-America
@@ -226,7 +226,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal de glace,2026-02-15T04:35:00+00:00,Switzerland,0.4317961347110281,2,1,fr,WCE,Europe
 'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-03-04T04:21:00+00:00,Saint Pierre and Miquelon,0.4275829191355163,3,1,fr,ENA,North-America
 '4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,geler südliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.4267891234686685,2,1,fr,WCE,Europe
-'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,précipitations seychelles,2026-03-12T04:26:00+00:00,Seychelles,0.41762138880764327,3,1,fr,EIO,Africa
+'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,précipitations seychelles,2026-03-12T04:26:00+00:00,Seychelles,0.4176213888076432,3,1,fr,EIO,Africa
 'af2d3e40fc',extremes,Tsunami,#690191,usgs,"port du tsunami, Olry",2026-02-14T04:21:00+00:00,Vanuatu,0.4109529927351548,2,1,fr,SPO,Oceania
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
 'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.3885365380515778,3,1,fr,NEN,North-America
