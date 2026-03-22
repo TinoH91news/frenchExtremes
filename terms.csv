@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.7196095686752428,4,2,fr,WCE,Europe
+'606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6773119222057828,3,2,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.6530794967965197,3,2,fr,CAR,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
@@ -9,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0c145c9df',extremes,Earthquake,#870007,usgs,tremblement de terre wé,2026-03-20T04:26:00+00:00,New Caledonia,0.6238914341076263,1,1,fr,SPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-02-06T04:27:00+00:00,Canada,0.6212812050538425,2,2,fr,NEN,North-America
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-02-11T04:41:00+00:00,Switzerland,0.6204779964850533,2,2,fr,WCE,Europe
-'606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6200139908303328,2,2,fr,WCE,Europe
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-03-03T04:27:00+00:00,France,0.614017169018729,3,3,fr,WCE,Europe
 '286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.613783292545944,2,3,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6053005338611215,4,1,fr,WCE,Europe
@@ -211,7 +211,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9e8505412',extremes,Thunderstorm,#53785a,wmo,temps violent dans tout le Vanuatu.,2026-02-27T04:26:00+00:00,Vanuatu,0.437498437769316,2,1,fr,SPO,Oceania
 '979cf49354',extremes,Thunderstorm,#53785a,wmo,temps violent sur les îles du centre et du sud.,2026-02-28T04:07:00+00:00,Vanuatu,0.4366629277943293,2,1,fr,SPO,Oceania
 '8292b14a06',extremes,Flood,#030ba1,cmeter,inondation de perpignan,2026-03-07T04:13:00+00:00,France,0.4365454675172582,2,1,fr,MED,Europe
-'58475363ba',extremes,Snow&Ice,#d60d2b,wmo,neige kangirsuk aupaluk tasiujaq,2026-03-05T04:24:00+00:00,Canada,0.4361198294351336,2,1,fr,NEN,North-America
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,mois de glace val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4338998003564611,2,1,fr,WCE,Europe
 'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-03-04T04:21:00+00:00,Saint Pierre and Miquelon,0.4275829191355163,3,1,fr,ENA,North-America
 '4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,geler südliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.4267891234686685,2,1,fr,WCE,Europe
@@ -221,3 +220,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,neige werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.4111054880431519,3,1,fr,WCE,Europe
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
 'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.3885365380515778,3,1,fr,NEN,North-America
+'58475363ba',extremes,Snow&Ice,#d60d2b,wmo,neige kangirsuk aupaluk tasiujaq,2026-03-05T04:24:00+00:00,Canada,0.3707018550198636,3,1,fr,NEN,North-America
