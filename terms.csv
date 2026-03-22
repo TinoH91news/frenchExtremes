@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-03-10T04:22:00+00:00,Djibouti,0.7432356857545803,0,1,fr,NEAF,Africa
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.669952416088521,3,2,fr,WCE,Europe
+'04ec48ad4c',extremes,Snow&Ice,#d60d2b,wmo,glace Lucerne Alpnach,2026-03-13T04:25:00+00:00,Switzerland,0.6654647767651207,0,1,fr,WCE,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-03-13T04:25:00+00:00,Switzerland,0.6579663588344331,0,1,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.6530794967965197,3,2,fr,CAR,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
