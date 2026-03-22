@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.7196095686752428,4,2,fr,WCE,Europe
-'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-03-03T04:27:00+00:00,French Southern Territories,0.6635443221878498,0,1,fr,SOO,Antarctica
-'0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.6568498733874404,0,1,fr,NEN,North-America
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.6530794967965197,3,2,fr,CAR,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
@@ -34,9 +32,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-03-03T04:27:00+00:00,Mayotte,0.5701642375875575,1,1,fr,MDG,Africa
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
 '04ec48ad4c',extremes,Snow&Ice,#d60d2b,wmo,glace Lucerne Alpnach,2026-03-13T04:25:00+00:00,Switzerland,0.5656450602503525,1,1,fr,WCE,Europe
+'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-03-03T04:27:00+00:00,French Southern Territories,0.5643127038596722,1,1,fr,SOO,Antarctica
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-02-10T04:43:00+00:00,Reunion,0.561733738847729,3,2,fr,SIO,Africa
+'0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.5583223923793244,1,1,fr,NEN,North-America
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.5569531085061225,3,1,fr,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-03-13T04:25:00+00:00,Switzerland,0.5514908052578779,2,2,fr,WCE,Europe
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
