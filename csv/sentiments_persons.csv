@@ -1,117 +1,189 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Storm Goretti,Storm Goretti,PERSON,-0.03882341937897496,0.5298868312757203,en,17.999999999999993
-Storm Nils,Storm Nils,PERSON,-0.008971088435374145,0.6425092764378478,en,11.200000000000001
+Storm Nils,Storm Nils,PERSON,-0.004694070414929313,0.5564790100833047,en,16.299999999999997
+Storm Pedro,Storm Pedro,PERSON,-0.17866465863453818,0.5157128514056225,en,8.3
 Donald Trump,Donald Trump,PERSON,0.14779491341991344,0.296097132034632,en,3.2
-Storm Pedro,Storm Pedro,PERSON,-0.29287634408602153,0.9211021505376346,en,3.0999999999999996
+Emily Harrop,Emily Harrop,PERSON,0.1111505681818182,0.27154356060606066,en,3.1999999999999997
+Thibault Anselmet,Thibault Anselmet,PERSON,0.1111505681818182,0.27154356060606066,en,3.1999999999999997
+Clément Noël,Clément Noël,PERSON,0.17708333333333334,0.6592261904761907,en,2.8
 HBO Max,HBO Max,PERSON,0.2222222222222222,0.32716049382716045,en,2.7
-Thibault Anselmet,Thibault Anselmet,PERSON,0.0,0.06521739130434784,en,2.3
-Emily Harrop,Emily Harrop,PERSON,0.0,0.06521739130434784,en,2.3
+Pierre Crinon,Pierre Crinon,PERSON,-0.39130434782608703,0.9166666666666667,en,2.3
+Emmanuel Macron,Emmanuel Macron,PERSON,0.23009599096555622,0.6381987577639752,en,2.3
+Loïc Meillard,Loïc Meillard,PERSON,1.0877192982456139,0.9298245614035087,en,1.9000000000000001
+Marte Goossen,Marte Goossen,PERSON,0.06140350877192982,0.7149122807017544,en,1.9000000000000001
+Sidney Crosby,Sidney Crosby,PERSON,0.0,0.29411764705882354,en,1.7
+Sébastien Lecornu,Sébastien Lecornu,PERSON,0.020053475935828877,0.33088235294117646,en,1.7
 Cyclone Gezani,Cyclone Gezani,PERSON,0.15625,0.3125,en,1.6
+Johannes Klaebo,Johannes Klaebo,PERSON,0.0,0.0,en,1.6
+Maximilien Drion,Maximilien Drion,PERSON,0.625,0.625,en,1.6
 Lindsey Vonn,Lindsey Vonn,PERSON,-0.18229166666666663,0.5989583333333333,en,1.6
-Pierre Crinon,Pierre Crinon,PERSON,-0.5625,1.3177083333333333,en,1.6
-Johannes Klaebo,Johannes Klaebo,PERSON,0.0,0.0,en,1.3
-Manlio Dinucci,Manlio Dinucci,PERSON,0.0,0.0,en,1.3
-Franjo von Allmen,Franjo von Allmen,PERSON,0.3846153846153846,0.5128205128205128,en,1.3
-Xiaomi YU7,Xiaomi YU7,PERSON,0.0,0.09615384615384615,en,1.3
-Camille Parmesan,Camille Parmesan,PERSON,0.1778846153846154,0.34615384615384615,en,1.3
-Laurent Ruquier,Laurent Ruquier,PERSON,0.16398601398601398,0.5118343195266272,en,1.3
-Alexandre Texier,Alexandre Texier,PERSON,0.0,0.0,en,1.3
-Sandrine Tas,Sandrine Tas,PERSON,0.1626845376845377,0.6323815073815073,en,1.3
+Sophie Adenot,Sophie Adenot,PERSON,0.1321022727272727,0.502840909090909,en,1.6
+Franjo von Allmen,Franjo von Allmen,PERSON,0.44507575757575757,0.6676136363636362,en,1.6
+Armand Marchant,Armand Marchant,PERSON,1.2135416666666665,1.3125,en,1.6
+Jean-Luc Mélenchon,Jean-Luc Mélenchon,PERSON,-0.0020292207792207972,0.654694264069264,en,1.6
+Quentin Deranque,Quentin Deranque,PERSON,0.23511904761904756,0.6257440476190476,en,1.6
+Charles Kushner,Charles Kushner,PERSON,0.004273504273504258,0.21367521367521367,en,1.3
+Valérie Masson-Delmotte,Valérie Masson-Delmotte,PERSON,0.3004807692307692,0.7371794871794871,en,1.3
 Mathis Desloges,Mathis Desloges,PERSON,0.0673076923076923,0.4198717948717949,en,1.3
+Gisèle Pelicot,Gisèle Pelicot,PERSON,0.1923076923076923,0.2564102564102564,en,1.3
+Laurent Ruquier,Laurent Ruquier,PERSON,0.16398601398601398,0.5118343195266272,en,1.3
+Francesca Lollobrigida,Francesca Lollobrigida,PERSON,0.24388111888111885,0.6751165501165501,en,1.3
+Julia Simon,Julia Simon,PERSON,0.0,0.0,en,1.3
+Manlio Dinucci,Manlio Dinucci,PERSON,0.0,0.0,en,1.3
+Gilles Candar,Gilles Candar,PERSON,0.16346153846153846,0.26282051282051283,en,1.3
+Sandrine Tas,Sandrine Tas,PERSON,0.1626845376845377,0.6323815073815073,en,1.3
+Camille Parmesan,Camille Parmesan,PERSON,0.1778846153846154,0.34615384615384615,en,1.3
+Jean Dujardin,Jean Dujardin,PERSON,0.0,0.3846153846153846,en,1.3
+Xiaomi YU7,Xiaomi YU7,PERSON,0.0,0.09615384615384615,en,1.3
+Benoît Richaud,Benoît Richaud,PERSON,0.0,0.4615384615384615,en,1.3
+Van Gestel,Van Gestel,PERSON,0.0,0.0,en,1.3
+Loïc Meillard Olympic,Loïc Meillard Olympic,PERSON,-0.05128205128205126,0.3333333333333333,en,1.3
 Laurent Vinatier,Laurent Vinatier,PERSON,0.0,0.0,en,1.3
 Michaël Randrianirina,Michaël Randrianirina,PERSON,0.15384615384615385,0.6153846153846154,en,1.3
-Francesca Lollobrigida,Francesca Lollobrigida,PERSON,0.24388111888111885,0.6751165501165501,en,1.3
+Alexandre Texier,Alexandre Texier,PERSON,0.0,0.0,en,1.3
+Atle Lie McGrath,Atle Lie McGrath,PERSON,0.21153846153846154,0.9134615384615384,en,1.3
+Soudal Quick-Step,Soudal Quick-Step,PERSON,0.0,0.0,en,1.3
 Pascal Ickx,Pascal Ickx,PERSON,-0.01736111111111112,0.6944444444444444,en,1.2
-Guillaume Cizeron,Guillaume Cizeron,PERSON,-0.6,0.9,en,1.0
-Laurence Fournier Beaudry,Laurence Fournier Beaudry,PERSON,-0.6,0.9,en,1.0
-Violette Braun,Violette Braun,PERSON,0.0,0.0,en,1.0
-Britney Spears,Britney Spears,PERSON,0.0,0.0,en,1.0
-Yohann Petiot,Yohann Petiot,PERSON,0.275,0.5,en,1.0
-Realme Buds Clip,Realme Buds Clip,PERSON,0.375,0.375,en,1.0
-Grandes Rousses,Grandes Rousses,PERSON,-0.19125,0.54125,en,1.0
-Picardy Wallonia,Picardy Wallonia,PERSON,0.0,0.0,en,1.0
-Julia Simon,Julia Simon,PERSON,0.0,0.0,en,1.0
-JD Vance,JD Vance,PERSON,-0.3333333333333333,0.3333333333333333,en,1.0
-Emmanuel Macron,Emmanuel Macron,PERSON,0.0,0.0,en,1.0
-Mélanie de Boncelles,Mélanie de Boncelles,PERSON,0.0,0.0,en,1.0
-Yannick Schwaller,Yannick Schwaller,PERSON,0.0,0.25,en,1.0
-Briar Schwaller-Hürlimann,Briar Schwaller-Hürlimann,PERSON,0.0,0.25,en,1.0
-Depression Leonardo,Depression Leonardo,PERSON,0.5,0.5,en,1.0
-Leonardo Depression,Leonardo Depression,PERSON,-0.06666666666666667,0.016666666666666666,en,1.0
-D1 ACFF,D1 ACFF,PERSON,0.0,0.0,en,1.0
+Angelina Jolie,Angelina Jolie,PERSON,0.0,0.0,en,1.0
+Sébastien Martin,Sébastien Martin,PERSON,0.1,0.4,en,1.0
 Météo France,Météo France,PERSON,-0.10000000000000002,0.4000000000000001,en,1.0
-La Plagne,La Plagne,PERSON,-0.1,0.1,en,1.0
-Atle Lie McGrath,Atle Lie McGrath,PERSON,0.2,0.9,en,1.0
-Lorine Schild,Lorine Schild,PERSON,0.14545454545454548,0.5666666666666668,en,1.0
-Sébastien Lecornu,Sébastien Lecornu,PERSON,0.0,0.0,en,1.0
+Statzz - Last,Statzz - Last,PERSON,0.0,0.06666666666666667,en,1.0
+Grenoblois Pierre Crinon,Grenoblois Pierre Crinon,PERSON,0.0,0.0,en,1.0
+Quentin Philippe,Quentin Philippe,PERSON,-0.041666666666666664,0.15833333333333333,en,1.0
 Timothé Sivignon,Timothé Sivignon,PERSON,0.0,0.55,en,1.0
 Matias Roche,Matias Roche,PERSON,0.0,0.55,en,1.0
 Benta Lyon,Benta Lyon,PERSON,0.0,0.0,en,1.0
 Claude Begin,Claude Begin,PERSON,0.04999999999999999,0.55,en,1.0
-Statzz - Last,Statzz - Last,PERSON,0.0,0.06666666666666667,en,1.0
+Alysa Liu,Alysa Liu,PERSON,0.0,0.0,en,1.0
 Michael Buble - Home,Michael Buble - Home,PERSON,0.0,0.0,en,1.0
 Dominique Van Deynse,Dominique Van Deynse,PERSON,0.033333333333333326,0.21666666666666667,en,1.0
+Steven Amiez,Steven Amiez,PERSON,-0.125,0.25,en,1.0
 Tom Wilson,Tom Wilson,PERSON,0.10000000000000002,0.3333333333333333,en,1.0
-Cyril Bonnefoy,Cyril Bonnefoy,PERSON,0.0,0.0,en,1.0
+La Louvière,La Louvière,PERSON,-0.25,0.8888888888888888,en,1.0
+​​The Garonne,​​The Garonne,PERSON,0.0,0.25,en,1.0
 Loena Hendrickx,Loena Hendrickx,PERSON,0.625,0.625,en,1.0
-Isabelle van Elst,Isabelle van Elst,PERSON,0.0,0.0,en,1.0
+Nils | The Garonne,Nils | The Garonne,PERSON,-0.052727272727272734,0.36,en,1.0
+Lorine Schild,Lorine Schild,PERSON,0.14545454545454548,0.5666666666666668,en,1.0
+Simone Deromedis,Simone Deromedis,PERSON,-0.08333333333333333,0.4666666666666666,en,1.0
+Marine Braud,Marine Braud,PERSON,-0.1,0.15,en,1.0
+Mont Blanc,Mont Blanc,PERSON,0.7,0.8,en,1.0
+Évelyne Dhéliat,Évelyne Dhéliat,PERSON,0.7,0.6000000000000001,en,1.0
+Pauline Peyrade,Pauline Peyrade,PERSON,0.09727272727272726,0.17757575757575758,en,1.0
+Julia Lepère,Julia Lepère,PERSON,0.09727272727272726,0.17757575757575758,en,1.0
+Arundhati Ro,Arundhati Ro,PERSON,0.09727272727272726,0.17757575757575758,en,1.0
+Jacques Audiard,Jacques Audiard,PERSON,0.5,0.5,en,1.0
+Paul Seixas,Paul Seixas,PERSON,0.2625,0.3833333333333333,en,1.0
+Marco Bezzecchi,Marco Bezzecchi,PERSON,0.2625,0.3833333333333333,en,1.0
+Kazuto Yamaki,Kazuto Yamaki,PERSON,0.0,0.0,en,1.0
+Gabrielle Colson,Gabrielle Colson,PERSON,0.45,0.75,en,1.0
+Thomas Pesquet,Thomas Pesquet,PERSON,0.02500000000000001,0.2833333333333333,en,1.0
+Julien De Sart,Julien De Sart,PERSON,0.0,0.0,en,1.0
+Estefany Rodríguez Flores,Estefany Rodríguez Flores,PERSON,0.0,0.0,en,1.0
+Joel Coxander,Joel Coxander,PERSON,0.0,0.0,en,1.0
+Jean Bruce,Jean Bruce,PERSON,0.0,0.5,en,1.0
+Hubert Bonisseur de La Bath,Hubert Bonisseur de La Bath,PERSON,0.0,0.5,en,1.0
+sophia djebel,sophia djebel,PERSON,0.6,0.95,en,1.0
+incantat rock,incantat rock,PERSON,0.0,0.0,en,1.0
+Céline Bienaimer,Céline Bienaimer,PERSON,0.0,0.0,en,1.0
+Bill Gates,Bill Gates,PERSON,0.049999999999999996,0.22777777777777777,en,1.0
+Tesla Robotaxi,Tesla Robotaxi,PERSON,0.25,0.25,en,1.0
+Mélanie Nakagawa,Mélanie Nakagawa,PERSON,0.049999999999999996,0.22777777777777777,en,1.0
+Annie Genevard,Annie Genevard,PERSON,0.0,0.0,en,1.0
+Quentin Fillon Maillet,Quentin Fillon Maillet,PERSON,0.1,0.4,en,1.0
+Théo Schely,Théo Schely,PERSON,-0.4,0.7,en,1.0
+Terence Tchiknavorian,Terence Tchiknavorian,PERSON,-0.08333333333333333,0.4666666666666666,en,1.0
 Fran Vanhoutte,Fran Vanhoutte,PERSON,0.0,0.0,en,1.0
-Sarah Schleper,Sarah Schleper,PERSON,0.7,0.6000000000000001,en,1.0
-Lasse Gaxiola,Lasse Gaxiola,PERSON,0.7,0.6000000000000001,en,1.0
-Élisabeth Revol,Élisabeth Revol,PERSON,0.3541666666666667,0.6208333333333333,en,1.0
-Mathieu Bablet,Mathieu Bablet,PERSON,0.3541666666666667,0.6208333333333333,en,1.0
-Jordan Bardella,Jordan Bardella,PERSON,0.0,0.1,en,1.0
+Cloé Pagnier,Cloé Pagnier,PERSON,0.2222222222222222,0.25555555555555554,en,1.0
+Justine Gaillard,Justine Gaillard,PERSON,0.2222222222222222,0.25555555555555554,en,1.0
+Invincible Klaebo,Invincible Klaebo,PERSON,-1.0,1.0,en,1.0
+Fillon Maillet,Fillon Maillet,PERSON,-1.0,1.0,en,1.0
+Cécile Duflot,Cécile Duflot,PERSON,0.04659090909090909,0.23863636363636365,en,1.0
+Didier Duriez,Didier Duriez,PERSON,0.04659090909090909,0.23863636363636365,en,1.0
+Apolline Bazin,Apolline Bazin,PERSON,0.022727272727272717,0.24936868686868688,en,1.0
+Giuseppe Sala,Giuseppe Sala,PERSON,0.3333333333333333,1.0,en,1.0
+reindustrialize Wallonia,reindustrialize Wallonia,PERSON,0.0,0.0,en,1.0
+Charlène Descollonges,Charlène Descollonges,PERSON,0.0,0.0,en,1.0
+Roland Lescure,Roland Lescure,PERSON,0.19166666666666665,0.5,en,1.0
+Gianni Infantino,Gianni Infantino,PERSON,0.0,0.25,en,1.0
+Isabelle van Elst,Isabelle van Elst,PERSON,0.0,0.0,en,1.0
 Adam Siao,Adam Siao,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
-Sophie Adenot,Sophie Adenot,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Cyclone Fytia,Cyclone Fytia,PERSON,0.5,0.5,en,1.0
-Sidney Crosby,Sidney Crosby,PERSON,0.0,0.0,en,1.0
-Goretti Storm,Goretti Storm,PERSON,0.0,0.0,en,1.0
+Maren Kirkeeide,Maren Kirkeeide,PERSON,0.0,0.5,en,1.0
+Lou Jeanmonnot,Lou Jeanmonnot,PERSON,0.0,0.0,en,1.0
+Montreal Canadiens,Montreal Canadiens,PERSON,0.5555555555555555,0.5555555555555555,en,1.0
+Jesse Kortuem,Jesse Kortuem,PERSON,-0.05,0.4,en,1.0
+Xiaomi Redmi,Xiaomi Redmi,PERSON,0.5,1.0,en,1.0
+Martin Rodil,Martin Rodil,PERSON,0.08,0.26999999999999996,en,1.0
+Nicolas Maduro,Nicolas Maduro,PERSON,0.08,0.26999999999999996,en,1.0
+Yorick Treille,Yorick Treille,PERSON,0.0,0.0,en,1.0
+Camille Michel,Camille Michel,PERSON,0.0,0.0,en,1.0
+Cyclone Chido,Cyclone Chido,PERSON,0.16,0.5399999999999999,en,1.0
+Romain Allemand,Romain Allemand,PERSON,0.2833333333333334,0.37777777777777777,en,1.0
+Barry Callebaut,Barry Callebaut,PERSON,0.0,0.0,en,1.0
+Peter Feld,Peter Feld,PERSON,0.7,0.1,en,1.0
+Bart De Wever,Bart De Wever,PERSON,0.0,0.0,en,1.0
+de Villiers,de Villiers,PERSON,0.1488095238095238,0.6904761904761904,en,1.0
+Michel Guerrin,Michel Guerrin,PERSON,0.1488095238095238,0.6904761904761904,en,1.0
+Sylvain Kahn,Sylvain Kahn,PERSON,0.4,0.375,en,1.0
+Mark Carney,Mark Carney,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Storm Fern,Storm Fern,PERSON,0.0,0.0,en,1.0
 Jacob Tierney,Jacob Tierney,PERSON,0.4166666666666667,0.5833333333333334,en,1.0
 Pascal Praud,Pascal Praud,PERSON,0.0,0.0,en,1.0
 Donald the Orange,Donald the Orange,PERSON,-0.25,0.5,en,1.0
-Clément Huot,Clément Huot,PERSON,0.0,0.0,en,1.0
-Breton kitesurfer,Breton kitesurfer,PERSON,0.0,0.0,en,1.0
-Marion Haerty,Marion Haerty,PERSON,0.0,0.0,en,1.0
-Fabien Michel,Fabien Michel,PERSON,0.0,0.0,en,1.0
-Mother Nature,Mother Nature,PERSON,0.0,0.0,en,1.0
-Daniil Kasatkin,Daniil Kasatkin,PERSON,0.0,0.0,en,1.0
-James Peebles,James Peebles,PERSON,0.0,0.08333333333333333,en,1.0
-Clément Noël,Clément Noël,PERSON,0.0,0.5,en,1.0
-Jesse Kortuem,Jesse Kortuem,PERSON,-0.05,0.4,en,1.0
-Timon Haugan,Timon Haugan,PERSON,0.0,0.5,en,1.0
-Armand Marchant,Armand Marchant,PERSON,0.7,0.6000000000000001,en,1.0
 Lei Jun,Lei Jun,PERSON,-0.5,1.0,en,1.0
-Margot Dumont,Margot Dumont,PERSON,0.2625,0.41250000000000003,en,1.0
-Noam Chomsky,Noam Chomsky,PERSON,0.0,0.06666666666666667,en,1.0
-Nicolas Sarkozy,Nicolas Sarkozy,PERSON,-0.25,0.25,en,1.0
-François Bayrou,François Bayrou,PERSON,-0.25,0.25,en,1.0
-Brigitte Bardot,Brigitte Bardot,PERSON,0.0,0.0,en,1.0
-Franck Haise,Franck Haise,PERSON,0.6,1.0,en,1.0
 Tom Cruise”,Tom Cruise”,PERSON,0.1,0.15,en,1.0
-Montreal Canadiens,Montreal Canadiens,PERSON,0.5555555555555555,0.5555555555555555,en,1.0
-Xiaomi Redmi,Xiaomi Redmi,PERSON,0.5,1.0,en,1.0
-Mikaela Shiffrin,Mikaela Shiffrin,PERSON,0.0,0.0,en,1.0
-Mark Carney,Mark Carney,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
-Anaé Simon,Anaé Simon,PERSON,0.0,0.375,en,1.0
-Sophie Leclerc,Sophie Leclerc,PERSON,0.0,0.375,en,1.0
-Deicing spray,Deicing spray,PERSON,-0.16666666666666666,0.06666666666666667,en,1.0
-La Bérarde,La Bérarde,PERSON,0.0,0.0,en,1.0
-Don Lemon,Don Lemon,PERSON,0.0,0.0,en,1.0
-Marc Namblard,Marc Namblard,PERSON,0.44999999999999996,0.275,en,1.0
-Serena Tarabini,Serena Tarabini,PERSON,0.0,0.28125,en,1.0
-Giorgos Koumendakis,Giorgos Koumendakis,PERSON,0.25,0.5,en,1.0
+Franck Haise,Franck Haise,PERSON,0.6,1.0,en,1.0
+Brigitte Bardot,Brigitte Bardot,PERSON,0.0,0.0,en,1.0
+François Bayrou,François Bayrou,PERSON,-0.25,0.25,en,1.0
+Nicolas Sarkozy,Nicolas Sarkozy,PERSON,-0.25,0.25,en,1.0
+Noam Chomsky,Noam Chomsky,PERSON,0.0,0.06666666666666667,en,1.0
+Margot Dumont,Margot Dumont,PERSON,0.2625,0.41250000000000003,en,1.0
+Timon Haugan,Timon Haugan,PERSON,0.0,0.5,en,1.0
+Clément Huot,Clément Huot,PERSON,0.0,0.0,en,1.0
+Goretti Storm,Goretti Storm,PERSON,0.0,0.0,en,1.0
+James Peebles,James Peebles,PERSON,0.0,0.08333333333333333,en,1.0
+Daniil Kasatkin,Daniil Kasatkin,PERSON,0.0,0.0,en,1.0
+Mother Nature,Mother Nature,PERSON,0.0,0.0,en,1.0
+Fabien Michel,Fabien Michel,PERSON,0.0,0.0,en,1.0
+Marion Haerty,Marion Haerty,PERSON,0.0,0.0,en,1.0
+Breton kitesurfer,Breton kitesurfer,PERSON,0.0,0.0,en,1.0
 Doomsday Clock,Doomsday Clock,PERSON,0.0,0.0,en,1.0
-Storm Fern,Storm Fern,PERSON,0.0,0.0,en,1.0
-Sylvain Kahn,Sylvain Kahn,PERSON,0.4,0.375,en,1.0
-Martin Rodil,Martin Rodil,PERSON,0.08,0.26999999999999996,en,1.0
-Michel Guerrin,Michel Guerrin,PERSON,0.1488095238095238,0.6904761904761904,en,1.0
-de Villiers,de Villiers,PERSON,0.1488095238095238,0.6904761904761904,en,1.0
-Bart De Wever,Bart De Wever,PERSON,0.0,0.0,en,1.0
-Peter Feld,Peter Feld,PERSON,0.7,0.1,en,1.0
-Barry Callebaut,Barry Callebaut,PERSON,0.0,0.0,en,1.0
-Romain Allemand,Romain Allemand,PERSON,0.2833333333333334,0.37777777777777777,en,1.0
-Cyclone Chido,Cyclone Chido,PERSON,0.16,0.5399999999999999,en,1.0
-Camille Michel,Camille Michel,PERSON,0.0,0.0,en,1.0
-Yorick Treille,Yorick Treille,PERSON,0.0,0.0,en,1.0
-Nicolas Maduro,Nicolas Maduro,PERSON,0.08,0.26999999999999996,en,1.0
-Alysa Liu,Alysa Liu,PERSON,0.0,0.0,en,1.0
+Giorgos Koumendakis,Giorgos Koumendakis,PERSON,0.25,0.5,en,1.0
+Serena Tarabini,Serena Tarabini,PERSON,0.0,0.28125,en,1.0
+Deicing spray,Deicing spray,PERSON,-0.16666666666666666,0.06666666666666667,en,1.0
+Guillaume Cizeron,Guillaume Cizeron,PERSON,-0.6,0.9,en,1.0
+Laurence Fournier Beaudry,Laurence Fournier Beaudry,PERSON,-0.6,0.9,en,1.0
+Britney Spears,Britney Spears,PERSON,0.0,0.0,en,1.0
+Von Allmen,Von Allmen,PERSON,0.5,0.75,en,1.0
+von Allmen,von Allmen,PERSON,0.0,0.0,en,1.0
+La Plagne,La Plagne,PERSON,-0.1,0.1,en,1.0
+Cyril Bonnefoy,Cyril Bonnefoy,PERSON,0.0,0.0,en,1.0
+Maud Bregeon,Maud Bregeon,PERSON,0.0,0.5,en,1.0
+D1 ACFF,D1 ACFF,PERSON,0.0,0.0,en,1.0
+Mathieu Bablet,Mathieu Bablet,PERSON,0.3541666666666667,0.6208333333333333,en,1.0
+Élisabeth Revol,Élisabeth Revol,PERSON,0.3541666666666667,0.6208333333333333,en,1.0
+Lucie Chadourne-Facon,Lucie Chadourne-Facon,PERSON,0.0,0.0,en,1.0
+Lucie Chadourn,Lucie Chadourn,PERSON,0.15,0.6499999999999999,en,1.0
+Keir Starmer,Keir Starmer,PERSON,-0.08333333333333333,0.08333333333333333,en,1.0
+Lasse Gaxiola,Lasse Gaxiola,PERSON,0.7,0.6000000000000001,en,1.0
+Sarah Schleper,Sarah Schleper,PERSON,0.7,0.6000000000000001,en,1.0
+Violette Braun,Violette Braun,PERSON,0.0,0.0,en,1.0
+Picardy Wallonia,Picardy Wallonia,PERSON,0.0,0.0,en,1.0
+Marc Namblard,Marc Namblard,PERSON,0.44999999999999996,0.275,en,1.0
+Yohann Petiot,Yohann Petiot,PERSON,0.275,0.5,en,1.0
+Don Lemon,Don Lemon,PERSON,0.0,0.0,en,1.0
+La Bérarde,La Bérarde,PERSON,0.0,0.0,en,1.0
+Cyclone Fytia,Cyclone Fytia,PERSON,0.5,0.5,en,1.0
+Sophie Leclerc,Sophie Leclerc,PERSON,0.0,0.375,en,1.0
+Anaé Simon,Anaé Simon,PERSON,0.0,0.375,en,1.0
+Mikaela Shiffrin,Mikaela Shiffrin,PERSON,0.0,0.0,en,1.0
+Jordan Bardella,Jordan Bardella,PERSON,0.0,0.1,en,1.0
+Grandes Rousses,Grandes Rousses,PERSON,-0.19125,0.54125,en,1.0
+JD Vance,JD Vance,PERSON,-0.3333333333333333,0.3333333333333333,en,1.0
+Mélanie de Boncelles,Mélanie de Boncelles,PERSON,0.0,0.0,en,1.0
+Realme Buds Clip,Realme Buds Clip,PERSON,0.375,0.375,en,1.0
+Les Numériques,Les Numériques,PERSON,0.0,0.0,en,1.0
+Leonardo Depression,Leonardo Depression,PERSON,-0.06666666666666667,0.016666666666666666,en,1.0
+Depression Leonardo,Depression Leonardo,PERSON,0.5,0.5,en,1.0
+Briar Schwaller-Hürlimann,Briar Schwaller-Hürlimann,PERSON,0.0,0.25,en,1.0
+Yannick Schwaller,Yannick Schwaller,PERSON,0.0,0.25,en,1.0
+Lyon People,Lyon People,PERSON,0.0,0.0,en,1.0
