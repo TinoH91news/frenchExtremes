@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.6792155310382514,0,1,fr,NEN,North-America
 '606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6773119222057828,3,2,fr,WCE,Europe
+'112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,neige du Lötschental Naters,2026-03-13T04:25:00+00:00,Switzerland,0.6547403629251634,0,1,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.6530794967965197,3,2,fr,CAR,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
@@ -209,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-02-20T04:27:00+00:00,Chad,0.4188832879957264,3,1,fr,SAH,Africa
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-02-26T04:29:00+00:00,Ivory Coast,0.4187394876639451,3,1,fr,WAF,Africa
 'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,précipitations seychelles,2026-03-12T04:26:00+00:00,Seychelles,0.4176213888076432,3,1,fr,EIO,Africa
-'322066ad26',extremes,Flood,#030ba1,wmo,crue éclair hérault,2026-03-08T04:24:00+00:00,France,0.41588305630214933,3,1,fr,WCE,Europe
+'322066ad26',extremes,Flood,#030ba1,wmo,crue éclair hérault,2026-03-08T04:24:00+00:00,France,0.4158830563021493,3,1,fr,WCE,Europe
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,neige werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.4111054880431519,3,1,fr,WCE,Europe
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
 'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2026-02-26T04:29:00+00:00,Guadeloupe,0.3956173607692235,3,1,fr,CAR,North-America
