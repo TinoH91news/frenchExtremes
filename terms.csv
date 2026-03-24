@@ -111,13 +111,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e4ed1cbf8',extremes,Snow&Ice,#d60d2b,wmo,glace de la baie de Cambridge,2026-02-28T04:07:00+00:00,Canada,0.4752155332137598,2,1,fr,NEN,North-America
 'b95838c00f',extremes,Snow&Ice,#d60d2b,wmo,Bâle glaciale,2026-03-13T04:25:00+00:00,Switzerland,0.4748638006814113,2,1,fr,WCE,Europe
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,neige martigny verbier,2026-03-13T04:25:00+00:00,Switzerland,0.4746374769755803,2,1,fr,WCE,Europe
-'835960f3f0',extremes,Snow&Ice,#d60d2b,wmo,gel luxembourg nord,2026-02-15T04:35:00+00:00,Luxembourg,0.4746281734692668,1,1,fr,WCE,Europe
 '0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.4745740335224256,2,1,fr,NEN,North-America
 '7d43005c4f',extremes,Snow&Ice,#d60d2b,wmo,gel Monthey val d'illiez,2026-03-13T04:25:00+00:00,Switzerland,0.474334761526762,2,1,fr,WCE,Europe
 '12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,geler Steckborn Müllheim,2026-03-13T04:25:00+00:00,Switzerland,0.4735762264327063,2,1,fr,WCE,Europe
 '8b9614db79',extremes,Snow&Ice,#d60d2b,wmo,gel thalwil wetzikon,2026-03-13T04:25:00+00:00,Switzerland,0.4732437974063984,2,1,fr,WCE,Europe
 '112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,neige du Lötschental Naters,2026-03-13T04:25:00+00:00,Switzerland,0.4730499122134304,2,1,fr,WCE,Europe
-'080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,gel langenthal,2026-03-13T04:25:00+00:00,Switzerland,0.47249745602683646,2,1,fr,WCE,Europe
+'080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,gel langenthal,2026-03-13T04:25:00+00:00,Switzerland,0.4724974560268364,2,1,fr,WCE,Europe
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-02-22T04:31:00+00:00,French Guiana,0.471781055027345,2,1,fr,NSA,South-America
 '5aa8518160',extremes,Wildfire,#d60d2b,emdat,bezanga de feu de brousse,2026-03-13T04:25:00+00:00,Central African Republic,0.4717634198616627,3,1,fr,CAF,Africa
 'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-02-26T04:29:00+00:00,Haiti,0.4715884870450879,2,1,fr,CAR,North-America
@@ -195,10 +194,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,gelé au sud-est de la péninsule d'Avalon,2026-02-21T04:18:00+00:00,Canada,0.4171085540470081,3,1,fr,NEN,North-America
 '322066ad26',extremes,Flood,#030ba1,wmo,crue éclair hérault,2026-03-08T04:24:00+00:00,France,0.4158830563021493,3,1,fr,WCE,Europe
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,neige werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.4111054880431519,3,1,fr,WCE,Europe
-'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,effretikon de neige,2026-03-13T04:25:00+00:00,Switzerland,0.41086819835380706,3,1,fr,WCE,Europe
-'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,gel schaffhouse,2026-03-13T04:25:00+00:00,Switzerland,0.40476626301875995,3,1,fr,WCE,Europe
+'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,effretikon de neige,2026-03-13T04:25:00+00:00,Switzerland,0.410868198353807,3,1,fr,WCE,Europe
+'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,gel schaffhouse,2026-03-13T04:25:00+00:00,Switzerland,0.4047662630187599,3,1,fr,WCE,Europe
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
 'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2026-02-26T04:29:00+00:00,Guadeloupe,0.3956173607692235,3,1,fr,CAR,North-America
-'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-02T04:27:00+00:00,Burkina Faso,0.39142567611398393,3,1,fr,WAF,Africa
+'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-02T04:27:00+00:00,Burkina Faso,0.3914256761139839,3,1,fr,WAF,Africa
 'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.3885365380515778,3,1,fr,NEN,North-America
 '58475363ba',extremes,Snow&Ice,#d60d2b,wmo,neige kangirsuk aupaluk tasiujaq,2026-03-05T04:24:00+00:00,Canada,0.3707018550198636,3,1,fr,NEN,North-America
