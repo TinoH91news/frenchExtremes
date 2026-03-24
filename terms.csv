@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '606a0bb37b',extremes,Storm,#b3b2b1,wmo,tempête aude,2026-02-12T04:37:00+00:00,France,0.6773119222057828,3,2,fr,WCE,Europe
+'4f73c4762a',extremes,Snow&Ice,#d60d2b,wmo,port de Snow Sachs,2026-03-21T04:17:00+00:00,Canada,0.6664442040238062,0,1,fr,NEN,North-America
+'080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,gel langenthal,2026-03-13T04:25:00+00:00,Switzerland,0.6539757176842028,0,1,fr,WCE,Europe
 '964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.6530794967965197,3,2,fr,CAR,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
@@ -63,7 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle seychelles,2026-03-07T04:12:00+00:00,Seychelles,0.4912596617558267,2,1,fr,EIO,Africa
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,neige kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.4908181936944705,2,1,fr,NEN,North-America
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2026-02-19T04:32:00+00:00,Canada,0.4907833910996422,2,1,fr,NEN,North-America
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.49073322117513657,2,1,fr,NEN,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.4907332211751365,2,1,fr,NEN,North-America
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,gelé au sud-est de la péninsule d'Avalon,2026-02-21T04:18:00+00:00,Canada,0.4907159459376566,2,1,fr,NEN,North-America
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,glacial taloyoak gjoahaven,2026-02-21T04:18:00+00:00,Canada,0.4905700929076338,2,1,fr,NEN,North-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk gelé,2026-02-22T04:30:00+00:00,Canada,0.4905283613113523,2,1,fr,NEN,North-America
@@ -128,7 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b95838c00f',extremes,Snow&Ice,#d60d2b,wmo,Bâle glaciale,2026-03-13T04:25:00+00:00,Switzerland,0.4748638006814113,2,1,fr,WCE,Europe
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,neige martigny verbier,2026-03-13T04:25:00+00:00,Switzerland,0.4746374769755803,2,1,fr,WCE,Europe
 '835960f3f0',extremes,Snow&Ice,#d60d2b,wmo,gel luxembourg nord,2026-02-15T04:35:00+00:00,Luxembourg,0.4746281734692668,1,1,fr,WCE,Europe
-'0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.47457403352242566,2,1,fr,NEN,North-America
+'0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.4745740335224256,2,1,fr,NEN,North-America
 '7d43005c4f',extremes,Snow&Ice,#d60d2b,wmo,gel Monthey val d'illiez,2026-03-13T04:25:00+00:00,Switzerland,0.474334761526762,2,1,fr,WCE,Europe
 '12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,geler Steckborn Müllheim,2026-03-13T04:25:00+00:00,Switzerland,0.4735762264327063,2,1,fr,WCE,Europe
 '8b9614db79',extremes,Snow&Ice,#d60d2b,wmo,gel thalwil wetzikon,2026-03-13T04:25:00+00:00,Switzerland,0.4732437974063984,2,1,fr,WCE,Europe
