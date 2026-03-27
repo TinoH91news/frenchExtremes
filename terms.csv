@@ -12,6 +12,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62547e7566',extremes,Snow&Ice,#d60d2b,wmo,geler Wohlen Albis,2026-03-13T04:25:00+00:00,Switzerland,0.6539397304712948,0,1,fr,WCE,Europe
 'a0d6b2985f',extremes,Snow&Ice,#d60d2b,wmo,glace estavayer cudrefin,2026-03-13T04:25:00+00:00,Switzerland,0.6532856462358099,0,1,fr,WCE,Europe
 '0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,Entlebuch gelé,2026-03-13T04:25:00+00:00,Switzerland,0.6526303755211548,0,1,fr,WCE,Europe
+'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,le givre les recouvre entièrement,2026-03-13T04:25:00+00:00,Switzerland,0.6526128567712998,0,1,fr,WCE,Europe
+'b6b89911aa',extremes,Snow&Ice,#d60d2b,wmo,glace liechtenstein,2026-03-13T04:25:00+00:00,Switzerland,0.6525924004728041,0,1,fr,WCE,Europe
+'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2026-03-15T04:45:00+00:00,Ivory Coast,0.6522411734806584,0,1,fr,WAF,Africa
+'61aa0713cb',extremes,Snow&Ice,#d60d2b,wmo,glace frutigen kiental,2026-03-13T04:25:00+00:00,Switzerland,0.6520075066637931,0,1,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
