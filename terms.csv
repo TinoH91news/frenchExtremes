@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'d64903af7d',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère haute savoie,2026-03-28T04:33:00+00:00,France,0.7403391582009295,0,1,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-03-25T04:33:00+00:00,Republic of the Congo,0.7007120604907839,0,1,fr,CAF,Africa
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-03-22T04:33:00+00:00,Democratic Republic of the Congo,0.7005995568735159,0,1,fr,CAF,Africa
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-03-26T04:56:00+00:00,France,0.694244323848026,0,1,fr,WCE,Europe
@@ -16,8 +17,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6b89911aa',extremes,Snow&Ice,#d60d2b,wmo,glace liechtenstein,2026-03-13T04:25:00+00:00,Switzerland,0.6525924004728041,0,1,fr,WCE,Europe
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2026-03-15T04:45:00+00:00,Ivory Coast,0.6522411734806584,0,1,fr,WAF,Africa
 '61aa0713cb',extremes,Snow&Ice,#d60d2b,wmo,glace frutigen kiental,2026-03-13T04:25:00+00:00,Switzerland,0.6520075066637931,0,1,fr,WCE,Europe
+'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,gel Oberes Baselbiet,2026-03-13T04:25:00+00:00,Switzerland,0.6518256588188766,0,1,fr,WCE,Europe
 'cc87503cc8',extremes,Snow&Ice,#d60d2b,wmo,geler ulukhaktok,2026-03-21T04:17:00+00:00,Canada,0.65171898280123,0,1,fr,NEN,North-America
 '0d567a4e4a',extremes,Snow&Ice,#d60d2b,wmo,geler nyon terre sainte,2026-03-13T04:25:00+00:00,Switzerland,0.6515951051352383,0,1,fr,WCE,Europe
+'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neige schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.6509509902726819,0,1,fr,WCE,Europe
+'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-03-25T04:33:00+00:00,Togo,0.6508206800650058,0,1,fr,WAF,Africa
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
