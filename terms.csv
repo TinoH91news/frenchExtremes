@@ -22,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d567a4e4a',extremes,Snow&Ice,#d60d2b,wmo,geler nyon terre sainte,2026-03-13T04:25:00+00:00,Switzerland,0.6515951051352383,0,1,fr,WCE,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neige schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.6509509902726819,0,1,fr,WCE,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-03-25T04:33:00+00:00,Togo,0.6508206800650058,0,1,fr,WAF,Africa
+'48482a5127',extremes,Snow&Ice,#d60d2b,wmo,Thoune Belp glaciale,2026-03-13T04:25:00+00:00,Switzerland,0.6506220865549156,0,1,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
