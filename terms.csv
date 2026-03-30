@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-25T04:33:00+00:00,Chad,0.6617510053244463,0,1,fr,SAH,Africa
 '62547e7566',extremes,Snow&Ice,#d60d2b,wmo,geler Wohlen Albis,2026-03-13T04:25:00+00:00,Switzerland,0.6539397304712948,0,1,fr,WCE,Europe
 'a0d6b2985f',extremes,Snow&Ice,#d60d2b,wmo,glace estavayer cudrefin,2026-03-13T04:25:00+00:00,Switzerland,0.6532856462358099,0,1,fr,WCE,Europe
+'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,glace val d'hérens,2026-03-13T04:25:00+00:00,Switzerland,0.6531950011596406,0,1,fr,WCE,Europe
 '0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,Entlebuch gelé,2026-03-13T04:25:00+00:00,Switzerland,0.6526303755211548,0,1,fr,WCE,Europe
 'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,le givre les recouvre entièrement,2026-03-13T04:25:00+00:00,Switzerland,0.6526128567712998,0,1,fr,WCE,Europe
 'b6b89911aa',extremes,Snow&Ice,#d60d2b,wmo,glace liechtenstein,2026-03-13T04:25:00+00:00,Switzerland,0.6525924004728041,0,1,fr,WCE,Europe
@@ -28,8 +29,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,broye des neiges,2026-03-13T04:25:00+00:00,Switzerland,0.6497252840206107,0,1,fr,WCE,Europe
 '0b8e917c24',extremes,Storm,#b3b2b1,wmo,onde de tempête parc des bancs de sable de Picton,2026-03-17T04:30:00+00:00,Canada,0.6494737780167649,0,1,fr,NEN,North-America
 '66dcd8bd2a',extremes,Snow&Ice,#d60d2b,wmo,glace à Rheinfelden,2026-03-13T04:25:00+00:00,Switzerland,0.6494380182784639,0,1,fr,WCE,Europe
+'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,geler Marthalen Stammheim,2026-03-13T04:25:00+00:00,Switzerland,0.6492736941689358,0,1,fr,WCE,Europe
 '2172cb1277',extremes,Wildfire,#d60d2b,emdat,feu de forêt préfecture de sido ouhamfafa,2026-03-15T04:45:00+00:00,Central African Republic,0.6489896317845814,0,1,fr,CAF,Africa
 'b9c91ecf29',extremes,Snow&Ice,#d60d2b,wmo,parties intérieures de la côte centrale enneigée,2026-03-25T04:33:00+00:00,Canada,0.648939041891575,0,1,fr,NEN,North-America
+'f89c0a5f62',extremes,Snow&Ice,#d60d2b,wmo,gel wädenswil rüti,2026-03-13T04:25:00+00:00,Switzerland,0.6489297872010042,0,1,fr,WCE,Europe
+'94a7ded57b',extremes,Snow&Ice,#d60d2b,wmo,Tourtmanntal des neiges,2026-03-13T04:25:00+00:00,Switzerland,0.6483924190533478,0,1,fr,WCE,Europe
+'13f6b2793d',extremes,Storm,#b3b2b1,wmo,"tempête sur l'autoroute 97, col des pins",2026-03-24T04:31:00+00:00,Canada,0.6469760193850301,0,1,fr,NEN,North-America
+'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-03-24T04:32:00+00:00,Republic of the Congo,0.6447743671969222,0,1,fr,CAF,Africa
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
