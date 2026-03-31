@@ -11,6 +11,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-03-24T04:32:00+00:00,Burundi,0.6640146551217467,0,1,fr,SEAF,Africa
 '365e6829d3',extremes,Drought,#edc291,edo,manque de pluie en Guinée,2026-03-18T04:36:00+00:00,Guinea,0.6620454112994463,0,1,fr,WAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-25T04:33:00+00:00,Chad,0.6617510053244463,0,1,fr,SAH,Africa
+'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-03-31T04:59:00+00:00,Canada,0.6595482545531536,0,1,fr,NEN,North-America
+'fdd91c3810',extremes,Snow&Ice,#d60d2b,wmo,baie rouge glace jusqu'à l'anse au clair,2026-03-31T04:59:00+00:00,Canada,0.6584865456654286,0,1,fr,NEN,North-America
 '62547e7566',extremes,Snow&Ice,#d60d2b,wmo,geler Wohlen Albis,2026-03-13T04:25:00+00:00,Switzerland,0.6539397304712948,0,1,fr,WCE,Europe
 'a0d6b2985f',extremes,Snow&Ice,#d60d2b,wmo,glace estavayer cudrefin,2026-03-13T04:25:00+00:00,Switzerland,0.6532856462358099,0,1,fr,WCE,Europe
 'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,glace val d'hérens,2026-03-13T04:25:00+00:00,Switzerland,0.6531950011596406,0,1,fr,WCE,Europe
@@ -42,8 +44,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-03-11T04:22:00+00:00,France,0.6431134511144513,0,1,fr,WCE,Europe
 '17fe001f97',extremes,Snow&Ice,#d60d2b,wmo,McGregor à tête jaune glaciale,2026-03-25T04:33:00+00:00,Canada,0.6426925004676746,0,1,fr,NEN,North-America
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-03-20T04:26:00+00:00,Gabon,0.6426767175110609,0,1,fr,CAF,Africa
+'39149f5cac',extremes,Snow&Ice,#d60d2b,wmo,siffleur glacial,2026-03-16T05:05:00+00:00,Canada,0.6400587776094789,0,1,fr,NEN,North-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
+'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-03-25T04:33:00+00:00,Switzerland,0.6381753370750033,0,1,fr,WCE,Europe
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
+'ca02bc4e99',extremes,Snow&Ice,#d60d2b,wmo,kugluktuk glacial de la baie de Cambridge,2026-03-21T04:17:00+00:00,Canada,0.6374062294413942,0,1,fr,NEN,North-America
+'77732553a6',extremes,Storm,#b3b2b1,wmo,"tempête de la mer au ciel, squamish à Whistler",2026-03-18T04:36:00+00:00,Canada,0.6367722008995659,0,1,fr,NEN,North-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-15T04:45:00+00:00,Democratic Republic of the Congo,0.6290908941639582,2,1,fr,CAF,Africa
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-02-28T04:07:00+00:00,France,0.6287440596930941,2,3,fr,WCE,Europe
