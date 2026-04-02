@@ -65,7 +65,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-15T04:45:00+00:00,Democratic Republic of the Congo,0.6290908941639582,2,1,fr,CAF,Africa
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-02-28T04:07:00+00:00,France,0.6287440596930941,2,3,fr,WCE,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-03-25T04:33:00+00:00,Central African Republic,0.6285388243807153,0,1,fr,CAF,Africa
+'e87f94864d',extremes,Snow&Ice,#d60d2b,wmo,neige chilcotin,2026-03-20T04:26:00+00:00,Canada,0.6255628968521061,0,1,fr,NEN,North-America
+'8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6219883464659125,0,1,fr,WCE,Europe
+'fa1054e723',extremes,Snow&Ice,#d60d2b,wmo,connaigre glacial burgeo ramea,2026-03-26T04:56:00+00:00,Canada,0.6219227277213544,0,1,fr,NEN,North-America
+'5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-18T04:36:00+00:00,Democratic Republic of the Congo,0.6210684868719205,0,1,fr,CAF,Africa
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-02-11T04:41:00+00:00,Switzerland,0.6204779964850533,2,2,fr,WCE,Europe
+'8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2026-03-25T04:33:00+00:00,Senegal,0.6193164690278506,0,1,fr,WAF,Africa
+'beaa18df94',extremes,Snow&Ice,#d60d2b,wmo,"givre en Colombie-Britannique, rivière de la Paix sud",2026-03-30T05:12:00+00:00,Canada,0.6170630067517748,0,1,fr,NEN,North-America
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-03-03T04:27:00+00:00,France,0.614017169018729,3,3,fr,WCE,Europe
 '286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.613783292545944,2,3,fr,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.6116681483739564,5,1,fr,WCE,Europe
