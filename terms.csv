@@ -93,7 +93,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a5c904162',extremes,Storm,#b3b2b1,wmo,siffleur d'onde de tempête,2026-03-17T04:30:00+00:00,Canada,0.6106562142187894,0,1,fr,NEN,North-America
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-03-28T04:33:00+00:00,Guadeloupe,0.6075686730364468,0,1,fr,CAR,North-America
 '151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,neige entlebuch,2026-03-15T04:45:00+00:00,Switzerland,0.606267770010606,0,1,fr,WCE,Europe
+'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,vallée de la glace,2026-03-15T04:45:00+00:00,Switzerland,0.6053422125140241,0,1,fr,WCE,Europe
 '36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6053005338611215,4,1,fr,WCE,Europe
+'a183ce7f5a',extremes,Snow&Ice,#d60d2b,wmo,"baie verte de neige, baie blanche",2026-03-24T04:31:00+00:00,Canada,0.6049144707139917,0,1,fr,NEN,North-America
+'892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,geler einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.6048612824809674,0,1,fr,WCE,Europe
+'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-03-26T04:56:00+00:00,French Guiana,0.604581051520337,0,1,fr,NSA,South-America
+'493b8fc5da',extremes,Storm,#b3b2b1,wmo,tempête îles de la madeleine,2026-03-17T04:30:00+00:00,Canada,0.6038646559362055,0,1,fr,NEN,North-America
+'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-03-18T04:36:00+00:00,Mayotte,0.6033831611676324,0,1,fr,MDG,Africa
 'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neige péninsule nord est,2026-02-12T04:37:00+00:00,Canada,0.6032346293680617,2,2,fr,NEN,North-America
 '46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-02-25T04:33:00+00:00,Mali,0.6019887844146984,2,1,fr,WAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-02-26T04:29:00+00:00,Canada,0.6016799582915981,2,3,fr,NEN,North-America
