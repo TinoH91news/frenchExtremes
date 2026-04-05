@@ -109,6 +109,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6018839947821367,0,1,fr,WCE,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-02-26T04:29:00+00:00,Canada,0.6016799582915981,2,3,fr,NEN,North-America
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6015453161842639,0,1,fr,WCE,Europe
+'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-04T04:30:00+00:00,Canada,0.6012007104551752,0,1,fr,NEN,North-America
+'6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,geler à Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.6010456309183672,0,1,fr,WCE,Europe
+'e496f99a3a',extremes,Earthquake,#870007,usgs,tremblement de terre norsup,2026-03-22T04:33:00+00:00,Vanuatu,0.6009631655277946,0,1,fr,SPO,Pacific Ocean
+'1c7306c131',extremes,Precipitation,#d60d2b,wmo,siffleur de précipitations,2026-03-20T04:26:00+00:00,Canada,0.599745525458412,0,1,fr,NEN,North-America
+'8139bb2976',extremes,Storm,#b3b2b1,wmo,onde de tempête sur les sections côtières de la côte nord,2026-03-16T05:05:00+00:00,Canada,0.5992054765098181,0,1,fr,NEN,North-America
+'1caafaca2a',extremes,Storm,#b3b2b1,wmo,onde de tempête en Grèce,2026-03-16T05:05:00+00:00,Greece,0.5991168227188628,0,1,fr,MED,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-03-01T04:35:00+00:00,Canada,0.5959998626856133,2,2,fr,NEN,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-03-04T04:20:00+00:00,Canada,0.5929994902333937,3,2,fr,NEN,North-America
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-03-13T04:25:00+00:00,Switzerland,0.5917337547941923,3,2,fr,WCE,Europe
