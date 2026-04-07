@@ -137,8 +137,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,gel d'Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.5896541499983209,0,1,fr,WCE,Europe
 'e29021d398',extremes,Drought,#edc291,edo,manque de pluie nouvelle-calédonie,2026-03-18T04:36:00+00:00,New Caledonia,0.589614804334653,0,1,fr,SPO,Oceania
 'd0245f496a',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles sur les îles du nord et du centre.,2026-03-22T04:33:00+00:00,Vanuatu,0.5893632548785633,0,1,fr,SPO,Oceania
+'ee7e3623f6',extremes,Storm,#b3b2b1,wmo,onde de tempête nicola sud thompson shuswap,2026-03-20T04:26:00+00:00,Canada,0.5871650594911081,0,1,fr,NEN,North-America
+'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gel brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.5863972755654988,0,1,fr,WCE,Europe
 '0c1fb82494',extremes,Storm,#b3b2b1,cmeter,tempête nils bordeaux,2026-02-22T04:31:00+00:00,France,0.5851442381678287,3,2,fr,MED,Europe
 'df697baca6',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère haute savoie,2026-02-12T04:37:00+00:00,France,0.584536276774716,3,2,fr,WCE,Europe
+'4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-03-27T04:56:00+00:00,Vanuatu,0.5843580463572772,0,1,fr,SPO,Pacific Ocean
+'0630ed2fe7',extremes,Storm,#b3b2b1,wmo,tempête minganie anticosti,2026-03-18T04:36:00+00:00,Canada,0.5832659462156111,0,1,fr,NEN,North-America
+'d99be7f2ac',extremes,Drought,#edc291,edo,manque de pluie tchad,2026-03-29T05:00:00+00:00,Chad,0.5826643945197839,0,1,fr,SAH,Africa
+'70aeae94f5',extremes,Snow&Ice,#d60d2b,wmo,gel. Stéphane Lenk,2026-03-27T04:57:00+00:00,Switzerland,0.5825880358153348,0,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-02-17T04:31:00+00:00,Canada,0.5803660624591422,2,2,fr,NEN,North-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-02T04:27:00+00:00,Belgium,0.5782100622670648,2,2,fr,WCE,Europe
 'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.5765587658398857,2,1,fr,WCE,Europe
