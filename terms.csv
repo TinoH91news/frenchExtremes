@@ -153,9 +153,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,schiers de givre,2026-03-27T04:57:00+00:00,Switzerland,0.5800319708272175,0,1,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-03T04:43:00+00:00,Reunion,0.5798042155885671,0,1,fr,SIO,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-02T04:27:00+00:00,Belgium,0.5782100622670648,2,2,fr,WCE,Europe
+'60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-03-21T04:17:00+00:00,French Polynesia,0.5766490988403566,0,1,fr,SPO,Pacific Ocean
 'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.5765587658398857,2,1,fr,WCE,Europe
 'e65ae990e9',extremes,Tsunami,#690191,usgs,tsunami vanuatu,2026-02-17T04:31:00+00:00,Vanuatu,0.5760088785198347,2,2,fr,SPO,Oceania
+'567d968e05',extremes,Storm,#b3b2b1,wmo,onde de tempête tarn aude haute garonne,2026-03-19T04:35:00+00:00,France,0.5756933634775095,0,1,fr,WCE,Europe
+'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,geler les guttannens intérieures,2026-03-25T04:33:00+00:00,Switzerland,0.5748160326248393,0,1,fr,WCE,Europe
+'629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2026-03-26T04:56:00+00:00,Reunion,0.5737985849164307,0,1,fr,SIO,Africa
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-03-06T04:21:00+00:00,Belgium,0.5735317477217906,3,2,fr,WCE,Europe
+'e04d29c79b',extremes,Snow&Ice,#d60d2b,wmo,glace Glarus süd grostal,2026-03-27T04:57:00+00:00,Switzerland,0.57149194362516,0,1,fr,WCE,Europe
+'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-03-27T04:57:00+00:00,Guadeloupe,0.5706224531458616,0,1,fr,CAR,North-America
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
