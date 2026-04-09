@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,glace nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.674323650600852,0,1,fr,NEN,North-America
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-04-02T04:42:00+00:00,Burkina Faso,0.67383555875152,0,1,fr,WAF,Africa
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-03-24T04:32:00+00:00,Madagascar,0.6730119246316906,0,1,fr,MDG,Africa
+'4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,fort de neige Hope Lansdowne House Ogoki,2026-04-09T04:58:00+00:00,Canada,0.6723421893142938,0,1,fr,NEN,North-America
 '6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-03-10T04:22:00+00:00,Saint Pierre and Miquelon,0.671522197033523,0,1,fr,ENA,North-America
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-04-02T04:42:00+00:00,Ivory Coast,0.6711415007445338,0,1,fr,WAF,Africa
 '40449785d4',extremes,Snow&Ice,#d60d2b,wmo,"route de glace 97, col des pins",2026-03-16T05:05:00+00:00,Canada,0.6692579726920918,0,1,fr,NEN,North-America
@@ -170,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,gel muotathal,2026-03-26T04:56:00+00:00,Switzerland,0.5700103649171243,0,1,fr,WCE,Europe
 '02bc9c64a4',extremes,Drought,#edc291,edo,manque de pluie au cambodge,2026-03-25T04:33:00+00:00,Cambodia,0.5690147906838422,0,1,fr,SEA,Asia
 'e09a3e3a50',extremes,Storm,#b3b2b1,wmo,onde de tempête corse du sud haute corse,2026-03-26T04:56:00+00:00,France,0.5684453663227477,0,1,fr,WCE,Europe
+'152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-05T05:01:00+00:00,France,0.5674367486883184,0,1,fr,WCE,Europe
 'bfeccaef3a',extremes,Storm,#b3b2b1,wmo,tempête corse du sud,2026-04-01T05:12:00+00:00,France,0.5666844974531359,0,1,fr,WCE,Europe
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-03-30T05:12:00+00:00,Cameroon,0.5665365281624215,0,1,fr,CAF,Africa
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-03-31T04:59:00+00:00,Vanuatu,0.5661162903902347,0,1,fr,SPO,Pacific Ocean
@@ -177,6 +179,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen longern gelé,2026-03-21T04:17:00+00:00,Switzerland,0.5654805291513217,0,1,fr,WCE,Europe
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
+'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-03-31T05:00:00+00:00,Mali,0.5635429356553089,0,1,fr,WAF,Africa
+'1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2026-03-25T04:33:00+00:00,Switzerland,0.5630637429267302,0,1,fr,WCE,Europe
+'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-04-07T04:59:00+00:00,Central African Republic,0.5629060165705855,0,1,fr,CAF,Africa
+'52228edbac',extremes,Storm,#b3b2b1,wmo,l'onde de tempête frappe Laax,2026-03-27T04:57:00+00:00,Switzerland,0.562223997784054,0,1,fr,WCE,Europe
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-03-13T04:25:00+00:00,Switzerland,0.5564707333954574,1,1,fr,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,lac laufental glacial,2026-03-13T04:25:00+00:00,Switzerland,0.555803971862413,1,1,fr,WCE,Europe
 'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,neige zofingen triengen,2026-03-13T04:25:00+00:00,Switzerland,0.5554898852101782,1,1,fr,WCE,Europe
