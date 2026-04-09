@@ -168,7 +168,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e04d29c79b',extremes,Snow&Ice,#d60d2b,wmo,glace Glarus süd grostal,2026-03-27T04:57:00+00:00,Switzerland,0.57149194362516,0,1,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-03-27T04:57:00+00:00,Guadeloupe,0.5706224531458616,0,1,fr,CAR,North-America
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,gel muotathal,2026-03-26T04:56:00+00:00,Switzerland,0.5700103649171243,0,1,fr,WCE,Europe
+'02bc9c64a4',extremes,Drought,#edc291,edo,manque de pluie au cambodge,2026-03-25T04:33:00+00:00,Cambodia,0.5690147906838422,0,1,fr,SEA,Asia
+'e09a3e3a50',extremes,Storm,#b3b2b1,wmo,onde de tempête corse du sud haute corse,2026-03-26T04:56:00+00:00,France,0.5684453663227477,0,1,fr,WCE,Europe
+'bfeccaef3a',extremes,Storm,#b3b2b1,wmo,tempête corse du sud,2026-04-01T05:12:00+00:00,France,0.5666844974531359,0,1,fr,WCE,Europe
+'d7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-03-30T05:12:00+00:00,Cameroon,0.5665365281624215,0,1,fr,CAF,Africa
+'3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-03-31T04:59:00+00:00,Vanuatu,0.5661162903902347,0,1,fr,SPO,Pacific Ocean
 '97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
+'3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen longern gelé,2026-03-21T04:17:00+00:00,Switzerland,0.5654805291513217,0,1,fr,WCE,Europe
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-03-13T04:25:00+00:00,Switzerland,0.5564707333954574,1,1,fr,WCE,Europe
