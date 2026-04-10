@@ -189,6 +189,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '241721e6ad',extremes,Storm,#b3b2b1,wmo,onde de tempête savognin,2026-03-26T04:56:00+00:00,Switzerland,0.5590477852797043,0,1,fr,WCE,Europe
 'd3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gel riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5589987826979613,0,1,fr,WCE,Europe
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-03-21T04:17:00+00:00,Seychelles,0.5589424883150635,0,1,fr,EIO,Indian Ocean
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2026-03-24T04:31:00+00:00,Italy,0.558923070457301,0,1,fr,MED,Europe
+'5d85dc5645',extremes,Drought,#edc291,edo,sécheresse rwanda,2026-03-25T04:33:00+00:00,Rwanda,0.5585255641678224,0,1,fr,SEAF,Africa
+'cc89eef995',extremes,Drought,#edc291,edo,période de sécheresse au Liban,2026-04-02T04:42:00+00:00,Lebanon,0.5581599348526038,0,1,fr,MED,Asia
+'1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-22T04:33:00+00:00,Belgium,0.5576547289885622,0,1,fr,WCE,Europe
+'922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-03-30T05:12:00+00:00,Benin,0.5574350609258295,0,1,fr,WAF,Africa
+'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-03-29T05:00:00+00:00,Seychelles,0.5572270937048305,0,1,fr,EIO,Indian Ocean
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-03-13T04:25:00+00:00,Switzerland,0.5564707333954574,1,1,fr,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,lac laufental glacial,2026-03-13T04:25:00+00:00,Switzerland,0.555803971862413,1,1,fr,WCE,Europe
 'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,neige zofingen triengen,2026-03-13T04:25:00+00:00,Switzerland,0.5554898852101782,1,1,fr,WCE,Europe
