@@ -147,6 +147,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41225e527b',extremes,Drought,#edc291,edo,période sèche en Polynésie française,2026-03-23T04:42:00+00:00,French Polynesia,0.5912124448016696,0,1,fr,SPO,Pacific Ocean
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-03-24T04:32:00+00:00,Equatorial Guinea,0.5911709109304017,0,1,fr,WAF,Africa
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-03-13T04:25:00+00:00,Switzerland,0.590746874475034,2,3,fr,WCE,Europe
+'f3d653a8ff',extremes,Drought,#edc291,edo,sécheresse comores,2026-04-05T05:01:00+00:00,Comoros,0.5907104392363123,0,1,fr,ESAF,Africa
+'1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2026-03-28T04:33:00+00:00,Tunisia,0.5901227417132371,0,1,fr,MED,Africa
 'd04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,gel d'Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.5896541499983209,0,1,fr,WCE,Europe
 'e29021d398',extremes,Drought,#edc291,edo,manque de pluie nouvelle-calédonie,2026-03-18T04:36:00+00:00,New Caledonia,0.589614804334653,0,1,fr,SPO,Oceania
 'd0245f496a',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles sur les îles du nord et du centre.,2026-03-22T04:33:00+00:00,Vanuatu,0.5893632548785633,0,1,fr,SPO,Oceania
@@ -192,12 +194,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dc1774587',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle gatineau,2026-04-05T05:01:00+00:00,Canada,0.5615865436952594,0,1,fr,NEN,North-America
 '30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neige Monthey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.5606441876008332,0,1,fr,WCE,Europe
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-03-23T04:42:00+00:00,Senegal,0.5605342367516389,0,1,fr,WAF,Africa
+'c66aad611a',extremes,Drought,#edc291,edo,sécheresse au laos,2026-03-28T04:33:00+00:00,Laos,0.5601337364460922,0,1,fr,SEA,Asia
 '241721e6ad',extremes,Storm,#b3b2b1,wmo,onde de tempête savognin,2026-03-26T04:56:00+00:00,Switzerland,0.5590477852797043,0,1,fr,WCE,Europe
 'd3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gel riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5589987826979613,0,1,fr,WCE,Europe
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-03-21T04:17:00+00:00,Seychelles,0.5589424883150635,0,1,fr,EIO,Indian Ocean
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2026-03-24T04:31:00+00:00,Italy,0.558923070457301,0,1,fr,MED,Europe
 '5d85dc5645',extremes,Drought,#edc291,edo,sécheresse rwanda,2026-03-25T04:33:00+00:00,Rwanda,0.5585255641678224,0,1,fr,SEAF,Africa
 'cc89eef995',extremes,Drought,#edc291,edo,période de sécheresse au Liban,2026-04-02T04:42:00+00:00,Lebanon,0.5581599348526038,0,1,fr,MED,Asia
+'c160cc7b69',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2026-03-24T04:32:00+00:00,Saint Vincent and the Grenadines,0.557893891456437,0,1,fr,CAR,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-22T04:33:00+00:00,Belgium,0.5576547289885622,0,1,fr,WCE,Europe
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-03-30T05:12:00+00:00,Benin,0.5574350609258295,0,1,fr,WAF,Africa
 'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-03-29T05:00:00+00:00,Seychelles,0.5572270937048305,0,1,fr,EIO,Indian Ocean
@@ -212,6 +216,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,précipitations au Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5527851889676796,0,1,fr,SAM,South-America
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neige,2026-03-26T04:56:00+00:00,Switzerland,0.5521100856132484,0,1,fr,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-03-13T04:25:00+00:00,Switzerland,0.5514908052578779,2,2,fr,WCE,Europe
+'9c678b4258',extremes,Snow&Ice,#d60d2b,wmo,gel lugnez valsertal,2026-03-27T04:57:00+00:00,Switzerland,0.5514355389906767,0,1,fr,WCE,Europe
+'7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-03-29T05:00:00+00:00,Saint Martin,0.5509570532248227,0,1,fr,CAR,North-America
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.5452650763405369,7,3,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-03-10T04:22:00+00:00,Djibouti,0.5369877829576842,2,1,fr,NEAF,Africa
