@@ -221,9 +221,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gel Meiringen Gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.5529525224587534,0,1,fr,WCE,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,précipitations au Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5527851889676796,0,1,fr,SAM,South-America
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neige,2026-03-26T04:56:00+00:00,Switzerland,0.5521100856132484,0,1,fr,WCE,Europe
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête au Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5519101889742044,0,1,fr,SAM,South-America
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-03-13T04:25:00+00:00,Switzerland,0.5514908052578779,2,2,fr,WCE,Europe
 '9c678b4258',extremes,Snow&Ice,#d60d2b,wmo,gel lugnez valsertal,2026-03-27T04:57:00+00:00,Switzerland,0.5514355389906767,0,1,fr,WCE,Europe
 '7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-03-29T05:00:00+00:00,Saint Martin,0.5509570532248227,0,1,fr,CAR,North-America
+'6b8e391e55',extremes,Drought,#edc291,edo,période sèche en Égypte,2026-04-11T04:34:00+00:00,Egypt,0.550853058823921,0,1,fr,SAH,Africa
+'d65ecb1cf6',extremes,Snow&Ice,#d60d2b,wmo,neige luxembourg,2026-03-27T04:57:00+00:00,Belgium,0.550235144412191,0,1,fr,WCE,Europe
+'3dea46c095',extremes,Flood,#030ba1,wmo,crue éclair aux États-Unis,2026-03-24T04:31:00+00:00,United States,0.5491624340076856,0,1,fr,CNA,North-America
+'9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-03-28T04:33:00+00:00,Martinique,0.5491271939970281,0,1,fr,CAR,North-America
+'07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.5487832859627471,0,1,fr,SPO,Oceania
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.5452650763405369,7,3,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-03-10T04:22:00+00:00,Djibouti,0.5369877829576842,2,1,fr,NEAF,Africa
