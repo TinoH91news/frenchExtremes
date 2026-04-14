@@ -236,7 +236,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-03-28T04:33:00+00:00,Martinique,0.5491271939970281,0,1,fr,CAR,North-America
 '07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.5487832859627471,0,1,fr,SPO,Oceania
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5481036404509275,0,1,fr,SAM,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5480100568341952,0,1,fr,SAM,South-America
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
+'73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gel maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.547681579980574,0,1,fr,WCE,Europe
+'93cfb397e8',extremes,Drought,#edc291,edo,période de sécheresse à Trinité-et-Tobago,2026-04-11T04:34:00+00:00,Trinidad and Tobago,0.5476812566969708,0,1,fr,NSA,North-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,pluie Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5474067990478335,0,1,fr,SAM,South-America
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,cyclone tropical États-Unis,2026-04-11T04:34:00+00:00,United States,0.5469455029960743,0,1,fr,CNA,North-America
+'6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-03-27T04:57:00+00:00,Rwanda,0.5468585104546397,0,1,fr,SEAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.5452650763405369,7,3,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-03-10T04:22:00+00:00,Djibouti,0.5369877829576842,2,1,fr,NEAF,Africa
 'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-02-28T04:07:00+00:00,Guinea,0.5286488897828737,3,1,fr,WAF,Africa
