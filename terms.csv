@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-04-07T04:59:00+00:00,Chad,0.7513985447770879,0,1,fr,SAH,Africa
-'4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,averse tchad,2026-04-08T05:01:00+00:00,Chad,0.7498390011194357,0,1,fr,SAH,Africa
-'d64903af7d',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère haute savoie,2026-03-28T04:33:00+00:00,France,0.7403391582009295,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.7141595151676737,0,1,fr,MDG,Africa
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-03-25T04:33:00+00:00,Republic of the Congo,0.7007120604907839,0,1,fr,CAF,Africa
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-03-22T04:33:00+00:00,Democratic Republic of the Congo,0.7005995568735159,0,1,fr,CAF,Africa
@@ -66,11 +63,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-03-20T04:26:00+00:00,Gabon,0.6426767175110609,0,1,fr,CAF,Africa
 '1eb0ad73e6',extremes,Snow&Ice,#d60d2b,wmo,Frost Fort Albany Moosonee,2026-04-05T05:01:00+00:00,Canada,0.6410600757502399,0,1,fr,NEN,North-America
 '39149f5cac',extremes,Snow&Ice,#d60d2b,wmo,siffleur glacial,2026-03-16T05:05:00+00:00,Canada,0.6400587776094789,0,1,fr,NEN,North-America
-'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-02-27T04:26:00+00:00,French Southern Territories,0.6391012079547745,2,1,fr,SOO,Antarctica
+'355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-04-07T04:59:00+00:00,Chad,0.6386887630605247,1,1,fr,SAH,Africa
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-03-25T04:33:00+00:00,Switzerland,0.6381753370750033,0,1,fr,WCE,Europe
-'2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,neige belgique,2026-02-15T04:35:00+00:00,Belgium,0.6381140320083223,3,3,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-03-26T04:56:00+00:00,Canada,0.6381133159978167,0,1,fr,NEN,North-America
 'ca02bc4e99',extremes,Snow&Ice,#d60d2b,wmo,kugluktuk glacial de la baie de Cambridge,2026-03-21T04:17:00+00:00,Canada,0.6374062294413942,0,1,fr,NEN,North-America
+'4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,averse tchad,2026-04-08T05:01:00+00:00,Chad,0.6373631509515203,1,1,fr,SAH,Africa
 '77732553a6',extremes,Storm,#b3b2b1,wmo,"tempête de la mer au ciel, squamish à Whistler",2026-03-18T04:36:00+00:00,Canada,0.6367722008995659,0,1,fr,NEN,North-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-02-25T04:32:00+00:00,France,0.6358844438364523,2,3,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-07T04:59:00+00:00,Togo,0.6358384821673557,0,1,fr,WAF,Africa
@@ -81,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-15T04:45:00+00:00,Chad,0.6334687322688931,0,1,fr,SAH,Africa
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-03-27T04:57:00+00:00,Reunion,0.6308368415520644,0,1,fr,SIO,Africa
 'bc49b672cf',extremes,Flood,#030ba1,wmo,inondations charente maritime,2026-03-18T04:36:00+00:00,France,0.6295567182220395,0,1,fr,WCE,Europe
+'d64903af7d',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère haute savoie,2026-03-28T04:33:00+00:00,France,0.6294382994707901,1,1,fr,WCE,Europe
 '7600318710',extremes,Drought,#edc291,edo,période sèche en martinique,2026-03-15T04:45:00+00:00,Martinique,0.6292929221411021,0,1,fr,CAR,North-America
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-15T04:45:00+00:00,Democratic Republic of the Congo,0.6290908941639582,2,1,fr,CAF,Africa
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-02-28T04:07:00+00:00,France,0.6287440596930941,2,3,fr,WCE,Europe
@@ -92,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6219883464659125,0,1,fr,WCE,Europe
 'fa1054e723',extremes,Snow&Ice,#d60d2b,wmo,connaigre glacial burgeo ramea,2026-03-26T04:56:00+00:00,Canada,0.6219227277213544,0,1,fr,NEN,North-America
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-18T04:36:00+00:00,Democratic Republic of the Congo,0.6210684868719205,0,1,fr,CAF,Africa
-'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-02-11T04:41:00+00:00,Switzerland,0.6204779964850533,2,2,fr,WCE,Europe
 '491a82f8c3',extremes,Drought,#edc291,edo,période sèche au Cameroun,2026-03-16T05:05:00+00:00,Cameroon,0.6203708135851544,0,1,fr,CAF,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-03-23T04:42:00+00:00,France,0.619791331289789,0,1,fr,WCE,Europe
 '8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2026-03-25T04:33:00+00:00,Senegal,0.6193164690278506,0,1,fr,WAF,Africa
@@ -105,12 +102,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae83d286c7',extremes,Snow&Ice,#d60d2b,wmo,la Belgique glaciale,2026-03-15T04:45:00+00:00,Belgium,0.6156803570547252,0,1,fr,WCE,Europe
 '7339401ab4',extremes,Storm,#b3b2b1,wmo,onde de tempête au nord de l'île de Vancouver,2026-03-24T04:31:00+00:00,Canada,0.6145675944082787,0,1,fr,NEN,North-America
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-03-03T04:27:00+00:00,France,0.614017169018729,3,3,fr,WCE,Europe
-'286f532382',extremes,Snow&Ice,#d60d2b,wmo,glace belgique,2026-02-18T04:34:00+00:00,Belgium,0.613783292545944,2,3,fr,WCE,Europe
 '1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle belgique,2026-03-14T04:22:00+00:00,Belgium,0.6124761443082778,0,1,fr,WCE,Europe
 'de01bea70f',extremes,Storm,#b3b2b1,wmo,tempête Timmins Cochrane Iroquois Falls,2026-04-05T05:01:00+00:00,Canada,0.6121947167835907,0,1,fr,NEN,North-America
 'a5d2510da4',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-03-18T04:36:00+00:00,Saint Barthelemy,0.6121540941144882,0,1,fr,CAR,North-America
 'ef876b1456',extremes,Precipitation,#d60d2b,wmo,pluie à l'ouest de l'île de Vancouver,2026-03-17T04:30:00+00:00,Canada,0.6117127436747977,0,1,fr,NEN,North-America
-'4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neige fribourg,2026-03-13T04:25:00+00:00,Switzerland,0.6116681483739564,5,1,fr,WCE,Europe
 'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,onde de tempête dans le chenal et les eaux du sud.,2026-04-06T05:11:00+00:00,Vanuatu,0.6116661296066795,0,1,fr,SPO,Oceania
 '6a5c904162',extremes,Storm,#b3b2b1,wmo,siffleur d'onde de tempête,2026-03-17T04:30:00+00:00,Canada,0.6106562142187894,0,1,fr,NEN,North-America
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.6098524349125225,0,1,fr,SIO,Indian Ocean
@@ -119,16 +114,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e0ac5b7e8',extremes,Earthquake,#870007,usgs,tremblement de terre de Luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.6062769732160791,0,1,fr,SPO,Pacific Ocean
 '151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,neige entlebuch,2026-03-15T04:45:00+00:00,Switzerland,0.606267770010606,0,1,fr,WCE,Europe
 '5c38722100',extremes,Snow&Ice,#d60d2b,wmo,vallée de la glace,2026-03-15T04:45:00+00:00,Switzerland,0.6053422125140241,0,1,fr,WCE,Europe
-'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-02-26T04:29:00+00:00,France,0.6053005338611215,4,1,fr,WCE,Europe
 'a183ce7f5a',extremes,Snow&Ice,#d60d2b,wmo,"baie verte de neige, baie blanche",2026-03-24T04:31:00+00:00,Canada,0.6049144707139917,0,1,fr,NEN,North-America
 '892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,geler einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.6048612824809674,0,1,fr,WCE,Europe
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-03-26T04:56:00+00:00,French Guiana,0.604581051520337,0,1,fr,NSA,South-America
 '493b8fc5da',extremes,Storm,#b3b2b1,wmo,tempête îles de la madeleine,2026-03-17T04:30:00+00:00,Canada,0.6038646559362055,0,1,fr,NEN,North-America
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-03-18T04:36:00+00:00,Mayotte,0.6033831611676324,0,1,fr,MDG,Africa
-'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neige péninsule nord est,2026-02-12T04:37:00+00:00,Canada,0.6032346293680617,2,2,fr,NEN,North-America
 'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,neige goldau ägeri,2026-03-15T04:45:00+00:00,Switzerland,0.6026720023139736,0,1,fr,WCE,Europe
 'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-03-17T04:30:00+00:00,Vanuatu,0.602112515984995,0,1,fr,SPO,Pacific Ocean
-'46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-02-25T04:33:00+00:00,Mali,0.6019887844146984,2,1,fr,WAF,Africa
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6018839947821367,0,1,fr,WCE,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-02-26T04:29:00+00:00,Canada,0.6016799582915981,2,3,fr,NEN,North-America
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6015453161842639,0,1,fr,WCE,Europe
@@ -143,7 +135,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8684156e57',extremes,Earthquake,#870007,usgs,tremblement de terre isangel,2026-03-20T04:26:00+00:00,Vanuatu,0.5973004887696536,0,1,fr,SPO,Pacific Ocean
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2026-03-26T04:56:00+00:00,Republic of the Congo,0.5969647927009917,0,1,fr,CAF,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-03-27T04:57:00+00:00,Switzerland,0.5961730783681766,0,1,fr,WCE,Europe
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-03-01T04:35:00+00:00,Canada,0.5959998626856133,2,2,fr,NEN,North-America
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-03-27T04:57:00+00:00,Niger,0.5945884305149522,0,1,fr,SAH,Africa
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-03-27T04:57:00+00:00,Saint Barthelemy,0.5945623237744776,0,1,fr,CAR,North-America
 '7e40fc6e30',extremes,Drought,#edc291,edo,manque de pluie maurice,2026-03-18T04:36:00+00:00,Mauritius,0.5938942804092947,0,1,fr,SIO,Indian Ocean
@@ -162,8 +153,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0245f496a',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles sur les îles du nord et du centre.,2026-03-22T04:33:00+00:00,Vanuatu,0.5893632548785633,0,1,fr,SPO,Oceania
 'ee7e3623f6',extremes,Storm,#b3b2b1,wmo,onde de tempête nicola sud thompson shuswap,2026-03-20T04:26:00+00:00,Canada,0.5871650594911081,0,1,fr,NEN,North-America
 'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gel brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.5863972755654988,0,1,fr,WCE,Europe
-'0c1fb82494',extremes,Storm,#b3b2b1,cmeter,tempête nils bordeaux,2026-02-22T04:31:00+00:00,France,0.5851442381678287,3,2,fr,MED,Europe
-'df697baca6',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère haute savoie,2026-02-12T04:37:00+00:00,France,0.584536276774716,3,2,fr,WCE,Europe
 '4d51911b1d',extremes,Earthquake,#870007,usgs,tremblement de terre sola,2026-03-27T04:56:00+00:00,Vanuatu,0.5843580463572772,0,1,fr,SPO,Pacific Ocean
 '0630ed2fe7',extremes,Storm,#b3b2b1,wmo,tempête minganie anticosti,2026-03-18T04:36:00+00:00,Canada,0.5832659462156111,0,1,fr,NEN,North-America
 'd99be7f2ac',extremes,Drought,#edc291,edo,manque de pluie tchad,2026-03-29T05:00:00+00:00,Chad,0.5826643945197839,0,1,fr,SAH,Africa
@@ -171,13 +160,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '618e955f78',extremes,Drought,#edc291,edo,manque de pluie suisse,2026-03-26T04:56:00+00:00,Switzerland,0.5823722578551084,0,1,fr,WCE,Europe
 'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-03-23T04:42:00+00:00,Burundi,0.5817109925991556,0,1,fr,SEAF,Africa
 '96957773c4',extremes,Fog,#d60d2b,wmo,brouillard luxembourg,2026-04-01T05:12:00+00:00,Belgium,0.5807659538421105,0,1,fr,WCE,Europe
-'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-02-17T04:31:00+00:00,Canada,0.5803660624591422,2,2,fr,NEN,North-America
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,schiers de givre,2026-03-27T04:57:00+00:00,Switzerland,0.5800319708272175,0,1,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-03T04:43:00+00:00,Reunion,0.5798042155885671,0,1,fr,SIO,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-02T04:27:00+00:00,Belgium,0.5782100622670648,2,2,fr,WCE,Europe
 '60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-03-21T04:17:00+00:00,French Polynesia,0.5766490988403566,0,1,fr,SPO,Pacific Ocean
-'f5f9bf30b0',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes savoie haute savoie,2026-02-27T04:26:00+00:00,France,0.5765587658398857,2,1,fr,WCE,Europe
-'e65ae990e9',extremes,Tsunami,#690191,usgs,tsunami vanuatu,2026-02-17T04:31:00+00:00,Vanuatu,0.5760088785198347,2,2,fr,SPO,Oceania
 '567d968e05',extremes,Storm,#b3b2b1,wmo,onde de tempête tarn aude haute garonne,2026-03-19T04:35:00+00:00,France,0.5756933634775095,0,1,fr,WCE,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,geler les guttannens intérieures,2026-03-25T04:33:00+00:00,Switzerland,0.5748160326248393,0,1,fr,WCE,Europe
 '629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2026-03-26T04:56:00+00:00,Reunion,0.5737985849164307,0,1,fr,SIO,Africa
@@ -192,10 +178,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bfeccaef3a',extremes,Storm,#b3b2b1,wmo,tempête corse du sud,2026-04-01T05:12:00+00:00,France,0.5666844974531359,0,1,fr,WCE,Europe
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-03-30T05:12:00+00:00,Cameroon,0.5665365281624215,0,1,fr,CAF,Africa
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-03-31T04:59:00+00:00,Vanuatu,0.5661162903902347,0,1,fr,SPO,Pacific Ocean
-'97e9a324dd',extremes,Drought,#edc291,edo,sécheresse guinée,2026-02-19T04:32:00+00:00,Guinea,0.5656833507795512,2,1,fr,WAF,Africa
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen longern gelé,2026-03-21T04:17:00+00:00,Switzerland,0.5654805291513217,0,1,fr,WCE,Europe
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,brouillard brabant,2026-03-07T04:12:00+00:00,Belgium,0.5642325137264813,3,2,fr,WCE,Europe
-'211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-02-12T04:37:00+00:00,Belgium,0.5638339754509268,2,2,fr,WCE,Europe
 'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-03-31T05:00:00+00:00,Mali,0.5635429356553089,0,1,fr,WAF,Africa
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2026-03-25T04:33:00+00:00,Switzerland,0.5630637429267302,0,1,fr,WCE,Europe
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-04-07T04:59:00+00:00,Central African Republic,0.5629060165705855,0,1,fr,CAF,Africa
@@ -218,7 +202,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-04-09T04:58:00+00:00,France,0.5563405490790219,0,1,fr,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,lac laufental glacial,2026-03-13T04:25:00+00:00,Switzerland,0.555803971862413,1,1,fr,WCE,Europe
 'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,neige zofingen triengen,2026-03-13T04:25:00+00:00,Switzerland,0.5554898852101782,1,1,fr,WCE,Europe
-'964435c6a2',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-02-21T04:18:00+00:00,Saint Martin,0.5552675872770417,4,2,fr,CAR,North-America
 '8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-04-01T05:12:00+00:00,Saint Martin,0.554475985815918,0,1,fr,CAR,North-America
 '85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gel liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.5535664481395863,0,1,fr,WCE,Europe
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-04-05T05:01:00+00:00,Cameroon,0.5535295133401411,0,1,fr,CAF,Africa
@@ -237,74 +220,33 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.5487832859627471,0,1,fr,SPO,Oceania
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5481036404509275,0,1,fr,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5480100568341952,0,1,fr,SAM,South-America
-'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.5479742305183434,2,1,fr,NEAF,Africa
 '73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gel maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.547681579980574,0,1,fr,WCE,Europe
 '93cfb397e8',extremes,Drought,#edc291,edo,période de sécheresse à Trinité-et-Tobago,2026-04-11T04:34:00+00:00,Trinidad and Tobago,0.5476812566969708,0,1,fr,NSA,North-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,pluie Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5474067990478335,0,1,fr,SAM,South-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,cyclone tropical États-Unis,2026-04-11T04:34:00+00:00,United States,0.5469455029960743,0,1,fr,CNA,North-America
 '6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-03-27T04:57:00+00:00,Rwanda,0.5468585104546397,0,1,fr,SEAF,Africa
-'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-02-26T04:29:00+00:00,France,0.5452650763405369,7,3,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-03-10T04:22:00+00:00,Djibouti,0.5369877829576842,2,1,fr,NEAF,Africa
-'a4390c3d6a',extremes,Drought,#edc291,edo,sécheresse en Guinée,2026-02-28T04:07:00+00:00,Guinea,0.5286488897828737,3,1,fr,WAF,Africa
-'2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-03-07T04:12:00+00:00,Belgium,0.5242739882090758,2,1,fr,WCE,Europe
-'94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neige italie,2026-02-11T04:41:00+00:00,Italy,0.5239839312530395,2,3,fr,MED,Europe
-'38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-03T04:27:00+00:00,Gabon,0.5160486944191272,2,1,fr,CAF,Africa
-'54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-03-04T04:21:00+00:00,Central African Republic,0.5153597896640527,2,1,fr,CAF,Africa
-'6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-02-27T04:26:00+00:00,France,0.5092284424442783,3,2,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-03-09T04:31:00+00:00,France,0.5081343076404042,2,1,fr,WCE,Europe
-'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-03-03T04:27:00+00:00,Saint Pierre and Miquelon,0.5053000640914324,2,1,fr,ENA,North-America
-'d3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-03-06T04:21:00+00:00,Djibouti,0.5006511777878154,2,1,fr,NEAF,Africa
-'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-02-19T04:32:00+00:00,Niger,0.4997093805900154,3,2,fr,SAH,Africa
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-03-10T04:22:00+00:00,Republic of the Congo,0.4989354098093423,2,1,fr,CAF,Africa
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-03-15T04:44:00+00:00,New Caledonia,0.4978850426468336,2,1,fr,SPO,Pacific Ocean
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-02-23T04:37:00+00:00,Canada,0.4948340216766425,3,2,fr,NEN,North-America
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2026-03-13T04:24:00+00:00,New Caledonia,0.4946568533424709,2,1,fr,SPO,Pacific Ocean
-'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,paulatuk de glace,2026-02-19T04:32:00+00:00,Canada,0.4907833910996422,2,1,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.4907332211751365,2,1,fr,NEN,North-America
-'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,glacial taloyoak gjoahaven,2026-02-21T04:18:00+00:00,Canada,0.4905700929076338,2,1,fr,NEN,North-America
-'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk gelé,2026-02-22T04:30:00+00:00,Canada,0.4905283613113523,2,1,fr,NEN,North-America
-'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,"lac aux cornichons glacés, lac aux chats",2026-02-21T04:18:00+00:00,Canada,0.4902217196710903,2,1,fr,NEN,North-America
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-02-26T04:29:00+00:00,Canada,0.4894898833110208,2,1,fr,NEN,North-America
-'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-02-28T04:07:00+00:00,Niger,0.4891015375255894,2,1,fr,SAH,Africa
-'57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-02-25T04:33:00+00:00,Reunion,0.4885717485848213,2,1,fr,SIO,Africa
-'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,déneigeur,2026-02-22T04:30:00+00:00,Canada,0.4873632761776506,2,1,fr,NEN,North-America
-'0835258382',extremes,Snow&Ice,#d60d2b,wmo,Frost Williston,2026-02-22T04:30:00+00:00,Canada,0.4871397525669926,2,1,fr,NEN,North-America
-'ab419aeab8',extremes,Storm,#b3b2b1,wmo,onde de tempête blanc sablon,2026-02-21T04:18:00+00:00,Canada,0.486943246852822,2,1,fr,NEN,North-America
-'50d3b02868',extremes,Storm,#b3b2b1,wmo,onde de tempête baie des exploits bonavista nord,2026-02-21T04:18:00+00:00,Canada,0.4856094293279872,2,1,fr,NEN,North-America
-'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-03-07T04:12:00+00:00,Canada,0.4853645919062068,2,1,fr,NEN,North-America
-'54898bb95f',extremes,Storm,#b3b2b1,wmo,onde de tempête baie verte baie blanche,2026-02-21T04:18:00+00:00,Canada,0.4851221775192051,2,1,fr,NEN,North-America
-'3bfcff1e60',extremes,Storm,#b3b2b1,wmo,tempête st. John's et environs,2026-02-22T04:30:00+00:00,Canada,0.4847962002711193,2,1,fr,NEN,North-America
-'0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-02-22T04:30:00+00:00,Canada,0.4845275525864776,2,1,fr,NEN,North-America
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,givre oron – haute broye,2026-03-13T04:25:00+00:00,Switzerland,0.4837106710946321,2,1,fr,WCE,Europe
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-02-22T04:31:00+00:00,Mayotte,0.483639344479949,2,1,fr,MDG,Africa
-'6648e1a39e',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles Cameroun,2026-03-09T04:31:00+00:00,Cameroon,0.4829294873840483,2,1,fr,CAF,Africa
 'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neige muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.4828070962455607,2,1,fr,WCE,Europe
 'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,sarnen de glace,2026-03-13T04:25:00+00:00,Switzerland,0.4825884195255054,2,1,fr,WCE,Europe
 '0f23209d1b',extremes,Thunderstorm,#53785a,wmo,orage aux Seychelles,2026-03-13T04:25:00+00:00,Seychelles,0.4823485492389893,2,1,fr,EIO,Africa
-'79f3bcd2ec',extremes,Snow&Ice,#d60d2b,wmo,le givre recouvre la vallée de Skagit,2026-02-23T04:37:00+00:00,Canada,0.4822965680614454,2,1,fr,NEN,North-America
 '34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,glace st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.4822636946649424,2,1,fr,WCE,Europe
 '647b6366f3',extremes,Snow&Ice,#d60d2b,wmo,glace emmen hochdorf,2026-03-13T04:25:00+00:00,Switzerland,0.4821483185729558,2,1,fr,WCE,Europe
 '4f73c4762a',extremes,Snow&Ice,#d60d2b,wmo,port de Snow Sachs,2026-03-21T04:17:00+00:00,Canada,0.4815059374072,2,1,fr,NEN,North-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-03-14T04:22:00+00:00,Seychelles,0.481263476738555,2,1,fr,EIO,Africa
-'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de glace,2026-02-23T04:37:00+00:00,Canada,0.4811322680349847,2,1,fr,NEN,North-America
 '8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,glâne de neige,2026-03-13T04:25:00+00:00,Switzerland,0.481128162401163,2,1,fr,WCE,Europe
-'810cb157e5',extremes,Snow&Ice,#d60d2b,wmo,naujaat glacial,2026-02-22T04:30:00+00:00,Canada,0.4811026550980086,2,1,fr,NEN,North-America
-'e9cac0207d',extremes,Earthquake,#870007,usgs,tremblement de terre à madagascar,2026-02-18T04:33:00+00:00,Madagascar,0.4808830825251937,2,1,fr,MDG,Africa
 '04ec48ad4c',extremes,Snow&Ice,#d60d2b,wmo,glace Lucerne Alpnach,2026-03-13T04:25:00+00:00,Switzerland,0.4807983012127996,2,1,fr,WCE,Europe
 '1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,glace soleure rothrist,2026-03-13T04:25:00+00:00,Switzerland,0.4803199401415207,2,1,fr,WCE,Europe
-'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-03-03T04:27:00+00:00,French Southern Territories,0.4799658282807214,2,1,fr,SOO,Antarctica
-'8e36a69bd3',extremes,Storm,#b3b2b1,wmo,onde de tempête paulatuk,2026-02-22T04:30:00+00:00,Canada,0.4795295437272588,2,1,fr,NEN,North-America
-'db1e814857',extremes,Snow&Ice,#d60d2b,wmo,"du givre de la mer au ciel, de Squamish à Whistler",2026-02-23T04:37:00+00:00,Canada,0.4782425510513859,2,1,fr,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-03-22T04:33:00+00:00,Canada,0.4780648907683942,2,1,fr,NEN,North-America
 '1ec1c3318b',extremes,Snow&Ice,#d60d2b,wmo,givre chilcotin,2026-03-16T05:05:00+00:00,Canada,0.4772850527091616,2,1,fr,NEN,North-America
 '968bd19e5e',extremes,Snow&Ice,#d60d2b,wmo,gel glaris nord mitte,2026-03-13T04:25:00+00:00,Switzerland,0.4762402468376011,2,1,fr,WCE,Europe
-'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-03-08T04:24:00+00:00,Belgium,0.4761452120336558,2,1,fr,WCE,Europe
-'ea6bb31003',extremes,Storm,#b3b2b1,wmo,"onde de tempête dans le comté d'Inverness, Mabou et nord",2026-02-23T04:37:00+00:00,Canada,0.4760181583917126,2,1,fr,NEN,North-America
-'58d7ad728c',extremes,Storm,#b3b2b1,wmo,onde de tempête avant JC rivière de la paix sud,2026-02-26T04:29:00+00:00,Canada,0.4760109841550152,2,1,fr,NEN,North-America
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neige delémont bellelay,2026-03-13T04:25:00+00:00,Switzerland,0.4759407389113351,2,1,fr,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gel Landquart Coire,2026-03-13T04:25:00+00:00,Switzerland,0.4758850653492363,2,1,fr,WCE,Europe
-'209e41ae3e',extremes,Snow&Ice,#d60d2b,wmo,fjord gelé de Resolute Grise,2026-02-28T04:07:00+00:00,Canada,0.4756075075948938,2,1,fr,NEN,North-America
-'0e4ed1cbf8',extremes,Snow&Ice,#d60d2b,wmo,glace de la baie de Cambridge,2026-02-28T04:07:00+00:00,Canada,0.4752155332137598,2,1,fr,NEN,North-America
 'b95838c00f',extremes,Snow&Ice,#d60d2b,wmo,Bâle glaciale,2026-03-13T04:25:00+00:00,Switzerland,0.4748638006814113,2,1,fr,WCE,Europe
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,neige martigny verbier,2026-03-13T04:25:00+00:00,Switzerland,0.4746374769755803,2,1,fr,WCE,Europe
 '0784f4e334',extremes,Storm,#b3b2b1,wmo,tempête moosonee,2026-03-17T04:30:00+00:00,Canada,0.4745740335224256,2,1,fr,NEN,North-America
@@ -313,92 +255,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,neige du Lötschental Naters,2026-03-13T04:25:00+00:00,Switzerland,0.4730499122134304,2,1,fr,WCE,Europe
 '080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,gel langenthal,2026-03-13T04:25:00+00:00,Switzerland,0.4724974560268364,2,1,fr,WCE,Europe
 '159fb0a618',extremes,Snow&Ice,#d60d2b,wmo,gel du gros de vaud,2026-03-13T04:25:00+00:00,Switzerland,0.4724598417692283,2,1,fr,WCE,Europe
-'82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-02-22T04:31:00+00:00,French Guiana,0.471781055027345,2,1,fr,NSA,South-America
 '5aa8518160',extremes,Wildfire,#d60d2b,emdat,bezanga de feu de brousse,2026-03-13T04:25:00+00:00,Central African Republic,0.4717634198616627,3,1,fr,CAF,Africa
-'cdbf3f27ef',extremes,Drought,#edc291,edo,période sèche en Haïti,2026-02-26T04:29:00+00:00,Haiti,0.4715884870450879,2,1,fr,CAR,North-America
-'28cf44e53a',extremes,Drought,#edc291,edo,sécheresse nouvelle-calédonie,2026-02-25T04:33:00+00:00,New Caledonia,0.4713893306427105,2,1,fr,SPO,Oceania
-'846fa8fe30',extremes,Storm,#b3b2b1,wmo,onde de tempête îles de la madeleine,2026-02-24T04:31:00+00:00,Canada,0.4706627493679234,2,1,fr,NEN,North-America
-'71dc5934c5',extremes,Snow&Ice,#d60d2b,wmo,givre à tête jaune,2026-02-27T04:26:00+00:00,Canada,0.4697911936706009,2,1,fr,NEN,North-America
-'6d1bf17544',extremes,Snow&Ice,#d60d2b,wmo,glace waskaganish,2026-02-28T04:07:00+00:00,Canada,0.468425240254214,2,1,fr,NEN,North-America
-'ccea2a6a3c',extremes,Snow&Ice,#d60d2b,wmo,gel de la baie James et de la grande rivière,2026-02-28T04:07:00+00:00,Canada,0.4678374448235144,2,1,fr,NEN,North-America
-'a186f732f1',extremes,Snow&Ice,#d60d2b,wmo,région glaciale du chenal est de tuktoyaktuk,2026-03-02T04:27:00+00:00,Canada,0.4670671284778681,2,1,fr,NEN,North-America
-'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2026-02-20T04:27:00+00:00,Benin,0.4670419730536158,2,1,fr,WAF,Africa
-'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.4668253434889568,3,1,fr,NEAF,Africa
-'ab48d44b11',extremes,Storm,#b3b2b1,wmo,fjord de l'onde de tempête grise,2026-02-27T04:26:00+00:00,Canada,0.4664045255376398,2,1,fr,NEN,North-America
 '0769f23236',extremes,Wildfire,#d60d2b,emdat,incendies de forêt dans les villages de Ndoubamoudou,2026-03-14T04:23:00+00:00,Central African Republic,0.4660662970801647,3,1,fr,CAF,Africa
-'c17f5769a1',extremes,Snow&Ice,#d60d2b,wmo,montagnes de cassiar glaciales,2026-03-01T04:35:00+00:00,Canada,0.4658690738566473,2,1,fr,NEN,North-America
-'104394a0b0',extremes,Storm,#b3b2b1,wmo,fjord de la tempête grise,2026-02-28T04:07:00+00:00,Canada,0.4653249820626622,2,1,fr,NEN,North-America
-'22d5aa94aa',extremes,Storm,#b3b2b1,wmo,onde de tempête sachs harbour ulukhaktok,2026-02-26T04:29:00+00:00,Canada,0.4640020237416502,2,1,fr,NEN,North-America
-'872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de givre,2026-02-25T04:32:00+00:00,Canada,0.4637798641968292,2,1,fr,NEN,North-America
-'e813b45678',extremes,Snow&Ice,#d60d2b,wmo,neige kugluktuk,2026-02-28T04:07:00+00:00,Canada,0.4635045121012283,2,1,fr,NEN,North-America
-'c5260711ba',extremes,Fog,#d60d2b,wmo,brouillard gatineau,2026-03-08T04:24:00+00:00,Canada,0.4630092704946213,2,1,fr,NEN,North-America
-'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-02-22T04:31:00+00:00,Burkina Faso,0.4625439697647641,2,1,fr,WAF,Africa
-'10965e65c7',extremes,Snow&Ice,#d60d2b,wmo,glace schefferville fermont,2026-02-28T04:07:00+00:00,Canada,0.4621350378209013,2,1,fr,NEN,North-America
-'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-03-02T04:27:00+00:00,Seychelles,0.4591601845896649,2,1,fr,EIO,Indian Ocean
-'d427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-02-26T04:29:00+00:00,Martinique,0.458964531762392,2,1,fr,CAR,North-America
-'8d138ce8d8',extremes,Drought,#edc291,edo,période sèche saint barthélémy,2026-02-19T04:32:00+00:00,Saint Barthelemy,0.4551895524451357,2,1,fr,CAR,North-America
-'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-03-07T04:13:00+00:00,Togo,0.4544847303519765,2,1,fr,WAF,Africa
-'57d5873e48',extremes,Storm,#b3b2b1,wmo,onde de tempête nain et environs,2026-03-06T04:21:00+00:00,Canada,0.4544622569110374,2,1,fr,NEN,North-America
-'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2026-03-07T04:12:00+00:00,Belgium,0.4535123084760572,2,1,fr,WCE,Europe
-'452c47907c',extremes,Snow&Ice,#d60d2b,wmo,Kangirsuk glacial,2026-03-03T04:27:00+00:00,Canada,0.4518925210186756,2,1,fr,NEN,North-America
 'a0c145c9df',extremes,Earthquake,#870007,usgs,tremblement de terre wé,2026-03-20T04:26:00+00:00,New Caledonia,0.4507615611427599,3,1,fr,SPO,Pacific Ocean
-'031c267316',extremes,Snow Avalanche,#deddd5,wmo,avalanche pyrénées orientales ariège,2026-03-06T04:21:00+00:00,France,0.4502450998857766,3,1,fr,WCE,Europe
-'9b2964e6d6',extremes,Snow&Ice,#d60d2b,wmo,neige lg quatre laforge et fontanges,2026-02-28T04:07:00+00:00,Canada,0.4498561838370623,2,1,fr,NEN,North-America
-'b9da3355a3',extremes,Storm,#b3b2b1,wmo,tempête du port de Saunders et du détroit,2026-03-08T04:24:00+00:00,Canada,0.4491999438626383,2,1,fr,NEN,North-America
-'bda678d944',extremes,Snow&Ice,#d60d2b,wmo,vallée glaciale de Churchill,2026-03-01T04:35:00+00:00,Canada,0.4486516352465762,2,1,fr,NEN,North-America
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-03-11T04:22:00+00:00,Equatorial Guinea,0.4474994842916618,2,1,fr,WAF,Africa
-'adf25a1661',extremes,Storm,#b3b2b1,wmo,tempête attawapiskat fort albany moosonee,2026-02-28T04:07:00+00:00,Canada,0.4466018160044835,2,1,fr,NEN,North-America
-'91c7dc2a47',extremes,Snow&Ice,#d60d2b,wmo,mayonnaise à la neige,2026-03-07T04:12:00+00:00,Canada,0.4464170156114591,2,1,fr,NEN,North-America
-'1905c0a7b1',extremes,Snow&Ice,#d60d2b,wmo,neige sanikiluaq,2026-03-03T04:27:00+00:00,Canada,0.4459234607976867,2,1,fr,NEN,North-America
-'177b82d457',extremes,Storm,#b3b2b1,wmo,tempête chevery blanc sablon,2026-02-28T04:07:00+00:00,Canada,0.4458468882417095,2,1,fr,NEN,North-America
 '3f381cda16',extremes,Earthquake,#870007,usgs,ambassade du tremblement de terre,2026-03-15T04:44:00+00:00,Madagascar,0.4457847561205215,3,1,fr,MDG,Africa
-'6043e52764',extremes,Snow&Ice,#d60d2b,wmo,gel iqaluit,2026-03-02T04:27:00+00:00,Canada,0.4455348764449989,2,1,fr,NEN,North-America
-'f3e03f4e4f',extremes,Snow&Ice,#d60d2b,wmo,naujaat de glace,2026-03-03T04:27:00+00:00,Canada,0.445164067801075,2,1,fr,NEN,North-America
-'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-02-19T04:32:00+00:00,Comoros,0.4443195444203223,2,1,fr,ESAF,Africa
-'4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-02-26T04:29:00+00:00,Burundi,0.4438045309113603,2,1,fr,SEAF,Africa
-'dd21606fcc',extremes,Snow&Ice,#d60d2b,wmo,port de glace sachs ulukhaktok,2026-03-01T04:35:00+00:00,Canada,0.4432091904524564,2,1,fr,NEN,North-America
-'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2026-03-08T04:24:00+00:00,Belgium,0.4415547465873692,2,1,fr,WCE,Europe
-'3353502ff9',extremes,Thunderstorm,#53785a,wmo,orage îles du sud du vanuatu.,2026-02-22T04:30:00+00:00,Vanuatu,0.4405316707986391,2,1,fr,SPO,Oceania
-'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-03-01T04:35:00+00:00,French Guiana,0.439979315644657,3,1,fr,NSA,South-America
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-03-06T04:21:00+00:00,Canada,0.4398646565018883,2,1,fr,NEN,North-America
-'0aea61081d',extremes,Thunderstorm,#53785a,wmo,temps violent dans les îles du sud du vanuatu.,2026-02-21T04:18:00+00:00,Vanuatu,0.4397303171588614,2,1,fr,SPO,Oceania
-'b9576a4c93',extremes,Storm,#b3b2b1,wmo,onde de tempête à Trinité-et-Tobago,2026-02-20T04:27:00+00:00,Trinidad and Tobago,0.4395844428081016,2,1,fr,NSA,North-America
-'bf43374236',extremes,Precipitation,#d60d2b,wmo,averse vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.4394701850275035,2,1,fr,SPO,Oceania
-'71ba2fe0bd',extremes,Storm,#b3b2b1,wmo,"onde de tempête, port de Saunders et le détroit",2026-03-07T04:12:00+00:00,Canada,0.4394606594179712,2,1,fr,NEN,North-America
-'9e32cd35f3',extremes,Snow&Ice,#d60d2b,wmo,gros morne glacial,2026-03-03T04:27:00+00:00,Canada,0.4391702634713021,2,1,fr,NEN,North-America
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-03-01T04:35:00+00:00,Madagascar,0.4391501842616526,3,1,fr,MDG,Africa
-'b15d9678b2',extremes,Storm,#b3b2b1,wmo,"onde de tempête vallée du fraser est, y compris Hope",2026-03-08T04:24:00+00:00,Canada,0.4382389443368703,2,1,fr,NEN,North-America
-'16348a6786',extremes,Drought,#edc291,edo,période sèche en tunisie,2026-02-27T04:26:00+00:00,Tunisia,0.4377704158547129,2,1,fr,MED,Africa
-'236ae4fd18',extremes,Storm,#b3b2b1,wmo,onde de tempête îles du sud du vanuatu.,2026-02-20T04:27:00+00:00,Vanuatu,0.4377145156956469,2,1,fr,SPO,Oceania
-'d9e8505412',extremes,Thunderstorm,#53785a,wmo,temps violent dans tout le Vanuatu.,2026-02-27T04:26:00+00:00,Vanuatu,0.437498437769316,2,1,fr,SPO,Oceania
-'979cf49354',extremes,Thunderstorm,#53785a,wmo,temps violent sur les îles du centre et du sud.,2026-02-28T04:07:00+00:00,Vanuatu,0.4366629277943293,2,1,fr,SPO,Oceania
-'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-03-07T04:13:00+00:00,Central African Republic,0.436625346336268,2,1,fr,CAF,Africa
-'8292b14a06',extremes,Flood,#030ba1,cmeter,inondation de perpignan,2026-03-07T04:13:00+00:00,France,0.4365454675172582,2,1,fr,MED,Europe
-'71149fa5b9',extremes,Fog,#d60d2b,wmo,zone côtière de brouillard,2026-03-08T04:24:00+00:00,Belgium,0.4364708819924673,2,1,fr,WCE,Europe
-'11b4484b9a',extremes,Drought,#edc291,edo,manque de pluie mayotte,2026-03-02T04:27:00+00:00,Mayotte,0.433079293729377,3,1,fr,MDG,Africa
-'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-03-04T04:21:00+00:00,Saint Pierre and Miquelon,0.4275829191355163,3,1,fr,ENA,North-America
-'2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-03-04T04:21:00+00:00,Burundi,0.4275306163269119,3,1,fr,SEAF,Africa
-'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-02T04:27:00+00:00,Gabon,0.4223800402320191,3,1,fr,CAF,Africa
-'3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2026-03-04T04:21:00+00:00,Democratic Republic of the Congo,0.4198578444386959,3,1,fr,CAF,Africa
-'085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-03-04T04:21:00+00:00,New Caledonia,0.4198472573334536,3,1,fr,SPO,Oceania
-'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-02-26T04:29:00+00:00,Ivory Coast,0.4187394876639451,3,1,fr,WAF,Africa
-'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,précipitations seychelles,2026-03-12T04:26:00+00:00,Seychelles,0.4176213888076432,3,1,fr,EIO,Africa
-'9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle seychelles,2026-03-07T04:12:00+00:00,Seychelles,0.4175707124924527,3,1,fr,EIO,Africa
-'322066ad26',extremes,Flood,#030ba1,wmo,crue éclair hérault,2026-03-08T04:24:00+00:00,France,0.4158830563021493,3,1,fr,WCE,Europe
-'3cf1d049fc',extremes,Storm,#b3b2b1,wmo,tempête au nord de l'île de Vancouver,2026-02-22T04:30:00+00:00,Canada,0.413582094684257,3,1,fr,NEN,North-America
-'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-02-25T04:33:00+00:00,Benin,0.4131391970490107,3,1,fr,WAF,Africa
-'9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-03-03T04:27:00+00:00,Mayotte,0.4119436616570103,3,1,fr,MDG,Africa
-'081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gel yverdon bevaix,2026-03-13T04:25:00+00:00,Switzerland,0.4113596288841729,3,1,fr,WCE,Europe
-'868b77acf9',extremes,Storm,#b3b2b1,wmo,onde de tempête à l'ouest de l'île de Vancouver,2026-02-22T04:30:00+00:00,Canada,0.4112427113141125,3,1,fr,NEN,North-America
-'92035e2c20',extremes,Drought,#edc291,edo,période sèche à madagascar,2026-03-08T04:24:00+00:00,Madagascar,0.4111601054457114,3,1,fr,MDG,Africa
-'5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,neige werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.4111054880431519,3,1,fr,WCE,Europe
-'4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,glace bex villars,2026-03-13T04:25:00+00:00,Switzerland,0.410895486704446,3,1,fr,WCE,Europe
-'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,effretikon de neige,2026-03-13T04:25:00+00:00,Switzerland,0.410868198353807,3,1,fr,WCE,Europe
-'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,gel schaffhouse,2026-03-13T04:25:00+00:00,Switzerland,0.4047662630187599,3,1,fr,WCE,Europe
-'028b7b4940',extremes,Storm,#b3b2b1,wmo,onde de tempête nord de la péninsule est,2026-02-25T04:32:00+00:00,Canada,0.4037674431793951,3,1,fr,NEN,North-America
-'12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,geler Steckborn Müllheim,2026-03-13T04:25:00+00:00,Switzerland,0.4025397924678003,3,1,fr,WCE,Europe
-'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2026-02-26T04:29:00+00:00,Guadeloupe,0.3956173607692235,3,1,fr,CAR,North-America
-'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-02T04:27:00+00:00,Burkina Faso,0.3914256761139839,3,1,fr,WAF,Africa
-'c18e90958f',extremes,Snow&Ice,#d60d2b,wmo,lac Frost Baker,2026-02-27T04:26:00+00:00,Canada,0.3885365380515778,3,1,fr,NEN,North-America
-'6ffe421471',extremes,Snow&Ice,#d60d2b,wmo,tasiujaq glacial,2026-03-04T04:20:00+00:00,Canada,0.3845614655606473,3,1,fr,NEN,North-America
-'58475363ba',extremes,Snow&Ice,#d60d2b,wmo,neige kangirsuk aupaluk tasiujaq,2026-03-05T04:24:00+00:00,Canada,0.3707018550198636,3,1,fr,NEN,North-America
