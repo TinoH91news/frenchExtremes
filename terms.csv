@@ -6,6 +6,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-28T04:33:00+00:00,Gabon,0.6934752972780487,0,1,fr,CAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.6823356178925226,1,2,fr,MDG,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-04-08T05:01:00+00:00,Canada,0.6809356646479662,0,1,fr,NEN,North-America
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-03-31T04:59:00+00:00,Canada,0.6802577994777415,0,1,fr,NEN,North-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-04-12T05:12:00+00:00,Canada,0.6798570677551901,0,1,fr,NEN,North-America
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-04-14T05:11:00+00:00,Canada,0.6797009993306872,0,1,fr,NEN,North-America
+'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-03-30T05:12:00+00:00,Djibouti,0.6794105470143234,0,1,fr,NEAF,Africa
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,"lac aux cornichons glacés, lac aux chats",2026-04-09T04:58:00+00:00,Canada,0.6768678481701761,0,1,fr,NEN,North-America
+'0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-04-06T05:11:00+00:00,Canada,0.6752124142214933,0,1,fr,NEN,North-America
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-04-02T04:42:00+00:00,Burkina Faso,0.67383555875152,0,1,fr,WAF,Africa
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-03-25T04:33:00+00:00,Burkina Faso,0.6658802971821972,0,1,fr,WAF,Africa
 '365e6829d3',extremes,Drought,#edc291,edo,manque de pluie en Guinée,2026-03-18T04:36:00+00:00,Guinea,0.6620454112994463,0,1,fr,WAF,Africa
