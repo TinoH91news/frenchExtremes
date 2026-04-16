@@ -14,7 +14,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,saluit de glace,2026-04-14T05:11:00+00:00,Canada,0.6751894226264686,0,1,fr,NEN,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.6746713399487897,0,1,fr,WCE,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-04-02T04:42:00+00:00,Burkina Faso,0.67383555875152,0,1,fr,WAF,Africa
+'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-03-28T04:33:00+00:00,Togo,0.6732356380769711,0,1,fr,WAF,Africa
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-01T05:12:00+00:00,Canada,0.6705700055114585,0,1,fr,NEN,North-America
+'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,dépoussiéreur de glace,2026-04-12T05:12:00+00:00,Canada,0.669457143653433,0,1,fr,NEN,North-America
+'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,glacial taloyoak gjoahaven,2026-04-09T04:58:00+00:00,Canada,0.6671239773284581,0,1,fr,NEN,North-America
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-03-25T04:33:00+00:00,Burkina Faso,0.6658802971821972,0,1,fr,WAF,Africa
+'4e3ce59b1d',extremes,Snow&Ice,#d60d2b,wmo,havre de glace de gjoa,2026-04-14T05:11:00+00:00,Canada,0.664944922954436,0,1,fr,NEN,North-America
+'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2026-04-01T05:12:00+00:00,Belgium,0.6644464892048914,0,1,fr,WCE,Europe
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-25T04:33:00+00:00,Chad,0.6617510053244463,0,1,fr,SAH,Africa
 'fdd91c3810',extremes,Snow&Ice,#d60d2b,wmo,baie rouge glace jusqu'à l'anse au clair,2026-03-31T04:59:00+00:00,Canada,0.6584865456654286,0,1,fr,NEN,North-America
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-03-22T04:33:00+00:00,Saint Pierre and Miquelon,0.6561209084737399,0,1,fr,ENA,North-America
