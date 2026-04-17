@@ -44,8 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '414b6dc570',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-03-23T04:42:00+00:00,Guadeloupe,0.6169973232886318,0,1,fr,CAR,North-America
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-03-03T04:27:00+00:00,France,0.614017169018729,3,3,fr,WCE,Europe
 '3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2026-03-26T04:56:00+00:00,Democratic Republic of the Congo,0.6134939601436816,1,1,fr,CAF,Africa
-'151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,neige entlebuch,2026-03-15T04:45:00+00:00,Switzerland,0.606267770010606,0,1,fr,WCE,Europe
-'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,vallée de la glace,2026-03-15T04:45:00+00:00,Switzerland,0.6053422125140241,0,1,fr,WCE,Europe
 'a183ce7f5a',extremes,Snow&Ice,#d60d2b,wmo,"baie verte de neige, baie blanche",2026-03-24T04:31:00+00:00,Canada,0.6049144707139917,0,1,fr,NEN,North-America
 '892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,geler einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.6048612824809674,0,1,fr,WCE,Europe
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-03-26T04:56:00+00:00,French Guiana,0.604581051520337,0,1,fr,NSA,South-America
@@ -255,7 +253,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.5183745696756441,1,1,fr,SIO,Indian Ocean
 '4eda6a5e25',extremes,Drought,#edc291,edo,période sèche au niger,2026-04-06T05:12:00+00:00,Niger,0.517680901934432,1,1,fr,SAH,Africa
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-03-28T04:33:00+00:00,Guadeloupe,0.5164333720809797,1,1,fr,CAR,North-America
+'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,vallée de la glace,2026-03-15T04:45:00+00:00,Switzerland,0.5154409706369205,1,1,fr,WCE,Europe
 '8e0ac5b7e8',extremes,Earthquake,#870007,usgs,tremblement de terre de Luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.5153354272336672,1,1,fr,SPO,Pacific Ocean
+'151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,neige entlebuch,2026-03-15T04:45:00+00:00,Switzerland,0.5153276045090152,1,1,fr,WCE,Europe
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-03-15T04:44:00+00:00,New Caledonia,0.4978850426468336,2,1,fr,SPO,Pacific Ocean
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2026-03-13T04:24:00+00:00,New Caledonia,0.4946568533424709,2,1,fr,SPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.4907332211751365,2,1,fr,NEN,North-America
