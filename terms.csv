@@ -51,9 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28cf44e53a',extremes,Drought,#edc291,edo,sécheresse nouvelle-calédonie,2026-04-11T04:34:00+00:00,New Caledonia,0.6063216478188391,0,1,fr,SPO,Oceania
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-03-18T04:36:00+00:00,Mayotte,0.6033831611676324,0,1,fr,MDG,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-03-31T05:00:00+00:00,Equatorial Guinea,0.601916950579096,0,1,fr,WAF,Africa
-'8684156e57',extremes,Earthquake,#870007,usgs,tremblement de terre isangel,2026-03-20T04:26:00+00:00,Vanuatu,0.5973004887696536,0,1,fr,SPO,Pacific Ocean
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2026-03-26T04:56:00+00:00,Republic of the Congo,0.5969647927009917,0,1,fr,CAF,Africa
-'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-03-27T04:57:00+00:00,Switzerland,0.5961730783681766,0,1,fr,WCE,Europe
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-03-22T04:33:00+00:00,Democratic Republic of the Congo,0.5955096233424886,1,1,fr,CAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-03-27T04:57:00+00:00,Djibouti,0.5949539808422916,1,1,fr,NEAF,Africa
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-03-27T04:57:00+00:00,Niger,0.5945884305149522,0,1,fr,SAH,Africa
@@ -148,6 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ff36d7a46',extremes,Drought,#edc291,edo,sécheresse belgique,2026-03-22T04:33:00+00:00,Belgium,0.5576547289885622,0,1,fr,WCE,Europe
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-03-30T05:12:00+00:00,Benin,0.5574350609258295,0,1,fr,WAF,Africa
 'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-03-29T05:00:00+00:00,Seychelles,0.5572270937048305,0,1,fr,EIO,Indian Ocean
+'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-03-27T04:57:00+00:00,Switzerland,0.5571971616129501,1,1,fr,WCE,Europe
 '946710d148',extremes,Fog,#d60d2b,wmo,brouillard paulatuk,2026-04-01T05:12:00+00:00,Canada,0.5571634078858276,1,1,fr,NEN,North-America
 '25f591e641',extremes,Storm,#b3b2b1,wmo,onde de tempête iqaluit,2026-04-14T05:11:00+00:00,Canada,0.5569880322934041,1,1,fr,NEN,North-America
 '2749394a54',extremes,Snow&Ice,#d60d2b,wmo,peawanuck de glace,2026-04-16T05:17:00+00:00,Canada,0.5568701837956465,1,1,fr,NEN,North-America
@@ -267,6 +266,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8139bb2976',extremes,Storm,#b3b2b1,wmo,onde de tempête sur les sections côtières de la côte nord,2026-03-16T05:05:00+00:00,Canada,0.5093246550333455,1,1,fr,NEN,North-America
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,onde de tempête en Grèce,2026-03-16T05:05:00+00:00,Greece,0.5092492993110334,1,1,fr,MED,Europe
 '7e4ac8d494',extremes,Drought,#edc291,edo,manque de pluie Haïti,2026-03-23T04:42:00+00:00,Haiti,0.508020599591721,1,1,fr,CAR,North-America
+'8684156e57',extremes,Earthquake,#870007,usgs,tremblement de terre isangel,2026-03-20T04:26:00+00:00,Vanuatu,0.5077054154542056,1,1,fr,SPO,Pacific Ocean
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-03-15T04:44:00+00:00,New Caledonia,0.4978850426468336,2,1,fr,SPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-03-20T04:26:00+00:00,Canada,0.4907332211751365,2,1,fr,NEN,North-America
 '4f73c4762a',extremes,Snow&Ice,#d60d2b,wmo,port de Snow Sachs,2026-03-21T04:17:00+00:00,Canada,0.4815059374072,2,1,fr,NEN,North-America
