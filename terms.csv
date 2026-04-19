@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.7508336293538607,0,1,fr,WCE,Europe
-'6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-04-02T04:42:00+00:00,Saint Pierre and Miquelon,0.7407242498473802,0,1,fr,ENA,North-America
+'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-04-02T04:42:00+00:00,French Guiana,0.7434318843626078,1,2,fr,NSA,South-America
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.7106875512866172,1,2,fr,WAF,Africa
-'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-04-02T04:42:00+00:00,French Guiana,0.6979786698383621,0,1,fr,NSA,South-America
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-03-28T04:33:00+00:00,Central African Republic,0.695000934943899,0,1,fr,CAF,Africa
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-03-26T04:56:00+00:00,France,0.694244323848026,0,1,fr,WCE,Europe
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-28T04:33:00+00:00,Gabon,0.6934752972780487,0,1,fr,CAF,Africa
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-15T04:45:00+00:00,Chad,0.6334687322688931,0,1,fr,SAH,Africa
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-04-15T05:12:00+00:00,Chad,0.632261943408017,1,1,fr,SAH,Africa
 '84b82691f4',extremes,Snow Avalanche,#deddd5,wmo,avalanche corse du sud savoie haute corse,2026-04-15T05:12:00+00:00,France,0.6296894742936257,1,1,fr,WCE,Europe
+'6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-04-02T04:42:00+00:00,Saint Pierre and Miquelon,0.6296156123702731,1,1,fr,ENA,North-America
 'd64903af7d',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère haute savoie,2026-03-28T04:33:00+00:00,France,0.6294382994707901,1,1,fr,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6291401394960257,1,2,fr,WCE,Europe
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-03-15T04:45:00+00:00,Democratic Republic of the Congo,0.6290908941639582,2,1,fr,CAF,Africa
