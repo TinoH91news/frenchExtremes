@@ -1,6 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.7870518620936388,1,3,fr,WCE,Europe
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-04-02T04:42:00+00:00,French Guiana,0.7434318843626078,1,2,fr,NSA,South-America
+'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-04-14T05:11:00+00:00,France,0.739567377233886,0,1,fr,WCE,Europe
+'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-04-09T04:57:00+00:00,New Caledonia,0.7328347258690763,0,1,fr,SPO,Pacific Ocean
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.7106875512866172,1,2,fr,WAF,Africa
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-03-28T04:33:00+00:00,Central African Republic,0.695000934943899,0,1,fr,CAF,Africa
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-03-28T04:33:00+00:00,Gabon,0.6934752972780487,0,1,fr,CAF,Africa
@@ -16,13 +18,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-04-02T04:42:00+00:00,Burkina Faso,0.67383555875152,0,1,fr,WAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-04-08T05:01:00+00:00,Canada,0.6729629810179067,0,1,fr,NEN,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-01T05:12:00+00:00,Canada,0.6705700055114585,0,1,fr,NEN,North-America
+'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-04-09T04:58:00+00:00,France,0.6685055942205111,0,1,fr,WCE,Europe
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-03-25T04:33:00+00:00,Burkina Faso,0.6658802971821972,0,1,fr,WAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-25T04:33:00+00:00,Chad,0.6617510053244463,0,1,fr,SAH,Africa
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6614635337566243,1,2,fr,WCE,Europe
+'d890ddfc5c',extremes,Snow&Ice,#d60d2b,wmo,neige akulivik puvirnituq,2026-04-20T05:27:00+00:00,Canada,0.6605600718874546,0,1,fr,NEN,North-America
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-04-02T04:42:00+00:00,Central African Republic,0.6589555797991963,0,1,fr,CAF,Africa
+'ea6bb31003',extremes,Storm,#b3b2b1,wmo,"onde de tempête dans le comté d'Inverness, Mabou et nord",2026-04-20T05:27:00+00:00,Canada,0.6555623675645432,0,1,fr,NEN,North-America
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-04-09T04:58:00+00:00,Senegal,0.6533389123290758,1,2,fr,WAF,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-03-13T04:25:00+00:00,France,0.6502261921241,0,1,fr,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6484051206863638,1,2,fr,WCE,Europe
+'409a46dd24',extremes,Snow&Ice,#d60d2b,wmo,gel kuujjuarapik sanikiluaq,2026-04-20T05:27:00+00:00,Canada,0.6471981487676398,0,1,fr,NEN,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-03-28T04:33:00+00:00,Madagascar,0.6451678769499339,1,1,fr,MDG,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-03-15T04:45:00+00:00,France,0.6440722871924683,0,1,fr,WCE,Europe
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-04-07T04:59:00+00:00,Chad,0.6386887630605247,1,1,fr,SAH,Africa
