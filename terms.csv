@@ -27,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '409a46dd24',extremes,Snow&Ice,#d60d2b,wmo,gel kuujjuarapik sanikiluaq,2026-04-20T05:27:00+00:00,Canada,0.6471981487676398,0,1,fr,NEN,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-03-28T04:33:00+00:00,Madagascar,0.6451678769499339,1,1,fr,MDG,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-03-15T04:45:00+00:00,France,0.6440722871924683,0,1,fr,WCE,Europe
+'2c5c641221',extremes,Storm,#b3b2b1,wmo,tempête sanikiluaq,2026-04-20T05:27:00+00:00,Canada,0.6437310098559408,0,1,fr,NEN,North-America
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-04-07T04:59:00+00:00,Chad,0.6386887630605247,1,1,fr,SAH,Africa
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-03-25T04:33:00+00:00,Switzerland,0.6381753370750033,0,1,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-03-26T04:56:00+00:00,Canada,0.6381133159978167,0,1,fr,NEN,North-America
@@ -203,10 +204,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd65ecb1cf6',extremes,Snow&Ice,#d60d2b,wmo,neige luxembourg,2026-03-27T04:57:00+00:00,Belgium,0.550235144412191,0,1,fr,WCE,Europe
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-31T05:00:00+00:00,Burkina Faso,0.5500106176893386,0,1,fr,WAF,Africa
 '13f6b2793d',extremes,Storm,#b3b2b1,wmo,"tempête sur l'autoroute 97, col des pins",2026-03-24T04:31:00+00:00,Canada,0.5499296164772756,1,1,fr,NEN,North-America
+'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,congélation frutigen kiental,2026-04-09T04:58:00+00:00,Switzerland,0.5496791814814068,0,1,fr,WCE,Europe
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,onde de tempête au Brésil,2026-04-14T05:11:00+00:00,Brazil,0.5494968929716085,0,1,fr,SAM,South-America
+'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,glace kerenzerberg seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.5493487313940982,0,1,fr,WCE,Europe
 '3dea46c095',extremes,Flood,#030ba1,wmo,crue éclair aux États-Unis,2026-03-24T04:31:00+00:00,United States,0.5491624340076856,0,1,fr,CNA,North-America
 '9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-03-28T04:33:00+00:00,Martinique,0.5491271939970281,0,1,fr,CAR,North-America
 'c08305ef9e',extremes,Drought,#edc291,edo,sécheresse martinique,2026-04-02T04:42:00+00:00,Martinique,0.5487904869097402,1,1,fr,CAR,North-America
 '07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.5487832859627471,0,1,fr,SPO,Oceania
+'5535b68b72',extremes,Snow&Ice,#d60d2b,wmo,glace delémont bellelay,2026-04-17T05:16:00+00:00,Switzerland,0.5484422838451165,0,1,fr,WCE,Europe
+'be37d6f7a5',extremes,Snow&Ice,#d60d2b,wmo,effretikon glacial,2026-04-17T05:16:00+00:00,Switzerland,0.5483268841638491,0,1,fr,WCE,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5481036404509275,0,1,fr,SAM,South-America
 '8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-03-24T04:32:00+00:00,Republic of the Congo,0.5480582121173838,1,1,fr,CAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5480100568341952,0,1,fr,SAM,South-America
