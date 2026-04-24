@@ -89,7 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18de840f5b',extremes,Storm,#b3b2b1,wmo,tempête iqaluit kimmirut kinngait,2026-04-13T05:28:00+00:00,Canada,0.5641939841162952,1,1,fr,NEN,North-America
 '12b15b4460',extremes,Snow&Ice,#d60d2b,wmo,geler ivujivik akulivik,2026-04-14T05:11:00+00:00,Canada,0.5640487328897482,1,1,fr,NEN,North-America
 '6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-04-22T05:13:00+00:00,Saint Barthelemy,0.5634248493177413,1,1,fr,CAR,North-America
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,orage en Grèce,2026-04-22T05:13:00+00:00,Greece,0.563413442850081,0,1,fr,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,orage en Grèce,2026-04-22T05:13:00+00:00,Greece,0.563413442850081,1,1,fr,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,onde de tempête suisse,2026-03-25T04:33:00+00:00,Switzerland,0.5630637429267302,0,1,fr,WCE,Europe
 '365e6829d3',extremes,Drought,#edc291,edo,manque de pluie en Guinée,2026-03-18T04:36:00+00:00,Guinea,0.5627385996045293,1,1,fr,WAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-03-25T04:33:00+00:00,Chad,0.5624883545257794,1,1,fr,SAH,Africa
@@ -295,8 +295,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f73c4762a',extremes,Snow&Ice,#d60d2b,wmo,port de Snow Sachs,2026-03-21T04:17:00+00:00,Canada,0.4815059374072,2,1,fr,NEN,North-America
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-03-31T04:59:00+00:00,Vanuatu,0.4811988468316995,1,1,fr,SPO,Pacific Ocean
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen longern gelé,2026-03-21T04:17:00+00:00,Switzerland,0.4806584497786235,1,1,fr,WCE,Europe
-'b7b704bf1f',extremes,Precipitation,#d60d2b,wmo,averse sur la péninsule de Bonavista,2026-04-23T05:16:00+00:00,Canada,0.48019478521975656,1,1,fr,NEN,North-America
-'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-03-31T05:00:00+00:00,Mali,0.47916151030701254,1,1,fr,WAF,Africa
+'b7b704bf1f',extremes,Precipitation,#d60d2b,wmo,averse sur la péninsule de Bonavista,2026-04-23T05:16:00+00:00,Canada,0.4801947852197565,1,1,fr,NEN,North-America
+'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-03-31T05:00:00+00:00,Mali,0.4791615103070125,1,1,fr,WAF,Africa
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-04-07T04:59:00+00:00,Central African Republic,0.4784701140849976,1,1,fr,CAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-03-22T04:33:00+00:00,Canada,0.4780648907683942,2,1,fr,NEN,North-America
 '30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neige Monthey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.4765475594607082,1,1,fr,WCE,Europe
