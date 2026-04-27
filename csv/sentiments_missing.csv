@@ -1,624 +1,639 @@
 ,phrase,label,sentiment,subjectivity,language,count
-French,French,NORP,,,en,34.20000000000003
-two,two,CARDINAL,,,en,31.500000000000007
-Thursday,Thursday,DATE,,,en,28.700000000000006
-three,three,CARDINAL,,,en,23.600000000000005
-first,first,ORDINAL,,,en,22.60000000000002
-Tuesday,Tuesday,DATE,,,en,20.099999999999998
-Sunday,Sunday,DATE,,,en,19.600000000000005
+French,French,NORP,,,en,38.099999999999994
+two,two,CARDINAL,,,en,33.0
+Thursday,Thursday,DATE,,,en,29.300000000000008
+first,first,ORDINAL,,,en,25.000000000000025
+three,three,CARDINAL,,,en,24.200000000000006
+Tuesday,Tuesday,DATE,,,en,21.5
+Sunday,Sunday,DATE,,,en,20.500000000000007
 winter,winter,DATE,,,en,19.100000000000005
-Saturday,Saturday,DATE,,,en,16.800000000000004
+Saturday,Saturday,DATE,,,en,17.400000000000006
+morning,morning,TIME,,,en,16.4
 Wednesday,Wednesday,DATE,,,en,16.399999999999995
-morning,morning,TIME,,,en,15.799999999999997
 Friday,Friday,DATE,,,en,15.100000000000007
-four,four,CARDINAL,,,en,13.699999999999998
-evening,evening,TIME,,,en,12.200000000000005
-Monday,Monday,DATE,,,en,11.499999999999998
+four,four,CARDINAL,,,en,13.999999999999998
+evening,evening,TIME,,,en,12.700000000000005
+Monday,Monday,DATE,,,en,11.799999999999999
+American,American,NORP,,,en,11.400000000000006
 Three,Three,CARDINAL,,,en,11.000000000000002
 Olympics,Olympics,EVENT,,,en,10.899999999999999
-this weekend,this weekend,DATE,,,en,10.099999999999998
+this weekend,this weekend,DATE,,,en,10.7
+2025,2025,DATE,,,en,10.000000000000002
 Morbihan,Morbihan,NORP,-0.19127331002331005,0.8289481351981353,en,10.0
-American,American,NORP,,,en,9.900000000000002
-2025,2025,DATE,,,en,9.700000000000001
-2026,2026,DATE,,,en,8.199999999999998
-5,5,CARDINAL,,,en,7.800000000000001
+2026,2026,DATE,,,en,9.1
+one,one,CARDINAL,,,en,8.6
+5,5,CARDINAL,,,en,8.400000000000002
 Winter Olympics 2026,Winter Olympics 2026,DATE,,,en,7.5
-one,one,CARDINAL,,,en,7.1
 February,February,DATE,,,en,7.099999999999999
 second,second,ORDINAL,,,en,6.699999999999999
 the day,the day,DATE,,,en,6.699999999999999
 Finistère,Finistère,NORP,-0.2138157894736842,0.5888157894736842,en,6.5
-third,third,ORDINAL,,,en,6.2
-five,five,CARDINAL,,,en,5.999999999999999
+third,third,ORDINAL,,,en,6.5
+this Monday,this Monday,DATE,,,en,6.3999999999999995
+five,five,CARDINAL,,,en,6.299999999999999
+today,today,DATE,,,en,6.299999999999998
+this Tuesday,this Tuesday,DATE,,,en,5.8999999999999995
 Two,Two,CARDINAL,,,en,5.8999999999999995
 this Friday,this Friday,DATE,,,en,5.8999999999999995
+Swiss,Swiss,NORP,,,en,5.899999999999999
 this Thursday,this Thursday,DATE,,,en,5.8
 the coming days,the coming days,DATE,,,en,5.699999999999999
-Swiss,Swiss,NORP,,,en,5.599999999999999
-this Monday,this Monday,DATE,,,en,5.5
-today,today,DATE,,,en,5.399999999999999
-this Tuesday,this Tuesday,DATE,,,en,5.3
+the weekend,the weekend,DATE,,,en,5.399999999999999
 the Winter Olympics,the Winter Olympics,EVENT,,,en,5.299999999999999
 the 2026 Olympics,the 2026 Olympics,EVENT,,,en,4.800000000000001
-21,21,CARDINAL,,,en,4.5
+Canadian,Canadian,NORP,,,en,4.7
+half,half,CARDINAL,,,en,4.699999999999999
+recent days,recent days,DATE,,,en,4.6
 Six,Six,CARDINAL,,,en,4.5
-the weekend,the weekend,DATE,,,en,4.499999999999999
-half,half,CARDINAL,,,en,4.3999999999999995
+21,21,CARDINAL,,,en,4.5
 six,six,CARDINAL,,,en,4.3
-Winter Olympics,Winter Olympics,EVENT,,,en,3.999999999999999
 Italian,Italian,NORP,,,en,3.999999999999999
-recent days,recent days,DATE,,,en,3.8999999999999995
+Winter Olympics,Winter Olympics,EVENT,,,en,3.999999999999999
 next night,next night,TIME,,,en,3.8
+European,European,NORP,,,en,3.799999999999999
+afternoon,afternoon,TIME,,,en,3.7
 several days,several days,DATE,,,en,3.7
 tonight,tonight,TIME,,,en,3.6999999999999993
 Americans,Americans,NORP,,,en,3.5999999999999996
 this Saturday,this Saturday,DATE,,,en,3.5999999999999996
 Frenchman,Frenchman,NORP,,,en,3.5999999999999996
-24,24,CARDINAL,,,en,3.5
+Belgian,Belgian,NORP,,,en,3.5
 4,4,CARDINAL,,,en,3.5
-European,European,NORP,,,en,3.499999999999999
+24,24,CARDINAL,,,en,3.5
+2,2,CARDINAL,,,en,3.4999999999999996
 Four,Four,CARDINAL,,,en,3.4000000000000004
-afternoon,afternoon,TIME,,,en,3.4000000000000004
-this morning,this morning,TIME,,,en,3.3999999999999995
 this week,this week,DATE,,,en,3.3999999999999995
-14,14,CARDINAL,,,en,3.3999999999999995
+this morning,this morning,TIME,,,en,3.3999999999999995
 10 a.m.,10 a.m.,TIME,,,en,3.3999999999999995
+20,20,CARDINAL,,,en,3.3999999999999995
+14,14,CARDINAL,,,en,3.3999999999999995
 18,18,CARDINAL,,,en,3.3
-19,19,CARDINAL,,,en,3.3
-One,One,CARDINAL,,,en,3.3
 the night,the night,TIME,,,en,3.3
-Canadian,Canadian,NORP,,,en,3.3
-this Sunday,this Sunday,DATE,,,en,3.3
+One,One,CARDINAL,,,en,3.3
 The day,The day,DATE,,,en,3.3
-Belgian,Belgian,NORP,,,en,3.2
+this Sunday,this Sunday,DATE,,,en,3.3
+19,19,CARDINAL,,,en,3.3
+thousands,thousands,CARDINAL,,,en,3.2999999999999994
+2023,2023,DATE,,,en,3.0999999999999996
+160 km/h,160 km/h,QUANTITY,,,en,3.0999999999999996
 Today,Today,DATE,,,en,3.0999999999999996
 Crans,Crans,NORP,,,en,3.0999999999999996
-Winter,Winter,DATE,,,en,3.0999999999999996
 3,3,CARDINAL,,,en,3.0999999999999996
+Winter,Winter,DATE,,,en,3.0999999999999996
 more than 160 km,more than 160 km,QUANTITY,,,en,3.0999999999999996
-160 km/h,160 km/h,QUANTITY,,,en,3.0999999999999996
 Thursday February 12,Thursday February 12,DATE,,,en,3.0
 the evening,the evening,TIME,,,en,3.0
 "850,000","850,000",CARDINAL,,,en,3.0
-thousands,thousands,CARDINAL,,,en,2.9999999999999996
+a few days,a few days,DATE,,,en,3.0
 Norwegian,Norwegian,NORP,,,en,2.9999999999999996
 the year,the year,DATE,,,en,2.9000000000000004
-20,20,CARDINAL,,,en,2.8
+this evening,this evening,TIME,,,en,2.8999999999999995
 February 12,February 12,DATE,,,en,2.8
-30,30,CARDINAL,,,en,2.8
 ten,ten,CARDINAL,,,en,2.8
+last night,last night,TIME,,,en,2.8
 overnight,overnight,TIME,,,en,2.8
-a few days,a few days,DATE,,,en,2.7
-"this Sunday, February 15","this Sunday, February 15",DATE,,,en,2.7
+30,30,CARDINAL,,,en,2.8
 50 km,50 km,QUANTITY,,,en,2.7
+"this Sunday, February 15","this Sunday, February 15",DATE,,,en,2.7
 eight,eight,CARDINAL,,,en,2.6999999999999997
 10,10,MONEY,,,en,2.6
-this evening,this evening,TIME,,,en,2.5999999999999996
 Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,2.5999999999999996
 a month,a month,DATE,,,en,2.5999999999999996
-Ille,Ille,NORP,,,en,2.5
+this year,this year,DATE,,,en,2.5
 Games,Games,EVENT,,,en,2.5
 summer,summer,DATE,,,en,2.5
-A week,A week,DATE,,,en,2.5
-last night,last night,TIME,,,en,2.5
-the Olympic Games,the Olympic Games,EVENT,,,en,2.5
+Ille,Ille,NORP,,,en,2.5
 this Wednesday,this Wednesday,DATE,,,en,2.5
+the World Cup,the World Cup,EVENT,,,en,2.5
+five years,five years,DATE,,,en,2.5
+A week,A week,DATE,,,en,2.5
+the Olympic Games,the Olympic Games,EVENT,,,en,2.5
 this winter,this winter,DATE,,,en,2.4000000000000004
-the night of Wednesday to Thursday,the night of Wednesday to Thursday,TIME,,,en,2.4
-17,17,CARDINAL,,,en,2.4
+6 a.m.,6 a.m.,TIME,,,en,2.4
+at least one,at least one,CARDINAL,,,en,2.4
+daily,daily,DATE,,,en,2.4
 1,1,CARDINAL,,,en,2.4
+17,17,CARDINAL,,,en,2.4
+1959,1959,DATE,,,en,2.4
+Bessans,Bessans,NORP,,,en,2.4
 26,26,CARDINAL,,,en,2.4
 Tuesday morning,Tuesday morning,TIME,,,en,2.4
-1959,1959,DATE,,,en,2.4
-6 a.m.,6 a.m.,TIME,,,en,2.4
-daily,daily,DATE,,,en,2.4
-at least one,at least one,CARDINAL,,,en,2.4
-2,2,CARDINAL,,,en,2.4
-Bessans,Bessans,NORP,,,en,2.4
-sixth,sixth,ORDINAL,,,en,2.3
-12,12,CARDINAL,,,en,2.3
-around thirty,around thirty,CARDINAL,,,en,2.3
-three days,three days,DATE,,,en,2.3
-Sunday February 22,Sunday February 22,DATE,,,en,2.3
-yesterday,yesterday,DATE,,,en,2.3
+the night of Wednesday to Thursday,the night of Wednesday to Thursday,TIME,,,en,2.4
 the morning,the morning,TIME,,,en,2.3
-millions,millions,CARDINAL,,,en,2.2
+around thirty,around thirty,CARDINAL,,,en,2.3
+12,12,CARDINAL,,,en,2.3
+three days,three days,DATE,,,en,2.3
+sixth,sixth,ORDINAL,,,en,2.3
+yesterday,yesterday,DATE,,,en,2.3
+night,night,TIME,,,en,2.3
+Sunday February 22,Sunday February 22,DATE,,,en,2.3
+quarter,quarter,CARDINAL,,,en,2.3
+13,13,CARDINAL,,,en,2.2
 Ten,Ten,CARDINAL,,,en,2.2
+Chinese,Chinese,NORP,,,en,2.2
+millions,millions,CARDINAL,,,en,2.2
 weeks,weeks,DATE,,,en,2.2
-this year,this year,DATE,,,en,2.2
+the 2026 World Cup,the 2026 World Cup,EVENT,,,en,2.2
+Iranian,Iranian,NORP,,,en,2.2
 Thursday February 19,Thursday February 19,DATE,,,en,2.1
 months,months,DATE,,,en,2.1
-Belgians,Belgians,NORP,,,en,2.0
-9,9,CARDINAL,,,en,2.0
-February 2026,February 2026,DATE,,,en,2.0
-night,night,TIME,,,en,2.0
-fifteen,fifteen,CARDINAL,,,en,2.0
-20 Minutes,20 Minutes,TIME,,,en,2.0
-4th,4th,ORDINAL,,,en,2.0
-Fifteen,Fifteen,CARDINAL,,,en,2.0
-days,days,DATE,,,en,2.0
-the 1950s,the 1950s,DATE,,,en,2.0
-6,6,CARDINAL,,,en,2.0
+last year,last year,DATE,,,en,2.1
 January 2026,January 2026,DATE,,,en,2.0
-the end of the month,the end of the month,DATE,,,en,2.0
-the start of winter,the start of winter,DATE,,,en,2.0
+9,9,CARDINAL,,,en,2.0
 Five,Five,CARDINAL,,,en,2.0
-quarter,quarter,CARDINAL,,,en,2.0
+20 Minutes,20 Minutes,TIME,,,en,2.0
+the week,the week,DATE,,,en,2.0
+the start of winter,the start of winter,DATE,,,en,2.0
+6,6,CARDINAL,,,en,2.0
+Belgians,Belgians,NORP,,,en,2.0
+days,days,DATE,,,en,2.0
+Fifteen,Fifteen,CARDINAL,,,en,2.0
+the 1950s,the 1950s,DATE,,,en,2.0
+the end of the month,the end of the month,DATE,,,en,2.0
+4th,4th,ORDINAL,,,en,2.0
+fifteen,fifteen,CARDINAL,,,en,2.0
+February 2026,February 2026,DATE,,,en,2.0
+World Cup,World Cup,EVENT,,,en,1.9000000000000001
+February 6,February 6,DATE,,,en,1.9000000000000001
+ten years,ten years,DATE,,,en,1.9000000000000001
+next week,next week,DATE,,,en,1.9000000000000001
+spring,spring,DATE,,,en,1.9000000000000001
 a week,a week,DATE,,,en,1.9000000000000001
 Olympic,Olympic,EVENT,,,en,1.9000000000000001
-several years,several years,DATE,,,en,1.9000000000000001
-next week,next week,DATE,,,en,1.9000000000000001
-ten years,ten years,DATE,,,en,1.9000000000000001
-February 6,February 6,DATE,,,en,1.9000000000000001
-2023,2023,DATE,,,en,1.9000000000000001
+British,British,NORP,,,en,1.9000000000000001
 the 2026 Olympic Games,the 2026 Olympic Games,EVENT,,,en,1.9000000000000001
-290 million euros,290 million euros,MONEY,,,en,1.8
-the beginning of January,the beginning of January,DATE,,,en,1.8
-294,294,CARDINAL,,,en,1.8
-up to 160 km,up to 160 km,QUANTITY,,,en,1.8
-7,7,CARDINAL,,,en,1.8
+16,16,CARDINAL,,,en,1.9000000000000001
+several years,several years,DATE,,,en,1.9000000000000001
 1.2 billion euros,1.2 billion euros,MONEY,,,en,1.8
-only one,only one,CARDINAL,,,en,1.8
-the end of the week,the end of the week,DATE,,,en,1.8
-last year,last year,DATE,,,en,1.8
-FlowStop,FlowStop,PRODUCT,,,en,1.8
 Verviers,Verviers,NORP,,,en,1.8
-the Hautes-Alpes,the Hautes-Alpes,FAC,,,en,1.7
-90 cm,90 cm,QUANTITY,,,en,1.7
-all day,all day,DATE,,,en,1.7
-51,51,CARDINAL,,,en,1.7
+the end of the week,the end of the week,DATE,,,en,1.8
+7,7,CARDINAL,,,en,1.8
+294,294,CARDINAL,,,en,1.8
+FlowStop,FlowStop,PRODUCT,,,en,1.8
+290 million euros,290 million euros,MONEY,,,en,1.8
+up to 160 km,up to 160 km,QUANTITY,,,en,1.8
+only one,only one,CARDINAL,,,en,1.8
+the beginning of January,the beginning of January,DATE,,,en,1.8
+25,25,DATE,,,en,1.7
+Twenty-one,Twenty-one,CARDINAL,,,en,1.7
+"this Friday, February 6, 2026","this Friday, February 6, 2026",DATE,,,en,1.7
+23,23,CARDINAL,,,en,1.7
+the Milan-Cortina Games,the Milan-Cortina Games,FAC,,,en,1.7
+"380,000","380,000",CARDINAL,,,en,1.7
 400 meters,400 meters,QUANTITY,,,en,1.7
+all day,all day,DATE,,,en,1.7
 up to 150 millimeters,up to 150 millimeters,CARDINAL,,,en,1.7
-This April 9,This April 9,DATE,,,en,1.7
+the next 24 hours,the next 24 hours,TIME,,,en,1.7
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.7
+"Wednesday, February 11","Wednesday, February 11",DATE,,,en,1.7
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.7
+6 p.m.,6 p.m.,TIME,,,en,1.7
+90 cm,90 cm,QUANTITY,,,en,1.7
 220 millimeters,220 millimeters,QUANTITY,,,en,1.7
 two to three,two to three,CARDINAL,,,en,1.7
-Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.7
-the week,the week,DATE,,,en,1.7
-Around 150,Around 150,CARDINAL,,,en,1.7
-Friday morning,Friday morning,TIME,,,en,1.7
-Sunday afternoon,Sunday afternoon,TIME,,,en,1.7
-Corsica,Corsica,PRODUCT,0.0,0.0,en,1.7
-"Wednesday, February 11","Wednesday, February 11",DATE,,,en,1.7
-"this Friday, February 6, 2026","this Friday, February 6, 2026",DATE,,,en,1.7
-6.1,6.1,CARDINAL,,,en,1.7
-"380,000","380,000",CARDINAL,,,en,1.7
-6 p.m.,6 p.m.,TIME,,,en,1.7
-the next 24 hours,the next 24 hours,TIME,,,en,1.7
-around twenty,around twenty,CARDINAL,,,en,1.7
-German,German,NORP,,,en,1.7
-23,23,CARDINAL,,,en,1.7
-the Milan-Cortina 2026 Games,the Milan-Cortina 2026 Games,FAC,,,en,1.7
-Twenty-one,Twenty-one,CARDINAL,,,en,1.7
-37 days,37 days,DATE,,,en,1.7
-25,25,DATE,,,en,1.7
 Friday February 13,Friday February 13,DATE,,,en,1.7
 "Some 450,000","Some 450,000",CARDINAL,,,en,1.7
-the Milan-Cortina Games,the Milan-Cortina Games,FAC,,,en,1.7
+German,German,NORP,,,en,1.7
+Friday morning,Friday morning,TIME,,,en,1.7
+6.1,6.1,CARDINAL,,,en,1.7
+around twenty,around twenty,CARDINAL,,,en,1.7
+the Hautes-Alpes,the Hautes-Alpes,FAC,,,en,1.7
+50 meter,50 meter,QUANTITY,,,en,1.7
+51,51,CARDINAL,,,en,1.7
 "900,000","900,000",CARDINAL,,,en,1.7
-Olympic Games 2026,Olympic Games 2026,EVENT,,,en,1.6
-100%,100%,PERCENT,,,en,1.6
-the start of the year,the start of the year,DATE,,,en,1.6
-Winter Games,Winter Games,EVENT,,,en,1.6
-2021,2021,DATE,,,en,1.6
-Chinese,Chinese,NORP,,,en,1.6
-the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.6
-February 19,February 19,DATE,,,en,1.6
-World Cup,World Cup,EVENT,,,en,1.6
-five years,five years,DATE,,,en,1.6
-African,African,NORP,,,en,1.6
-thirteen,thirteen,CARDINAL,,,en,1.6
-the end of November,the end of November,DATE,,,en,1.6
-Iranian,Iranian,NORP,,,en,1.6
-Cortina,Cortina,NORP,0.2708333333333333,0.8125,en,1.6
-the days,the days,DATE,,,en,1.6
-16,16,CARDINAL,,,en,1.6
-British,British,NORP,,,en,1.6
-Venezuelan,Venezuelan,NORP,,,en,1.6
-the 19th century,the 19th century,DATE,,,en,1.6
-40 years,40 years,DATE,,,en,1.6
-116,116,CARDINAL,,,en,1.6
+This April 9,This April 9,DATE,,,en,1.7
+Corsica,Corsica,PRODUCT,0.0,0.0,en,1.7
+Around 150,Around 150,CARDINAL,,,en,1.7
+37 days,37 days,DATE,,,en,1.7
+the Milan-Cortina 2026 Games,the Milan-Cortina 2026 Games,FAC,,,en,1.7
 the Milan-Cortina Olympic Games,the Milan-Cortina Olympic Games,FAC,,,en,1.6
-2014,2014,DATE,,,en,1.6
-Christmas,Christmas,DATE,,,en,1.6
-10 p.m.,10 p.m.,TIME,,,en,1.6
 fourth,fourth,ORDINAL,,,en,1.6
+10 p.m.,10 p.m.,TIME,,,en,1.6
+100%,100%,PERCENT,,,en,1.6
+Venezuelan,Venezuelan,NORP,,,en,1.6
+the end of November,the end of November,DATE,,,en,1.6
+thirteen,thirteen,CARDINAL,,,en,1.6
+2024,2024,DATE,,,en,1.6
+Olympic Games 2026,Olympic Games 2026,EVENT,,,en,1.6
+the days,the days,DATE,,,en,1.6
+the start of the year,the start of the year,DATE,,,en,1.6
+Spanish,Spanish,NORP,,,en,1.6
+Cortina,Cortina,NORP,0.2708333333333333,0.8125,en,1.6
+116,116,CARDINAL,,,en,1.6
+2021,2021,DATE,,,en,1.6
+African,African,NORP,,,en,1.6
+day,day,DATE,,,en,1.6
+Winter Games,Winter Games,EVENT,,,en,1.6
+the 19th century,the 19th century,DATE,,,en,1.6
+February 19,February 19,DATE,,,en,1.6
+40 years,40 years,DATE,,,en,1.6
+March 2026,March 2026,DATE,,,en,1.6
+Christmas,Christmas,DATE,,,en,1.6
 Russian,Russian,NORP,,,en,1.6
-13,13,CARDINAL,,,en,1.6
-2100,2100,CARDINAL,,,en,1.6
-the past year,the past year,DATE,,,en,1.6
+2014,2014,DATE,,,en,1.6
 recent years,recent years,DATE,,,en,1.6
-a day,a day,DATE,,,en,1.3
-Danish,Danish,NORP,,,en,1.3
-Wednesday February 11,Wednesday February 11,DATE,,,en,1.3
-Weather,Weather,PRODUCT,,,en,1.3
-162,162,CARDINAL,,,en,1.3
-ID,ID,PRODUCT,,,en,1.3
-the Palais de la Porte Dorée,the Palais de la Porte Dorée,FAC,,,en,1.3
-spring,spring,DATE,,,en,1.3
-the 5 p.m. to 8 p.m.,the 5 p.m. to 8 p.m.,TIME,,,en,1.3
-dozens,dozens,CARDINAL,,,en,1.3
-2027,2027,DATE,,,en,1.3
-2003,2003,DATE,,,en,1.3
-these Olympic Games,these Olympic Games,EVENT,,,en,1.3
-Up to,Up to,CARDINAL,,,en,1.3
-only sixteen years old,only sixteen years old,DATE,,,en,1.3
-only a few months ago,only a few months ago,DATE,,,en,1.3
-32,32,CARDINAL,,,en,1.3
-Drag Race France,Drag Race France,WORK_OF_ART,,,en,1.3
-midday,midday,TIME,,,en,1.3
-hundreds,hundreds,CARDINAL,,,en,1.3
-VPN,VPN,PRODUCT,,,en,1.3
-the end of the day,the end of the day,DATE,,,en,1.3
-February 17,February 17,DATE,,,en,1.3
-three weeks,three weeks,DATE,,,en,1.3
-Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.3
-years,years,DATE,,,en,1.3
-Olympic Games,Olympic Games,EVENT,,,en,1.3
-March 2025,March 2025,DATE,,,en,1.3
-Australian,Australian,NORP,,,en,1.3
-the last day,the last day,DATE,,,en,1.3
-One month,One month,DATE,,,en,1.3
-Nine,Nine,CARDINAL,,,en,1.3
-29.99,29.99,MONEY,,,en,1.3
-normal spring 2026,normal spring 2026,DATE,,,en,1.3
-the 21st century,the 21st century,DATE,,,en,1.3
-zero,zero,CARDINAL,,,en,1.3
-2050,2050,DATE,,,en,1.3
-tens of thousands,tens of thousands,CARDINAL,,,en,1.3
-seven,seven,CARDINAL,,,en,1.3
-2026 Olympic Games,2026 Olympic Games,EVENT,,,en,1.3
-The Winter Olympics,The Winter Olympics,EVENT,,,en,1.3
-A few days,A few days,DATE,,,en,1.3
-Panama Canal,Panama Canal,FAC,,,en,1.3
-the century,the century,DATE,,,en,1.3
-the Winter Olympic Games,the Winter Olympic Games,EVENT,,,en,1.3
-23%,23%,PERCENT,,,en,1.3
-Friday February 20,Friday February 20,DATE,,,en,1.3
-"Thursday, February 19","Thursday, February 19",DATE,,,en,1.3
-a few months,a few months,DATE,,,en,1.3
-"this Friday, February 20","this Friday, February 20",DATE,,,en,1.3
-80%,80%,PERCENT,,,en,1.3
-January 29,January 29,DATE,,,en,1.3
-rainy days,rainy days,DATE,,,en,1.3
-month,month,DATE,,,en,1.3
-Spanish,Spanish,NORP,,,en,1.3
+La Familia Grande,La Familia Grande,WORK_OF_ART,,,en,1.6
+2100,2100,CARDINAL,,,en,1.6
+50,50,CARDINAL,,,en,1.6
+the past year,the past year,DATE,,,en,1.6
 "450,000","450,000",CARDINAL,,,en,1.3
-the Pyrénées-Orientales,the Pyrénées-Orientales,FAC,,,en,1.3
-5th,5th,ORDINAL,,,en,1.3
-April 2026,April 2026,DATE,,,en,1.3
-every year,every year,DATE,,,en,1.3
-every week,every week,DATE,,,en,1.3
-25 centimeters,25 centimeters,QUANTITY,,,en,1.3
-Portuguese,Portuguese,NORP,,,en,1.3
-Every year,Every year,DATE,,,en,1.3
-the Winter Games,the Winter Games,EVENT,,,en,1.3
-January,January,DATE,,,en,1.3
-Czech,Czech,NORP,,,en,1.3
 his thirties,his thirties,DATE,,,en,1.3
-2020,2020,DATE,,,en,1.3
-eleven,eleven,CARDINAL,,,en,1.3
-Sunday morning,Sunday morning,TIME,,,en,1.3
-6th,6th,ORDINAL,,,en,1.3
-2 p.m.,2 p.m.,TIME,,,en,1.3
-up to 250 km/h,up to 250 km/h,QUANTITY,,,en,1.3
-29,29,CARDINAL,,,en,1.3
-Monday February 16,Monday February 16,DATE,,,en,1.3
-each year,each year,DATE,,,en,1.3
-Franco-Indian,Franco-Indian,NORP,,,en,1.3
+January 29,January 29,DATE,,,en,1.3
+35 euros,35 euros,MONEY,,,en,1.3
+2003,2003,DATE,,,en,1.3
+January,January,DATE,,,en,1.3
+only a few months ago,only a few months ago,DATE,,,en,1.3
+only sixteen years old,only sixteen years old,DATE,,,en,1.3
+the start of the weekend,the start of the weekend,DATE,,,en,1.3
+Danish,Danish,NORP,,,en,1.3
+Australian,Australian,NORP,,,en,1.3
+48,48,CARDINAL,,,en,1.3
+the Palais de la Porte Dorée,the Palais de la Porte Dorée,FAC,,,en,1.3
+the Winter Olympic Games,the Winter Olympic Games,EVENT,,,en,1.3
+Weather,Weather,PRODUCT,,,en,1.3
+VPN,VPN,PRODUCT,,,en,1.3
+three weeks,three weeks,DATE,,,en,1.3
+hundreds,hundreds,CARDINAL,,,en,1.3
+29.99,29.99,MONEY,,,en,1.3
+2050,2050,DATE,,,en,1.3
+the Eiffel Tower,the Eiffel Tower,FAC,,,en,1.3
+the end of the day,the end of the day,DATE,,,en,1.3
+month,month,DATE,,,en,1.3
+2026 Olympic Games,2026 Olympic Games,EVENT,,,en,1.3
+Every year,Every year,DATE,,,en,1.3
+less than €10,less than €10,MONEY,,,en,1.3
+normal spring 2026,normal spring 2026,DATE,,,en,1.3
+up to,up to,QUANTITY,,,en,1.3
+Portuguese,Portuguese,NORP,,,en,1.3
+Panama Canal,Panama Canal,FAC,,,en,1.3
+a few months,a few months,DATE,,,en,1.3
+a day,a day,DATE,,,en,1.3
+weekend,weekend,DATE,,,en,1.3
+June 2026,June 2026,DATE,,,en,1.3
+23%,23%,PERCENT,,,en,1.3
+the Pyrénées-Orientales,the Pyrénées-Orientales,FAC,,,en,1.3
 the opening weekend,the opening weekend,DATE,,,en,1.3
-Sunday February 8,Sunday February 8,DATE,,,en,1.3
+A few days,A few days,DATE,,,en,1.3
+6th,6th,ORDINAL,,,en,1.3
+nearly 75%,nearly 75%,PERCENT,,,en,1.3
+up to 250 km/h,up to 250 km/h,QUANTITY,,,en,1.3
+The Winter Olympics,The Winter Olympics,EVENT,,,en,1.3
+Franco-Indian,Franco-Indian,NORP,,,en,1.3
+25 centimeters,25 centimeters,QUANTITY,,,en,1.3
+twenty,twenty,CARDINAL,,,en,1.3
 Storm Nils,Storm Nils,WORK_OF_ART,,,en,1.3
-2011,2011,DATE,,,en,1.3
-Mexican,Mexican,NORP,,,en,1.3
+1300 km,1300 km,QUANTITY,,,en,1.3
+80%,80%,PERCENT,,,en,1.3
+Czech,Czech,NORP,,,en,1.3
+5/5,5/5,CARDINAL,,,en,1.3
+|,|,CARDINAL,,,en,1.3
+midday,midday,TIME,,,en,1.3
+Nine,Nine,CARDINAL,,,en,1.3
+the century,the century,DATE,,,en,1.3
+"this Friday, January 30","this Friday, January 30",DATE,,,en,1.3
+Wednesday February 11,Wednesday February 11,DATE,,,en,1.3
+week 15 of the year 2026,week 15 of the year 2026,DATE,,,en,1.3
+nearly 10,nearly 10,CARDINAL,,,en,1.3
+ID,ID,PRODUCT,,,en,1.3
+Lebanese,Lebanese,NORP,,,en,1.3
+29,29,CARDINAL,,,en,1.3
 117,117,CARDINAL,,,en,1.3
+Friday February 20,Friday February 20,DATE,,,en,1.3
+Up to,Up to,CARDINAL,,,en,1.3
+"Thursday, February 19","Thursday, February 19",DATE,,,en,1.3
+"this Friday, February 20","this Friday, February 20",DATE,,,en,1.3
+Sunday morning,Sunday morning,TIME,,,en,1.3
+anti-Zionist,anti-Zionist,NORP,,,en,1.3
+32,32,CARDINAL,,,en,1.3
+60 km,60 km,QUANTITY,,,en,1.3
+every year,every year,DATE,,,en,1.3
+the 21st century,the 21st century,DATE,,,en,1.3
+2027,2027,DATE,,,en,1.3
+1944,1944,DATE,,,en,1.3
+Drag Race France,Drag Race France,WORK_OF_ART,,,en,1.3
+zero,zero,CARDINAL,,,en,1.3
+1984,1984,DATE,,,en,1.3
+the next few days,the next few days,DATE,,,en,1.3
+February 17,February 17,DATE,,,en,1.3
+the last day,the last day,DATE,,,en,1.3
+tens of thousands,tens of thousands,CARDINAL,,,en,1.3
+several hours,several hours,TIME,,,en,1.3
+eleven,eleven,CARDINAL,,,en,1.3
+One month,One month,DATE,,,en,1.3
+Purple Rain,Purple Rain,WORK_OF_ART,,,en,1.3
+Mexican,Mexican,NORP,,,en,1.3
+thirty,thirty,CARDINAL,,,en,1.3
+years,years,DATE,,,en,1.3
+every week,every week,DATE,,,en,1.3
 the Olympic slalom,the Olympic slalom,EVENT,,,en,1.3
 fifth,fifth,ORDINAL,,,en,1.3
+11.59,11.59,CARDINAL,,,en,1.3
+162,162,CARDINAL,,,en,1.3
+Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.3
 "this Sunday, January 11","this Sunday, January 11",DATE,,,en,1.3
-nearly 75%,nearly 75%,PERCENT,,,en,1.3
-5/5,5/5,CARDINAL,,,en,1.3
-"this Friday, January 30","this Friday, January 30",DATE,,,en,1.3
-48,48,CARDINAL,,,en,1.3
-11,11,CARDINAL,,,en,1.3
-nearly 10,nearly 10,CARDINAL,,,en,1.3
-the next few days,the next few days,DATE,,,en,1.3
-the Milan-Cortina Olympics,the Milan-Cortina Olympics,FAC,,,en,1.3
-2024,2024,DATE,,,en,1.3
-|,|,CARDINAL,,,en,1.3
-several hours,several hours,TIME,,,en,1.3
-the Mont-Blanc,the Mont-Blanc,FAC,,,en,1.3
+2011,2011,DATE,,,en,1.3
+Olympic Games,Olympic Games,EVENT,,,en,1.3
 Tuesday February 17,Tuesday February 17,DATE,,,en,1.3
-thirty,thirty,CARDINAL,,,en,1.3
-1300 km,1300 km,QUANTITY,,,en,1.3
+these Olympic Games,these Olympic Games,EVENT,,,en,1.3
+Monday February 16,Monday February 16,DATE,,,en,1.3
+2 p.m.,2 p.m.,TIME,,,en,1.3
+11,11,CARDINAL,,,en,1.3
+April 2026,April 2026,DATE,,,en,1.3
+2018,2018,DATE,,,en,1.3
+5th,5th,ORDINAL,,,en,1.3
+120,120,MONEY,,,en,1.3
+each year,each year,DATE,,,en,1.3
+2020,2020,DATE,,,en,1.3
+March 2025,March 2025,DATE,,,en,1.3
+Sunday February 8,Sunday February 8,DATE,,,en,1.3
+the Milan-Cortina Olympics,the Milan-Cortina Olympics,FAC,,,en,1.3
+the Winter Games,the Winter Games,EVENT,,,en,1.3
+rainy days,rainy days,DATE,,,en,1.3
+seven,seven,CARDINAL,,,en,1.3
+the Mont-Blanc,the Mont-Blanc,FAC,,,en,1.3
+dozens,dozens,CARDINAL,,,en,1.3
+the 5 p.m. to 8 p.m.,the 5 p.m. to 8 p.m.,TIME,,,en,1.3
 "2,150","2,150",CARDINAL,,,en,1.2
 less than €4,less than €4,MONEY,,,en,1.1
 seconds,seconds,TIME,,,en,1.1
-"this Saturday, February 14","this Saturday, February 14",DATE,,,en,1.0
-January 9,January 9,DATE,,,en,1.0
-the quarters,the quarters,DATE,,,en,1.0
-"400,000","400,000",CARDINAL,,,en,1.0
-This Sunday,This Sunday,DATE,,,en,1.0
-the end of December 2025,the end of December 2025,DATE,,,en,1.0
-Monday to Tuesday,Monday to Tuesday,DATE,,,en,1.0
-35 consecutive days,35 consecutive days,DATE,,,en,1.0
-this Sunday February 15,this Sunday February 15,DATE,,,en,1.0
-Between 50 and 70 cm,Between 50 and 70 cm,CARDINAL,,,en,1.0
-"this Wednesday, January 18","this Wednesday, January 18",DATE,,,en,1.0
-Twenty-three,Twenty-three,CARDINAL,,,en,1.0
-46,46,DATE,,,en,1.0
-Marmottes,Marmottes,NORP,,,en,1.0
-Bonneval-sur-Arc,Bonneval-sur-Arc,FAC,,,en,1.0
-"1,500 m","1,500 m",QUANTITY,,,en,1.0
-90 centimeters,90 centimeters,QUANTITY,,,en,1.0
-30 and 35 years old,30 and 35 years old,DATE,,,en,1.0
-the beginning of next week,the beginning of next week,DATE,,,en,1.0
-2022,2022,DATE,,,en,1.0
-4 a.m.,4 a.m.,TIME,,,en,1.0
-ten seconds,ten seconds,TIME,,,en,1.0
-Olympic Games 2026 - Slalom,Olympic Games 2026 - Slalom,EVENT,,,en,1.0
-2 weeks,2 weeks,DATE,,,en,1.0
-4-3,4-3,CARDINAL,,,en,1.0
-Canadians,Canadians,NORP,,,en,1.0
-40 to 70 cm above 1500m,40 to 70 cm above 1500m,QUANTITY,,,en,1.0
-February 16,February 16,DATE,,,en,1.0
-70 years ago,70 years ago,DATE,,,en,1.0
-"This Wednesday, February 18, 2026","This Wednesday, February 18, 2026",DATE,,,en,1.0
-The first week,The first week,DATE,,,en,1.0
-35 days,35 days,DATE,,,en,1.0
-5 meters,5 meters,QUANTITY,,,en,1.0
-coldest day,coldest day,DATE,,,en,1.0
-7th,7th,ORDINAL,,,en,1.0
-just over a month,just over a month,DATE,,,en,1.0
-next September,next September,DATE,,,en,1.0
-"This Friday, February 13","This Friday, February 13",DATE,,,en,1.0
-at least 59,at least 59,CARDINAL,,,en,1.0
-June 2026,June 2026,DATE,,,en,1.0
-4/5,4/5,CARDINAL,,,en,1.0
-Flemish,Flemish,NORP,,,en,1.0
-59,59,CARDINAL,,,en,1.0
-Around 70,Around 70,CARDINAL,,,en,1.0
-around 11:30 a.m.,around 11:30 a.m.,TIME,,,en,1.0
-the busiest days,the busiest days,DATE,,,en,1.0
-This weekend,This weekend,DATE,,,en,1.0
-thirty-year-olds,thirty-year-olds,DATE,,,en,1.0
-Wednesday February 18,Wednesday February 18,DATE,,,en,1.0
-up to 60 km/h,up to 60 km/h,QUANTITY,,,en,1.0
-45 cm,45 cm,QUANTITY,,,en,1.0
-Jamaican,Jamaican,NORP,,,en,1.0
-Dutch,Dutch,NORP,,,en,1.0
-monthly,monthly,DATE,,,en,1.0
-last Thursday,last Thursday,DATE,,,en,1.0
-11th,11th,ORDINAL,,,en,1.0
-Nearly half,Nearly half,CARDINAL,,,en,1.0
-Rasta Rockett,Rasta Rockett,WORK_OF_ART,,,en,1.0
-this Wednesday and Thursday,this Wednesday and Thursday,DATE,,,en,1.0
-12th,12th,ORDINAL,,,en,1.0
-140 km,140 km,QUANTITY,,,en,1.0
-Gap,Gap,FAC,,,en,1.0
-"over 5,000m","over 5,000m",QUANTITY,,,en,1.0
-La Grave,La Grave,FAC,,,en,1.0
-five days,five days,DATE,,,en,1.0
-30%,30%,PERCENT,,,en,1.0
-Charles de Gaulle,Charles de Gaulle,FAC,,,en,1.0
-between 7 a.m. and 4 p.m.,between 7 a.m. and 4 p.m.,TIME,,,en,1.0
-20%,20%,PERCENT,,,en,1.0
-50 years ago,50 years ago,DATE,,,en,1.0
-the end of the Olympic tournament,the end of the Olympic tournament,DATE,,,en,1.0
-1988,1988,DATE,,,en,1.0
-Sarthe,Sarthe,NORP,0.0,0.0,en,1.0
-"this Tuesday, February 17, 2026","this Tuesday, February 17, 2026",DATE,,,en,1.0
-Saturday February 14,Saturday February 14,DATE,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
-the start of the Olympics,the start of the Olympics,DATE,,,en,1.0
-the Calgary Olympics,the Calgary Olympics,EVENT,,,en,1.0
-This Tuesday and Wednesday,This Tuesday and Wednesday,DATE,,,en,1.0
-Fédérale 3,Fédérale 3,PRODUCT,,,en,1.0
-only 52%,only 52%,PERCENT,,,en,1.0
-Grenoble - Angers,Grenoble - Angers,EVENT,,,en,1.0
-May 27,May 27,DATE,,,en,1.0
-almost a week,almost a week,DATE,,,en,1.0
-the beginning of last January,the beginning of last January,DATE,,,en,1.0
-"This Sunday, February 15, 2026","This Sunday, February 15, 2026",DATE,,,en,1.0
-a few more days,a few more days,DATE,,,en,1.0
-5.8%,5.8%,PERCENT,,,en,1.0
-10-2,10-2,CARDINAL,,,en,1.0
-Feb. 18 2026,Feb. 18 2026,DATE,,,en,1.0
-Late in the afternoon,Late in the afternoon,TIME,,,en,1.0
-15,15,CARDINAL,,,en,1.0
-at least seven,at least seven,CARDINAL,,,en,1.0
-Thirty,Thirty,CARDINAL,,,en,1.0
-a year,a year,DATE,,,en,1.0
-Coutures,Coutures,WORK_OF_ART,,,en,1.0
-Sunday February 15,Sunday February 15,DATE,,,en,1.0
-"the start of the second round, Monday February 16","the start of the second round, Monday February 16",DATE,,,en,1.0
-7s,7s,CARDINAL,,,en,1.0
-thirty years,thirty years,DATE,,,en,1.0
-"6,500 mAh","6,500 mAh",QUANTITY,,,en,1.0
-01,01,CARDINAL,,,en,1.0
-One morning,One morning,TIME,,,en,1.0
-2018,2018,DATE,,,en,1.0
-"nearly 1,600","nearly 1,600",CARDINAL,,,en,1.0
-"250,000","250,000",CARDINAL,,,en,1.0
-around one billion euros,around one billion euros,MONEY,,,en,1.0
-Wednesday morning,Wednesday morning,TIME,,,en,1.0
-02:10]04,02:10]04,PRODUCT,,,en,1.0
-six days,six days,DATE,,,en,1.0
-Valloire Galibier,Valloire Galibier,PRODUCT,,,en,1.0
-Twenty-four,Twenty-four,CARDINAL,,,en,1.0
-the middle of the day this Tuesday,the middle of the day this Tuesday,DATE,,,en,1.0
-the start of 2026,the start of 2026,DATE,,,en,1.0
-the end of February,the end of February,DATE,,,en,1.0
-April-May,April-May,DATE,,,en,1.0
-Bormio,Bormio,NORP,,,en,1.0
-next summer,next summer,DATE,,,en,1.0
-last month,last month,DATE,,,en,1.0
-3.5°,3.5°,CARDINAL,,,en,1.0
-1991-2020,1991-2020,DATE,,,en,1.0
-1900,1900,DATE,,,en,1.0
-fifty-year-old,fifty-year-old,DATE,,,en,1.0
-9/10,9/10,CARDINAL,,,en,1.0
-Tomorrow,Tomorrow,DATE,,,en,1.0
-one day,one day,DATE,,,en,1.0
-Wednesday March 4,Wednesday March 4,DATE,,,en,1.0
-tomorrow morning,tomorrow morning,TIME,,,en,1.0
-9 and 13,9 and 13,DATE,,,en,1.0
-480,480,CARDINAL,,,en,1.0
-a morning,a morning,TIME,,,en,1.0
-a rainy day,a rainy day,DATE,,,en,1.0
-OSS 117,OSS 117,WORK_OF_ART,,,en,1.0
-the Industrial Accelerator Act,the Industrial Accelerator Act,LAW,,,en,1.0
-Moroccan,Moroccan,NORP,,,en,1.0
-March,March,DATE,,,en,1.0
-the month of March,the month of March,DATE,,,en,1.0
-12 years,12 years,DATE,,,en,1.0
-between 10 and 15 degrees,between 10 and 15 degrees,QUANTITY,,,en,1.0
-36,36,CARDINAL,,,en,1.0
-2030,2030,DATE,,,en,1.0
-rainy month of February,rainy month of February,DATE,,,en,1.0
-The month of February 2026,The month of February 2026,DATE,,,en,1.0
-February 2022,February 2022,DATE,,,en,1.0
-Double,Double,WORK_OF_ART,,,en,1.0
-at least 15,at least 15,CARDINAL,,,en,1.0
-La Paz,La Paz,FAC,,,en,1.0
-season,season,DATE,,,en,1.0
-February 28,February 28,DATE,,,en,1.0
-Pointe de la Bosse,Pointe de la Bosse,FAC,,,en,1.0
-La Chapelle-d'Abondance,La Chapelle-d'Abondance,FAC,,,en,1.0
-the years,the years,DATE,,,en,1.0
-Never in the history of the left has a party been as disqualified as LFI in the eyes of public opinion,Never in the history of the left has a party been as disqualified as LFI in the eyes of public opinion,WORK_OF_ART,,,en,1.0
-Les Habitantes,Les Habitantes,WORK_OF_ART,,,en,1.0
-The Sea,The Sea,WORK_OF_ART,,,en,1.0
-Indian,Indian,NORP,,,en,1.0
-More than a billion euros,More than a billion euros,MONEY,,,en,1.0
-One hundred days before kickoff,One hundred days before kickoff,DATE,,,en,1.0
-104,104,CARDINAL,,,en,1.0
-the 2027 World Cup,the 2027 World Cup,EVENT,,,en,1.0
-one billion euros,one billion euros,MONEY,,,en,1.0
-between 900 million euros,between 900 million euros,MONEY,,,en,1.0
-900 million euros,900 million euros,MONEY,,,en,1.0
-500,500,CARDINAL,,,en,1.0
-Linky Meters: Beware of Fake Controllers,Linky Meters: Beware of Fake Controllers,WORK_OF_ART,,,en,1.0
-Sigma CP+ 2026,Sigma CP+ 2026,PRODUCT,,,en,1.0
-the beginning of 2024,the beginning of 2024,DATE,,,en,1.0
-the afternoon,the afternoon,TIME,,,en,1.0
-62,62,CARDINAL,,,en,1.0
-this last weekend,this last weekend,DATE,,,en,1.0
-every four years,every four years,DATE,,,en,1.0
-Jackery SolarVault,Jackery SolarVault,PRODUCT,,,en,1.0
-Loft Story,Loft Story,WORK_OF_ART,,,en,1.0
-2001,2001,DATE,,,en,1.0
-Mediapart,Mediapart,WORK_OF_ART,,,en,1.0
-just a few seconds,just a few seconds,TIME,,,en,1.0
-Half,Half,CARDINAL,,,en,1.0
-the end of the century,the end of the century,DATE,,,en,1.0
-Napoli,Napoli,NORP,,,en,1.0
-1142 km,1142 km,QUANTITY,,,en,1.0
-seven days,seven days,DATE,,,en,1.0
-April 2025,April 2025,DATE,,,en,1.0
-"over 1,142 km","over 1,142 km",QUANTITY,,,en,1.0
-Forza Horizon 6,Forza Horizon 6,WORK_OF_ART,,,en,1.0
-A big month,A big month,DATE,,,en,1.0
-around ten hours,around ten hours,TIME,,,en,1.0
-the Grand Palais,the Grand Palais,FAC,,,en,1.0
-"barely more than 1,000 euros","barely more than 1,000 euros",MONEY,,,en,1.0
-Parisian,Parisian,NORP,,,en,1.0
-Spring 2026,Spring 2026,DATE,,,en,1.0
-the Royal Palace,the Royal Palace,FAC,,,en,1.0
-Behind the Trees,Behind the Trees,WORK_OF_ART,,,en,1.0
-this April 16,this April 16,DATE,,,en,1.0
-Thirteen minutes,Thirteen minutes,TIME,,,en,1.0
-the sunny days,the sunny days,DATE,,,en,1.0
-spring 2026,spring 2026,DATE,,,en,1.0
-the Series Mania Festival,the Series Mania Festival,EVENT,,,en,1.0
-50 GB,50 GB,QUANTITY,,,en,1.0
-3.8%,3.8%,PERCENT,,,en,1.0
-nearly 20%,nearly 20%,PERCENT,,,en,1.0
-their Paralympic Games,their Paralympic Games,EVENT,,,en,1.0
-the coming months,the coming months,DATE,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-the summer of 2026,the summer of 2026,DATE,,,en,1.0
-17 degrees,17 degrees,QUANTITY,,,en,1.0
-"this Thursday, March 19, 2026","this Thursday, March 19, 2026",DATE,,,en,1.0
-Firefox 149,Firefox 149,PRODUCT,,,en,1.0
-"March 24, 2026","March 24, 2026",DATE,,,en,1.0
-this Friday March 20,this Friday March 20,DATE,,,en,1.0
-951,951,CARDINAL,,,en,1.0
-1:30 p.m.,1:30 p.m.,TIME,,,en,1.0
-eight decades,eight decades,DATE,,,en,1.0
-thirty years ago,thirty years ago,DATE,,,en,1.0
-Oscars,Oscars,PRODUCT,,,en,1.0
-the Eiffel Tower,the Eiffel Tower,FAC,,,en,1.0
-"this Sunday March 22, 2026","this Sunday March 22, 2026",DATE,,,en,1.0
-Oscar,Oscar,WORK_OF_ART,,,en,1.0
-The weekend,The weekend,DATE,,,en,1.0
-Avenir Huy-Waremme,Avenir Huy-Waremme,FAC,,,en,1.0
-69 years old,69 years old,DATE,,,en,1.0
-270,270,CARDINAL,,,en,1.0
-"the weekend of February 28 and March 1, February 2026","the weekend of February 28 and March 1, February 2026",DATE,,,en,1.0
-2025-2026 season,2025-2026 season,DATE,,,en,1.0
+the 18th and 19th,the 18th and 19th,DATE,,,en,1.0
 the 23rd day,the 23rd day,DATE,,,en,1.0
-the Agricultural Show,the Agricultural Show,EVENT,,,en,1.0
-"February 20, 2026","February 20, 2026",DATE,,,en,1.0
-Anglophones,Anglophones,NORP,,,en,1.0
-the Milan-Cortina Winter Olympics,the Milan-Cortina Winter Olympics,FAC,,,en,1.0
-Olympics - Biathlon:,Olympics - Biathlon:,EVENT,,,en,1.0
-several more days,several more days,DATE,,,en,1.0
-The penultimate day,The penultimate day,DATE,,,en,1.0
-Norwegians,Norwegians,NORP,,,en,1.0
-Saturday February 21,Saturday February 21,DATE,,,en,1.0
-"This Saturday, February 21","This Saturday, February 21",DATE,,,en,1.0
-around 12:25 p.m.,around 12:25 p.m.,TIME,,,en,1.0
+the 1980s,the 1980s,DATE,,,en,1.0
+2026 Olympics,2026 Olympics,EVENT,,,en,1.0
+A fortnight ago,A fortnight ago,DATE,,,en,1.0
 Biche,Biche,FAC,,,en,1.0
-One evening,One evening,TIME,,,en,1.0
-The last day,The last day,DATE,,,en,1.0
-"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
+The Olympic Games,The Olympic Games,EVENT,,,en,1.0
+around 12:25 p.m.,around 12:25 p.m.,TIME,,,en,1.0
+ten days,ten days,DATE,,,en,1.0
+nearly ten days,nearly ten days,DATE,,,en,1.0
+"This Saturday, February 21","This Saturday, February 21",DATE,,,en,1.0
+Couthures-sur-Garonne,Couthures-sur-Garonne,FAC,,,en,1.0
+"April 13, 2026","April 13, 2026",DATE,,,en,1.0
+thirty-six consecutive days,thirty-six consecutive days,DATE,,,en,1.0
+"1,500m","1,500m",QUANTITY,,,en,1.0
+six-day,six-day,DATE,,,en,1.0
+Saturday February 21,Saturday February 21,DATE,,,en,1.0
+8 meters,8 meters,QUANTITY,,,en,1.0
+the Milan-Cortina 2026 Olympic Games,the Milan-Cortina 2026 Olympic Games,FAC,,,en,1.0
+the Mont-Blanc massif,the Mont-Blanc massif,FAC,,,en,1.0
+thirty-five consecutive days,thirty-five consecutive days,DATE,,,en,1.0
+the Royal Palace,the Royal Palace,FAC,,,en,1.0
+"barely more than 1,000 euros","barely more than 1,000 euros",MONEY,,,en,1.0
+the Grand Palais,the Grand Palais,FAC,,,en,1.0
+15 degrees,15 degrees,QUANTITY,,,en,1.0
+The penultimate day,The penultimate day,DATE,,,en,1.0
+up to -60%,up to -60%,PERCENT,,,en,1.0
 "this Sunday, February 22","this Sunday, February 22",DATE,,,en,1.0
+Anglophones,Anglophones,NORP,,,en,1.0
+several more days,several more days,DATE,,,en,1.0
+Spring 2026,Spring 2026,DATE,,,en,1.0
 the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
 "around 200,000","around 200,000",CARDINAL,,,en,1.0
-Several dozen,Several dozen,CARDINAL,,,en,1.0
-Charente-Maritime,Charente-Maritime,EVENT,,,en,1.0
-eighth,eighth,ORDINAL,,,en,1.0
-Juli,Juli,DATE,,,en,1.0
-the Olympic shorttrack,the Olympic shorttrack,EVENT,,,en,1.0
+the Milan-Cortina Winter Olympics,the Milan-Cortina Winter Olympics,FAC,,,en,1.0
+"this Tuesday April 14, 2026","this Tuesday April 14, 2026",DATE,,,en,1.0
+the Galaxy A57,the Galaxy A57,PRODUCT,,,en,1.0
+Norwegians,Norwegians,NORP,,,en,1.0
+the Agricultural Show,the Agricultural Show,EVENT,,,en,1.0
 24 hours,24 hours,TIME,,,en,1.0
 ninth,ninth,ORDINAL,,,en,1.0
+Several dozen,Several dozen,CARDINAL,,,en,1.0
 a very busy weekend,a very busy weekend,DATE,,,en,1.0
-"February 19, 2026","February 19, 2026",DATE,,,en,1.0
+"this Friday, February 20, 2026","this Friday, February 20, 2026",DATE,,,en,1.0
+Charente-Maritime,Charente-Maritime,EVENT,,,en,1.0
+12°C to 16°,12°C to 16°,PERCENT,,,en,1.0
+five to six months,five to six months,DATE,,,en,1.0
+Parisian,Parisian,NORP,,,en,1.0
+the months,the months,DATE,,,en,1.0
+eighth,eighth,ORDINAL,,,en,1.0
+The last day,The last day,DATE,,,en,1.0
+Juli,Juli,DATE,,,en,1.0
+Thirty-six consecutive days,Thirty-six consecutive days,DATE,,,en,1.0
+"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
+the White House,the White House,FAC,,,en,1.0
+the Olympic shorttrack,the Olympic shorttrack,EVENT,,,en,1.0
+"February 20, 2026","February 20, 2026",DATE,,,en,1.0
+One evening,One evening,TIME,,,en,1.0
+Olympics - Biathlon:,Olympics - Biathlon:,EVENT,,,en,1.0
+Violence in the Fields,Violence in the Fields,WORK_OF_ART,,,en,1.0
+"More than 3,000","More than 3,000",CARDINAL,,,en,1.0
+5.8%,5.8%,PERCENT,,,en,1.0
+La Grave,La Grave,FAC,,,en,1.0
+Gap,Gap,FAC,,,en,1.0
+Télérama,Télérama,WORK_OF_ART,,,en,1.0
+140 km,140 km,QUANTITY,,,en,1.0
+this Wednesday and Thursday,this Wednesday and Thursday,DATE,,,en,1.0
+last six months,last six months,DATE,,,en,1.0
+Grenoble - Angers,Grenoble - Angers,EVENT,,,en,1.0
+May 27,May 27,DATE,,,en,1.0
+the start of 2026,the start of 2026,DATE,,,en,1.0
+the middle of the day this Tuesday,the middle of the day this Tuesday,DATE,,,en,1.0
+Valloire Galibier,Valloire Galibier,PRODUCT,,,en,1.0
+six days,six days,DATE,,,en,1.0
+Wednesday morning,Wednesday morning,TIME,,,en,1.0
+around one billion euros,around one billion euros,MONEY,,,en,1.0
+"250,000","250,000",CARDINAL,,,en,1.0
+"nearly 1,600","nearly 1,600",CARDINAL,,,en,1.0
+thirty years,thirty years,DATE,,,en,1.0
+Coutures,Coutures,WORK_OF_ART,,,en,1.0
+a year,a year,DATE,,,en,1.0
+at least seven,at least seven,CARDINAL,,,en,1.0
+up to 60 km/h,up to 60 km/h,QUANTITY,,,en,1.0
+the end of the Olympic tournament,the end of the Olympic tournament,DATE,,,en,1.0
+Sarthe,Sarthe,NORP,0.0,0.0,en,1.0
+Fédérale 3,Fédérale 3,PRODUCT,,,en,1.0
+"the start of the second round, Monday February 16","the start of the second round, Monday February 16",DATE,,,en,1.0
+30 and 35 years old,30 and 35 years old,DATE,,,en,1.0
+this Sunday February 15,this Sunday February 15,DATE,,,en,1.0
+the quarters,the quarters,DATE,,,en,1.0
+the end of December 2025,the end of December 2025,DATE,,,en,1.0
+"400,000","400,000",CARDINAL,,,en,1.0
+Pakistani,Pakistani,NORP,,,en,1.0
+almost a week,almost a week,DATE,,,en,1.0
+Late in the afternoon,Late in the afternoon,TIME,,,en,1.0
+Sunday February 15,Sunday February 15,DATE,,,en,1.0
+01,01,CARDINAL,,,en,1.0
+only 52%,only 52%,PERCENT,,,en,1.0
+02:10]04,02:10]04,PRODUCT,,,en,1.0
+Twenty-four,Twenty-four,CARDINAL,,,en,1.0
+Three years later,Three years later,DATE,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+five days,five days,DATE,,,en,1.0
+40 years later,40 years later,DATE,,,en,1.0
+50 years ago,50 years ago,DATE,,,en,1.0
+"this Tuesday, February 17, 2026","this Tuesday, February 17, 2026",DATE,,,en,1.0
+This Tuesday and Wednesday,This Tuesday and Wednesday,DATE,,,en,1.0
+Feb. 18 2026,Feb. 18 2026,DATE,,,en,1.0
+45 cm,45 cm,QUANTITY,,,en,1.0
+"33,400","33,400",CARDINAL,,,en,1.0
+Wednesday February 18,Wednesday February 18,DATE,,,en,1.0
+Bormio,Bormio,NORP,,,en,1.0
+2025-2026 season,2025-2026 season,DATE,,,en,1.0
 Germans,Germans,NORP,,,en,1.0
 "this Wednesday, February 18, 2026","this Wednesday, February 18, 2026",DATE,,,en,1.0
 several billion euros,several billion euros,MONEY,,,en,1.0
 D-day,D-day,DATE,,,en,1.0
 Frenchmen,Frenchmen,NORP,,,en,1.0
+Paris Saint-Germain,Paris Saint-Germain,FAC,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
 More than 700,More than 700,CARDINAL,,,en,1.0
 600,600,CARDINAL,,,en,1.0
+Thirteen minutes,Thirteen minutes,TIME,,,en,1.0
 Dole,Dole,NORP,,,en,1.0
+this April 16,this April 16,DATE,,,en,1.0
 28,28,DATE,,,en,1.0
+Behind the Trees,Behind the Trees,WORK_OF_ART,,,en,1.0
 3rd,3rd,ORDINAL,,,en,1.0
+Republican,Republican,NORP,,,en,1.0
+"February 19, 2026","February 19, 2026",DATE,,,en,1.0
 1:25 p.m.,1:25 p.m.,TIME,,,en,1.0
-"this Friday, February 20, 2026","this Friday, February 20, 2026",DATE,,,en,1.0
-"33,400","33,400",CARDINAL,,,en,1.0
-"More than 3,000","More than 3,000",CARDINAL,,,en,1.0
-thirty-five consecutive days,thirty-five consecutive days,DATE,,,en,1.0
-the Milan-Cortina 2026 Olympic Games,the Milan-Cortina 2026 Olympic Games,FAC,,,en,1.0
-8 meters,8 meters,QUANTITY,,,en,1.0
-thirty-six consecutive days,thirty-six consecutive days,DATE,,,en,1.0
-2026 Olympics,2026 Olympics,EVENT,,,en,1.0
-the 18th and 19th,the 18th and 19th,DATE,,,en,1.0
-"1,500m","1,500m",QUANTITY,,,en,1.0
-Thirty-six consecutive days,Thirty-six consecutive days,DATE,,,en,1.0
-A fortnight ago,A fortnight ago,DATE,,,en,1.0
-the 1980s,the 1980s,DATE,,,en,1.0
-late November,late November,DATE,,,en,1.0
-The Olympic Games,The Olympic Games,EVENT,,,en,1.0
+the Oval Office,the Oval Office,FAC,,,en,1.0
+2 weeks,2 weeks,DATE,,,en,1.0
+Monday February 23,Monday February 23,DATE,,,en,1.0
+Canadians,Canadians,NORP,,,en,1.0
+just over a month,just over a month,DATE,,,en,1.0
+the International Space Station,the International Space Station,FAC,,,en,1.0
+"April 16, 2026","April 16, 2026",DATE,,,en,1.0
+Monday to Tuesday,Monday to Tuesday,DATE,,,en,1.0
+Bonneval-sur-Arc,Bonneval-sur-Arc,FAC,,,en,1.0
+the night of Saturday April 18 to Sunday April 19,the night of Saturday April 18 to Sunday April 19,TIME,,,en,1.0
+"this Wednesday, January 18","this Wednesday, January 18",DATE,,,en,1.0
+35 consecutive days,35 consecutive days,DATE,,,en,1.0
+January 9,January 9,DATE,,,en,1.0
+week 17 of 2026,week 17 of 2026,DATE,,,en,1.0
+This weekend,This weekend,DATE,,,en,1.0
+Shiite,Shiite,NORP,,,en,1.0
+this spring,this spring,DATE,,,en,1.0
+the busiest days,the busiest days,DATE,,,en,1.0
+Five minutes earlier,Five minutes earlier,TIME,,,en,1.0
+next September,next September,DATE,,,en,1.0
+5 meters,5 meters,QUANTITY,,,en,1.0
+35 days,35 days,DATE,,,en,1.0
+"This Wednesday, February 18, 2026","This Wednesday, February 18, 2026",DATE,,,en,1.0
+Israeli,Israeli,NORP,,,en,1.0
+40 to 70 cm above 1500m,40 to 70 cm above 1500m,QUANTITY,,,en,1.0
+4-3,4-3,CARDINAL,,,en,1.0
+April 2025,April 2025,DATE,,,en,1.0
+around ten hours,around ten hours,TIME,,,en,1.0
+"this Thursday, March 19, 2026","this Thursday, March 19, 2026",DATE,,,en,1.0
+"March 24, 2026","March 24, 2026",DATE,,,en,1.0
+50 GB,50 GB,QUANTITY,,,en,1.0
+this Friday March 20,this Friday March 20,DATE,,,en,1.0
+1:30 p.m.,1:30 p.m.,TIME,,,en,1.0
+eight decades,eight decades,DATE,,,en,1.0
+the end of the century,the end of the century,DATE,,,en,1.0
+thirty years ago,thirty years ago,DATE,,,en,1.0
+Half,Half,CARDINAL,,,en,1.0
+Even Trump,Even Trump,WORK_OF_ART,,,en,1.0
+Oscars,Oscars,PRODUCT,,,en,1.0
+more than 100 years ago,more than 100 years ago,DATE,,,en,1.0
+"this Sunday March 22, 2026","this Sunday March 22, 2026",DATE,,,en,1.0
+the 1960s,the 1960s,DATE,,,en,1.0
+60 years,60 years,DATE,,,en,1.0
+fortieth,fortieth,ORDINAL,,,en,1.0
+Oscar,Oscar,WORK_OF_ART,,,en,1.0
+"April 1, 1986","April 1, 1986",DATE,,,en,1.0
+40 years old,40 years old,DATE,,,en,1.0
+Pop Satori,Pop Satori,WORK_OF_ART,,,en,1.0
+The weekend,The weekend,DATE,,,en,1.0
+Avenir Huy-Waremme,Avenir Huy-Waremme,FAC,,,en,1.0
+more than forty years later,more than forty years later,DATE,,,en,1.0
+69 years old,69 years old,DATE,,,en,1.0
+Firefox 149,Firefox 149,PRODUCT,,,en,1.0
+17 degrees,17 degrees,QUANTITY,,,en,1.0
+the age of 88,the age of 88,DATE,,,en,1.0
+the summer of 2026,the summer of 2026,DATE,,,en,1.0
+OSS 117,OSS 117,WORK_OF_ART,,,en,1.0
+the Industrial Accelerator Act,the Industrial Accelerator Act,LAW,,,en,1.0
+Moroccan,Moroccan,NORP,,,en,1.0
+March,March,DATE,,,en,1.0
+2022,2022,DATE,,,en,1.0
+the month of March,the month of March,DATE,,,en,1.0
+12 years,12 years,DATE,,,en,1.0
+between 10 and 15 degrees,between 10 and 15 degrees,QUANTITY,,,en,1.0
+36,36,CARDINAL,,,en,1.0
+2030,2030,DATE,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+next summer,next summer,DATE,,,en,1.0
+62,62,CARDINAL,,,en,1.0
+around forty,around forty,DATE,,,en,1.0
+every four years,every four years,DATE,,,en,1.0
+3.8%,3.8%,PERCENT,,,en,1.0
+nearly 20%,nearly 20%,PERCENT,,,en,1.0
+nearly 12 million,nearly 12 million,CARDINAL,,,en,1.0
+Ciao,Ciao,NORP,,,en,1.0
+their Paralympic Games,their Paralympic Games,EVENT,,,en,1.0
+2/4,2/4,CARDINAL,,,en,1.0
+the coming months,the coming months,DATE,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+"the night of Friday March 20 to Saturday March 21, 2026","the night of Friday March 20 to Saturday March 21, 2026",TIME,,,en,1.0
+1997 to 2002,1997 to 2002,DATE,,,en,1.0
+Dark Sky,Dark Sky,WORK_OF_ART,,,en,1.0
+more than 25 million euros,more than 25 million euros,MONEY,,,en,1.0
+around 100 meters,around 100 meters,QUANTITY,,,en,1.0
+Helmcken Falls,Helmcken Falls,FAC,,,en,1.0
+Final Fantasy VII,Final Fantasy VII,EVENT,,,en,1.0
+this Twin Pack,this Twin Pack,WORK_OF_ART,,,en,1.0
+-22%,-22%,PERCENT,,,en,1.0
+the 1920s,the 1920s,DATE,,,en,1.0
+1997,1997,DATE,,,en,1.0
+This summer,This summer,DATE,,,en,1.0
+Senegalese,Senegalese,NORP,,,en,1.0
+PS1,PS1,PRODUCT,,,en,1.0
+54.38 euros,54.38 euros,MONEY,,,en,1.0
+69.99 euros,69.99 euros,MONEY,,,en,1.0
+805 km,805 km,QUANTITY,,,en,1.0
+Five months,Five months,DATE,,,en,1.0
+Wednesday April 1,Wednesday April 1,DATE,,,en,1.0
+Mediapart,Mediapart,WORK_OF_ART,,,en,1.0
+Northern Irish,Northern Irish,NORP,,,en,1.0
+June 2020,June 2020,DATE,,,en,1.0
+sixty years,sixty years,DATE,,,en,1.0
+Catholic,Catholic,NORP,,,en,1.0
+Protestant,Protestant,NORP,,,en,1.0
+Six years later,Six years later,DATE,,,en,1.0
+the age of three and a half,the age of three and a half,DATE,,,en,1.0
+the Blues of the World Cup,the Blues of the World Cup,FAC,,,en,1.0
+2001,2001,DATE,,,en,1.0
+half-century,half-century,DATE,,,en,1.0
+Loft Story,Loft Story,WORK_OF_ART,,,en,1.0
+2002,2002,DATE,,,en,1.0
+951,951,CARDINAL,,,en,1.0
+the Series Mania Festival,the Series Mania Festival,EVENT,,,en,1.0
+1983,1983,DATE,,,en,1.0
+50 years,50 years,DATE,,,en,1.0
+spring 2026,spring 2026,DATE,,,en,1.0
+just a few seconds,just a few seconds,TIME,,,en,1.0
+several months,several months,DATE,,,en,1.0
+the sunny days,the sunny days,DATE,,,en,1.0
+Englishman,Englishman,NORP,,,en,1.0
+the Second World War,the Second World War,EVENT,,,en,1.0
+Tuesday April 1st,Tuesday April 1st,DATE,,,en,1.0
+287,287,CARDINAL,,,en,1.0
+Guadeloupean,Guadeloupean,NORP,,,en,1.0
+one year,one year,DATE,,,en,1.0
+the Middle Ages,the Middle Ages,DATE,,,en,1.0
+Téléfoot,Téléfoot,WORK_OF_ART,,,en,1.0
+one year before his 40th,one year before his 40th,DATE,,,en,1.0
+a third,a third,CARDINAL,,,en,1.0
+almost 50 years,almost 50 years,DATE,,,en,1.0
+June 14,June 14,DATE,,,en,1.0
+Jackery SolarVault,Jackery SolarVault,PRODUCT,,,en,1.0
+25 million euros,25 million euros,MONEY,,,en,1.0
+a rainy day,a rainy day,DATE,,,en,1.0
+"April 6, 2026","April 6, 2026",DATE,,,en,1.0
+a morning,a morning,TIME,,,en,1.0
 40 consecutive days,40 consecutive days,DATE,,,en,1.0
-10%,10%,PERCENT,,,en,1.0
 150 days,150 days,DATE,,,en,1.0
 La Chapelle,La Chapelle,FAC,,,en,1.0
 the Pyrénées-Atlantiques,the Pyrénées-Atlantiques,FAC,,,en,1.0
 28.3°,28.3°,MONEY,,,en,1.0
 1994,1994,DATE,,,en,1.0
-the World Cup,the World Cup,EVENT,,,en,1.0
+seven days,seven days,DATE,,,en,1.0
 two weeks,two weeks,DATE,,,en,1.0
+1142 km,1142 km,QUANTITY,,,en,1.0
 nearly 300,nearly 300,CARDINAL,,,en,1.0
+Denza,Denza,PRODUCT,0.0,0.0,en,1.0
+"more than €100,000","more than €100,000",MONEY,,,en,1.0
 this February 25,this February 25,DATE,,,en,1.0
 63,63,CARDINAL,,,en,1.0
 the months of March,the months of March,DATE,,,en,1.0
@@ -628,27 +643,23 @@ more than 5 million,more than 5 million,CARDINAL,,,en,1.0
 about fifteen kilometers,about fifteen kilometers,QUANTITY,,,en,1.0
 6%,6%,PERCENT,,,en,1.0
 several million euros,several million euros,MONEY,,,en,1.0
+5 minutes,5 minutes,TIME,,,en,1.0
 An estimated 22.5%,An estimated 22.5%,PERCENT,,,en,1.0
 Winter 1963,Winter 1963,DATE,,,en,1.0
-three months,three months,DATE,,,en,1.0
-The winter of 1963,The winter of 1963,DATE,,,en,1.0
+10%,10%,PERCENT,,,en,1.0
 last August,last August,DATE,,,en,1.0
-40 days,40 days,DATE,,,en,1.0
-the Paralympic Games,the Paralympic Games,EVENT,,,en,1.0
-25°,25°,CARDINAL,,,en,1.0
-ten days,ten days,DATE,,,en,1.0
-nearly ten days,nearly ten days,DATE,,,en,1.0
-Couthures-sur-Garonne,Couthures-sur-Garonne,FAC,,,en,1.0
-Monday February 23,Monday February 23,DATE,,,en,1.0
-Dark Sky,Dark Sky,WORK_OF_ART,,,en,1.0
+480,480,CARDINAL,,,en,1.0
+two and a half months,two and a half months,DATE,,,en,1.0
 almost six years ago,almost six years ago,DATE,,,en,1.0
 iOS 15,iOS 15,PRODUCT,,,en,1.0
 the following year,the following year,DATE,,,en,1.0
 a few years,a few years,DATE,,,en,1.0
+A big month,A big month,DATE,,,en,1.0
 close to,close to,CARDINAL,,,en,1.0
+25°,25°,CARDINAL,,,en,1.0
 a month and a half,a month and a half,DATE,,,en,1.0
-the Fall/Winter 2026-2027 Women's Fashion Week,the Fall/Winter 2026-2027 Women's Fashion Week,EVENT,,,en,1.0
-up to 180 km/h,up to 180 km/h,QUANTITY,,,en,1.0
+Forza Horizon 6,Forza Horizon 6,WORK_OF_ART,,,en,1.0
+April-May,April-May,DATE,,,en,1.0
 two years,two years,DATE,,,en,1.0
 no less than 925,no less than 925,CARDINAL,,,en,1.0
 Siberian,Siberian,NORP,,,en,1.0
@@ -658,87 +669,76 @@ Le Monde,Le Monde,WORK_OF_ART,,,en,1.0
 22 degrees,22 degrees,QUANTITY,,,en,1.0
 750 million euros,750 million euros,MONEY,,,en,1.0
 €750 million,€750 million,MONEY,,,en,1.0
-February 13,February 13,DATE,,,en,1.0
-More than four hours,More than four hours,TIME,,,en,1.0
-"this Friday, February 13","this Friday, February 13",DATE,,,en,1.0
-37.3 meters,37.3 meters,QUANTITY,,,en,1.0
-late Sunday,late Sunday,TIME,,,en,1.0
-one weekend,one weekend,DATE,,,en,1.0
-all weekend,all weekend,DATE,,,en,1.0
-"this Monday, January 12, 2026","this Monday, January 12, 2026",DATE,,,en,1.0
-between 06:00 and 09:00,between 06:00 and 09:00,TIME,,,en,1.0
-"Monday, January 12","Monday, January 12",DATE,,,en,1.0
-the past two days,the past two days,DATE,,,en,1.0
-"This Sunday, January 11","This Sunday, January 11",DATE,,,en,1.0
-English,English,LANGUAGE,,,en,1.0
-37 m,37 m,QUANTITY,,,en,1.0
-the beginning of the 19th century,the beginning of the 19th century,DATE,,,en,1.0
-2012,2012,DATE,,,en,1.0
-a thousand years,a thousand years,DATE,,,en,1.0
-the 2026 Monte-Carlo Rally,the 2026 Monte-Carlo Rally,EVENT,,,en,1.0
-just €3.99,just €3.99,MONEY,,,en,1.0
-LESNUM,LESNUM,LAW,,,en,1.0
-the third consecutive year,the third consecutive year,DATE,,,en,1.0
+the Fall/Winter 2026-2027 Women's Fashion Week,the Fall/Winter 2026-2027 Women's Fashion Week,EVENT,,,en,1.0
+"over 1,142 km","over 1,142 km",QUANTITY,,,en,1.0
+the Paralympic Games,the Paralympic Games,EVENT,,,en,1.0
+40 days,40 days,DATE,,,en,1.0
+three months,three months,DATE,,,en,1.0
+The winter of 1963,The winter of 1963,DATE,,,en,1.0
+late November,late November,DATE,,,en,1.0
+"the weekend of February 28 and March 1, February 2026","the weekend of February 28 and March 1, February 2026",DATE,,,en,1.0
+900 million euros,900 million euros,MONEY,,,en,1.0
+500,500,CARDINAL,,,en,1.0
+Linky Meters: Beware of Fake Controllers,Linky Meters: Beware of Fake Controllers,WORK_OF_ART,,,en,1.0
+Sigma CP+ 2026,Sigma CP+ 2026,PRODUCT,,,en,1.0
+the beginning of 2024,the beginning of 2024,DATE,,,en,1.0
+More than a billion euros,More than a billion euros,MONEY,,,en,1.0
+February 2022,February 2022,DATE,,,en,1.0
+Monday April 6,Monday April 6,DATE,,,en,1.0
+The month of February 2026,The month of February 2026,DATE,,,en,1.0
+rainy month of February,rainy month of February,DATE,,,en,1.0
+last month,last month,DATE,,,en,1.0
+3.5°,3.5°,CARDINAL,,,en,1.0
+1991-2020,1991-2020,DATE,,,en,1.0
+1900,1900,DATE,,,en,1.0
+Muslims,Muslims,NORP,,,en,1.0
+fifty-year-old,fifty-year-old,DATE,,,en,1.0
+9/10,9/10,CARDINAL,,,en,1.0
+Tomorrow,Tomorrow,DATE,,,en,1.0
+Jewish,Jewish,NORP,,,en,1.0
+one day,one day,DATE,,,en,1.0
+Wednesday March 4,Wednesday March 4,DATE,,,en,1.0
+tomorrow morning,tomorrow morning,TIME,,,en,1.0
+9 and 13,9 and 13,DATE,,,en,1.0
+Napoli,Napoli,NORP,,,en,1.0
+between 900 million euros,between 900 million euros,MONEY,,,en,1.0
+This Tuesday,This Tuesday,DATE,,,en,1.0
+La Chapelle-d'Abondance,La Chapelle-d'Abondance,FAC,,,en,1.0
+this last weekend,this last weekend,DATE,,,en,1.0
+270,270,CARDINAL,,,en,1.0
+at least 15,at least 15,CARDINAL,,,en,1.0
+La Paz,La Paz,FAC,,,en,1.0
+season,season,DATE,,,en,1.0
+February 28,February 28,DATE,,,en,1.0
+1937,1937,DATE,,,en,1.0
+Basque,Basque,NORP,,,en,1.0
+the Picasso Museum,the Picasso Museum,FAC,,,en,1.0
+Pointe de la Bosse,Pointe de la Bosse,FAC,,,en,1.0
+the years,the years,DATE,,,en,1.0
+one billion euros,one billion euros,MONEY,,,en,1.0
+Never in the history of the left has a party been as disqualified as LFI in the eyes of public opinion,Never in the history of the left has a party been as disqualified as LFI in the eyes of public opinion,WORK_OF_ART,,,en,1.0
+Les Habitantes,Les Habitantes,WORK_OF_ART,,,en,1.0
+The Sea,The Sea,WORK_OF_ART,,,en,1.0
+Double,Double,WORK_OF_ART,,,en,1.0
+Indian,Indian,NORP,,,en,1.0
+One hundred days before kickoff,One hundred days before kickoff,DATE,,,en,1.0
+Guernica,Guernica,WORK_OF_ART,0.2,0.4,en,1.0
+April 7,April 7,DATE,,,en,1.0
+104,104,CARDINAL,,,en,1.0
+the 2027 World Cup,the 2027 World Cup,EVENT,,,en,1.0
+This Sunday,This Sunday,DATE,,,en,1.0
+recent months,recent months,DATE,,,en,1.0
+59,59,CARDINAL,,,en,1.0
+312.2 liters,312.2 liters,QUANTITY,,,en,1.0
 the end of January,the end of January,DATE,,,en,1.0
 Palestinian,Palestinian,NORP,,,en,1.0
 Egyptian,Egyptian,NORP,,,en,1.0
 two days,two days,DATE,,,en,1.0
 "more than 4,500 meters","more than 4,500 meters",QUANTITY,,,en,1.0
-six this weekend,six this weekend,DATE,,,en,1.0
-early in the afternoon,early in the afternoon,TIME,,,en,1.0
-late in the morning,late in the morning,TIME,,,en,1.0
-the beginning of the morning,the beginning of the morning,TIME,,,en,1.0
-the entire weekend,the entire weekend,DATE,,,en,1.0
-between Thursday and Friday,between Thursday and Friday,DATE,,,en,1.0
-the end of November 2025,the end of November 2025,DATE,,,en,1.0
-the Empruntis-Partners Finances,the Empruntis-Partners Finances,FAC,,,en,1.0
-PretUp,PretUp,CARDINAL,,,en,1.0
-100 million euros,100 million euros,MONEY,,,en,1.0
-5 to 10 cm,5 to 10 cm,QUANTITY,,,en,1.0
-300 meters,300 meters,QUANTITY,,,en,1.0
-"95,600","95,600",CARDINAL,,,en,1.0
-three-quarters,three-quarters,CARDINAL,,,en,1.0
-a very busy year 2025,a very busy year 2025,DATE,,,en,1.0
-13 minutes,13 minutes,TIME,,,en,1.0
-the Zeekr 7GT,the Zeekr 7GT,FAC,,,en,1.0
-Savoyard,Savoyard,FAC,,,en,1.0
-under 2.5 meters,under 2.5 meters,QUANTITY,,,en,1.0
-January 10,January 10,DATE,,,en,1.0
-the same day,the same day,DATE,,,en,1.0
-“Polar War”,“Polar War”,WORK_OF_ART,,,en,1.0
-"7,906 meters","7,906 meters",QUANTITY,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-Tōhoku,Tōhoku,WORK_OF_ART,,,en,1.0
 less than a month,less than a month,DATE,,,en,1.0
+2012,2012,DATE,,,en,1.0
 one meter,one meter,QUANTITY,,,en,1.0
-Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.0
-14%,14%,PERCENT,,,en,1.0
-every day,every day,DATE,,,en,1.0
-sixty,sixty,CARDINAL,,,en,1.0
-"April 5, 2026","April 5, 2026",DATE,,,en,1.0
-Migrations and climate,Migrations and climate,WORK_OF_ART,,,en,1.0
-tomorrow,tomorrow,DATE,,,en,1.0
-"The day of this Thursday, January 22, 2026","The day of this Thursday, January 22, 2026",DATE,,,en,1.0
-90 to 100 km,90 to 100 km,QUANTITY,,,en,1.0
-"this Friday, January 23","this Friday, January 23",DATE,,,en,1.0
-the start of the week,the start of the week,DATE,,,en,1.0
-The Great Western Schism,The Great Western Schism,EVENT,,,en,1.0
-"1,000","1,000",CARDINAL,,,en,1.0
 a tragic weekend,a tragic weekend,DATE,,,en,1.0
-4 p.m. Saturday,4 p.m. Saturday,TIME,,,en,1.0
-the next ten days of winter,the next ten days of winter,DATE,,,en,1.0
-more than 17 meters,more than 17 meters,QUANTITY,,,en,1.0
-the day of January 23,the day of January 23,DATE,,,en,1.0
-Friday January 23,Friday January 23,DATE,,,en,1.0
-51st,51st,CARDINAL,,,en,1.0
-more than nine decades,more than nine decades,DATE,,,en,1.0
-noon,noon,TIME,,,en,1.0
-30 centimeters,30 centimeters,QUANTITY,,,en,1.0
-Up to -45,Up to -45,CARDINAL,,,en,1.0
-"the night of January 19 to 20, 2026","the night of January 19 to 20, 2026",TIME,,,en,1.0
-Monday January 19 evening,Monday January 19 evening,DATE,,,en,1.0
-the night of Monday January 19 to Tuesday January 20,the night of Monday January 19 to Tuesday January 20,TIME,,,en,1.0
-the night of January 19 to 20,the night of January 19 to 20,TIME,,,en,1.0
 108 seasons,108 seasons,DATE,,,en,1.0
 Quebecers,Quebecers,NORP,,,en,1.0
 a quarter,a quarter,DATE,,,en,1.0
@@ -755,244 +755,41 @@ six-year,six-year,DATE,,,en,1.0
 At least 39,At least 39,CARDINAL,,,en,1.0
 123,123,CARDINAL,,,en,1.0
 More than two meters,More than two meters,QUANTITY,,,en,1.0
+the third consecutive year,the third consecutive year,DATE,,,en,1.0
+LESNUM,LESNUM,LAW,,,en,1.0
+just €3.99,just €3.99,MONEY,,,en,1.0
+late Sunday,late Sunday,TIME,,,en,1.0
+under 2.5 meters,under 2.5 meters,QUANTITY,,,en,1.0
+January 10,January 10,DATE,,,en,1.0
+the same day,the same day,DATE,,,en,1.0
+“Polar War”,“Polar War”,WORK_OF_ART,,,en,1.0
+"7,906 meters","7,906 meters",QUANTITY,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+Tōhoku,Tōhoku,WORK_OF_ART,,,en,1.0
+the beginning of the morning,the beginning of the morning,TIME,,,en,1.0
+late in the morning,late in the morning,TIME,,,en,1.0
+early in the afternoon,early in the afternoon,TIME,,,en,1.0
+six this weekend,six this weekend,DATE,,,en,1.0
+one weekend,one weekend,DATE,,,en,1.0
+the 2026 Monte-Carlo Rally,the 2026 Monte-Carlo Rally,EVENT,,,en,1.0
+all weekend,all weekend,DATE,,,en,1.0
+"this Monday, January 12, 2026","this Monday, January 12, 2026",DATE,,,en,1.0
+between 06:00 and 09:00,between 06:00 and 09:00,TIME,,,en,1.0
+"Monday, January 12","Monday, January 12",DATE,,,en,1.0
+the past two days,the past two days,DATE,,,en,1.0
+"This Sunday, January 11","This Sunday, January 11",DATE,,,en,1.0
+English,English,LANGUAGE,,,en,1.0
+37 m,37 m,QUANTITY,,,en,1.0
+37.3 meters,37.3 meters,QUANTITY,,,en,1.0
+the beginning of the 19th century,the beginning of the 19th century,DATE,,,en,1.0
+a thousand years,a thousand years,DATE,,,en,1.0
 More than 300,More than 300,CARDINAL,,,en,1.0
-312.2 liters,312.2 liters,QUANTITY,,,en,1.0
 Castanet-le-Haut,Castanet-le-Haut,FAC,,,en,1.0
+the Zeekr 7GT,the Zeekr 7GT,FAC,,,en,1.0
 just 27 years,just 27 years,DATE,,,en,1.0
-sirenians,sirenians,NORP,,,en,1.0
-"this Friday, January 9","this Friday, January 9",DATE,,,en,1.0
-200 km/h,200 km/h,QUANTITY,,,en,1.0
-Friday January 9,Friday January 9,DATE,,,en,1.0
-twelve,twelve,CARDINAL,,,en,1.0
-the year 2025,the year 2025,DATE,,,en,1.0
-"this Tuesday, December 30","this Tuesday, December 30",DATE,,,en,1.0
-0,0,CARDINAL,,,en,1.0
-7 degrees,7 degrees,QUANTITY,,,en,1.0
-"Tuesday, December 30, 2025","Tuesday, December 30, 2025",DATE,,,en,1.0
-11 a.m.,11 a.m.,TIME,,,en,1.0
-A busy year,A busy year,DATE,,,en,1.0
-The Hollywood Reporter”,The Hollywood Reporter”,WORK_OF_ART,,,en,1.0
-the first days of 2026,the first days of 2026,DATE,,,en,1.0
-New Year's Eve,New Year's Eve,EVENT,,,en,1.0
-the month of January,the month of January,DATE,,,en,1.0
-more than 210 km,more than 210 km,QUANTITY,,,en,1.0
-the first two days of the year 2026,the first two days of the year 2026,DATE,,,en,1.0
-several decades,several decades,DATE,,,en,1.0
-ten years old,ten years old,DATE,,,en,1.0
-7.7,7.7,CARDINAL,,,en,1.0
-this first Sunday of the year 2026,this first Sunday of the year 2026,DATE,,,en,1.0
-"this Sunday, January 4, 2026","this Sunday, January 4, 2026",DATE,,,en,1.0
-"this Monday January 5, 2026","this Monday January 5, 2026",DATE,,,en,1.0
-"more than 1,000 km","more than 1,000 km",QUANTITY,,,en,1.0
-this Monday January 5,this Monday January 5,DATE,,,en,1.0
-"the night of Monday January 5 to Tuesday January 6, 2026","the night of Monday January 5 to Tuesday January 6, 2026",TIME,,,en,1.0
-"this Sunday, December 28","this Sunday, December 28",DATE,,,en,1.0
-110 kilometers,110 kilometers,QUANTITY,,,en,1.0
-January 1st and 2nd,January 1st and 2nd,DATE,,,en,1.0
-the New Year's,the New Year's,EVENT,,,en,1.0
-"this Wednesday, November 26","this Wednesday, November 26",DATE,,,en,1.0
-Deicing spray,Deicing spray,WORK_OF_ART,,,en,1.0
-Yukon,Yukon,FAC,,,en,1.0
-Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
-"Thursday, December 11","Thursday, December 11",DATE,,,en,1.0
-"yesterday, December 16","yesterday, December 16",DATE,,,en,1.0
-Cold Snap,Cold Snap,PRODUCT,,,en,1.0
-New Year,New Year,EVENT,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
-the start of the Christmas holidays,the start of the Christmas holidays,DATE,,,en,1.0
-8 p.m.,8 p.m.,TIME,,,en,1.0
-almost 40 years,almost 40 years,DATE,,,en,1.0
-Wednesday evening,Wednesday evening,TIME,,,en,1.0
-Christmas night,Christmas night,TIME,,,en,1.0
-Christmas 2025,Christmas 2025,DATE,,,en,1.0
-2010,2010,DATE,,,en,1.0
-Saturday December 27,Saturday December 27,DATE,,,en,1.0
-100 to 200 mm,100 to 200 mm,QUANTITY,,,en,1.0
-up to 150 mm,up to 150 mm,QUANTITY,,,en,1.0
-"This Sunday, December 28, 2025","This Sunday, December 28, 2025",DATE,,,en,1.0
-the final days,the final days,DATE,,,en,1.0
-The year 2026,The year 2026,DATE,,,en,1.0
-the coming decades,the coming decades,DATE,,,en,1.0
-13th,13th,ORDINAL,,,en,1.0
-Hubble,Hubble,FAC,,,en,1.0
-January 8,January 8,DATE,,,en,1.0
-150 km,150 km,QUANTITY,,,en,1.0
-up to,up to,QUANTITY,,,en,1.0
-160km/h,160km/h,QUANTITY,,,en,1.0
-170 km,170 km,QUANTITY,,,en,1.0
-more than 200 km,more than 200 km,QUANTITY,,,en,1.0
-"50,000","50,000",CARDINAL,,,en,1.0
-Hauts,Hauts,NORP,,,en,1.0
-213 km,213 km,QUANTITY,,,en,1.0
-213 km/h,213 km/h,QUANTITY,,,en,1.0
-"this Friday January 9, 2026","this Friday January 9, 2026",DATE,,,en,1.0
-Seine-Saint-Denis,Seine-Saint-Denis,FAC,,,en,1.0
-more than 215 km,more than 215 km,QUANTITY,,,en,1.0
-"Some 380,000","Some 380,000",CARDINAL,,,en,1.0
-6:00 a.m.,6:00 a.m.,TIME,,,en,1.0
-200 km,200 km,QUANTITY,,,en,1.0
-"3,000","3,000",CARDINAL,,,en,1.0
-the past two decades,the past two decades,DATE,,,en,1.0
-"around 4,000","around 4,000",CARDINAL,,,en,1.0
-"211,000","211,000",CARDINAL,,,en,1.0
-"some 380,000","some 380,000",CARDINAL,,,en,1.0
-3/5,3/5,CARDINAL,,,en,1.0
-the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,1.0
-a thirteenth year,a thirteenth year,DATE,,,en,1.0
-exceeding 140 km/h,exceeding 140 km/h,QUANTITY,,,en,1.0
-year 2026,year 2026,DATE,,,en,1.0
-38,38,CARDINAL,,,en,1.0
-40%,40%,PERCENT,,,en,1.0
-Roissy airport,Roissy airport,FAC,,,en,1.0
-25%,25%,PERCENT,,,en,1.0
-Windy,Windy,PRODUCT,,,en,1.0
-the year 2026,the year 2026,DATE,,,en,1.0
-the Grand Est,the Grand Est,FAC,,,en,1.0
-more than 80 years,more than 80 years,DATE,,,en,1.0
-Inuit,Inuit,NORP,,,en,1.0
-Around twenty,Around twenty,CARDINAL,,,en,1.0
-Channel,Channel,NORP,0.0,0.0,en,1.0
-CSG,CSG,PRODUCT,,,en,1.0
-between 22 and 50 billion euros,between 22 and 50 billion euros,MONEY,,,en,1.0
-Storm Goretti,Storm Goretti,WORK_OF_ART,,,en,1.0
-Campiglio,Campiglio,NORP,,,en,1.0
-11 hundredths,11 hundredths,CARDINAL,,,en,1.0
-Thursday evening,Thursday evening,TIME,,,en,1.0
-up to 100 km,up to 100 km,QUANTITY,,,en,1.0
-up to 160 kilometers,up to 160 kilometers,QUANTITY,,,en,1.0
-"this Thursday, January 8, 2026","this Thursday, January 8, 2026",DATE,,,en,1.0
-Twenty,Twenty,CARDINAL,,,en,1.0
+Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.0
 the weekend of January 24,the weekend of January 24,DATE,,,en,1.0
-Storm Nils:,Storm Nils:,WORK_OF_ART,,,en,1.0
-The Secret,The Secret,WORK_OF_ART,,,en,1.0
-"This Monday, February 9","This Monday, February 9",DATE,,,en,1.0
-two thirty-somethings “from…,two thirty-somethings “from…,TIME,,,en,1.0
-thirty-year-old,thirty-year-old,DATE,,,en,1.0
-At least twenty,At least twenty,CARDINAL,,,en,1.0
-Cold,Cold,WORK_OF_ART,,,en,1.0
-40°,40°,PERCENT,,,en,1.0
-Humus,Humus,WORK_OF_ART,,,en,1.0
-Tumbler Ridge,Tumbler Ridge,FAC,,,en,1.0
-"more than 1,000 kilometers","more than 1,000 kilometers",QUANTITY,,,en,1.0
-Nineteen,Nineteen,CARDINAL,,,en,1.0
-mid-morning,mid-morning,TIME,,,en,1.0
-"1,800 to 2,000 m","1,800 to 2,000 m",QUANTITY,,,en,1.0
-"this Wednesday, February 11","this Wednesday, February 11",DATE,,,en,1.0
-decades,decades,DATE,,,en,1.0
-Week after week,Week after week,DATE,,,en,1.0
-140 km/h,140 km/h,QUANTITY,,,en,1.0
-up to 150 km,up to 150 km,QUANTITY,,,en,1.0
-| 6 years,| 6 years,DATE,,,en,1.0
-several thousand,several thousand,CARDINAL,,,en,1.0
-"this Wednesday, February 11, 2026","this Wednesday, February 11, 2026",DATE,,,en,1.0
-"Mont-Blanc""","Mont-Blanc""",FAC,,,en,1.0
-30 to 50 cm,30 to 50 cm,QUANTITY,,,en,1.0
-500 meters,500 meters,QUANTITY,,,en,1.0
-the 2026 Olympic,the 2026 Olympic,EVENT,,,en,1.0
-Polynesians,Polynesians,NORP,,,en,1.0
-Europeans,Europeans,NORP,,,en,1.0
-The Winter Olympic Games,The Winter Olympic Games,EVENT,,,en,1.0
-"February 6 to 22, 2026","February 6 to 22, 2026",DATE,,,en,1.0
-one-year,one-year,DATE,,,en,1.0
-"this Friday, February 6","this Friday, February 6",DATE,,,en,1.0
-UR Namur,UR Namur,PRODUCT,,,en,1.0
-Ten days,Ten days,DATE,,,en,1.0
-The Lionesses,The Lionesses,WORK_OF_ART,,,en,1.0
-Under the Fire of Sonja,Under the Fire of Sonja,WORK_OF_ART,,,en,1.0
-Netflix,Netflix,WORK_OF_ART,,,en,1.0
-Only fifteen,Only fifteen,CARDINAL,,,en,1.0
-"some 2,900","some 2,900",CARDINAL,,,en,1.0
-sixty-year-old,sixty-year-old,DATE,,,en,1.0
-2.5 meters,2.5 meters,QUANTITY,,,en,1.0
-Haute Maurienne,Haute Maurienne,EVENT,,,en,1.0
-the early afternoon,the early afternoon,TIME,,,en,1.0
-the day of Saturday February 7,the day of Saturday February 7,DATE,,,en,1.0
-The day after a day,The day after a day,DATE,,,en,1.0
-peak season,peak season,DATE,,,en,1.0
-the DDTM de l’Aude,the DDTM de l’Aude,FAC,,,en,1.0
-"January 1, 2006","January 1, 2006",DATE,,,en,1.0
-the 18th century,the 18th century,DATE,,,en,1.0
-the last 24 hours,the last 24 hours,TIME,,,en,1.0
-the day of Thursday,the day of Thursday,DATE,,,en,1.0
 the last forty-eight hours,the last forty-eight hours,DATE,,,en,1.0
-180 km/h,180 km/h,QUANTITY,,,en,1.0
-a weekend,a weekend,DATE,,,en,1.0
-The day of Thursday February 12,The day of Thursday February 12,DATE,,,en,1.0
-up to 1 meter,up to 1 meter,QUANTITY,,,en,1.0
-1.50 m,1.50 m,QUANTITY,,,en,1.0
-Tignes,Tignes,NORP,0.0,0.0,en,1.0
-25 years,25 years,DATE,,,en,1.0
-Cortina 2026,Cortina 2026,FAC,,,en,1.0
-the 20th century,the 20th century,DATE,,,en,1.0
-10 km,10 km,QUANTITY,,,en,1.0
-2009,2009,DATE,,,en,1.0
-"up to 900,000","up to 900,000",CARDINAL,,,en,1.0
-Sailer and Killy,Sailer and Killy,WORK_OF_ART,,,en,1.0
-"February 13, 2026","February 13, 2026",DATE,,,en,1.0
-80-20,80-20,CARDINAL,,,en,1.0
-at least five,at least five,CARDINAL,,,en,1.0
-the 5000m,the 5000m,QUANTITY,,,en,1.0
-13 hundredths,13 hundredths,CARDINAL,,,en,1.0
-the Olympic podium,the Olympic podium,EVENT,,,en,1.0
-more than twenty,more than twenty,CARDINAL,,,en,1.0
-Cairn,Cairn,WORK_OF_ART,,,en,1.0
-PS5,PS5,PRODUCT,,,en,1.0
-The Game Bakers,The Game Bakers,WORK_OF_ART,,,en,1.0
-about the days,about the days,DATE,,,en,1.0
-Le Tour,Le Tour,FAC,,,en,1.0
-nighttime,nighttime,TIME,,,en,1.0
-Two and a half years,Two and a half years,DATE,,,en,1.0
-Up to 1.50 meters,Up to 1.50 meters,QUANTITY,,,en,1.0
-"This Wednesday, February 11","This Wednesday, February 11",DATE,,,en,1.0
-their twenties,their twenties,DATE,,,en,1.0
-recent months,recent months,DATE,,,en,1.0
-La Grande Librairie”,La Grande Librairie”,WORK_OF_ART,,,en,1.0
-Et la joie de vivre,Et la joie de vivre,WORK_OF_ART,,,en,1.0
-162 km/h,162 km/h,QUANTITY,,,en,1.0
-"Some 850,000","Some 850,000",CARDINAL,,,en,1.0
-This Thursday,This Thursday,DATE,,,en,1.0
-35,35,CARDINAL,,,en,1.0
-75%,75%,PERCENT,,,en,1.0
-"This Sunday, February 15","This Sunday, February 15",DATE,,,en,1.0
-Snow in Île-de-France,Snow in Île-de-France,WORK_OF_ART,,,en,1.0
-up to 180 km,up to 180 km,QUANTITY,,,en,1.0
-more than 120 km,more than 120 km,QUANTITY,,,en,1.0
-"Some 900,000","Some 900,000",CARDINAL,,,en,1.0
-the end of the morning,the end of the morning,TIME,,,en,1.0
-"498,000","498,000",CARDINAL,,,en,1.0
-New Aquitaine,New Aquitaine,NORP,0.13636363636363635,0.45454545454545453,en,1.0
-"365,000","365,000",CARDINAL,,,en,1.0
-one day this weekend,one day this weekend,DATE,,,en,1.0
-the 2026 Winter Games,the 2026 Winter Games,EVENT,,,en,1.0
-More than two million cubic meters,More than two million cubic meters,QUANTITY,,,en,1.0
-the first season,the first season,DATE,,,en,1.0
-around ten days,around ten days,DATE,,,en,1.0
-this close to midnight,this close to midnight,TIME,,,en,1.0
-the fateful hour,the fateful hour,TIME,,,en,1.0
-an extraordinary month,an extraordinary month,DATE,,,en,1.0
-2025-2026,2025-2026,DATE,,,en,1.0
-Le Constellation,Le Constellation,WORK_OF_ART,,,en,1.0
-"the ""Le Constellation""","the ""Le Constellation""",FAC,,,en,1.0
-"this Sunday, February 1, 2026","this Sunday, February 1, 2026",DATE,,,en,1.0
-Greek,Greek,NORP,,,en,1.0
-January 30,January 30,DATE,,,en,1.0
-November 2027,November 2027,DATE,,,en,1.0
-at least this weekend,at least this weekend,DATE,,,en,1.0
-the end of 2025,the end of 2025,DATE,,,en,1.0
-recent weeks,recent weeks,DATE,,,en,1.0
-"this Thursday, January 29","this Thursday, January 29",DATE,,,en,1.0
-​​the Deux Alpes,​​the Deux Alpes,FAC,,,en,1.0
-The week of January 19 to January 25,The week of January 19 to January 25,DATE,,,en,1.0
-"Monday, January 19</li><li> Tuesday, January 20</li><li>","Monday, January 19</li><li> Tuesday, January 20</li><li>",DATE,,,en,1.0
-"Wednesday, January twenty-first</li><li","Wednesday, January twenty-first</li><li",DATE,,,en,1.0
-"Thursday, January twenty-second</li><li","Thursday, January twenty-second</li><li",DATE,,,en,1.0
-"Friday, January twenty-third</li><li","Friday, January twenty-third</li><li",DATE,,,en,1.0
-"Saturday, January twenty-fourth</li><li","Saturday, January twenty-fourth</li><li",DATE,,,en,1.0
-twentieth,twentieth,DATE,,,en,1.0
-"50,000 euros","50,000 euros",MONEY,,,en,1.0
-Model Y,Model Y,PRODUCT,,,en,1.0
-Grosses Têtes,Grosses Têtes,WORK_OF_ART,,,en,1.0
-100,100,CARDINAL,,,en,1.0
 January 24,January 24,DATE,,,en,1.0
 Le Nouvel Obs,Le Nouvel Obs,WORK_OF_ART,,,en,1.0
 "March 22, 2026","March 22, 2026",DATE,,,en,1.0
@@ -1004,50 +801,277 @@ Two weeks,Two weeks,DATE,,,en,1.0
 "more than 1,000","more than 1,000",CARDINAL,,,en,1.0
 hundred,hundred,CARDINAL,,,en,1.0
 Around a hundred,Around a hundred,CARDINAL,,,en,1.0
-twenty,twenty,CARDINAL,,,en,1.0
 "600,000","600,000",CARDINAL,,,en,1.0
 recent decades,recent decades,DATE,,,en,1.0
 at least February 5,at least February 5,DATE,,,en,1.0
 "this Wednesday, January 28, 2026","this Wednesday, January 28, 2026",DATE,,,en,1.0
-day,day,DATE,,,en,1.0
 less than 800 euros,less than 800 euros,MONEY,,,en,1.0
 25 km/h,25 km/h,QUANTITY,,,en,1.0
 at least 38,at least 38,CARDINAL,,,en,1.0
 Nearly half a million,Nearly half a million,CARDINAL,,,en,1.0
-the Ski World Cup,the Ski World Cup,EVENT,,,en,1.0
-A month,A month,DATE,,,en,1.0
-40,40,CARDINAL,,,en,1.0
-Oisans,Oisans,NORP,,,en,1.0
-the “World Happiness Report”,the “World Happiness Report”,WORK_OF_ART,,,en,1.0
-February 2025,February 2025,DATE,,,en,1.0
-hours,hours,TIME,,,en,1.0
-87.5 mm,87.5 mm,QUANTITY,,,en,1.0
-The end of February and March,The end of February and March,DATE,,,en,1.0
-the month of February,the month of February,DATE,,,en,1.0
+100,100,CARDINAL,,,en,1.0
+Grosses Têtes,Grosses Têtes,WORK_OF_ART,,,en,1.0
+Model Y,Model Y,PRODUCT,,,en,1.0
+Twenty,Twenty,CARDINAL,,,en,1.0
+Up to -45,Up to -45,CARDINAL,,,en,1.0
+30 centimeters,30 centimeters,QUANTITY,,,en,1.0
+90 to 100 km,90 to 100 km,QUANTITY,,,en,1.0
+sirenians,sirenians,NORP,,,en,1.0
+the night of January 19 to 20,the night of January 19 to 20,TIME,,,en,1.0
+the night of Monday January 19 to Tuesday January 20,the night of Monday January 19 to Tuesday January 20,TIME,,,en,1.0
+Monday January 19 evening,Monday January 19 evening,DATE,,,en,1.0
+"the night of January 19 to 20, 2026","the night of January 19 to 20, 2026",TIME,,,en,1.0
+every day,every day,DATE,,,en,1.0
+sixty,sixty,CARDINAL,,,en,1.0
+"April 5, 2026","April 5, 2026",DATE,,,en,1.0
+Migrations and climate,Migrations and climate,WORK_OF_ART,,,en,1.0
+tomorrow,tomorrow,DATE,,,en,1.0
+"The day of this Thursday, January 22, 2026","The day of this Thursday, January 22, 2026",DATE,,,en,1.0
+"this Friday, January 23","this Friday, January 23",DATE,,,en,1.0
+noon,noon,TIME,,,en,1.0
+the start of the week,the start of the week,DATE,,,en,1.0
+The Great Western Schism,The Great Western Schism,EVENT,,,en,1.0
+14%,14%,PERCENT,,,en,1.0
+"1,000","1,000",CARDINAL,,,en,1.0
+4 p.m. Saturday,4 p.m. Saturday,TIME,,,en,1.0
+the next ten days of winter,the next ten days of winter,DATE,,,en,1.0
+more than 17 meters,more than 17 meters,QUANTITY,,,en,1.0
+the day of January 23,the day of January 23,DATE,,,en,1.0
+Friday January 23,Friday January 23,DATE,,,en,1.0
+51st,51st,CARDINAL,,,en,1.0
+more than nine decades,more than nine decades,DATE,,,en,1.0
+Savoyard,Savoyard,FAC,,,en,1.0
+13 minutes,13 minutes,TIME,,,en,1.0
+this close to midnight,this close to midnight,TIME,,,en,1.0
+Roissy airport,Roissy airport,FAC,,,en,1.0
+7 degrees,7 degrees,QUANTITY,,,en,1.0
+"Tuesday, December 30, 2025","Tuesday, December 30, 2025",DATE,,,en,1.0
+11 a.m.,11 a.m.,TIME,,,en,1.0
+A busy year,A busy year,DATE,,,en,1.0
+The Hollywood Reporter”,The Hollywood Reporter”,WORK_OF_ART,,,en,1.0
+the first days of 2026,the first days of 2026,DATE,,,en,1.0
+New Year's Eve,New Year's Eve,EVENT,,,en,1.0
+twelve,twelve,CARDINAL,,,en,1.0
+the month of January,the month of January,DATE,,,en,1.0
+the first two days of the year 2026,the first two days of the year 2026,DATE,,,en,1.0
+several decades,several decades,DATE,,,en,1.0
+ten years old,ten years old,DATE,,,en,1.0
+7.7,7.7,CARDINAL,,,en,1.0
+this first Sunday of the year 2026,this first Sunday of the year 2026,DATE,,,en,1.0
+"this Sunday, January 4, 2026","this Sunday, January 4, 2026",DATE,,,en,1.0
+"this Monday January 5, 2026","this Monday January 5, 2026",DATE,,,en,1.0
+"more than 1,000 km","more than 1,000 km",QUANTITY,,,en,1.0
+this Monday January 5,this Monday January 5,DATE,,,en,1.0
+"the night of Monday January 5 to Tuesday January 6, 2026","the night of Monday January 5 to Tuesday January 6, 2026",TIME,,,en,1.0
+The year 2026,The year 2026,DATE,,,en,1.0
+the coming decades,the coming decades,DATE,,,en,1.0
+13th,13th,ORDINAL,,,en,1.0
+a thirteenth year,a thirteenth year,DATE,,,en,1.0
+year 2026,year 2026,DATE,,,en,1.0
+38,38,CARDINAL,,,en,1.0
+0,0,CARDINAL,,,en,1.0
+"this Tuesday, December 30","this Tuesday, December 30",DATE,,,en,1.0
+the year 2025,the year 2025,DATE,,,en,1.0
+almost 40 years,almost 40 years,DATE,,,en,1.0
+"this Wednesday, November 26","this Wednesday, November 26",DATE,,,en,1.0
+Deicing spray,Deicing spray,WORK_OF_ART,,,en,1.0
+Yukon,Yukon,FAC,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+"Thursday, December 11","Thursday, December 11",DATE,,,en,1.0
+"yesterday, December 16","yesterday, December 16",DATE,,,en,1.0
+Cold Snap,Cold Snap,PRODUCT,,,en,1.0
+New Year,New Year,EVENT,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+the start of the Christmas holidays,the start of the Christmas holidays,DATE,,,en,1.0
+8 p.m.,8 p.m.,TIME,,,en,1.0
+Wednesday evening,Wednesday evening,TIME,,,en,1.0
+"this Sunday, December 28","this Sunday, December 28",DATE,,,en,1.0
+Christmas night,Christmas night,TIME,,,en,1.0
+Christmas 2025,Christmas 2025,DATE,,,en,1.0
+2010,2010,DATE,,,en,1.0
+Saturday December 27,Saturday December 27,DATE,,,en,1.0
+100 to 200 mm,100 to 200 mm,QUANTITY,,,en,1.0
+up to 150 mm,up to 150 mm,QUANTITY,,,en,1.0
+"This Sunday, December 28, 2025","This Sunday, December 28, 2025",DATE,,,en,1.0
+the final days,the final days,DATE,,,en,1.0
+the New Year's,the New Year's,EVENT,,,en,1.0
+January 1st and 2nd,January 1st and 2nd,DATE,,,en,1.0
+110 kilometers,110 kilometers,QUANTITY,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+25%,25%,PERCENT,,,en,1.0
+a very busy year 2025,a very busy year 2025,DATE,,,en,1.0
+Windy,Windy,PRODUCT,,,en,1.0
+"this Friday January 9, 2026","this Friday January 9, 2026",DATE,,,en,1.0
+Seine-Saint-Denis,Seine-Saint-Denis,FAC,,,en,1.0
+more than 215 km,more than 215 km,QUANTITY,,,en,1.0
+"Some 380,000","Some 380,000",CARDINAL,,,en,1.0
+6:00 a.m.,6:00 a.m.,TIME,,,en,1.0
+200 km,200 km,QUANTITY,,,en,1.0
+"3,000","3,000",CARDINAL,,,en,1.0
+the past two decades,the past two decades,DATE,,,en,1.0
+"around 4,000","around 4,000",CARDINAL,,,en,1.0
+"211,000","211,000",CARDINAL,,,en,1.0
+"some 380,000","some 380,000",CARDINAL,,,en,1.0
+more than 210 km,more than 210 km,QUANTITY,,,en,1.0
+Friday January 9,Friday January 9,DATE,,,en,1.0
+200 km/h,200 km/h,QUANTITY,,,en,1.0
+"this Friday, January 9","this Friday, January 9",DATE,,,en,1.0
+the entire weekend,the entire weekend,DATE,,,en,1.0
+between Thursday and Friday,between Thursday and Friday,DATE,,,en,1.0
+the end of November 2025,the end of November 2025,DATE,,,en,1.0
+the Empruntis-Partners Finances,the Empruntis-Partners Finances,FAC,,,en,1.0
+PretUp,PretUp,CARDINAL,,,en,1.0
+100 million euros,100 million euros,MONEY,,,en,1.0
+5 to 10 cm,5 to 10 cm,QUANTITY,,,en,1.0
+300 meters,300 meters,QUANTITY,,,en,1.0
+"95,600","95,600",CARDINAL,,,en,1.0
+three-quarters,three-quarters,CARDINAL,,,en,1.0
+213 km/h,213 km/h,QUANTITY,,,en,1.0
+213 km,213 km,QUANTITY,,,en,1.0
+Hauts,Hauts,NORP,,,en,1.0
+Thursday evening,Thursday evening,TIME,,,en,1.0
+the year 2026,the year 2026,DATE,,,en,1.0
+the Grand Est,the Grand Est,FAC,,,en,1.0
+more than 80 years,more than 80 years,DATE,,,en,1.0
+Inuit,Inuit,NORP,,,en,1.0
+Around twenty,Around twenty,CARDINAL,,,en,1.0
+Channel,Channel,NORP,0.0,0.0,en,1.0
+CSG,CSG,PRODUCT,,,en,1.0
+between 22 and 50 billion euros,between 22 and 50 billion euros,MONEY,,,en,1.0
+Storm Goretti,Storm Goretti,WORK_OF_ART,,,en,1.0
+Campiglio,Campiglio,NORP,,,en,1.0
+11 hundredths,11 hundredths,CARDINAL,,,en,1.0
+up to 100 km,up to 100 km,QUANTITY,,,en,1.0
+"50,000","50,000",CARDINAL,,,en,1.0
+up to 160 kilometers,up to 160 kilometers,QUANTITY,,,en,1.0
+"this Thursday, January 8, 2026","this Thursday, January 8, 2026",DATE,,,en,1.0
+exceeding 140 km/h,exceeding 140 km/h,QUANTITY,,,en,1.0
+the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,1.0
+Hubble,Hubble,FAC,,,en,1.0
+3/5,3/5,CARDINAL,,,en,1.0
+January 8,January 8,DATE,,,en,1.0
+150 km,150 km,QUANTITY,,,en,1.0
+160km/h,160km/h,QUANTITY,,,en,1.0
+170 km,170 km,QUANTITY,,,en,1.0
+more than 200 km,more than 200 km,QUANTITY,,,en,1.0
+"50,000 euros","50,000 euros",MONEY,,,en,1.0
+the fateful hour,the fateful hour,TIME,,,en,1.0
+at least 59,at least 59,CARDINAL,,,en,1.0
+Cairn,Cairn,WORK_OF_ART,,,en,1.0
+New Aquitaine,New Aquitaine,NORP,0.13636363636363635,0.45454545454545453,en,1.0
+"365,000","365,000",CARDINAL,,,en,1.0
+one day this weekend,one day this weekend,DATE,,,en,1.0
+Two and a half years,Two and a half years,DATE,,,en,1.0
+nighttime,nighttime,TIME,,,en,1.0
+Le Tour,Le Tour,FAC,,,en,1.0
+about the days,about the days,DATE,,,en,1.0
+a weekend,a weekend,DATE,,,en,1.0
+The day of Thursday February 12,The day of Thursday February 12,DATE,,,en,1.0
+up to 1 meter,up to 1 meter,QUANTITY,,,en,1.0
+1.50 m,1.50 m,QUANTITY,,,en,1.0
+Tignes,Tignes,NORP,0.0,0.0,en,1.0
+25 years,25 years,DATE,,,en,1.0
+Cortina 2026,Cortina 2026,FAC,,,en,1.0
+the 20th century,the 20th century,DATE,,,en,1.0
+10 km,10 km,QUANTITY,,,en,1.0
+2009,2009,DATE,,,en,1.0
+180 km/h,180 km/h,QUANTITY,,,en,1.0
+"up to 900,000","up to 900,000",CARDINAL,,,en,1.0
+"February 13, 2026","February 13, 2026",DATE,,,en,1.0
+80-20,80-20,CARDINAL,,,en,1.0
+at least five,at least five,CARDINAL,,,en,1.0
+the 5000m,the 5000m,QUANTITY,,,en,1.0
+13 hundredths,13 hundredths,CARDINAL,,,en,1.0
+the Olympic podium,the Olympic podium,EVENT,,,en,1.0
+"498,000","498,000",CARDINAL,,,en,1.0
+the end of the morning,the end of the morning,TIME,,,en,1.0
+"Some 900,000","Some 900,000",CARDINAL,,,en,1.0
+Up to 1.50 meters,Up to 1.50 meters,QUANTITY,,,en,1.0
+140 km/h,140 km/h,QUANTITY,,,en,1.0
+up to 150 km,up to 150 km,QUANTITY,,,en,1.0
+| 6 years,| 6 years,DATE,,,en,1.0
+several thousand,several thousand,CARDINAL,,,en,1.0
+"this Wednesday, February 11, 2026","this Wednesday, February 11, 2026",DATE,,,en,1.0
+"Mont-Blanc""","Mont-Blanc""",FAC,,,en,1.0
+30 to 50 cm,30 to 50 cm,QUANTITY,,,en,1.0
+the last 24 hours,the last 24 hours,TIME,,,en,1.0
+"1,800 to 2,000 m","1,800 to 2,000 m",QUANTITY,,,en,1.0
+the day of Thursday,the day of Thursday,DATE,,,en,1.0
+Sailer and Killy,Sailer and Killy,WORK_OF_ART,,,en,1.0
+"This Wednesday, February 11","This Wednesday, February 11",DATE,,,en,1.0
+more than 120 km,more than 120 km,QUANTITY,,,en,1.0
+their twenties,their twenties,DATE,,,en,1.0
+La Grande Librairie”,La Grande Librairie”,WORK_OF_ART,,,en,1.0
+Et la joie de vivre,Et la joie de vivre,WORK_OF_ART,,,en,1.0
+162 km/h,162 km/h,QUANTITY,,,en,1.0
+"Some 850,000","Some 850,000",CARDINAL,,,en,1.0
+This Thursday,This Thursday,DATE,,,en,1.0
+35,35,CARDINAL,,,en,1.0
+75%,75%,PERCENT,,,en,1.0
+"This Sunday, February 15","This Sunday, February 15",DATE,,,en,1.0
+Snow in Île-de-France,Snow in Île-de-France,WORK_OF_ART,,,en,1.0
+up to 180 km,up to 180 km,QUANTITY,,,en,1.0
+more than twenty,more than twenty,CARDINAL,,,en,1.0
+PS5,PS5,PRODUCT,,,en,1.0
+decades,decades,DATE,,,en,1.0
+The Game Bakers,The Game Bakers,WORK_OF_ART,,,en,1.0
+between 7 a.m. and 4 p.m.,between 7 a.m. and 4 p.m.,TIME,,,en,1.0
+20%,20%,PERCENT,,,en,1.0
+Saturday February 14,Saturday February 14,DATE,,,en,1.0
+more than half,more than half,CARDINAL,,,en,1.0
+the start of the Olympics,the start of the Olympics,DATE,,,en,1.0
+the Calgary Olympics,the Calgary Olympics,EVENT,,,en,1.0
+1988,1988,DATE,,,en,1.0
+Rasta Rockett,Rasta Rockett,WORK_OF_ART,,,en,1.0
+Jamaican,Jamaican,NORP,,,en,1.0
+Thirty,Thirty,CARDINAL,,,en,1.0
+10-2,10-2,CARDINAL,,,en,1.0
+90 centimeters,90 centimeters,QUANTITY,,,en,1.0
+Between 50 and 70 cm,Between 50 and 70 cm,CARDINAL,,,en,1.0
+"1,500 m","1,500 m",QUANTITY,,,en,1.0
+4 a.m.,4 a.m.,TIME,,,en,1.0
+thirty-year-olds,thirty-year-olds,DATE,,,en,1.0
+Flemish,Flemish,NORP,,,en,1.0
+4/5,4/5,CARDINAL,,,en,1.0
+February 16,February 16,DATE,,,en,1.0
+Olympic Games 2026 - Slalom,Olympic Games 2026 - Slalom,EVENT,,,en,1.0
+Nearly half,Nearly half,CARDINAL,,,en,1.0
+the end of February,the end of February,DATE,,,en,1.0
+The first week,The first week,DATE,,,en,1.0
+ten seconds,ten seconds,TIME,,,en,1.0
+7th,7th,ORDINAL,,,en,1.0
+Charles de Gaulle,Charles de Gaulle,FAC,,,en,1.0
+30%,30%,PERCENT,,,en,1.0
+"over 5,000m","over 5,000m",QUANTITY,,,en,1.0
+"this Saturday, February 14","this Saturday, February 14",DATE,,,en,1.0
+Storm Nils:,Storm Nils:,WORK_OF_ART,,,en,1.0
+"this Friday, February 13","this Friday, February 13",DATE,,,en,1.0
+up to 180 km/h,up to 180 km/h,QUANTITY,,,en,1.0
+February 13,February 13,DATE,,,en,1.0
+70 years ago,70 years ago,DATE,,,en,1.0
+coldest day,coldest day,DATE,,,en,1.0
+"This Friday, February 13","This Friday, February 13",DATE,,,en,1.0
+around 11:30 a.m.,around 11:30 a.m.,TIME,,,en,1.0
+Marmottes,Marmottes,NORP,,,en,1.0
+Twenty-three,Twenty-three,CARDINAL,,,en,1.0
+46,46,DATE,,,en,1.0
+the beginning of next week,the beginning of next week,DATE,,,en,1.0
+12th,12th,ORDINAL,,,en,1.0
+Around 70,Around 70,CARDINAL,,,en,1.0
+"This Sunday, February 15, 2026","This Sunday, February 15, 2026",DATE,,,en,1.0
+a few more days,a few more days,DATE,,,en,1.0
+15,15,CARDINAL,,,en,1.0
+7s,7s,CARDINAL,,,en,1.0
+"6,500 mAh","6,500 mAh",QUANTITY,,,en,1.0
+One morning,One morning,TIME,,,en,1.0
+the beginning of last January,the beginning of last January,DATE,,,en,1.0
+monthly,monthly,DATE,,,en,1.0
+last Thursday,last Thursday,DATE,,,en,1.0
+11th,11th,ORDINAL,,,en,1.0
+Week after week,Week after week,DATE,,,en,1.0
+"this Wednesday, February 11","this Wednesday, February 11",DATE,,,en,1.0
+an extraordinary month,an extraordinary month,DATE,,,en,1.0
 "this Tuesday, February 3","this Tuesday, February 3",DATE,,,en,1.0
-just a few hours,just a few hours,TIME,,,en,1.0
-10 to 20 mm,10 to 20 mm,QUANTITY,,,en,1.0
-Wednesday to Thursday,Wednesday to Thursday,DATE,,,en,1.0
-this month,this month,DATE,,,en,1.0
-seventh,seventh,ORDINAL,,,en,1.0
-Iberian,Iberian,NORP,,,en,1.0
-more than 400 mm,more than 400 mm,QUANTITY,,,en,1.0
-Thursday February 5,Thursday February 5,DATE,,,en,1.0
-a 21st century,a 21st century,DATE,,,en,1.0
-8 million,8 million,CARDINAL,,,en,1.0
-"more than 140,000","more than 140,000",CARDINAL,,,en,1.0
-mid-December,mid-December,DATE,,,en,1.0
-37,37,CARDINAL,,,en,1.0
-the last decade,the last decade,DATE,,,en,1.0
-"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
-2034,2034,DATE,,,en,1.0
-Henri-Chapelle,Henri-Chapelle,EVENT,,,en,1.0
-1928,1928,DATE,,,en,1.0
-"Wednesday, January 28, 2026","Wednesday, January 28, 2026",DATE,,,en,1.0
-Iranians,Iranians,NORP,,,en,1.0
-only six,only six,CARDINAL,,,en,1.0
-Tagesspiegel,Tagesspiegel,WORK_OF_ART,,,en,1.0
-Le chant des forêt,Le chant des forêt,WORK_OF_ART,,,en,1.0
 8th,8th,ORDINAL,,,en,1.0
 International Documentary Festival,International Documentary Festival,EVENT,,,en,1.0
 June 2024,June 2024,DATE,,,en,1.0
@@ -1064,4 +1088,98 @@ wet month of January,wet month of January,DATE,,,en,1.0
 One year,One year,DATE,,,en,1.0
 "around 2,000","around 2,000",CARDINAL,,,en,1.0
 the winter,the winter,DATE,,,en,1.0
-Ukrainian,Ukrainian,NORP,,,en,1.0
+1928,1928,DATE,,,en,1.0
+2034,2034,DATE,,,en,1.0
+Oisans,Oisans,NORP,,,en,1.0
+"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
+the “World Happiness Report”,the “World Happiness Report”,WORK_OF_ART,,,en,1.0
+February 2025,February 2025,DATE,,,en,1.0
+hours,hours,TIME,,,en,1.0
+87.5 mm,87.5 mm,QUANTITY,,,en,1.0
+The end of February and March,The end of February and March,DATE,,,en,1.0
+Le chant des forêt,Le chant des forêt,WORK_OF_ART,,,en,1.0
+Tagesspiegel,Tagesspiegel,WORK_OF_ART,,,en,1.0
+only six,only six,CARDINAL,,,en,1.0
+​​the Deux Alpes,​​the Deux Alpes,FAC,,,en,1.0
+2025-2026,2025-2026,DATE,,,en,1.0
+Le Constellation,Le Constellation,WORK_OF_ART,,,en,1.0
+"the ""Le Constellation""","the ""Le Constellation""",FAC,,,en,1.0
+"this Sunday, February 1, 2026","this Sunday, February 1, 2026",DATE,,,en,1.0
+Greek,Greek,NORP,,,en,1.0
+January 30,January 30,DATE,,,en,1.0
+November 2027,November 2027,DATE,,,en,1.0
+around ten days,around ten days,DATE,,,en,1.0
+at least this weekend,at least this weekend,DATE,,,en,1.0
+recent weeks,recent weeks,DATE,,,en,1.0
+"this Thursday, January 29","this Thursday, January 29",DATE,,,en,1.0
+The week of January 19 to January 25,The week of January 19 to January 25,DATE,,,en,1.0
+Iranians,Iranians,NORP,,,en,1.0
+"Monday, January 19</li><li> Tuesday, January 20</li><li>","Monday, January 19</li><li> Tuesday, January 20</li><li>",DATE,,,en,1.0
+"Wednesday, January twenty-first</li><li","Wednesday, January twenty-first</li><li",DATE,,,en,1.0
+"Thursday, January twenty-second</li><li","Thursday, January twenty-second</li><li",DATE,,,en,1.0
+"Friday, January twenty-third</li><li","Friday, January twenty-third</li><li",DATE,,,en,1.0
+"Saturday, January twenty-fourth</li><li","Saturday, January twenty-fourth</li><li",DATE,,,en,1.0
+twentieth,twentieth,DATE,,,en,1.0
+the Ski World Cup,the Ski World Cup,EVENT,,,en,1.0
+A month,A month,DATE,,,en,1.0
+40,40,CARDINAL,,,en,1.0
+Henri-Chapelle,Henri-Chapelle,EVENT,,,en,1.0
+"Wednesday, January 28, 2026","Wednesday, January 28, 2026",DATE,,,en,1.0
+the month of February,the month of February,DATE,,,en,1.0
+just a few hours,just a few hours,TIME,,,en,1.0
+mid-morning,mid-morning,TIME,,,en,1.0
+10 to 20 mm,10 to 20 mm,QUANTITY,,,en,1.0
+More than four hours,More than four hours,TIME,,,en,1.0
+2.5 meters,2.5 meters,QUANTITY,,,en,1.0
+Haute Maurienne,Haute Maurienne,EVENT,,,en,1.0
+the early afternoon,the early afternoon,TIME,,,en,1.0
+the day of Saturday February 7,the day of Saturday February 7,DATE,,,en,1.0
+The day after a day,The day after a day,DATE,,,en,1.0
+peak season,peak season,DATE,,,en,1.0
+the DDTM de l’Aude,the DDTM de l’Aude,FAC,,,en,1.0
+"January 1, 2006","January 1, 2006",DATE,,,en,1.0
+the 18th century,the 18th century,DATE,,,en,1.0
+Europeans,Europeans,NORP,,,en,1.0
+Polynesians,Polynesians,NORP,,,en,1.0
+the 2026 Olympic,the 2026 Olympic,EVENT,,,en,1.0
+500 meters,500 meters,QUANTITY,,,en,1.0
+"This Monday, February 9","This Monday, February 9",DATE,,,en,1.0
+two thirty-somethings “from…,two thirty-somethings “from…,TIME,,,en,1.0
+thirty-year-old,thirty-year-old,DATE,,,en,1.0
+At least twenty,At least twenty,CARDINAL,,,en,1.0
+Cold,Cold,WORK_OF_ART,,,en,1.0
+40°,40°,PERCENT,,,en,1.0
+Humus,Humus,WORK_OF_ART,,,en,1.0
+Tumbler Ridge,Tumbler Ridge,FAC,,,en,1.0
+"more than 1,000 kilometers","more than 1,000 kilometers",QUANTITY,,,en,1.0
+Nineteen,Nineteen,CARDINAL,,,en,1.0
+The Secret,The Secret,WORK_OF_ART,,,en,1.0
+sixty-year-old,sixty-year-old,DATE,,,en,1.0
+"some 2,900","some 2,900",CARDINAL,,,en,1.0
+Only fifteen,Only fifteen,CARDINAL,,,en,1.0
+the last decade,the last decade,DATE,,,en,1.0
+Wednesday to Thursday,Wednesday to Thursday,DATE,,,en,1.0
+this month,this month,DATE,,,en,1.0
+seventh,seventh,ORDINAL,,,en,1.0
+Iberian,Iberian,NORP,,,en,1.0
+more than 400 mm,more than 400 mm,QUANTITY,,,en,1.0
+Thursday February 5,Thursday February 5,DATE,,,en,1.0
+a 21st century,a 21st century,DATE,,,en,1.0
+8 million,8 million,CARDINAL,,,en,1.0
+"more than 140,000","more than 140,000",CARDINAL,,,en,1.0
+mid-December,mid-December,DATE,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+the end of 2025,the end of 2025,DATE,,,en,1.0
+Netflix,Netflix,WORK_OF_ART,,,en,1.0
+the first season,the first season,DATE,,,en,1.0
+More than two million cubic meters,More than two million cubic meters,QUANTITY,,,en,1.0
+the 2026 Winter Games,the 2026 Winter Games,EVENT,,,en,1.0
+The Winter Olympic Games,The Winter Olympic Games,EVENT,,,en,1.0
+"February 6 to 22, 2026","February 6 to 22, 2026",DATE,,,en,1.0
+one-year,one-year,DATE,,,en,1.0
+"this Friday, February 6","this Friday, February 6",DATE,,,en,1.0
+UR Namur,UR Namur,PRODUCT,,,en,1.0
+Ten days,Ten days,DATE,,,en,1.0
+The Lionesses,The Lionesses,WORK_OF_ART,,,en,1.0
+Under the Fire of Sonja,Under the Fire of Sonja,WORK_OF_ART,,,en,1.0
+the end of October 1948,the end of October 1948,DATE,,,en,1.0
