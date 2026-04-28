@@ -11,12 +11,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2026-04-09T04:58:00+00:00,Guadeloupe,0.6823128356347858,1,2,fr,CAR,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-03-23T04:42:00+00:00,France,0.6780227515963206,1,2,fr,WCE,Europe
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-04-15T05:12:00+00:00,Canada,0.6761186972365657,1,2,fr,NEN,North-America
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-04-11T04:34:00+00:00,Canada,0.6727746018648648,0,1,fr,NEN,North-America
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-04-12T05:12:00+00:00,Ivory Coast,0.6691625912610796,1,2,fr,WAF,Africa
 'a30d27ed65',extremes,Flood,#030ba1,wmo,inondation de la zone de la rivière rugissante de Minitonas,2026-04-27T05:40:00+00:00,Canada,0.6689080154319356,0,1,fr,NEN,North-America
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-04-09T04:58:00+00:00,France,0.6685055942205111,0,1,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-03-26T04:56:00+00:00,Canada,0.6631463935981442,1,2,fr,NEN,North-America
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6614635337566243,1,2,fr,WCE,Europe
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-04-09T04:58:00+00:00,Senegal,0.6533389123290758,1,2,fr,WAF,Africa
+'ae2464a060',extremes,Flood,#030ba1,wmo,crue soudaine évoquant la région de Russell Creek,2026-04-27T05:40:00+00:00,Canada,0.6519410799471133,0,1,fr,NEN,North-America
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6484051206863638,1,2,fr,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-04-22T05:13:00+00:00,Switzerland,0.6479156962329702,1,2,fr,WCE,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-03-28T04:33:00+00:00,Madagascar,0.6451678769499339,1,1,fr,MDG,Africa
@@ -30,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-04-15T05:12:00+00:00,Chad,0.632261943408017,1,1,fr,SAH,Africa
 'bfeccaef3a',extremes,Storm,#b3b2b1,wmo,tempête corse du sud,2026-04-01T05:12:00+00:00,France,0.6318318378351655,1,2,fr,WCE,Europe
 '46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-04-15T05:12:00+00:00,Mali,0.6318170719446706,1,2,fr,WAF,Africa
+'b764ce0db1',extremes,Drought,#edc291,edo,sécheresse aux Seychelles,2026-04-08T05:01:00+00:00,Seychelles,0.6298873553455658,0,1,fr,EIO,Indian Ocean
 '84b82691f4',extremes,Snow Avalanche,#deddd5,wmo,avalanche corse du sud savoie haute corse,2026-04-15T05:12:00+00:00,France,0.6296894742936257,1,1,fr,WCE,Europe
 '6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-04-02T04:42:00+00:00,Saint Pierre and Miquelon,0.6296156123702731,1,1,fr,ENA,North-America
 'd64903af7d',extremes,Snow Avalanche,#deddd5,wmo,avalanche isère haute savoie,2026-03-28T04:33:00+00:00,France,0.6294382994707901,1,1,fr,WCE,Europe
