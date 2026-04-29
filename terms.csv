@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-03-23T04:42:00+00:00,France,0.6780227515963206,1,2,fr,WCE,Europe
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6614635337566243,1,2,fr,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6484051206863638,1,2,fr,WCE,Europe
-'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-04-22T05:13:00+00:00,Switzerland,0.6479156962329702,1,2,fr,WCE,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-03-28T04:33:00+00:00,Madagascar,0.6451678769499339,1,1,fr,MDG,Africa
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-04-26T05:25:00+00:00,Canada,0.6443742387990663,1,2,fr,NEN,North-America
 '06f31ff31a',extremes,Thunderstorm,#53785a,wmo,orage en Guinée,2026-04-23T05:16:00+00:00,Guinea,0.6412848838263601,1,1,fr,WAF,Africa
@@ -129,7 +128,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-04-09T04:58:00+00:00,Switzerland,0.5543402090803043,0,1,fr,WCE,Europe
 'ae2464a060',extremes,Flood,#030ba1,wmo,crue soudaine évoquant la région de Russell Creek,2026-04-27T05:40:00+00:00,Canada,0.5541499179550462,1,1,fr,NEN,North-America
 'cc87503cc8',extremes,Snow&Ice,#d60d2b,wmo,geler ulukhaktok,2026-03-21T04:17:00+00:00,Canada,0.5539611353810454,1,1,fr,NEN,North-America
-'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gel liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.5535664481395863,0,1,fr,WCE,Europe
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-04-05T05:01:00+00:00,Cameroon,0.5535295133401411,0,1,fr,CAF,Africa
 '26045faf18',extremes,Drought,#edc291,edo,sécheresse Egypte,2026-03-25T04:33:00+00:00,Egypt,0.5535152239599687,0,1,fr,SAH,Africa
 'e6daaf3c7a',extremes,Snow&Ice,#d60d2b,wmo,gel turbenthal sirnach,2026-04-17T05:16:00+00:00,Switzerland,0.5533662297713263,0,1,fr,WCE,Europe
@@ -140,6 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09649747d6',extremes,Storm,#b3b2b1,wmo,tempête saluit,2026-04-08T05:01:00+00:00,Canada,0.5521561571362648,1,1,fr,NEN,North-America
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neige,2026-03-26T04:56:00+00:00,Switzerland,0.5521100856132484,0,1,fr,WCE,Europe
 'ae54cfc8c7',extremes,Drought,#edc291,edo,période sèche wallis et futuna,2026-04-18T04:57:00+00:00,Wallis and Futuna,0.552079450031232,0,1,fr,SPO,Pacific Ocean
+'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-04-22T05:13:00+00:00,Switzerland,0.5519284617980247,2,2,fr,WCE,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête au Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5519101889742044,0,1,fr,SAM,South-America
 'b9c91ecf29',extremes,Snow&Ice,#d60d2b,wmo,parties intérieures de la côte centrale enneigée,2026-03-25T04:33:00+00:00,Canada,0.5515981856078388,1,1,fr,NEN,North-America
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,geler le hulftegg sous le Toggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.5515879664370965,0,1,fr,WCE,Europe
@@ -301,4 +300,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,fribourg glacial,2026-04-17T05:16:00+00:00,Switzerland,0.4727411266929599,1,1,fr,WCE,Europe
 'ccce84ab75',extremes,Drought,#edc291,edo,manque de pluie Egypte,2026-04-17T05:16:00+00:00,Egypt,0.4712547322291299,1,1,fr,SAH,Africa
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-04-14T05:11:00+00:00,Benin,0.4710397190120287,1,1,fr,WAF,Africa
-'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au Cambodge,2026-04-21T05:15:00+00:00,Cambodia,0.47075897797088706,1,1,fr,SEA,Asia
+'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au Cambodge,2026-04-21T05:15:00+00:00,Cambodia,0.470758977970887,1,1,fr,SEA,Asia
+'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gel liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.4705314809186484,1,1,fr,WCE,Europe
