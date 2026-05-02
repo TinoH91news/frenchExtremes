@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.7069071124980444,1,3,fr,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6850691485716218,2,2,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.6823356178925226,1,2,fr,MDG,Africa
+'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-05-01T05:54:00+00:00,Democratic Republic of the Congo,0.6784064895001988,0,1,fr,CAF,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-03-23T04:42:00+00:00,France,0.6780227515963206,1,2,fr,WCE,Europe
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,glace namur,2026-03-15T04:45:00+00:00,Belgium,0.6614635337566243,1,2,fr,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-04-01T05:12:00+00:00,Belgium,0.6484051206863638,1,2,fr,WCE,Europe
@@ -170,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-04-10T05:13:00+00:00,Brazil,0.5480100568341952,0,1,fr,SAM,South-America
 'bbe0fece74',extremes,Snow&Ice,#d60d2b,wmo,tourtmannal de glace,2026-04-17T05:16:00+00:00,Switzerland,0.5479885803067497,0,1,fr,WCE,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-04-26T05:25:00+00:00,Benin,0.5479376941761996,0,1,fr,WAF,Africa
+'414b6dc570',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-04-15T05:12:00+00:00,Guadeloupe,0.5478120666729417,0,1,fr,CAR,North-America
 'ad6ee89bce',extremes,Snow&Ice,#d60d2b,wmo,glace zurzach bülach,2026-04-21T05:15:00+00:00,Switzerland,0.5478070308078686,0,1,fr,WCE,Europe
 '73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gel maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.547681579980574,0,1,fr,WCE,Europe
 '93cfb397e8',extremes,Drought,#edc291,edo,période de sécheresse à Trinité-et-Tobago,2026-04-11T04:34:00+00:00,Trinidad and Tobago,0.5476812566969708,0,1,fr,NSA,North-America
@@ -177,14 +179,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,pluie Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5474067990478335,0,1,fr,SAM,South-America
 '2c5c641221',extremes,Storm,#b3b2b1,wmo,tempête sanikiluaq,2026-04-20T05:27:00+00:00,Canada,0.5471713583775496,1,1,fr,NEN,North-America
 '42d371f2ef',extremes,Storm,#b3b2b1,wmo,onde de tempête charron à chatouillement noir,2026-03-27T04:57:00+00:00,Canada,0.5471552702186521,1,1,fr,NEN,North-America
+'10b0bb1389',extremes,Snow&Ice,#d60d2b,wmo,pfungen de glace hettlingen,2026-04-22T05:13:00+00:00,Switzerland,0.5470415211119227,0,1,fr,WCE,Europe
 '4080bf3418',extremes,Snow&Ice,#d60d2b,wmo,geler les franches montagnes,2026-04-21T05:15:00+00:00,Switzerland,0.5470033028838945,0,1,fr,WCE,Europe
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,cyclone tropical États-Unis,2026-04-11T04:34:00+00:00,United States,0.5469455029960743,0,1,fr,CNA,North-America
 '6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-03-27T04:57:00+00:00,Rwanda,0.5468585104546397,0,1,fr,SEAF,Africa
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-04-27T05:40:00+00:00,Brazil,0.5464758580682691,0,1,fr,SAM,South-America
+'29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,glace du Lötschental Naters,2026-04-22T05:13:00+00:00,Switzerland,0.5463867543082752,0,1,fr,WCE,Europe
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,typhon États-Unis,2026-04-12T05:12:00+00:00,United States,0.54638480564371,0,1,fr,CNA,North-America
 '7ebbae0c9c',extremes,Snow&Ice,#d60d2b,wmo,geler brienz interlaken,2026-04-17T05:16:00+00:00,Switzerland,0.546308447771138,0,1,fr,WCE,Europe
 '17fe001f97',extremes,Snow&Ice,#d60d2b,wmo,McGregor à tête jaune glaciale,2026-03-25T04:33:00+00:00,Canada,0.5462886253975233,1,1,fr,NEN,North-America
 '1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,glâne de glace,2026-04-17T05:16:00+00:00,Switzerland,0.5462255405105727,0,1,fr,WCE,Europe
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.5459415512062052,0,1,fr,CNA,North-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neige au Brésil,2026-04-29T05:40:00+00:00,Brazil,0.5458663487815643,0,1,fr,SAM,South-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,"crue éclair, erie oh",2026-04-02T04:42:00+00:00,United States,0.5458409772564398,0,1,fr,CNA,North-America
 '6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gel du Limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.5456950801280229,0,1,fr,WCE,Europe
 '06f31ff31a',extremes,Thunderstorm,#53785a,wmo,orage en Guinée,2026-04-23T05:16:00+00:00,Guinea,0.5450921512524061,2,1,fr,WAF,Africa
