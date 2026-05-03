@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.7138823724180097,1,2,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.7106875512866172,1,2,fr,WAF,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.7069071124980444,1,3,fr,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6850691485716218,2,2,fr,WCE,Europe
@@ -25,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-04-14T05:11:00+00:00,France,0.6200199983014826,2,2,fr,WCE,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-04-11T04:34:00+00:00,Canada,0.6138346753473647,2,1,fr,NEN,North-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,inconnu États-Unis,2026-04-19T05:17:00+00:00,United States,0.6114616963986828,1,3,fr,ENA,North-America
+'2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.6086001965553083,2,2,fr,WCE,Europe
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-04-09T04:58:00+00:00,Democratic Republic of the Congo,0.6011775896065336,1,1,fr,CAF,Africa
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-04-13T05:28:00+00:00,Reunion,0.5991062211965038,1,2,fr,SIO,Africa
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-03-25T04:33:00+00:00,Republic of the Congo,0.5957552664171664,1,1,fr,CAF,Africa
@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,temps violent aux Seychelles,2026-04-27T05:40:00+00:00,Seychelles,0.5722272665352479,1,1,fr,EIO,Africa
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,fort de neige Hope Lansdowne House Ogoki,2026-04-09T04:58:00+00:00,Canada,0.5714908609171497,1,1,fr,NEN,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-01T05:12:00+00:00,Canada,0.5710346096847397,1,1,fr,NEN,North-America
-'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2026-04-25T05:00:00+00:00,Belgium,0.5706216919744551,1,1,fr,WCE,Europe
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-04-02T04:42:00+00:00,Ivory Coast,0.5704702756328537,1,1,fr,WAF,Africa
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,brouillard Flandre orientale,2026-04-25T05:00:00+00:00,Belgium,0.5704212596326583,1,1,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-04-23T05:17:00+00:00,France,0.5698964147567609,1,2,fr,WCE,Europe
@@ -136,7 +135,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête au Brésil,2026-04-11T04:34:00+00:00,Brazil,0.5519101889742044,0,1,fr,SAM,South-America
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-04-10T05:13:00+00:00,Seychelles,0.5518465603593411,1,1,fr,EIO,Indian Ocean
 'b9c91ecf29',extremes,Snow&Ice,#d60d2b,wmo,parties intérieures de la côte centrale enneigée,2026-03-25T04:33:00+00:00,Canada,0.5515981856078388,1,1,fr,NEN,North-America
-'6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,geler le hulftegg sous le Toggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.5515879664370965,0,1,fr,WCE,Europe
 '9c678b4258',extremes,Snow&Ice,#d60d2b,wmo,gel lugnez valsertal,2026-03-27T04:57:00+00:00,Switzerland,0.5514355389906767,0,1,fr,WCE,Europe
 'f22b289db8',extremes,Snow&Ice,#d60d2b,wmo,neige france,2026-03-26T04:56:00+00:00,France,0.551433720662017,2,3,fr,WCE,Europe
 '7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-03-29T05:00:00+00:00,Saint Martin,0.5509570532248227,0,1,fr,CAR,North-America
@@ -288,6 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '477776ee3b',extremes,Drought,#edc291,edo,sécheresse liban,2026-04-18T04:57:00+00:00,Lebanon,0.4866871986346239,1,1,fr,MED,Asia
 'e04d29c79b',extremes,Snow&Ice,#d60d2b,wmo,glace Glarus süd grostal,2026-03-27T04:57:00+00:00,Switzerland,0.4857681520813859,1,1,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-03-27T04:57:00+00:00,Guadeloupe,0.4850290851739823,1,1,fr,CAR,North-America
+'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2026-04-25T05:00:00+00:00,Belgium,0.48502843817828684,2,1,fr,WCE,Europe
 '41225e527b',extremes,Drought,#edc291,edo,période sèche en Polynésie française,2026-04-13T05:28:00+00:00,French Polynesia,0.4845724365777303,1,1,fr,SPO,Pacific Ocean
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,gel muotathal,2026-03-26T04:56:00+00:00,Switzerland,0.4845088101795556,1,1,fr,WCE,Europe
 'e09a3e3a50',extremes,Storm,#b3b2b1,wmo,onde de tempête corse du sud haute corse,2026-03-26T04:56:00+00:00,France,0.4831785613743355,1,1,fr,WCE,Europe
@@ -316,6 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-04-14T05:11:00+00:00,Benin,0.4710397190120287,1,1,fr,WAF,Africa
 'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au Cambodge,2026-04-21T05:15:00+00:00,Cambodia,0.470758977970887,1,1,fr,SEA,Asia
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-04-05T05:01:00+00:00,Cameroon,0.4705000863391199,1,1,fr,CAF,Africa
+'6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,geler le hulftegg sous le Toggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.468849771471532,1,1,fr,WCE,Europe
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.4645003635252744,1,1,fr,CNA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,typhon États-Unis,2026-04-12T05:12:00+00:00,United States,0.4644270847971534,1,1,fr,CNA,North-America
 '6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gel du Limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.4638408181088195,1,1,fr,WCE,Europe
