@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-04-11T04:34:00+00:00,Canada,0.722158441585135,1,2,fr,NEN,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.7138823724180097,1,2,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.7106875512866172,1,2,fr,WAF,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.7069071124980444,1,3,fr,WCE,Europe
@@ -22,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-04-11T04:34:00+00:00,Gabon,0.6282720924659244,1,1,fr,CAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-14T05:11:00+00:00,Madagascar,0.6238417244020737,1,1,fr,MDG,Africa
 'ed335bc364',extremes,Snow Avalanche,#deddd5,wmo,avalanche savoie,2026-04-14T05:11:00+00:00,France,0.6200199983014826,2,2,fr,WCE,Europe
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-04-11T04:34:00+00:00,Canada,0.6138346753473647,2,1,fr,NEN,North-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,inconnu États-Unis,2026-04-19T05:17:00+00:00,United States,0.6114616963986828,1,3,fr,ENA,North-America
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-04-09T04:58:00+00:00,Democratic Republic of the Congo,0.6011775896065336,1,1,fr,CAF,Africa
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-04-13T05:28:00+00:00,Reunion,0.5991062211965038,1,2,fr,SIO,Africa
@@ -179,11 +179,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17fe001f97',extremes,Snow&Ice,#d60d2b,wmo,McGregor à tête jaune glaciale,2026-03-25T04:33:00+00:00,Canada,0.5462886253975233,1,1,fr,NEN,North-America
 '1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,glâne de glace,2026-04-17T05:16:00+00:00,Switzerland,0.5462255405105727,0,1,fr,WCE,Europe
 '793d326ef1',extremes,Drought,#edc291,edo,manque de pluie wallis et futuna,2026-04-19T05:16:00+00:00,Wallis and Futuna,0.5459455254810488,0,1,fr,SPO,Pacific Ocean
-'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.5459415512062052,0,1,fr,CNA,North-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neige au Brésil,2026-04-29T05:40:00+00:00,Brazil,0.5458663487815643,0,1,fr,SAM,South-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,"crue éclair, erie oh",2026-04-02T04:42:00+00:00,United States,0.5458409772564398,0,1,fr,CNA,North-America
 'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-04-16T05:17:00+00:00,Seychelles,0.5457481536558315,0,1,fr,EIO,Indian Ocean
-'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gel du Limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.5456950801280229,0,1,fr,WCE,Europe
 '06f31ff31a',extremes,Thunderstorm,#53785a,wmo,orage en Guinée,2026-04-23T05:16:00+00:00,Guinea,0.5450921512524061,2,1,fr,WAF,Africa
 '27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,gel val de ruz colombier,2026-04-17T05:16:00+00:00,Switzerland,0.5450333667562997,0,1,fr,WCE,Europe
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-04-14T05:11:00+00:00,New Caledonia,0.544995583854834,1,1,fr,SPO,Oceania
@@ -312,4 +310,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-04-14T05:11:00+00:00,Benin,0.4710397190120287,1,1,fr,WAF,Africa
 'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au Cambodge,2026-04-21T05:15:00+00:00,Cambodia,0.470758977970887,1,1,fr,SEA,Asia
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-04-05T05:01:00+00:00,Cameroon,0.4705000863391199,1,1,fr,CAF,Africa
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.46450036352527446,1,1,fr,CNA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,typhon États-Unis,2026-04-12T05:12:00+00:00,United States,0.4644270847971534,1,1,fr,CNA,North-America
+'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gel du Limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.4638408181088195,1,1,fr,WCE,Europe
