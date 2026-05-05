@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.7722361752680479,0,1,fr,MDG,Africa
+'50e19e1c1f',extremes,Thunderstorm,#53785a,wmo,grêle guinée forestière,2026-04-24T05:22:00+00:00,Guinea,0.740758178445415,0,1,fr,WAF,Africa
+'3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-04-22T05:13:00+00:00,Central African Republic,0.7406883396158189,0,1,fr,CAF,Africa
+'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-05-05T05:29:00+00:00,France,0.7371927194329969,0,1,fr,WCE,Europe
+'6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.736055488319938,0,1,fr,WCE,Europe
+'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-05-04T05:50:00+00:00,France,0.7330743356278157,0,1,fr,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6850691485716218,2,2,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.6823356178925226,1,2,fr,MDG,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-03-23T04:42:00+00:00,France,0.6780227515963206,1,2,fr,WCE,Europe
@@ -259,7 +265,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-03-30T05:12:00+00:00,Benin,0.473819801786955,1,1,fr,WAF,Africa
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2026-04-13T05:28:00+00:00,Italy,0.4736664957240993,1,1,fr,MED,Europe
 'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-03-29T05:00:00+00:00,Seychelles,0.4736430296491059,1,1,fr,EIO,Indian Ocean
-'6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-04-19T05:16:00+00:00,Senegal,0.47335799194289124,1,1,fr,WAF,Africa
+'6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-04-19T05:16:00+00:00,Senegal,0.4733579919428912,1,1,fr,WAF,Africa
 '2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,fribourg glacial,2026-04-17T05:16:00+00:00,Switzerland,0.4727411266929599,1,1,fr,WCE,Europe
 'ccce84ab75',extremes,Drought,#edc291,edo,manque de pluie Egypte,2026-04-17T05:16:00+00:00,Egypt,0.4712547322291299,1,1,fr,SAH,Africa
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-04-09T04:58:00+00:00,Switzerland,0.4711891777182587,1,1,fr,WCE,Europe
@@ -272,7 +278,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,geler le hulftegg sous le Toggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.468849771471532,1,1,fr,WCE,Europe
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-31T05:00:00+00:00,Burkina Faso,0.4675090250359378,1,1,fr,WAF,Africa
 'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,glace kerenzerberg seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.4669464216849834,1,1,fr,WCE,Europe
-'07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.46646579306833497,1,1,fr,SPO,Oceania
+'07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.4664657930683349,1,1,fr,SPO,Oceania
 'be37d6f7a5',extremes,Snow&Ice,#d60d2b,wmo,effretikon glacial,2026-04-17T05:16:00+00:00,Switzerland,0.4660778515392717,1,1,fr,WCE,Europe
 'bbe0fece74',extremes,Snow&Ice,#d60d2b,wmo,tourtmannal de glace,2026-04-17T05:16:00+00:00,Switzerland,0.4657902932607372,1,1,fr,WCE,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-04-26T05:25:00+00:00,Benin,0.4657470400497697,1,1,fr,WAF,Africa
