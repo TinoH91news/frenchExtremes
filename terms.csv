@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.7722361752680479,0,1,fr,MDG,Africa
+'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.8065507639778408,1,2,fr,MDG,Africa
 '50e19e1c1f',extremes,Thunderstorm,#53785a,wmo,grêle guinée forestière,2026-04-24T05:22:00+00:00,Guinea,0.740758178445415,0,1,fr,WAF,Africa
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-04-22T05:13:00+00:00,Central African Republic,0.7406883396158189,0,1,fr,CAF,Africa
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-05-05T05:29:00+00:00,France,0.7371927194329969,0,1,fr,WCE,Europe
