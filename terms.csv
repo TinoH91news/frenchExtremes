@@ -25,13 +25,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-03-28T04:33:00+00:00,Martinique,0.6169081298974739,1,2,fr,CAR,North-America
 'e29021d398',extremes,Drought,#edc291,edo,manque de pluie nouvelle-calédonie,2026-05-04T05:50:00+00:00,New Caledonia,0.6163427275556365,0,1,fr,SPO,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-04-11T04:34:00+00:00,Canada,0.6138346753473647,2,1,fr,NEN,North-America
+'4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.6118412523554287,0,1,fr,WAF,Africa
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.6086001965553083,2,2,fr,WCE,Europe
+'8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-04-30T05:46:00+00:00,Djibouti,0.6063326013244422,0,1,fr,NEAF,Africa
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.6040844485936246,2,1,fr,WAF,Africa
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-04-09T04:58:00+00:00,Democratic Republic of the Congo,0.6011775896065336,1,1,fr,CAF,Africa
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-04-13T05:28:00+00:00,Reunion,0.5991062211965038,1,2,fr,SIO,Africa
+'1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2026-04-19T05:16:00+00:00,Tunisia,0.5961076373116616,0,1,fr,MED,Africa
+'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-04-21T05:15:00+00:00,Saint Pierre and Miquelon,0.5953015906556488,0,1,fr,ENA,North-America
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-03-27T04:57:00+00:00,Djibouti,0.5949539808422916,1,1,fr,NEAF,Africa
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-04-22T05:13:00+00:00,Burkina Faso,0.59291034314227,1,1,fr,WAF,Africa
+'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-04-21T05:15:00+00:00,Niger,0.5915803167750483,0,1,fr,SAH,Africa
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-03-28T04:33:00+00:00,Central African Republic,0.5907507947023142,1,1,fr,CAF,Africa
+'1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle belgique,2026-05-05T05:29:00+00:00,Belgium,0.5898636219069237,0,1,fr,WCE,Europe
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-04-14T05:11:00+00:00,Burundi,0.5894988543796363,1,1,fr,SEAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-04-08T05:01:00+00:00,Canada,0.5869829826724411,2,2,fr,NEN,North-America
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-04-17T05:16:00+00:00,French Guiana,0.5842127030095707,1,1,fr,NSA,South-America
