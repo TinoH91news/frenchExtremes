@@ -94,7 +94,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d3c3bf17',extremes,Precipitation,#d60d2b,wmo,pluie zone chibougamau manic 5,2026-04-30T05:46:00+00:00,Canada,0.5556727291863771,1,1,fr,NEN,North-America
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-04-09T04:58:00+00:00,Senegal,0.5554880904797145,2,2,fr,WAF,Africa
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-04-12T05:12:00+00:00,Mayotte,0.5547171858523089,1,1,fr,MDG,Africa
-'8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-04-01T05:12:00+00:00,Saint Martin,0.554475985815918,0,1,fr,CAR,North-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,glace au Brésil,2026-04-28T05:45:00+00:00,Brazil,0.5543250570246842,0,1,fr,SAM,South-America
 'ae2464a060',extremes,Flood,#030ba1,wmo,crue soudaine évoquant la région de Russell Creek,2026-04-27T05:40:00+00:00,Canada,0.5541499179550462,1,1,fr,NEN,North-America
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gel Meiringen Gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.5529525224587534,0,1,fr,WCE,Europe
@@ -271,6 +270,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,onde de tempête en Italie,2026-04-13T05:28:00+00:00,Italy,0.4736664957240993,1,1,fr,MED,Europe
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-04-19T05:16:00+00:00,Senegal,0.4733579919428912,1,1,fr,WAF,Africa
 '2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,fribourg glacial,2026-04-17T05:16:00+00:00,Switzerland,0.4727411266929599,1,1,fr,WCE,Europe
+'8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-04-01T05:12:00+00:00,Saint Martin,0.47145460294353025,1,1,fr,CAR,North-America
 'ccce84ab75',extremes,Drought,#edc291,edo,manque de pluie Egypte,2026-04-17T05:16:00+00:00,Egypt,0.4712547322291299,1,1,fr,SAH,Africa
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,geler sion crans montana,2026-04-09T04:58:00+00:00,Switzerland,0.4711891777182587,1,1,fr,WCE,Europe
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-04-14T05:11:00+00:00,Benin,0.4710397190120287,1,1,fr,WAF,Africa
@@ -281,7 +281,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae54cfc8c7',extremes,Drought,#edc291,edo,période sèche wallis et futuna,2026-04-18T04:57:00+00:00,Wallis and Futuna,0.4692675325265472,1,1,fr,SPO,Pacific Ocean
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,geler le hulftegg sous le Toggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.468849771471532,1,1,fr,WCE,Europe
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-03-31T05:00:00+00:00,Burkina Faso,0.4675090250359378,1,1,fr,WAF,Africa
-'9ceba27bb5',extremes,Heat Wave,#c40202,wmo,canicule au Brésil,2026-04-20T05:27:00+00:00,Brazil,0.46696074186521264,1,1,fr,SAM,South-America
+'9ceba27bb5',extremes,Heat Wave,#c40202,wmo,canicule au Brésil,2026-04-20T05:27:00+00:00,Brazil,0.4669607418652126,1,1,fr,SAM,South-America
 'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,glace kerenzerberg seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.4669464216849834,1,1,fr,WCE,Europe
 '07dbed13ea',extremes,Earthquake,#870007,usgs,tremblement de terre lakatoro,2026-04-01T05:12:00+00:00,Vanuatu,0.4664657930683349,1,1,fr,SPO,Oceania
 'be37d6f7a5',extremes,Snow&Ice,#d60d2b,wmo,effretikon glacial,2026-04-17T05:16:00+00:00,Switzerland,0.4660778515392717,1,1,fr,WCE,Europe
@@ -295,6 +295,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gel du Limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.4638408181088195,1,1,fr,WCE,Europe
 'cc0ac5e2f8',extremes,Drought,#edc291,edo,manque de pluie rwanda,2026-04-28T05:45:00+00:00,Rwanda,0.4631719562883354,1,1,fr,SEAF,Africa
 'cc4797e4e0',extremes,Snow&Ice,#d60d2b,wmo,Limmattal enneigé,2026-04-21T05:15:00+00:00,Switzerland,0.4618733240132593,1,1,fr,WCE,Europe
-'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-04-13T05:28:00+00:00,Burundi,0.42338277668486685,2,1,fr,SEAF,Africa
+'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-04-13T05:28:00+00:00,Burundi,0.4233827766848668,2,1,fr,SEAF,Africa
 'ad6ee89bce',extremes,Snow&Ice,#d60d2b,wmo,glace zurzach bülach,2026-04-21T05:15:00+00:00,Switzerland,0.3957905797586851,2,1,fr,WCE,Europe
 '29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,glace du Lötschental Naters,2026-04-22T05:13:00+00:00,Switzerland,0.3947644299877288,2,1,fr,WCE,Europe
