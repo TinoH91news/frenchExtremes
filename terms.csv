@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2257c371a7',extremes,Thunderstorm,#53785a,wmo,temps violent en Guinée,2026-05-13T06:03:00+00:00,Guinea,0.7445959993277459,0,1,fr,WAF,Africa
 '8efab12aed',extremes,Fog,#d60d2b,wmo,brouillard liège,2026-04-01T05:12:00+00:00,Belgium,0.6850691485716218,2,2,fr,WCE,Europe
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.6689945027795929,2,2,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-04-11T04:34:00+00:00,Senegal,0.6636218113045809,3,2,fr,WAF,Africa
@@ -187,7 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-04-23T05:17:00+00:00,Mauritius,0.4822497852916986,1,1,fr,SIO,Indian Ocean
 '72dc78d04d',extremes,Precipitation,#d60d2b,wmo,précipitation de la baie rouge à l'anse au clair,2026-05-07T05:46:00+00:00,Canada,0.4821618023546198,2,1,fr,NEN,North-America
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,glacial taloyoak gjoahaven,2026-04-09T04:58:00+00:00,Canada,0.481997073619811,2,1,fr,NEN,North-America
-'3247b165df',extremes,Snow&Ice,#d60d2b,wmo,geler prince albert nat. parc,2026-04-08T05:01:00+00:00,Canada,0.48180790151819813,2,1,fr,NEN,North-America
+'3247b165df',extremes,Snow&Ice,#d60d2b,wmo,geler prince albert nat. parc,2026-04-08T05:01:00+00:00,Canada,0.4818079015181981,2,1,fr,NEN,North-America
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,dempster glacial,2026-04-13T05:28:00+00:00,Canada,0.4813441943318651,2,1,fr,NEN,North-America
 'af424fc09f',extremes,Snow&Ice,#d60d2b,wmo,geler à Qikiqtarjuaq,2026-05-08T05:16:00+00:00,Canada,0.4808355694650823,2,1,fr,NEN,North-America
 '4e3ce59b1d',extremes,Snow&Ice,#d60d2b,wmo,havre de glace de gjoa,2026-04-14T05:11:00+00:00,Canada,0.48042270683458,2,1,fr,NEN,North-America
