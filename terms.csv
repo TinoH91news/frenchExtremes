@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-25T05:00:00+00:00,France,0.6044806919123737,2,2,fr,WCE,Europe
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-04-14T05:11:00+00:00,Canada,0.5959516042264581,3,2,fr,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-04-08T05:01:00+00:00,Canada,0.5869829826724411,2,2,fr,NEN,North-America
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-04-08T05:01:00+00:00,Canada,0.5833923182769855,1,1,fr,NEN,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.5828829547239899,3,1,fr,MDG,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.5802853052086442,2,2,fr,MDG,Africa
 '2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-04-23T05:17:00+00:00,Burundi,0.5789930115567656,1,1,fr,SEAF,Africa
@@ -240,8 +239,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-04-30T05:46:00+00:00,Republic of the Congo,0.4595952332974955,2,1,fr,CAF,Africa
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-04-15T05:12:00+00:00,French Guiana,0.456290450859089,2,1,fr,NSA,South-America
 '90fce750f8',extremes,Fog,#d60d2b,wmo,brouillard hainaut,2026-05-04T05:50:00+00:00,Belgium,0.454200658916575,2,1,fr,WCE,Europe
-'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-25T05:00:00+00:00,Reunion,0.45302302441654474,2,1,fr,SIO,Africa
-'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-04-26T05:25:00+00:00,Comoros,0.45032942654467756,2,1,fr,ESAF,Africa
+'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-25T05:00:00+00:00,Reunion,0.4530230244165447,2,1,fr,SIO,Africa
+'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-04-26T05:25:00+00:00,Comoros,0.4503294265446775,2,1,fr,ESAF,Africa
 '9cc89ecafa',extremes,Precipitation,#d60d2b,wmo,averse blanc sablon,2026-05-08T05:16:00+00:00,Canada,0.4499963385320602,2,1,fr,NEN,North-America
 'aab9eed65e',extremes,Storm,#b3b2b1,wmo,onde de tempête baker lac arviat,2026-05-01T05:54:00+00:00,Canada,0.4480618182292522,2,1,fr,NEN,North-America
 'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-04-16T05:17:00+00:00,Ivory Coast,0.4473146027473156,2,1,fr,WAF,Africa
@@ -250,8 +249,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-07T05:46:00+00:00,French Guiana,0.4431239045350414,2,1,fr,NSA,South-America
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,averse luxembourg,2026-05-10T05:51:00+00:00,Luxembourg,0.4430842861838018,2,1,fr,WCE,Europe
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-04-13T05:28:00+00:00,French Southern Territories,0.4427436234010588,2,1,fr,SOO,Antarctica
-'9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-04-18T04:57:00+00:00,Equatorial Guinea,0.44105065714992087,2,1,fr,WAF,Africa
-'629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2026-04-21T05:15:00+00:00,Reunion,0.44076446609389563,2,1,fr,SIO,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-04-18T04:57:00+00:00,Equatorial Guinea,0.4410506571499208,2,1,fr,WAF,Africa
+'629cac4d2a',extremes,Drought,#edc291,edo,manque de pluie réunion,2026-04-21T05:15:00+00:00,Reunion,0.4407644660938956,2,1,fr,SIO,Africa
 '6852666385',extremes,Earthquake,#870007,usgs,tremblement de terre port mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.4406183842242975,2,1,fr,SIO,Indian Ocean
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-05-04T05:50:00+00:00,Togo,0.4255697031185033,2,1,fr,WAF,Africa
 'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-04-13T05:28:00+00:00,Burundi,0.4233827766848668,2,1,fr,SEAF,Africa
