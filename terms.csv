@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,averse tchad,2026-05-14T06:02:00+00:00,Chad,0.748753773210734,0,1,fr,SAH,Africa
-'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-01T05:54:00+00:00,France,0.6940352850698277,0,1,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-02T05:24:00+00:00,Senegal,0.6840357431813451,0,1,fr,WAF,Africa
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-04-30T05:46:00+00:00,Canada,0.6810974005061436,0,1,fr,NEN,North-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.656395702362654,3,3,fr,WCE,Europe
@@ -14,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,brouillard belgique,2026-04-01T05:12:00+00:00,Belgium,0.6086001965553083,2,2,fr,WCE,Europe
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-25T05:00:00+00:00,France,0.6044806919123737,2,2,fr,WCE,Europe
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-04-14T05:11:00+00:00,Canada,0.5959516042264581,3,2,fr,NEN,North-America
+'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-01T05:54:00+00:00,France,0.5900800073093535,1,1,fr,WCE,Europe
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-04-08T05:01:00+00:00,Canada,0.5869829826724411,2,2,fr,NEN,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.5828829547239899,3,1,fr,MDG,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-02T04:42:00+00:00,Madagascar,0.5802853052086442,2,2,fr,MDG,Africa
