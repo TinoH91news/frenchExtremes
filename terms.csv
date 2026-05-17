@@ -76,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempête trinité et tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.5128041421107952,1,1,fr,NSA,North-America
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,averse vanuatu,2026-04-27T05:40:00+00:00,Vanuatu,0.5124803986242916,1,1,fr,SPO,Oceania
 'c26af82e4b',extremes,Precipitation,#d60d2b,wmo,averse sur les îles du sud.,2026-04-25T05:00:00+00:00,Vanuatu,0.5122944785167204,1,1,fr,SPO,Oceania
-'80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-04-15T05:12:00+00:00,Belgium,0.5120199079478032,1,1,fr,WCE,Europe
 '85b5cc5988',extremes,Precipitation,#d60d2b,wmo,pluie péninsule de Burin,2026-04-22T05:13:00+00:00,Canada,0.5113443744173252,1,1,fr,NEN,North-America
 'e59cc5e7cf',extremes,Precipitation,#d60d2b,wmo,"averse, lac Lynn, rapides à feuilles, pukatawagan",2026-05-03T05:44:00+00:00,Canada,0.5111165734921144,1,1,fr,NEN,North-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,onde de tempête vanuatu,2026-04-23T05:16:00+00:00,Vanuatu,0.5109140047381331,1,1,fr,SPO,Oceania
@@ -105,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.4952753539964832,2,2,fr,CNA,North-America
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-04-22T05:13:00+00:00,Mali,0.4952493162219768,2,1,fr,WAF,Africa
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-04-22T05:13:00+00:00,Switzerland,0.4949084881029243,1,1,fr,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-04-15T05:12:00+00:00,Belgium,0.4948594244479404,2,1,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-02T05:24:00+00:00,Senegal,0.4944933799485218,2,1,fr,WAF,Africa
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-04-16T05:17:00+00:00,France,0.4941307090727233,1,2,fr,WCE,Europe
 '26060dfac7',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux du sud.,2026-04-24T05:22:00+00:00,Vanuatu,0.4932529981752497,1,1,fr,SPO,Oceania
