@@ -12,8 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-30T05:46:00+00:00,Canada,0.5992641557949884,2,1,fr,NEN,North-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-04-14T05:11:00+00:00,Canada,0.5959516042264581,3,2,fr,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-04-08T05:01:00+00:00,Canada,0.5869829826724411,2,2,fr,NEN,North-America
-'04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-05-11T06:14:00+00:00,Reunion,0.5859033345519562,1,1,fr,SIO,Africa
-'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-05-16T05:40:00+00:00,Burkina Faso,0.5847398070864751,1,1,fr,WAF,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-04-17T05:16:00+00:00,Madagascar,0.5828829547239899,3,1,fr,MDG,Africa
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-05-02T05:24:00+00:00,Ivory Coast,0.5809843250548852,1,1,fr,WAF,Africa
 '2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-04-23T05:17:00+00:00,Burundi,0.5789930115567656,1,1,fr,SEAF,Africa
@@ -31,7 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09649747d6',extremes,Storm,#b3b2b1,wmo,tempête saluit,2026-05-12T05:52:00+00:00,Canada,0.5549845014821067,1,1,fr,NEN,North-America
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-04-22T05:13:00+00:00,Switzerland,0.5519284617980247,2,2,fr,WCE,Europe
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-04-24T05:22:00+00:00,Benin,0.5513698844224053,1,1,fr,WAF,Africa
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-04-22T05:13:00+00:00,Canada,0.5506207662946765,1,1,fr,NEN,North-America
 'ff6f89bcef',extremes,Thunderstorm,#53785a,wmo,grêle corse du sud,2026-04-15T05:12:00+00:00,France,0.5502481124788083,1,1,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.5501745406614929,1,1,fr,WAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-30T05:46:00+00:00,Madagascar,0.549908595645033,2,1,fr,MDG,Africa
@@ -46,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-04-22T05:13:00+00:00,Comoros,0.5390450847656773,1,1,fr,ESAF,Africa
 '1ee12d6f3b',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère,2026-05-06T05:43:00+00:00,France,0.5383214249731022,2,1,fr,WCE,Europe
 '2257c371a7',extremes,Thunderstorm,#53785a,wmo,temps violent en Guinée,2026-05-13T06:03:00+00:00,Guinea,0.5379706095142963,2,1,fr,WAF,Africa
-'104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-04-15T05:12:00+00:00,Chad,0.5375726668968145,2,1,fr,SAH,Africa
 '46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-04-15T05:12:00+00:00,Mali,0.53704452615297,2,1,fr,WAF,Africa
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-04-22T05:13:00+00:00,Switzerland,0.5367418701882153,2,1,fr,WCE,Europe
 '84b82691f4',extremes,Snow Avalanche,#deddd5,wmo,avalanche corse du sud savoie haute corse,2026-04-15T05:12:00+00:00,France,0.5352360531495818,2,1,fr,WCE,Europe
@@ -100,6 +96,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-05-14T06:02:00+00:00,Ivory Coast,0.4996445841223567,2,1,fr,WAF,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-02T05:24:00+00:00,French Polynesia,0.4986246825074687,2,1,fr,SPO,Pacific Ocean
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-04-17T05:16:00+00:00,French Southern Territories,0.4985970799852462,2,1,fr,SOO,Antarctica
+'04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-05-11T06:14:00+00:00,Reunion,0.49801783436916275,2,1,fr,SIO,Africa
+'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-05-16T05:40:00+00:00,Burkina Faso,0.49702883602350384,2,1,fr,WAF,Africa
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-04-17T05:16:00+00:00,French Guiana,0.4965807975581351,2,1,fr,NSA,South-America
 'd99be7f2ac',extremes,Drought,#edc291,edo,manque de pluie tchad,2026-05-04T05:50:00+00:00,Chad,0.495324183066968,1,1,fr,SAH,Africa
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ouragan États-Unis,2026-04-12T05:12:00+00:00,United States,0.4952753539964832,2,2,fr,CNA,North-America
