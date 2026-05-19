@@ -1,10 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-05-19T06:33:00+00:00,Central African Republic,0.6882017632320309,0,1,fr,CAF,Africa
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-05-19T06:33:00+00:00,Canada,0.6796935710375176,0,1,fr,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-05-01T05:54:00+00:00,Canada,0.6554349170302888,1,2,fr,NEN,North-America
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-04-09T04:58:00+00:00,France,0.6553858045743193,2,3,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-05-05T05:29:00+00:00,France,0.6538006611604701,2,3,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.6532167356368419,2,3,fr,WCE,Europe
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
+'86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-05-06T05:43:00+00:00,Saint Pierre and Miquelon,0.6413018200028734,0,1,fr,ENA,North-America
 '95b5264574',extremes,Heat Wave,#c40202,wmo,canicule canada,2026-05-18T06:38:00+00:00,Canada,0.6279530267444073,1,2,fr,NEN,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
