@@ -5,10 +5,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.6532167356368419,2,3,fr,WCE,Europe
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
-'60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-05-04T05:50:00+00:00,French Polynesia,0.6442293144649994,0,1,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
-'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-05-19T06:33:00+00:00,Canada,0.60848961038189,1,1,fr,NEN,North-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.6052867070082559,4,3,fr,WCE,Europe
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-25T05:00:00+00:00,France,0.6044806919123737,2,2,fr,WCE,Europe
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-30T05:46:00+00:00,Canada,0.5992641557949884,2,1,fr,NEN,North-America
@@ -36,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff6f89bcef',extremes,Thunderstorm,#53785a,wmo,grêle corse du sud,2026-04-15T05:12:00+00:00,France,0.5502481124788083,1,1,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.5501745406614929,1,1,fr,WAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-30T05:46:00+00:00,Madagascar,0.549908595645033,2,1,fr,MDG,Africa
+'60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-05-04T05:50:00+00:00,French Polynesia,0.5475949172952495,1,1,fr,SPO,Pacific Ocean
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-04-22T05:13:00+00:00,Cameroon,0.5454340119150509,1,1,fr,CAF,Africa
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-05-06T05:43:00+00:00,Saint Pierre and Miquelon,0.5451065470024423,1,1,fr,ENA,North-America
 '06f31ff31a',extremes,Thunderstorm,#53785a,wmo,orage en Guinée,2026-04-23T05:16:00+00:00,Guinea,0.5450921512524061,2,1,fr,WAF,Africa
@@ -68,9 +67,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5200650645021144,1,1,fr,WAF,Africa
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,inconnu États-Unis,2026-04-19T05:17:00+00:00,United States,0.5197429069388803,2,2,fr,ENA,North-America
 '11b4484b9a',extremes,Drought,#edc291,edo,manque de pluie mayotte,2026-04-13T05:28:00+00:00,Mayotte,0.518210976476437,1,1,fr,MDG,Africa
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-05-19T06:33:00+00:00,Canada,0.5179662438246064,2,1,fr,NEN,North-America
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,pluie belgique,2026-05-05T05:29:00+00:00,Belgium,0.5171330681662948,2,3,fr,WCE,Europe
 'a037e54a9b',extremes,Drought,#edc291,edo,sécheresse tunisie,2026-04-22T05:13:00+00:00,Tunisia,0.5170742319730749,1,1,fr,MED,Africa
-'28cf44e53a',extremes,Drought,#edc291,edo,sécheresse nouvelle-calédonie,2026-04-11T04:34:00+00:00,New Caledonia,0.5155234156460132,1,1,fr,SPO,Oceania
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-04-30T05:46:00+00:00,Djibouti,0.5153827111257758,1,1,fr,NEAF,Africa
 '45ad0e811d',extremes,Storm,#b3b2b1,wmo,onde de tempête dans toutes les eaux côtières du Vanuatu.,2026-05-11T06:14:00+00:00,Vanuatu,0.5152204967966081,1,1,fr,SPO,Oceania
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempête trinité et tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.5128041421107952,1,1,fr,NSA,North-America
