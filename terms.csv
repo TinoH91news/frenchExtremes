@@ -1,11 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-05-19T06:33:00+00:00,Canada,0.670995737571723,0,1,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-05-05T05:29:00+00:00,France,0.6538006611604701,2,3,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.6532167356368419,2,3,fr,WCE,Europe
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
+'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-05-06T05:43:00+00:00,Republic of the Congo,0.6190133423979368,0,1,fr,CAF,Africa
+'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-05-12T05:53:00+00:00,Togo,0.6166705689505027,0,1,fr,WAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-04-22T05:13:00+00:00,Cameroon,0.6137689251277932,2,2,fr,CAF,Africa
+'5d5feeb7da',extremes,Drought,#edc291,edo,sécheresse comores,2026-05-06T05:43:00+00:00,Comoros,0.6110317180081043,0,1,fr,ESAF,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.6052867070082559,4,3,fr,WCE,Europe
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-25T05:00:00+00:00,France,0.6044806919123737,2,2,fr,WCE,Europe
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-30T05:46:00+00:00,Canada,0.5992641557949884,2,1,fr,NEN,North-America
@@ -177,18 +181,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-04-21T05:15:00+00:00,Djibouti,0.4598998349601245,3,1,fr,NEAF,Africa
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-04-30T05:46:00+00:00,Republic of the Congo,0.4595952332974955,2,1,fr,CAF,Africa
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-05-08T05:16:00+00:00,French Southern Territories,0.4587063055089055,2,1,fr,SOO,Antarctica
-'8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-04-22T05:13:00+00:00,Comoros,0.45818832205082566,2,1,fr,ESAF,Africa
+'8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-04-22T05:13:00+00:00,Comoros,0.4581883220508256,2,1,fr,ESAF,Africa
 '1ee12d6f3b',extremes,Snow Avalanche,#deddd5,wmo,avalanche hautes alpes isère,2026-05-06T05:43:00+00:00,France,0.4575732112271368,3,1,fr,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-04-22T05:13:00+00:00,Switzerland,0.457430709659983,3,1,fr,WCE,Europe
 '491a82f8c3',extremes,Drought,#edc291,edo,période sèche au Cameroun,2026-05-02T05:24:00+00:00,Cameroon,0.4574283851856762,2,1,fr,CAF,Africa
 '570cef0368',extremes,Storm,#b3b2b1,wmo,tempête peawanuck,2026-04-17T05:16:00+00:00,Canada,0.4556822064919073,2,1,fr,NEN,North-America
-'085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-08T05:16:00+00:00,New Caledonia,0.45480795019487313,2,1,fr,SPO,Oceania
+'085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-08T05:16:00+00:00,New Caledonia,0.4548079501948731,2,1,fr,SPO,Oceania
 '90fce750f8',extremes,Fog,#d60d2b,wmo,brouillard hainaut,2026-05-04T05:50:00+00:00,Belgium,0.454200658916575,2,1,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-25T05:00:00+00:00,Reunion,0.4530230244165447,2,1,fr,SIO,Africa
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-05-05T05:29:00+00:00,Mayotte,0.45106285153004283,2,1,fr,MDG,Africa
+'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-05-05T05:29:00+00:00,Mayotte,0.4510628515300428,2,1,fr,MDG,Africa
 '2aef2e450f',extremes,Snow&Ice,#d60d2b,wmo,blanc sablon glacé,2026-04-23T05:16:00+00:00,Canada,0.450755454655957,2,1,fr,NEN,North-America
 'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-04-26T05:25:00+00:00,Comoros,0.4503294265446775,2,1,fr,ESAF,Africa
-'19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-11T06:14:00+00:00,Saint Barthelemy,0.45013788554295686,2,1,fr,CAR,North-America
+'19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-11T06:14:00+00:00,Saint Barthelemy,0.4501378855429568,2,1,fr,CAR,North-America
 '9cc89ecafa',extremes,Precipitation,#d60d2b,wmo,averse blanc sablon,2026-05-08T05:16:00+00:00,Canada,0.4499963385320602,2,1,fr,NEN,North-America
 'aab9eed65e',extremes,Storm,#b3b2b1,wmo,onde de tempête baker lac arviat,2026-05-01T05:54:00+00:00,Canada,0.4480618182292522,2,1,fr,NEN,North-America
 '8fd8f60bb8',extremes,Precipitation,#d60d2b,wmo,pluie minganie,2026-05-10T05:51:00+00:00,Canada,0.4457131892059066,2,1,fr,NEN,North-America
