@@ -4,8 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
-'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-05-06T05:43:00+00:00,Republic of the Congo,0.6190133423979368,0,1,fr,CAF,Africa
-'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-05-12T05:53:00+00:00,Togo,0.6166705689505027,0,1,fr,WAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-04-22T05:13:00+00:00,Cameroon,0.6137689251277932,2,2,fr,CAF,Africa
 '5d5feeb7da',extremes,Drought,#edc291,edo,sécheresse comores,2026-05-06T05:43:00+00:00,Comoros,0.6110317180081043,0,1,fr,ESAF,Africa
@@ -47,6 +45,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-04-18T04:57:00+00:00,Gabon,0.5282653807054087,2,1,fr,CAF,Africa
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,tempête en Grèce,2026-04-17T05:16:00+00:00,Greece,0.5280638209575215,2,2,fr,MED,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-04-19T05:16:00+00:00,Madagascar,0.5273455424279668,2,1,fr,MDG,Africa
+'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-05-06T05:43:00+00:00,Republic of the Congo,0.5261613410382463,1,1,fr,CAF,Africa
+'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-05-12T05:53:00+00:00,Togo,0.5243199986079272,1,1,fr,WAF,Africa
 'b4ff03a9ce',extremes,Snow&Ice,#d60d2b,wmo,le sens de la neige à Berne,2026-04-21T05:15:00+00:00,Switzerland,0.520314951857464,2,1,fr,WCE,Europe
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,inconnu États-Unis,2026-04-19T05:17:00+00:00,United States,0.5197429069388803,2,2,fr,ENA,North-America
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-04-21T05:15:00+00:00,France,0.5184750985834733,4,1,fr,WCE,Europe
