@@ -1,10 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-09T05:36:00+00:00,Madagascar,0.7334600242153958,0,1,fr,MDG,Africa
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-05-03T05:44:00+00:00,Canada,0.6828158133373303,0,1,fr,NEN,North-America
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-05-05T05:29:00+00:00,France,0.6538006611604701,2,3,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.6532167356368419,2,3,fr,WCE,Europe
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-05-21T06:35:00+00:00,Chad,0.6319199851545497,1,1,fr,SAH,Africa
+'085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-08T05:16:00+00:00,New Caledonia,0.6294919725880597,0,1,fr,SPO,Oceania
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
+'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-05T05:29:00+00:00,French Guiana,0.6260091818990533,0,1,fr,NSA,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-04-22T05:13:00+00:00,Cameroon,0.6137689251277932,2,2,fr,CAF,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-04-08T05:01:00+00:00,France,0.6052867070082559,4,3,fr,WCE,Europe
