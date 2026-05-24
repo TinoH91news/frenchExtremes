@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.7700010924769719,0,1,fr,MDG,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-05-05T05:29:00+00:00,France,0.7451352469816261,0,1,fr,WCE,Europe
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-05-05T05:29:00+00:00,Benin,0.741815352917983,0,1,fr,WAF,Africa
-'907a393546',extremes,Precipitation,#d60d2b,wmo,averse naujaat,2026-05-24T06:22:00+00:00,Canada,0.6796567241933094,0,1,fr,NEN,North-America
+'92035e2c20',extremes,Drought,#edc291,edo,période sèche à Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.6546509436054261,1,1,fr,MDG,Africa
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-23T05:16:00+00:00,Canada,0.6286019952186997,2,2,fr,NEN,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
@@ -15,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-09T05:36:00+00:00,Madagascar,0.5942299229956234,2,2,fr,MDG,Africa
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5922053198267972,2,2,fr,WAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-05-03T05:44:00+00:00,Canada,0.5813610279089492,2,2,fr,NEN,North-America
+'907a393546',extremes,Precipitation,#d60d2b,wmo,averse naujaat,2026-05-24T06:22:00+00:00,Canada,0.577708215564313,1,1,fr,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-04-15T05:12:00+00:00,Canada,0.5748509076510808,2,2,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.5719294562069269,3,1,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.5647323348367701,3,3,fr,WCE,Europe
