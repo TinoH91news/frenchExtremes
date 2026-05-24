@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-05-09T05:36:00+00:00,Saint Pierre and Miquelon,0.6646413369875591,0,1,fr,ENA,North-America
+'46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-05-14T06:02:00+00:00,Mali,0.6620167301862381,0,1,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.6532167356368419,2,3,fr,WCE,Europe
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
+'d427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-05-05T05:29:00+00:00,Martinique,0.6522637061509414,0,1,fr,CAR,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.6479755484787376,2,1,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-23T05:16:00+00:00,Canada,0.6286019952186997,2,2,fr,NEN,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
@@ -205,7 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,grêle vanuatu,2026-04-26T05:25:00+00:00,Vanuatu,0.4299844494409119,2,1,fr,SPO,Oceania
 '4f0eb9c78f',extremes,Earthquake,#870007,usgs,tremblement de terre mata utu,2026-05-04T05:49:00+00:00,Wallis and Futuna,0.4299389165003094,2,1,fr,SPO,Pacific Ocean
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-04-21T05:15:00+00:00,Niger,0.4275667938699724,2,1,fr,SAH,Africa
-'37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-05-05T05:29:00+00:00,French Southern Territories,0.42621028428901014,3,1,fr,SOO,Antarctica
+'37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-05-05T05:29:00+00:00,French Southern Territories,0.4262102842890101,3,1,fr,SOO,Antarctica
 '1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle belgique,2026-05-05T05:29:00+00:00,Belgium,0.4261764668277523,2,1,fr,WCE,Europe
 '0a8eae5dc5',extremes,Precipitation,#d60d2b,wmo,précipitation gatineau,2026-04-29T05:40:00+00:00,Canada,0.4257485124477686,2,1,fr,NEN,North-America
 'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-05-04T05:50:00+00:00,Togo,0.4255697031185033,2,1,fr,WAF,Africa
