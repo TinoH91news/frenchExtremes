@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,glace france,2026-04-11T04:34:00+00:00,France,0.652673976071281,3,3,fr,WCE,Europe
+'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-05-09T05:36:00+00:00,Mayotte,0.6406356519162614,0,1,fr,MDG,Africa
+'b6d990785b',extremes,Flood,#030ba1,emdat,inondation province d'uvira sud-kivu,2026-05-21T06:35:00+00:00,Democratic Republic of the Congo,0.6316150039277436,0,1,fr,CAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-23T05:16:00+00:00,Canada,0.6286019952186997,2,2,fr,NEN,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.6177983745622689,2,2,fr,WAF,Africa
@@ -51,7 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-05-19T06:33:00+00:00,Benin,0.4979473821464706,2,1,fr,WAF,Africa
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-05-19T06:33:00+00:00,Central African Republic,0.4972257739351423,2,1,fr,CAF,Africa
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-05-16T05:40:00+00:00,Burkina Faso,0.4970288360235038,2,1,fr,WAF,Africa
-'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-05-12T05:53:00+00:00,Gabon,0.49551601493748304,2,1,fr,CAF,Africa
+'7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-05-12T05:53:00+00:00,Gabon,0.495516014937483,2,1,fr,CAF,Africa
 'd04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-04-22T05:13:00+00:00,Mali,0.4952493162219768,2,1,fr,WAF,Africa
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-02T05:24:00+00:00,Senegal,0.4944933799485218,2,1,fr,WAF,Africa
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-04-16T05:17:00+00:00,France,0.4941307090727233,1,2,fr,WCE,Europe
@@ -105,7 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-04-17T05:16:00+00:00,Niger,0.4762729493149669,1,1,fr,SAH,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-05-01T05:54:00+00:00,Canada,0.4755020755543836,3,1,fr,NEN,North-America
 '03e8940f51',extremes,Snow&Ice,#d60d2b,wmo,glace sumiswald worb,2026-04-17T05:16:00+00:00,Switzerland,0.4752097717396586,1,1,fr,WCE,Europe
-'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-04-22T05:13:00+00:00,Switzerland,0.47428237915350396,3,2,fr,WCE,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gel suisse,2026-04-22T05:13:00+00:00,Switzerland,0.4742823791535039,3,2,fr,WCE,Europe
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,"onde de tempête dans le comté d'Inverness, Mabou et nord",2026-04-20T05:27:00+00:00,Canada,0.4736438105653824,2,1,fr,NEN,North-America
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-04-19T05:16:00+00:00,Senegal,0.4733579919428912,1,1,fr,WAF,Africa
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-04-21T05:15:00+00:00,Mayotte,0.4733449408437607,2,1,fr,MDG,Africa
