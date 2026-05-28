@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-05-14T06:02:00+00:00,Saint Martin,0.6313676173887152,0,1,fr,CAR,North-America
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-05-12T05:52:00+00:00,Switzerland,0.6259022740768909,0,1,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.6177983745622689,2,2,fr,WAF,Africa
@@ -33,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-02T05:24:00+00:00,Democratic Republic of the Congo,0.539546405308235,2,1,fr,CAF,Africa
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-05-25T06:53:00+00:00,Canada,0.5388103791993172,1,1,fr,NEN,North-America
 '2257c371a7',extremes,Thunderstorm,#53785a,wmo,temps violent en Guinée,2026-05-13T06:03:00+00:00,Guinea,0.5379706095142963,2,1,fr,WAF,Africa
+'8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-05-14T06:02:00+00:00,Saint Martin,0.5372625347804079,1,1,fr,CAR,North-America
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-05-21T06:35:00+00:00,Chad,0.5371319873813672,2,1,fr,SAH,Africa
 'b6d990785b',extremes,Flood,#030ba1,emdat,inondation province d'uvira sud-kivu,2026-05-21T06:35:00+00:00,Democratic Republic of the Congo,0.5368727533385821,1,1,fr,CAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-23T05:16:00+00:00,Canada,0.5365619209358948,3,2,fr,NEN,North-America
