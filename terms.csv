@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7703359627984158,1,3,fr,,
-'3ca12a416d',extremes,Precipitation,#d60d2b,wmo,pluie république du congo,2026-05-29T06:38:00+00:00,Republic of the Congo,0.7427984143932007,0,1,fr,CAF,Africa
+'2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7298997333786534,2,3,fr,,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,canicule anvers,2026-05-29T06:38:00+00:00,Belgium,0.648300083517004,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
+'3ca12a416d',extremes,Precipitation,#d60d2b,wmo,pluie république du congo,2026-05-29T06:38:00+00:00,Republic of the Congo,0.6313786522342206,1,1,fr,CAF,Africa
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-05-12T05:52:00+00:00,Switzerland,0.6262748202730496,1,2,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.6177983745622689,2,2,fr,WAF,Africa
