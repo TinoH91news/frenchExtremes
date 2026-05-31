@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,canicule européenne bordeaux,2026-05-30T06:01:00+00:00,France,0.7696759062923821,0,1,fr,,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7298997333786534,2,3,fr,,
-'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-05-30T06:01:00+00:00,Canada,0.6840659240403846,0,1,fr,NEN,North-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,canicule européenne bordeaux,2026-05-30T06:01:00+00:00,France,0.6542245203485249,1,1,fr,,
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-05-16T05:40:00+00:00,Benin,0.6368237829309485,1,1,fr,WAF,Africa
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6344673112925152,2,1,fr,,
@@ -20,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-30T05:46:00+00:00,Canada,0.5992641557949884,2,1,fr,NEN,North-America
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-05-26T06:31:00+00:00,Belgium,0.594552996666315,2,2,fr,WCE,Europe
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5922053198267972,2,2,fr,WAF,Africa
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-05-30T06:01:00+00:00,Canada,0.5819060804343269,1,1,fr,NEN,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-05-03T05:44:00+00:00,Canada,0.5813610279089492,2,2,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-05-10T05:51:00+00:00,Canada,0.572087826477489,1,1,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.5719294562069269,3,1,fr,WCE,Europe
@@ -95,21 +95,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71042959f2',extremes,Flood,#030ba1,wmo,inondation du vieux corbeau du Yukon,2026-05-09T05:36:00+00:00,Canada,0.4864592610704186,2,1,fr,NEN,North-America
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,temps violent aux Seychelles,2026-04-27T05:40:00+00:00,Seychelles,0.4863931765549607,2,1,fr,EIO,Africa
 'dde2ab1c8d',extremes,Flood,#030ba1,wmo,crue éclair de la rivière Nordenskiold Carmacks,2026-05-07T05:46:00+00:00,Canada,0.4857658075616749,2,1,fr,NEN,North-America
-'0d9b148c07',extremes,Fog,#d60d2b,wmo,brouillard anvers,2026-04-25T05:00:00+00:00,Belgium,0.4850284381782868,2,1,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-04-23T05:17:00+00:00,France,0.4850125075432467,2,2,fr,WCE,Europe
-'854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-04-25T05:00:00+00:00,Canada,0.484925008308359,2,1,fr,NEN,North-America
-'fa1ad4c940',extremes,Fog,#d60d2b,wmo,brouillard Flandre orientale,2026-04-25T05:00:00+00:00,Belgium,0.4848580706877595,2,1,fr,WCE,Europe
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2026-04-28T05:45:00+00:00,Gabon,0.4843919853033157,2,1,fr,CAF,Africa
-'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-04-25T05:00:00+00:00,Canada,0.4839740900279976,2,1,fr,NEN,North-America
 'd1d5f447d3',extremes,Flood,#030ba1,wmo,zone de minitonas de la rivière Swan,2026-04-26T05:25:00+00:00,Canada,0.4836223577868044,2,1,fr,NEN,North-America
 'a30d27ed65',extremes,Flood,#030ba1,wmo,inondation de la zone de la rivière rugissante de Minitonas,2026-04-27T05:40:00+00:00,Canada,0.4832860411495734,2,1,fr,NEN,North-America
-'58275fcc95',extremes,Fog,#d60d2b,wmo,brouillard Flandre occidentale,2026-04-25T05:00:00+00:00,Belgium,0.48286488788255,2,1,fr,WCE,Europe
 '5972f58704',extremes,Snow Avalanche,#deddd5,wmo,avalanche haute savoie,2026-05-12T05:52:00+00:00,France,0.4824955668384835,3,1,fr,WCE,Europe
 '72dc78d04d',extremes,Precipitation,#d60d2b,wmo,précipitation de la baie rouge à l'anse au clair,2026-05-07T05:46:00+00:00,Canada,0.4821618023546198,2,1,fr,NEN,North-America
 'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-05-11T06:14:00+00:00,French Guiana,0.4819996098972509,2,1,fr,NSA,South-America
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-05-19T06:33:00+00:00,Burkina Faso,0.4817205927917883,2,1,fr,WAF,Africa
 'af424fc09f',extremes,Snow&Ice,#d60d2b,wmo,geler à Qikiqtarjuaq,2026-05-08T05:16:00+00:00,Canada,0.4808355694650823,2,1,fr,NEN,North-America
-'659521bf73',extremes,Fog,#d60d2b,wmo,brouillard Armstrong Auden Wabakimi Park,2026-04-25T05:00:00+00:00,Canada,0.4804846221169404,2,1,fr,NEN,North-America
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2026-05-05T05:29:00+00:00,Republic of the Congo,0.4803737569345336,2,1,fr,CAF,Africa
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-05-09T05:36:00+00:00,Saint Pierre and Miquelon,0.4802033659735114,2,1,fr,ENA,North-America
 'b7b704bf1f',extremes,Precipitation,#d60d2b,wmo,averse sur la péninsule de Bonavista,2026-04-23T05:16:00+00:00,Canada,0.4801947852197565,1,1,fr,NEN,North-America
@@ -126,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,glace au Brésil,2026-04-28T05:45:00+00:00,Brazil,0.4716263434709815,1,1,fr,SAM,South-America
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-05-05T05:29:00+00:00,Martinique,0.4712605276940551,2,1,fr,CAR,North-America
 'ae2464a060',extremes,Flood,#030ba1,wmo,crue soudaine évoquant la région de Russell Creek,2026-04-27T05:40:00+00:00,Canada,0.4710274302617893,2,1,fr,NEN,North-America
-'6279d44f5f',extremes,Fog,#d60d2b,wmo,brouillard limbourg,2026-04-25T05:00:00+00:00,Belgium,0.4701096355955754,2,1,fr,WCE,Europe
 '83b5209f3d',extremes,Precipitation,#d60d2b,wmo,averse anticosti,2026-05-04T05:50:00+00:00,Canada,0.4687997399492948,2,1,fr,NEN,North-America
 '7a3db232db',extremes,Precipitation,#d60d2b,wmo,pluie péninsule acadienne,2026-05-01T05:54:00+00:00,Canada,0.4682596291111267,2,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-04-26T05:25:00+00:00,Canada,0.4680206335323253,3,2,fr,NEN,North-America
@@ -150,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a51f4fce8',extremes,Drought,#edc291,edo,sécheresse laos,2026-05-20T06:33:00+00:00,Laos,0.4571595485429989,2,1,fr,SEA,Asia
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-08T05:16:00+00:00,New Caledonia,0.4548079501948731,2,1,fr,SPO,Oceania
 '90fce750f8',extremes,Fog,#d60d2b,wmo,brouillard hainaut,2026-05-04T05:50:00+00:00,Belgium,0.454200658916575,2,1,fr,WCE,Europe
-'7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-04-25T05:00:00+00:00,Reunion,0.4530230244165447,2,1,fr,SIO,Africa
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-05T05:29:00+00:00,French Guiana,0.4522916339220659,2,1,fr,NSA,South-America
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-05-05T05:29:00+00:00,Mayotte,0.4510628515300428,2,1,fr,MDG,Africa
 'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-04-26T05:25:00+00:00,Comoros,0.4503294265446775,2,1,fr,ESAF,Africa
