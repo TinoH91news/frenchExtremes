@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-04-22T05:13:00+00:00,Cameroon,0.6137689251277932,2,2,fr,CAF,Africa
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-05-25T06:53:00+00:00,France,0.6067762575950916,2,2,fr,WCE,Europe
-'5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.6039044044303636,0,1,fr,WCE,Europe
 '355cfb64f5',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord du vanuatu.,2026-05-12T05:52:00+00:00,Vanuatu,0.602242190658973,0,1,fr,SPO,Oceania
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,canicule basso moesano,2026-05-26T06:31:00+00:00,Switzerland,0.6013761035140534,0,1,fr,WCE,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,canicule bellinzonaise,2026-05-26T06:31:00+00:00,Switzerland,0.6011913756000756,0,1,fr,WCE,Europe
@@ -35,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,canicule anvers,2026-05-29T06:38:00+00:00,Belgium,0.5510550709894534,1,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-30T05:46:00+00:00,Madagascar,0.549908595645033,2,1,fr,MDG,Africa
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-05-09T05:36:00+00:00,Mayotte,0.5445403041288222,1,1,fr,MDG,Africa
+'5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5438439837658091,1,1,fr,WCE,Europe
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-05-12T05:53:00+00:00,Niger,0.5433394856134098,1,1,fr,SAH,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-05-31T06:40:00+00:00,Canada,0.5420005238143679,1,1,fr,NEN,North-America
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-05-12T05:52:00+00:00,Switzerland,0.5414508469332002,1,1,fr,WCE,Europe
@@ -167,8 +167,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-04-30T05:46:00+00:00,Djibouti,0.4380753044569094,2,1,fr,NEAF,Africa
 '45ad0e811d',extremes,Storm,#b3b2b1,wmo,onde de tempête dans toutes les eaux côtières du Vanuatu.,2026-05-11T06:14:00+00:00,Vanuatu,0.4379374222771168,2,1,fr,SPO,Oceania
 'c630738b07',extremes,Storm,#b3b2b1,wmo,tempête dans toutes les eaux côtières du Vanuatu.,2026-05-17T06:01:00+00:00,Vanuatu,0.4376048221038767,2,1,fr,SPO,Oceania
-'24e7169f97',extremes,Storm,#b3b2b1,wmo,tempête trinité et tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.4358835207941758,2,1,fr,NSA,North-America
-'bf43374236',extremes,Precipitation,#d60d2b,wmo,averse vanuatu,2026-04-27T05:40:00+00:00,Vanuatu,0.4356083388306478,2,1,fr,SPO,Oceania
 'e59cc5e7cf',extremes,Precipitation,#d60d2b,wmo,"averse, lac Lynn, rapides à feuilles, pukatawagan",2026-05-03T05:44:00+00:00,Canada,0.4344490874682972,2,1,fr,NEN,North-America
 '8e18e1b9ca',extremes,Precipitation,#d60d2b,wmo,averse france,2026-04-28T05:45:00+00:00,France,0.4318421515245397,2,1,fr,WCE,Europe
 '4f0eb9c78f',extremes,Earthquake,#870007,usgs,tremblement de terre mata utu,2026-05-04T05:49:00+00:00,Wallis and Futuna,0.4299389165003094,2,1,fr,SPO,Pacific Ocean
