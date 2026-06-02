@@ -13,8 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,pluie gatineau,2026-04-30T05:46:00+00:00,Canada,0.5992641557949884,2,1,fr,NEN,North-America
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-05-26T06:31:00+00:00,Belgium,0.594552996666315,2,2,fr,WCE,Europe
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5922053198267972,2,2,fr,WAF,Africa
-'d5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-05-24T06:22:00+00:00,Luxembourg,0.5916890331618972,0,1,fr,WCE,Europe
-'414b6dc570',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-05-25T06:53:00+00:00,Guadeloupe,0.5880578564205363,0,1,fr,CAR,North-America
 '5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-05-19T06:33:00+00:00,Cambodia,0.5876892222441148,0,1,fr,SEA,Asia
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-05-16T05:40:00+00:00,Belgium,0.587092295922335,0,1,fr,WCE,Europe
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2026-05-22T06:32:00+00:00,Ivory Coast,0.5858294709291382,0,1,fr,WAF,Africa
@@ -84,8 +82,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-09T05:36:00+00:00,Madagascar,0.5053954645462798,3,2,fr,MDG,Africa
 '213b50b853',extremes,Heat Wave,#c40202,wmo,canicule luxembourg sud,2026-05-23T05:53:00+00:00,Luxembourg,0.5047140672400272,1,1,fr,WCE,Europe
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-04-26T05:25:00+00:00,Democratic Republic of the Congo,0.5032134375943667,1,1,fr,CAF,Africa
+'d5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-05-24T06:22:00+00:00,Luxembourg,0.5029356781876126,1,1,fr,WCE,Europe
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-01T05:54:00+00:00,France,0.5017180212129505,2,1,fr,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-05-16T05:40:00+00:00,Djibouti,0.5012549796747952,2,1,fr,NEAF,Africa
+'414b6dc570',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-05-25T06:53:00+00:00,Guadeloupe,0.5001492079574559,1,1,fr,CAR,North-America
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-05-14T06:02:00+00:00,Ivory Coast,0.4996445841223567,2,1,fr,WAF,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-02T05:24:00+00:00,French Polynesia,0.4986246825074687,2,1,fr,SPO,Pacific Ocean
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-05-11T06:14:00+00:00,Reunion,0.4980178343691627,2,1,fr,SIO,Africa
