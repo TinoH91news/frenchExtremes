@@ -1,14 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7298997333786534,2,3,fr,,
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-05-27T06:46:00+00:00,Burundi,0.7261329916107011,1,2,fr,SEAF,Africa
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-05-15T06:09:00+00:00,Canada,0.6805643403852596,0,1,fr,NEN,North-America
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-02T07:08:00+00:00,Republic of the Congo,0.6715044479329325,0,1,fr,CAF,Africa
+'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2026-05-17T06:01:00+00:00,Benin,0.6612977059241483,0,1,fr,WAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.6495358296739099,2,2,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-05-16T05:40:00+00:00,Belgium,0.6494784965339848,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 '7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-06-01T07:30:00+00:00,Saint Martin,0.6431188754825696,0,1,fr,CAR,North-America
+'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-06-02T07:08:00+00:00,Belgium,0.6430690669202146,0,1,fr,WCE,Europe
+'05201ab84b',extremes,Drought,#edc291,edo,sécheresse au togo,2026-05-22T06:32:00+00:00,Togo,0.6413780665059977,0,1,fr,WAF,Africa
+'0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-05-22T06:32:00+00:00,French Southern Territories,0.6373260113025662,0,1,fr,SOO,Antarctica
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6344673112925152,2,1,fr,,
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-04-25T05:00:00+00:00,France,0.631244617411232,3,3,fr,WCE,Europe
+'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-05-29T06:39:00+00:00,Seychelles,0.6298648383530177,0,1,fr,EIO,Indian Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '904c16f856',extremes,Drought,#edc291,edo,période de sécheresse au togo,2026-04-27T05:40:00+00:00,Togo,0.6177983745622689,2,2,fr,WAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
