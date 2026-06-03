@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-06-02T07:08:00+00:00,Niger,0.6740758459364673,0,1,fr,SAH,Africa
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-02T07:08:00+00:00,Republic of the Congo,0.6715044479329325,0,1,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
-'351c432035',extremes,Thunderstorm,#53785a,wmo,orage belgique,2026-06-02T07:08:00+00:00,Belgium,0.6533298119620572,0,1,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.6495358296739099,2,2,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-05-16T05:40:00+00:00,Belgium,0.6494784965339848,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
@@ -24,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5e6901d39',extremes,Drought,#edc291,edo,manque de pluie côte d'ivoire,2026-05-22T06:32:00+00:00,Ivory Coast,0.5858294709291382,0,1,fr,WAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-05-03T05:44:00+00:00,Canada,0.5813610279089492,2,2,fr,NEN,North-America
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-31T06:40:00+00:00,French Guiana,0.5802626251382403,1,1,fr,NSA,South-America
+'351c432035',extremes,Thunderstorm,#53785a,wmo,orage belgique,2026-06-02T07:08:00+00:00,Belgium,0.57780901659632,1,1,fr,WCE,Europe
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-05-30T06:01:00+00:00,Reunion,0.5740494254175246,1,1,fr,SIO,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-05-10T05:51:00+00:00,Canada,0.572087826477489,1,1,fr,NEN,North-America
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-05-04T05:50:00+00:00,France,0.5719294562069269,3,1,fr,WCE,Europe
@@ -60,7 +60,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6d990785b',extremes,Flood,#030ba1,emdat,inondation province d'uvira sud-kivu,2026-05-21T06:35:00+00:00,Democratic Republic of the Congo,0.5368727533385821,1,1,fr,CAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-05-16T05:40:00+00:00,Chad,0.5367131178192646,1,1,fr,SAH,Africa
 '3ca12a416d',extremes,Precipitation,#d60d2b,wmo,pluie république du congo,2026-05-29T06:38:00+00:00,Republic of the Congo,0.5366718543990875,2,1,fr,CAF,Africa
-'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-04-23T05:16:00+00:00,Canada,0.5365619209358948,3,2,fr,NEN,North-America
 'e80817af79',extremes,Drought,#edc291,edo,manque de pluie bénin,2026-05-05T05:29:00+00:00,Benin,0.5359615924832427,2,1,fr,WAF,Africa
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-05-12T05:52:00+00:00,Switzerland,0.5341337772320922,2,2,fr,WCE,Europe
 'a4237e9d0a',extremes,Precipitation,#d60d2b,wmo,précipitations belgique,2026-05-05T05:29:00+00:00,Belgium,0.5320432152095592,2,1,fr,WCE,Europe
@@ -148,7 +147,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a3db232db',extremes,Precipitation,#d60d2b,wmo,pluie péninsule acadienne,2026-05-01T05:54:00+00:00,Canada,0.4682596291111267,2,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-04-26T05:25:00+00:00,Canada,0.4680206335323253,3,2,fr,NEN,North-America
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-05-20T06:33:00+00:00,Central African Republic,0.4677572783084969,2,1,fr,CAF,Africa
-'5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-04-26T05:25:00+00:00,Benin,0.4657470400497697,1,1,fr,WAF,Africa
 '60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-05-04T05:50:00+00:00,French Polynesia,0.465455679700962,2,1,fr,SPO,Pacific Ocean
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-04-27T05:40:00+00:00,Brazil,0.4645044793580287,1,1,fr,SAM,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neige au Brésil,2026-04-29T05:40:00+00:00,Brazil,0.4642864264643296,1,1,fr,SAM,South-America
