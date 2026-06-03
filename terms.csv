@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.6495358296739099,2,2,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-05-16T05:40:00+00:00,Belgium,0.6494784965339848,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-06-01T07:30:00+00:00,Saint Martin,0.6431188754825696,0,1,fr,CAR,North-America
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-06-02T07:08:00+00:00,Belgium,0.6430690669202146,0,1,fr,WCE,Europe
 '05201ab84b',extremes,Drought,#edc291,edo,sécheresse au togo,2026-05-22T06:32:00+00:00,Togo,0.6413780665059977,0,1,fr,WAF,Africa
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-05-22T06:32:00+00:00,French Southern Territories,0.6373260113025662,0,1,fr,SOO,Antarctica
@@ -48,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,grêle namur,2026-06-02T07:08:00+00:00,Belgium,0.5504158258150487,1,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-04-30T05:46:00+00:00,Madagascar,0.549908595645033,2,1,fr,MDG,Africa
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-05-15T06:09:00+00:00,Burkina Faso,0.5490775674478565,1,1,fr,WAF,Africa
+'7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-06-01T07:30:00+00:00,Saint Martin,0.5468010591601842,1,1,fr,CAR,North-America
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-05-09T05:36:00+00:00,Mayotte,0.5445403041288222,1,1,fr,MDG,Africa
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5438439837658091,1,1,fr,WCE,Europe
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-05-12T05:53:00+00:00,Niger,0.5433394856134098,1,1,fr,SAH,Africa
