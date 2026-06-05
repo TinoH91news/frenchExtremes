@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-05-28T06:38:00+00:00,Canada,0.6801823800773961,0,1,fr,NEN,North-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-05-15T06:09:00+00:00,Canada,0.6555798993274706,1,2,fr,NEN,North-America
+'65c58eb7d3',extremes,Drought,#edc291,edo,période sèche à Maurice,2026-06-02T07:08:00+00:00,Mauritius,0.6512266372963657,1,2,fr,SIO,Indian Ocean
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.6495358296739099,2,2,fr,NEN,North-America
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6344673112925152,2,1,fr,,
@@ -20,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-06-03T07:23:00+00:00,Burkina Faso,0.5937647988568421,0,1,fr,WAF,Africa
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5922053198267972,2,2,fr,WAF,Africa
 'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-05-24T06:22:00+00:00,Burundi,0.5901611435142474,0,1,fr,SEAF,Africa
-'65c58eb7d3',extremes,Drought,#edc291,edo,période sèche à Maurice,2026-06-02T07:08:00+00:00,Mauritius,0.5895019085839596,0,1,fr,SIO,Indian Ocean
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.5880661756816583,0,1,fr,CAF,Africa
 '9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-06-03T07:23:00+00:00,Martinique,0.586528130943786,0,1,fr,CAR,North-America
 '3769809aae',extremes,Drought,#edc291,edo,période sèche au Tchad,2026-06-03T07:23:00+00:00,Chad,0.5864165991514295,0,1,fr,SAH,Africa
