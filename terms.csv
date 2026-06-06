@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-06-03T07:23:00+00:00,Saint Martin,0.5847798320551032,0,1,fr,CAR,North-America
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-05-30T06:01:00+00:00,Senegal,0.5815449421477361,0,1,fr,WAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-05-03T05:44:00+00:00,Canada,0.5813610279089492,2,2,fr,NEN,North-America
-'c90f85775b',extremes,Thunderstorm,#53785a,wmo,temps violent luxembourg,2026-06-02T07:08:00+00:00,Luxembourg,0.580924880138381,0,1,fr,WCE,Europe
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-31T06:40:00+00:00,French Guiana,0.5802626251382403,1,1,fr,NSA,South-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-05-28T06:38:00+00:00,Canada,0.5781550230657866,1,1,fr,NEN,North-America
 '351c432035',extremes,Thunderstorm,#53785a,wmo,orage belgique,2026-06-02T07:08:00+00:00,Belgium,0.57780901659632,1,1,fr,WCE,Europe
@@ -147,6 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-02T05:24:00+00:00,Senegal,0.4944933799485218,2,1,fr,WAF,Africa
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-05-23T05:53:00+00:00,Senegal,0.494010156479347,2,1,fr,WAF,Africa
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-05-02T05:24:00+00:00,Ivory Coast,0.4939866912966524,2,1,fr,WAF,Africa
+'c90f85775b',extremes,Thunderstorm,#53785a,wmo,temps violent luxembourg,2026-06-02T07:08:00+00:00,Luxembourg,0.4939361631176238,1,1,fr,WCE,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-05-03T05:44:00+00:00,Canada,0.4933344251362211,2,1,fr,NEN,North-America
 '907a393546',extremes,Precipitation,#d60d2b,wmo,averse naujaat,2026-05-24T06:22:00+00:00,Canada,0.491051983229666,2,1,fr,NEN,North-America
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-05-12T05:53:00+00:00,Mayotte,0.4910125100067667,2,1,fr,MDG,Africa
