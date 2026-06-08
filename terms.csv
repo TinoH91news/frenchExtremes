@@ -4,13 +4,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6917244596304815,0,1,fr,SPO,Pacific Ocean
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
-'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-29T06:38:00+00:00,France,0.6805079808403596,0,1,fr,WCE,Europe
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-05-22T06:32:00+00:00,Democratic Republic of the Congo,0.6664677827852156,0,1,fr,CAF,Africa
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.6651507231057442,2,2,fr,SAH,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-24T06:22:00+00:00,Senegal,0.6582439656436937,0,1,fr,WAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-05-15T06:09:00+00:00,Canada,0.6555798993274706,1,2,fr,NEN,North-America
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.6545061147319425,1,1,fr,MDG,Africa
+'7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-29T06:38:00+00:00,France,0.6537318137143056,1,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.6495358296739099,2,2,fr,NEN,North-America
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 '37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-05-25T06:53:00+00:00,French Southern Territories,0.6476727051592036,0,1,fr,SOO,Antarctica
