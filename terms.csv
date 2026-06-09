@@ -45,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,grêle en Grèce,2026-06-02T07:08:00+00:00,Greece,0.5760075161773515,0,1,fr,MED,Europe
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-05-29T06:39:00+00:00,Guinea,0.5752151113457689,2,2,fr,WAF,Africa
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-05-22T06:32:00+00:00,Seychelles,0.5750194271627473,0,1,fr,EIO,Indian Ocean
+'c72865acbd',extremes,Drought,#edc291,edo,manque de pluie au togo,2026-05-27T06:46:00+00:00,Togo,0.5742001998150563,0,1,fr,WAF,Africa
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-05-30T06:01:00+00:00,Reunion,0.5740494254175246,1,1,fr,SIO,Africa
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-06-01T07:30:00+00:00,Equatorial Guinea,0.5732880855490347,0,1,fr,WAF,Africa
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-06-02T07:08:00+00:00,Niger,0.5731144840459972,1,1,fr,SAH,Africa
@@ -55,13 +56,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-02T07:08:00+00:00,Republic of the Congo,0.5707787807429926,1,1,fr,CAF,Africa
 '7e4ac8d494',extremes,Drought,#edc291,edo,manque de pluie Haïti,2026-05-27T06:46:00+00:00,Haiti,0.5707591521669593,0,1,fr,CAR,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-05-24T06:22:00+00:00,Canada,0.5700297142799827,1,1,fr,NEN,North-America
+'6a61baa4e6',extremes,Drought,#edc291,edo,période sèche saint vincent et les grenadines,2026-05-20T06:33:00+00:00,Saint Vincent and the Grenadines,0.5687313162451243,0,1,fr,CAR,North-America
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,onde de tempête résolue,2026-05-31T06:40:00+00:00,Canada,0.5682317504449464,1,1,fr,NEN,North-America
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-05-26T06:31:00+00:00,Belgium,0.567031395109306,1,1,fr,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-05-23T05:53:00+00:00,Djibouti,0.5665309677394925,1,1,fr,NEAF,Africa
 'bd8c88b2ec',extremes,Drought,#edc291,edo,manque de pluie république démocratique du congo,2026-05-22T06:32:00+00:00,Democratic Republic of the Congo,0.5664976153674333,1,1,fr,CAF,Africa
+'4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-05-22T06:32:00+00:00,Republic of the Congo,0.5657191316663497,0,1,fr,CAF,Africa
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-05-28T06:38:00+00:00,Canada,0.5649808361757782,1,1,fr,NEN,North-America
+'6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-06-03T07:23:00+00:00,Saint Barthelemy,0.5647755875210013,0,1,fr,CAR,North-America
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-05-03T05:44:00+00:00,France,0.5647323348367701,3,3,fr,WCE,Europe
+'1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2026-05-27T06:46:00+00:00,Wallis and Futuna,0.5647083397918199,0,1,fr,SPO,Pacific Ocean
 'fc1842c1fa',extremes,Drought,#edc291,edo,sécheresse au cambodge,2026-05-22T06:32:00+00:00,Cambodia,0.5625326675856054,1,1,fr,SEA,Asia
+'36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle suisse,2026-06-02T07:08:00+00:00,Switzerland,0.5622305578822778,0,1,fr,WCE,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au bénin,2026-05-17T06:01:00+00:00,Benin,0.562103050035526,1,1,fr,WAF,Africa
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,canicule luxembourg,2026-05-26T06:31:00+00:00,Luxembourg,0.560229945817662,2,2,fr,WCE,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-24T06:22:00+00:00,Senegal,0.5595073707971396,1,1,fr,WAF,Africa
