@@ -83,6 +83,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29ab340774',extremes,Precipitation,#d60d2b,wmo,averse langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.5415494023278873,0,1,fr,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,brouillard États-Unis,2026-06-02T07:08:00+00:00,United States,0.5414662555162045,0,1,fr,CNA,North-America
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-05-12T05:52:00+00:00,Switzerland,0.5414508469332002,1,1,fr,WCE,Europe
+'8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-06-03T07:23:00+00:00,Comoros,0.54133921222315,0,1,fr,ESAF,Africa
+'037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2026-06-06T06:08:00+00:00,United States,0.5412551436175667,0,1,fr,CNA,North-America
+'314d696add',extremes,Snow&Ice,#d60d2b,wmo,neige États-Unis,2026-06-07T06:48:00+00:00,United States,0.540931206783534,0,1,fr,CNA,North-America
+'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,gel dans l'est du comté de Lemhi,2026-06-11T07:14:00+00:00,United States,0.5406925091859287,0,1,fr,CNA,North-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,États-Unis glacials,2026-06-07T06:48:00+00:00,United States,0.5402831653750098,0,1,fr,CNA,North-America
+'80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,glace États-Unis,2026-06-06T06:08:00+00:00,United States,0.5401515894476046,0,1,fr,CNA,North-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-05-26T06:31:00+00:00,Switzerland,0.5395155517365379,1,1,fr,WCE,Europe
 '8b7bb07843',extremes,Storm,#b3b2b1,wmo,onde de tempête liège,2026-05-31T06:40:00+00:00,Belgium,0.539113009992362,1,1,fr,WCE,Europe
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-05-25T06:53:00+00:00,Canada,0.5388103791993172,1,1,fr,NEN,North-America
