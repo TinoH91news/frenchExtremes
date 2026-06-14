@@ -18,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-05-27T06:46:00+00:00,Burundi,0.617363057869096,2,2,fr,SEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,pluie seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6148587612473139,2,1,fr,EIO,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempête au Brésil,2026-06-12T07:05:00+00:00,Brazil,0.61303394154038,1,2,fr,SAM,South-America
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6128247531638207,1,2,fr,SAM,South-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-06-09T06:32:00+00:00,Canada,0.611344544950302,2,1,fr,NEN,North-America
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-05-25T06:53:00+00:00,France,0.6067762575950916,2,2,fr,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,pluie Brésil,2026-05-24T06:22:00+00:00,Brazil,0.6053497532309928,1,2,fr,SAM,South-America
@@ -66,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-06-02T07:08:00+00:00,Belgium,0.5466087068821824,1,1,fr,WCE,Europe
 '51eca7e9c1',extremes,Heat Wave,#c40202,wmo,canicule kriti,2026-06-07T06:48:00+00:00,Greece,0.5458790632687117,0,1,fr,MED,Europe
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-25T06:53:00+00:00,French Guiana,0.5450254985792484,1,1,fr,NSA,South-America
-'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.5443232213692009,0,1,fr,SAM,South-America
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-09T06:32:00+00:00,Italy,0.5440946137539622,2,1,fr,MED,Europe
 '31e75af3af',extremes,Earthquake,#870007,usgs,tremblement de terre en Guinée,2026-06-12T07:05:00+00:00,Guinea,0.5435838802631211,1,1,fr,WAF,Africa
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,grêle namur,2026-06-02T07:08:00+00:00,Belgium,0.5434535119427913,2,2,fr,WCE,Europe
