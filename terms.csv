@@ -1,11 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5972f58704',extremes,Snow Avalanche,#deddd5,wmo,avalanche haute savoie,2026-06-02T07:08:00+00:00,France,0.7302821135947288,0,1,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-06-04T07:06:00+00:00,France,0.7249347915268846,1,2,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
-'1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-06-15T08:36:00+00:00,Seychelles,0.6723312167528198,0,1,fr,EIO,Africa
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.6651507231057442,2,2,fr,SAH,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
@@ -17,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-16T05:40:00+00:00,Democratic Republic of the Congo,0.6323869890011742,1,1,fr,CAF,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
+'5972f58704',extremes,Snow Avalanche,#deddd5,wmo,avalanche haute savoie,2026-06-02T07:08:00+00:00,France,0.6208898115555195,1,1,fr,WCE,Europe
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-05-27T06:46:00+00:00,Burundi,0.617363057869096,2,2,fr,SEAF,Africa
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-06-09T06:32:00+00:00,Canada,0.611344544950302,2,1,fr,NEN,North-America
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-05-25T06:53:00+00:00,France,0.6067762575950916,2,2,fr,WCE,Europe
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-06-02T07:08:00+00:00,Niger,0.5731144840459972,1,1,fr,SAH,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-05-10T05:51:00+00:00,Canada,0.572087826477489,1,1,fr,NEN,North-America
 '4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-06-09T06:33:00+00:00,Burundi,0.5720575113983173,1,1,fr,SEAF,Africa
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-06-15T08:36:00+00:00,Seychelles,0.5714815342398968,1,1,fr,EIO,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-05-22T06:32:00+00:00,Canada,0.5712917315155212,1,1,fr,NEN,North-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche france,2026-05-05T05:29:00+00:00,France,0.5712833519442249,2,2,fr,WCE,Europe
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,crue éclair du ruisseau Scissor près de Mcauley,2026-06-13T06:38:00+00:00,Canada,0.5710333025188742,1,1,fr,NEN,North-America
