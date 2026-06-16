@@ -27,9 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5927676862009377,2,2,fr,WCE,Europe
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-05-04T05:50:00+00:00,Mali,0.5922053198267972,2,2,fr,WAF,Africa
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.588733649483014,0,1,fr,CAR,North-America
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-05-03T05:44:00+00:00,Canada,0.5813610279089492,2,2,fr,NEN,North-America
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-31T06:40:00+00:00,French Guiana,0.5802626251382403,1,1,fr,NSA,South-America
-'507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-06-02T07:08:00+00:00,Italy,0.5799511321807579,0,1,fr,MED,Europe
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-05-30T06:01:00+00:00,French Southern Territories,0.5789039182408772,1,1,fr,SOO,Antarctica
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-05-28T06:38:00+00:00,Canada,0.5781550230657866,1,1,fr,NEN,North-America
 '351c432035',extremes,Thunderstorm,#53785a,wmo,orage belgique,2026-06-02T07:08:00+00:00,Belgium,0.57780901659632,1,1,fr,WCE,Europe
@@ -200,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-05-20T06:33:00+00:00,Burundi,0.4950250374699709,2,1,fr,SEAF,Africa
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-05-30T06:01:00+00:00,Senegal,0.4943132008255756,1,1,fr,WAF,Africa
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-05-23T05:53:00+00:00,Senegal,0.494010156479347,2,1,fr,WAF,Africa
+'507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-06-02T07:08:00+00:00,Italy,0.49400856735364423,1,1,fr,MED,Europe
 'c90f85775b',extremes,Thunderstorm,#53785a,wmo,temps violent luxembourg,2026-06-02T07:08:00+00:00,Luxembourg,0.4939361631176238,1,1,fr,WCE,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-06-09T06:33:00+00:00,Equatorial Guinea,0.4936701487942432,1,1,fr,WAF,Africa
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-05-30T06:01:00+00:00,Mayotte,0.4929610029414426,1,1,fr,MDG,Africa
@@ -257,11 +256,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '922fde2aea',extremes,Drought,#edc291,edo,période sèche au Bénin,2026-05-16T05:40:00+00:00,Benin,0.4601051831676103,3,1,fr,WAF,Africa
 '3a51f4fce8',extremes,Drought,#edc291,edo,sécheresse laos,2026-05-20T06:33:00+00:00,Laos,0.4571595485429989,2,1,fr,SEA,Asia
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-11T06:14:00+00:00,Saint Barthelemy,0.4501378855429568,2,1,fr,CAR,North-America
-'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Suisse glaciale,2026-05-12T05:52:00+00:00,Switzerland,0.4490327824942939,2,1,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-05-30T06:01:00+00:00,Gabon,0.4483602379534732,2,1,fr,CAF,Africa
-'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-05-12T05:53:00+00:00,Togo,0.4458220138167381,2,1,fr,WAF,Africa
 '706d317834',extremes,Drought,#edc291,edo,période sèche au laos,2026-05-16T05:40:00+00:00,Laos,0.4438493883501978,2,1,fr,SEA,Asia
-'56b0c0d58c',extremes,Storm,#b3b2b1,wmo,onde de tempête calvados seine maritime manche,2026-05-12T05:52:00+00:00,France,0.4424252994785185,2,1,fr,WCE,Europe
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,onde de tempête dans les eaux côtières du nord du vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.4392145729823743,2,1,fr,SPO,Oceania
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,onde de tempête à Trinité-et-Tobago,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.4387682323487462,2,1,fr,NSA,North-America
 'c630738b07',extremes,Storm,#b3b2b1,wmo,tempête dans toutes les eaux côtières du Vanuatu.,2026-05-17T06:01:00+00:00,Vanuatu,0.4376048221038767,2,1,fr,SPO,Oceania
