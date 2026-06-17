@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
+'0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.6959751788127209,1,2,fr,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.6651507231057442,2,2,fr,SAH,Africa
@@ -12,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.6507236320605618,1,2,fr,CAR,North-America
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.6419707633090835,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6344673112925152,2,1,fr,,
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-16T05:40:00+00:00,Democratic Republic of the Congo,0.6323869890011742,1,1,fr,CAF,Africa
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-31T06:40:00+00:00,Saint Barthelemy,0.63064703966017,0,1,fr,CAR,North-America
@@ -132,7 +132,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed5f212eae',extremes,Precipitation,#d60d2b,wmo,pluie togo,2026-06-13T06:38:00+00:00,Togo,0.530304000108388,2,1,fr,WAF,Africa
 '7600318710',extremes,Drought,#edc291,edo,période sèche en martinique,2026-06-14T07:07:00+00:00,Martinique,0.530295492150544,1,1,fr,CAR,North-America
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-05-12T05:53:00+00:00,Central African Republic,0.5292679656615714,2,1,fr,CAF,Africa
-'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-05-08T05:16:00+00:00,Niger,0.5288475053617651,1,1,fr,SAH,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,averse Brésil,2026-05-22T06:32:00+00:00,Brazil,0.5285085602963746,2,2,fr,SAM,South-America
 'c66aad611a',extremes,Drought,#edc291,edo,sécheresse au laos,2026-06-02T07:08:00+00:00,Laos,0.5282665838732422,1,1,fr,SEA,Asia
 '491a82f8c3',extremes,Drought,#edc291,edo,période sèche au Cameroun,2026-05-22T06:32:00+00:00,Cameroon,0.5274807259277219,1,1,fr,CAF,Africa
