@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.7684847222619899,0,1,fr,MDG,Africa
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-06-04T07:06:00+00:00,France,0.7249347915268846,1,2,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
@@ -13,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
+'3caca873cf',extremes,Heat Wave,#c40202,wmo,canicule rheinfelden,2026-06-19T07:39:00+00:00,Switzerland,0.639236993184928,0,1,fr,WCE,Europe
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-06-17T07:33:00+00:00,Chad,0.6346210632779014,1,1,fr,SAH,Africa
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6344673112925152,2,1,fr,,
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-16T05:40:00+00:00,Democratic Republic of the Congo,0.6323869890011742,1,1,fr,CAF,Africa
