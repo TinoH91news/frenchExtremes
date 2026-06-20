@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2407b3a8ab',extremes,Drought,#edc291,edo,sécheresse burundi,2026-05-27T06:46:00+00:00,Burundi,0.617363057869096,2,2,fr,SEAF,Africa
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,glace au Brésil,2026-06-15T08:36:00+00:00,Brazil,0.6140545262079606,1,2,fr,SAM,South-America
 '31e75af3af',extremes,Earthquake,#870007,usgs,tremblement de terre en Guinée,2026-06-12T07:05:00+00:00,Guinea,0.6121963282236529,2,2,fr,WAF,Africa
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,brouillard États-Unis,2026-06-02T07:08:00+00:00,United States,0.6114464371887738,1,2,fr,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-06-09T06:32:00+00:00,Canada,0.611344544950302,2,1,fr,NEN,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendie de forêt aux États-Unis,2026-06-06T06:08:00+00:00,United States,0.6107391682760788,1,2,fr,CNA,North-America
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-05-25T06:53:00+00:00,France,0.6067762575950916,2,2,fr,WCE,Europe
@@ -44,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-05-30T06:01:00+00:00,Reunion,0.5740494254175246,1,1,fr,SIO,Africa
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-06-02T07:08:00+00:00,Niger,0.5731144840459972,1,1,fr,SAH,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-06-15T08:36:00+00:00,Canada,0.572247591330901,1,1,fr,NEN,North-America
-'4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-06-09T06:33:00+00:00,Burundi,0.5720575113983173,1,1,fr,SEAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-05-22T06:32:00+00:00,Canada,0.5712917315155212,1,1,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-05-31T06:40:00+00:00,Canada,0.5709893542040424,1,1,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-05-24T06:22:00+00:00,Canada,0.5700297142799827,1,1,fr,NEN,North-America
@@ -66,15 +66,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.5521055152228234,3,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-05-16T05:40:00+00:00,Belgium,0.5520567670538871,2,1,fr,WCE,Europe
 '495243907b',extremes,Precipitation,#d60d2b,wmo,précipitation la majeure partie du pays.,2026-06-08T07:13:00+00:00,Mali,0.550979741447733,2,1,fr,SAH,Africa
-'37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-05-25T06:53:00+00:00,French Southern Territories,0.5505217993853231,1,1,fr,SOO,Antarctica
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5464333130534057,3,2,fr,WCE,Europe
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-25T06:53:00+00:00,French Guiana,0.5450254985792484,1,1,fr,NSA,South-America
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-09T06:32:00+00:00,Italy,0.5440946137539622,2,1,fr,MED,Europe
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,grêle namur,2026-06-02T07:08:00+00:00,Belgium,0.5434535119427913,2,2,fr,WCE,Europe
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-05-12T05:53:00+00:00,Niger,0.5433394856134098,1,1,fr,SAH,Africa
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-05-22T06:32:00+00:00,French Southern Territories,0.5417271096071812,1,1,fr,SOO,Antarctica
-'29ab340774',extremes,Precipitation,#d60d2b,wmo,averse langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.5415494023278873,0,1,fr,WCE,Europe
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,brouillard États-Unis,2026-06-02T07:08:00+00:00,United States,0.5414662555162045,0,1,fr,CNA,North-America
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neige suisse,2026-05-12T05:52:00+00:00,Switzerland,0.5414508469332002,1,1,fr,WCE,Europe
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-06-03T07:23:00+00:00,Comoros,0.54133921222315,0,1,fr,ESAF,Africa
 '037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2026-06-06T06:08:00+00:00,United States,0.5412551436175667,0,1,fr,CNA,North-America
@@ -100,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '978254298e',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au togo,2026-06-09T06:32:00+00:00,Togo,0.5363251624296982,2,1,fr,WAF,Africa
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-31T06:40:00+00:00,Saint Barthelemy,0.5360499837111444,1,1,fr,CAR,North-America
 '8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,canicule kerenzerberg seeztal,2026-06-17T07:33:00+00:00,Switzerland,0.5356667968501169,1,1,fr,WCE,Europe
-'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-05-29T06:39:00+00:00,Seychelles,0.5353851126000649,1,1,fr,EIO,Indian Ocean
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,glace suisse,2026-05-12T05:52:00+00:00,Switzerland,0.5341337772320922,2,2,fr,WCE,Europe
 '8e19081b44',extremes,Heat Wave,#c40202,wmo,canicule bern sense,2026-06-17T07:33:00+00:00,Switzerland,0.5340848366380945,1,1,fr,WCE,Europe
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-06-16T08:27:00+00:00,Belgium,0.533934059616874,2,1,fr,WCE,Europe
@@ -206,6 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-06-01T07:30:00+00:00,Equatorial Guinea,0.4872948727166794,1,1,fr,WAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-05-22T06:32:00+00:00,Canada,0.4869141496141639,3,1,fr,NEN,North-America
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,onde de tempête seychelles,2026-06-16T08:27:00+00:00,Seychelles,0.4868263123382706,2,1,fr,EIO,Africa
+'4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-06-09T06:33:00+00:00,Burundi,0.4862488846885697,2,1,fr,SEAF,Africa
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-30T06:01:00+00:00,French Guiana,0.4861872057542202,1,1,fr,NSA,South-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-06-15T08:36:00+00:00,Seychelles,0.4857593041039122,2,1,fr,EIO,Africa
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,crue éclair du ruisseau Scissor près de Mcauley,2026-06-13T06:38:00+00:00,Canada,0.485378307141043,2,1,fr,NEN,North-America
@@ -243,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-06-02T07:08:00+00:00,Switzerland,0.469092844566477,1,1,fr,WCE,Europe
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neige au Brésil,2026-06-14T07:07:00+00:00,Brazil,0.4684974943488964,1,1,fr,SAM,South-America
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,canicule anvers,2026-05-29T06:38:00+00:00,Belgium,0.4683968103410353,2,1,fr,WCE,Europe
+'37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-05-25T06:53:00+00:00,French Southern Territories,0.4679435294775246,2,1,fr,SOO,Antarctica
 'adf71bc472',extremes,Drought,#edc291,edo,manque de pluie république centrafricaine,2026-05-20T06:33:00+00:00,Central African Republic,0.4677572783084969,2,1,fr,CAF,Africa
 'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,canicule brabante,2026-06-17T07:33:00+00:00,Belgium,0.4671576476585304,2,1,fr,WCE,Europe
 '7b285750a9',extremes,Drought,#edc291,edo,manque de pluie saint martin,2026-06-01T07:30:00+00:00,Saint Martin,0.4647809002861565,2,1,fr,CAR,North-America
@@ -256,11 +254,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-05-27T06:46:00+00:00,Rwanda,0.4628758039252977,1,1,fr,SEAF,Africa
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,canicule rheinfelden,2026-06-19T07:39:00+00:00,Switzerland,0.4618487275761104,2,1,fr,WCE,Europe
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,onde de tempête en Grèce,2026-06-02T07:08:00+00:00,Greece,0.4616778261121423,1,1,fr,MED,Europe
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,onde de tempête au Brésil,2026-06-06T06:08:00+00:00,Brazil,0.46163053728705933,1,1,fr,SAM,South-America
-'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,vague de froid au Brésil,2026-06-06T06:08:00+00:00,Brazil,0.46153310909224543,1,1,fr,SAM,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,onde de tempête au Brésil,2026-06-06T06:08:00+00:00,Brazil,0.4616305372870593,1,1,fr,SAM,South-America
+'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,vague de froid au Brésil,2026-06-06T06:08:00+00:00,Brazil,0.4615331090922454,1,1,fr,SAM,South-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-05-31T06:40:00+00:00,Canada,0.4610004752422127,2,1,fr,NEN,North-America
 '7aabe0271d',extremes,Thunderstorm,#53785a,wmo,orage à l'ouest du Péloponnèse,2026-05-31T06:40:00+00:00,Greece,0.4608906213796634,1,1,fr,MED,Europe
+'29ab340774',extremes,Precipitation,#d60d2b,wmo,averse langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.4603169919787042,1,1,fr,WCE,Europe
 '3a51f4fce8',extremes,Drought,#edc291,edo,sécheresse laos,2026-05-20T06:33:00+00:00,Laos,0.4571595485429989,2,1,fr,SEA,Asia
+'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-05-29T06:39:00+00:00,Seychelles,0.4550773457100552,2,1,fr,EIO,Indian Ocean
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-05-30T06:01:00+00:00,Gabon,0.4483602379534732,2,1,fr,CAF,Africa
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,onde de tempête à Trinité-et-Tobago,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.4387682323487462,2,1,fr,NSA,North-America
 'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,onde de tempête dans le chenal et les eaux du sud.,2026-05-17T06:01:00+00:00,Vanuatu,0.4377634145010134,2,1,fr,SPO,Oceania
