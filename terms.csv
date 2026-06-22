@@ -1,10 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,onde de tempête madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.7558948068195656,0,1,fr,MDG,Africa
+'3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.7433503252432211,0,1,fr,MDG,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-06-07T06:48:00+00:00,Canada,0.6855332480863896,0,1,fr,NEN,North-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
+'ecb4dd4d1b',extremes,Fog,#d60d2b,wmo,brouillard sur les sections côtières de la côte nord,2026-06-22T08:39:00+00:00,Canada,0.6701073478341377,0,1,fr,NEN,North-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
+'840e458266',extremes,Heat Wave,#c40202,wmo,canicule marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.6633352552403349,0,1,fr,WCE,Europe
+'213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.6625002044308675,0,1,fr,WCE,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.6545061147319425,1,1,fr,MDG,Africa
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.6507236320605618,1,2,fr,CAR,North-America
@@ -255,7 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2026-06-06T06:08:00+00:00,United States,0.4605169170749316,1,1,fr,CNA,North-America
 '29ab340774',extremes,Precipitation,#d60d2b,wmo,averse langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.4603169919787042,1,1,fr,WCE,Europe
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-06-03T07:23:00+00:00,Comoros,0.4601383303896774,1,1,fr,ESAF,Africa
-'5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-06-17T07:33:00+00:00,Belgium,0.45897243141751665,2,1,fr,WCE,Europe
+'5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-06-17T07:33:00+00:00,Belgium,0.4589724314175166,2,1,fr,WCE,Europe
 '3a51f4fce8',extremes,Drought,#edc291,edo,sécheresse laos,2026-05-20T06:33:00+00:00,Laos,0.4571595485429989,2,1,fr,SEA,Asia
 'b6d990785b',extremes,Flood,#030ba1,emdat,inondation province d'uvira sud-kivu,2026-05-21T06:35:00+00:00,Democratic Republic of the Congo,0.4563418403377947,2,1,fr,CAF,Africa
 'a3d5857b6f',extremes,Drought,#edc291,edo,manque de pluie seychelles,2026-05-29T06:39:00+00:00,Seychelles,0.4550773457100552,2,1,fr,EIO,Indian Ocean
