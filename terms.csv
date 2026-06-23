@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.781997791456738,1,2,fr,MDG,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-06-07T06:48:00+00:00,Canada,0.6855332480863896,0,1,fr,NEN,North-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
-'ecb4dd4d1b',extremes,Fog,#d60d2b,wmo,brouillard sur les sections côtières de la côte nord,2026-06-22T08:39:00+00:00,Canada,0.6701073478341377,0,1,fr,NEN,North-America
+'3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.6648481377382273,2,2,fr,MDG,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 '840e458266',extremes,Heat Wave,#c40202,wmo,canicule marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.6633352552403349,0,1,fr,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.6625002044308675,0,1,fr,WCE,Europe
@@ -54,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-05-22T06:32:00+00:00,Canada,0.5712917315155212,1,1,fr,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-05-31T06:40:00+00:00,Canada,0.5709893542040424,1,1,fr,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-05-24T06:22:00+00:00,Canada,0.5700297142799827,1,1,fr,NEN,North-America
+'ecb4dd4d1b',extremes,Fog,#d60d2b,wmo,brouillard sur les sections côtières de la côte nord,2026-06-22T08:39:00+00:00,Canada,0.5695912456590171,1,1,fr,NEN,North-America
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,onde de tempête résolue,2026-05-31T06:40:00+00:00,Canada,0.5682317504449464,1,1,fr,NEN,North-America
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-05-23T05:53:00+00:00,Djibouti,0.5665309677394925,1,1,fr,NEAF,Africa
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.5653782046398825,3,1,fr,SAH,Africa
