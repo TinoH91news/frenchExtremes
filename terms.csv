@@ -10,7 +10,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 '840e458266',extremes,Heat Wave,#c40202,wmo,canicule marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.6633352552403349,0,1,fr,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.6625002044308675,0,1,fr,WCE,Europe
+'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,canicule bienne neuchâtel,2026-06-17T07:33:00+00:00,Switzerland,0.6614684629448446,0,1,fr,WCE,Europe
+'4208a0b339',extremes,Heat Wave,#c40202,wmo,canicule oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.66134195257602,0,1,fr,WCE,Europe
+'655291dc6f',extremes,Heat Wave,#c40202,wmo,canicule pfungen hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.6612117064985306,0,1,fr,WCE,Europe
+'6c57527c47',extremes,Heat Wave,#c40202,wmo,canicule langenthal,2026-06-17T07:33:00+00:00,Switzerland,0.6611819826484335,0,1,fr,WCE,Europe
+'cd604bad4d',extremes,Heat Wave,#c40202,wmo,canicule brick nördliches simplongebiet,2026-06-17T07:33:00+00:00,Switzerland,0.6606056219892062,0,1,fr,WCE,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'1c6cf0535c',extremes,Heat Wave,#c40202,wmo,canicule ajoie,2026-06-18T07:16:00+00:00,Switzerland,0.65998954421515,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.6545061147319425,1,1,fr,MDG,Africa
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.6507236320605618,1,2,fr,CAR,North-America
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
