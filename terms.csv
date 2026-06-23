@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7166702073619884,1,2,fr,NEN,North-America
+'d77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.7594697062576901,2,2,fr,NEN,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
@@ -215,14 +215,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2026-05-27T06:46:00+00:00,Wallis and Futuna,0.4800020888230469,1,1,fr,SPO,Pacific Ocean
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-06-01T07:30:00+00:00,Reunion,0.4798205183812525,1,1,fr,SIO,Africa
 '840e458266',extremes,Heat Wave,#c40202,wmo,canicule marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.4792597219111419,2,1,fr,WCE,Europe
-'213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.47865639770130175,2,1,fr,WCE,Europe
+'213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.4786563977013017,2,1,fr,WCE,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,canicule vouvry,2026-06-17T07:33:00+00:00,Switzerland,0.478356356294929,2,1,fr,WCE,Europe
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,canicule sumiswald worb,2026-06-19T07:39:00+00:00,Switzerland,0.4782887782748598,2,1,fr,WCE,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,canicule fribourgeoise,2026-06-20T06:47:00+00:00,Switzerland,0.4780227373686394,2,1,fr,WCE,Europe
 '9fa978592e',extremes,Heat Wave,#c40202,wmo,canicule linthebene gaster,2026-06-21T07:16:00+00:00,Switzerland,0.4779334291498907,2,1,fr,WCE,Europe
-'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,canicule bienne neuchâtel,2026-06-17T07:33:00+00:00,Switzerland,0.47791096447765025,2,1,fr,WCE,Europe
+'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,canicule bienne neuchâtel,2026-06-17T07:33:00+00:00,Switzerland,0.4779109644776502,2,1,fr,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle suisse,2026-06-02T07:08:00+00:00,Switzerland,0.4778959741999361,1,1,fr,WCE,Europe
-'4208a0b339',extremes,Heat Wave,#c40202,wmo,canicule oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.47781956073617443,2,1,fr,WCE,Europe
+'4208a0b339',extremes,Heat Wave,#c40202,wmo,canicule oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.4778195607361744,2,1,fr,WCE,Europe
 '655291dc6f',extremes,Heat Wave,#c40202,wmo,canicule pfungen hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.4777254579451883,2,1,fr,WCE,Europe
 '6c57527c47',extremes,Heat Wave,#c40202,wmo,canicule langenthal,2026-06-17T07:33:00+00:00,Switzerland,0.4777039824634932,2,1,fr,WCE,Europe
 'cd604bad4d',extremes,Heat Wave,#c40202,wmo,canicule brick nördliches simplongebiet,2026-06-17T07:33:00+00:00,Switzerland,0.4772875618872015,2,1,fr,WCE,Europe
