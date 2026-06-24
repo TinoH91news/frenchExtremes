@@ -2,9 +2,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7071852951900371,3,3,fr,,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6829857028090609,1,2,fr,WCE,Europe
+'e28696d6d8',extremes,Drought,#edc291,edo,période sèche en Guyane française,2026-06-09T06:33:00+00:00,French Guiana,0.6803840112390381,0,1,fr,NSA,South-America
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-06-14T07:07:00+00:00,Central African Republic,0.6764500445779555,0,1,fr,CAF,Africa
+'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-06-21T07:16:00+00:00,Saint Pierre and Miquelon,0.6748319579243905,0,1,fr,ENA,North-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
+'8f4994eef2',extremes,Storm,#b3b2b1,wmo,onde de tempête vieux corbeau,2026-06-24T06:30:00+00:00,Canada,0.6691492350300248,0,1,fr,NEN,North-America
+'60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-06-16T08:27:00+00:00,French Polynesia,0.6673643215699354,0,1,fr,SPO,Pacific Ocean
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'b2bbe70547',extremes,Heat Wave,#c40202,wmo,canicule sarganserland,2026-06-18T07:16:00+00:00,Switzerland,0.6569703796503451,0,1,fr,WCE,Europe
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
