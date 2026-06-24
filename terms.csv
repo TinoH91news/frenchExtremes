@@ -7,6 +7,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.6648481377382273,2,2,fr,MDG,Africa
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'604d8535c2',extremes,Heat Wave,#c40202,wmo,canicule burgdorf limpachtal,2026-06-17T07:33:00+00:00,Switzerland,0.6594911728168534,0,1,fr,WCE,Europe
+'a302e20e8c',extremes,Heat Wave,#c40202,wmo,canicule appenzelloise,2026-06-17T07:33:00+00:00,Switzerland,0.659483609901609,0,1,fr,WCE,Europe
+'95738e04d7',extremes,Heat Wave,#c40202,wmo,canicule turbenthal sirnach,2026-06-17T07:33:00+00:00,Switzerland,0.6588819809363965,0,1,fr,WCE,Europe
+'0f960d8a1a',extremes,Heat Wave,#c40202,wmo,canicule schaffhouse,2026-06-18T07:16:00+00:00,Switzerland,0.658567181817928,0,1,fr,WCE,Europe
+'18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,la canicule les contint pleinement,2026-06-19T07:39:00+00:00,Switzerland,0.65752938879851,0,1,fr,WCE,Europe
+'8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,canicule bex villars,2026-06-18T07:16:00+00:00,Switzerland,0.6574137502388229,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.6545061147319425,1,1,fr,MDG,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
