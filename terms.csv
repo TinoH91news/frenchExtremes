@@ -5,6 +5,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-06-18T07:16:00+00:00,Switzerland,0.6568760559324875,0,1,fr,WCE,Europe
+'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-06-17T07:33:00+00:00,Switzerland,0.6562066364607949,0,1,fr,WCE,Europe
+'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,canicule basse gruyère,2026-06-17T07:33:00+00:00,Switzerland,0.6561719355888397,0,1,fr,WCE,Europe
+'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,canicule la chaux de fonds le locle,2026-06-17T07:33:00+00:00,Switzerland,0.6560197806232188,0,1,fr,WCE,Europe
+'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,canicule aarau lenzbourg,2026-06-17T07:33:00+00:00,Switzerland,0.6559444242701693,0,1,fr,WCE,Europe
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-06-13T06:38:00+00:00,Burkina Faso,0.6551891766505894,0,1,fr,WAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
