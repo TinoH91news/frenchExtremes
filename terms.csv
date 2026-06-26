@@ -1,11 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5697633f0e',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles tchad,2026-06-26T06:36:00+00:00,Chad,0.7395154256976338,0,1,fr,SAH,Africa
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.7287905186388043,4,3,fr,,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-06-09T06:32:00+00:00,Canada,0.7030204095187254,1,2,fr,NEN,North-America
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
-'95b5264574',extremes,Heat Wave,#c40202,wmo,canicule canada,2026-06-09T06:32:00+00:00,Canada,0.6710026453847822,0,1,fr,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-06-13T06:38:00+00:00,Canada,0.6708396804315303,0,1,fr,NEN,North-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-06-12T07:05:00+00:00,Reunion,0.6630386730863236,0,1,fr,SIO,Africa
@@ -20,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-06-15T08:36:00+00:00,Canada,0.6341664740076386,1,2,fr,NEN,North-America
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-16T05:40:00+00:00,Democratic Republic of the Congo,0.6323869890011742,1,1,fr,CAF,Africa
+'5697633f0e',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles tchad,2026-06-26T06:36:00+00:00,Chad,0.6285881118429888,1,1,fr,SAH,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-06-02T07:08:00+00:00,Central African Republic,0.6256558056143932,1,1,fr,CAF,Africa
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,précipitations au Brésil,2026-05-24T06:22:00+00:00,Brazil,0.5935339249132242,1,2,fr,SAM,South-America
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.5915789319908128,2,1,fr,WCE,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,temps violent brabant,2026-06-02T07:08:00+00:00,Belgium,0.5909713247460145,2,2,fr,WCE,Europe
+'95b5264574',extremes,Heat Wave,#c40202,wmo,canicule canada,2026-06-09T06:32:00+00:00,Canada,0.5897191852437315,1,1,fr,NEN,North-America
 '56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.5825576241904972,1,1,fr,WAF,Africa
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-02T07:08:00+00:00,Gabon,0.5821765739765468,1,1,fr,CAF,Africa
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-31T06:40:00+00:00,French Guiana,0.5802626251382403,1,1,fr,NSA,South-America
