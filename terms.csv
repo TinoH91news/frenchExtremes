@@ -8,9 +8,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-06-12T07:05:00+00:00,Reunion,0.6630386730863236,0,1,fr,SIO,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.6517107181017779,0,1,fr,WAF,Africa
+'4d27fd77b1',extremes,Heat Wave,#c40202,wmo,canicule à Obertoggenburg,2026-06-18T07:16:00+00:00,Switzerland,0.6511266117537665,0,1,fr,WCE,Europe
+'f6f32944d1',extremes,Heat Wave,#c40202,wmo,canicule gros de vaud,2026-06-18T07:16:00+00:00,Switzerland,0.6510501406374725,0,1,fr,WCE,Europe
+'16e539790d',extremes,Heat Wave,#c40202,wmo,canicule schangnau sigriswil,2026-06-17T07:33:00+00:00,Switzerland,0.6507427113330096,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.6502577744402107,1,1,fr,MDG,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
+'d6b259f3bc',extremes,Heat Wave,#c40202,wmo,canicule brienz interlaken,2026-06-20T06:47:00+00:00,Switzerland,0.6500693002801319,0,1,fr,WCE,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
+'90cbdf698e',extremes,Heat Wave,#c40202,wmo,canicule genève,2026-06-20T06:47:00+00:00,Switzerland,0.6499292792643231,0,1,fr,WCE,Europe
+'7a263703cd',extremes,Heat Wave,#c40202,wmo,canicule sarnen longern,2026-06-19T07:39:00+00:00,Switzerland,0.649819587084255,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.6455492953190365,3,1,fr,NEN,North-America
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
