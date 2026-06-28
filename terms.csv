@@ -7,9 +7,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-06-08T07:13:00+00:00,Comoros,0.6555639373710649,0,1,fr,ESAF,Africa
+'14c0b1f476',extremes,Heat Wave,#c40202,wmo,canicule werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.6549341710320031,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.6502577744402107,1,1,fr,MDG,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
+'92fd344243',extremes,Heat Wave,#c40202,wmo,canicule laufental,2026-06-19T07:39:00+00:00,Switzerland,0.6498101360869686,0,1,fr,WCE,Europe
+'edaa90837c',extremes,Heat Wave,#c40202,wmo,canicule nyon terre sainte,2026-06-18T07:16:00+00:00,Switzerland,0.6489650035744384,0,1,fr,WCE,Europe
+'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,canicule franches montagnes,2026-06-17T07:33:00+00:00,Switzerland,0.6488106777546503,0,1,fr,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,canicule erstfeld engelberg,2026-06-18T07:16:00+00:00,Switzerland,0.648594991408892,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.6455492953190365,3,1,fr,NEN,North-America
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
