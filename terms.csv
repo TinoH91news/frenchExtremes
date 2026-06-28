@@ -7,15 +7,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
-'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-06-08T07:13:00+00:00,Comoros,0.6555639373710649,0,1,fr,ESAF,Africa
-'14c0b1f476',extremes,Heat Wave,#c40202,wmo,canicule werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.6549341710320031,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.6502577744402107,1,1,fr,MDG,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.6501575633982642,1,1,fr,MDG,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
-'92fd344243',extremes,Heat Wave,#c40202,wmo,canicule laufental,2026-06-19T07:39:00+00:00,Switzerland,0.6498101360869686,0,1,fr,WCE,Europe
-'edaa90837c',extremes,Heat Wave,#c40202,wmo,canicule nyon terre sainte,2026-06-18T07:16:00+00:00,Switzerland,0.6489650035744384,0,1,fr,WCE,Europe
-'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,canicule franches montagnes,2026-06-17T07:33:00+00:00,Switzerland,0.6488106777546503,0,1,fr,WCE,Europe
-'42cb1ac630',extremes,Heat Wave,#c40202,wmo,canicule erstfeld engelberg,2026-06-18T07:16:00+00:00,Switzerland,0.648594991408892,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.6455492953190365,3,1,fr,NEN,North-America
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
@@ -39,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,précipitations au Brésil,2026-05-24T06:22:00+00:00,Brazil,0.5935339249132242,1,2,fr,SAM,South-America
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.5915789319908128,2,1,fr,WCE,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,temps violent brabant,2026-06-02T07:08:00+00:00,Belgium,0.5909713247460145,2,2,fr,WCE,Europe
-'56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.5825576241904972,1,1,fr,WAF,Africa
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-02T07:08:00+00:00,Gabon,0.5821765739765468,1,1,fr,CAF,Africa
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-05-31T06:40:00+00:00,French Guiana,0.5802626251382403,1,1,fr,NSA,South-America
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-03T07:23:00+00:00,Mayotte,0.5784841288513306,1,1,fr,MDG,Africa
@@ -60,20 +53,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.5653782046398825,3,1,fr,SAH,Africa
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.5652709320774931,3,2,fr,MDG,Africa
 'fa7af29bef',extremes,Thunderstorm,#53785a,wmo,orage luxembourg,2026-06-02T07:08:00+00:00,Luxembourg,0.564614843749978,2,2,fr,WCE,Europe
-'6d28d8faab',extremes,Fog,#d60d2b,wmo,brouillard résolu,2026-06-27T06:08:00+00:00,Canada,0.5645136959693473,1,1,fr,NEN,North-America
-'5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-06-25T06:32:00+00:00,Cambodia,0.5629984836025121,1,1,fr,SEA,Asia
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-06-06T06:08:00+00:00,Wallis and Futuna,0.560893562864629,2,2,fr,SPO,Pacific Ocean
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,canicule luxembourg,2026-05-26T06:31:00+00:00,Luxembourg,0.560229945817662,2,2,fr,WCE,Europe
-'a2febe259f',extremes,Heat Wave,#c40202,wmo,canicule kugaaruk,2026-06-27T06:08:00+00:00,Canada,0.5597331108194421,1,1,fr,NEN,North-America
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-05-24T06:22:00+00:00,Senegal,0.5595073707971396,1,1,fr,WAF,Africa
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,brouillard États-Unis,2026-06-02T07:08:00+00:00,United States,0.5584295916104577,2,2,fr,CNA,North-America
-'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-06-17T07:33:00+00:00,Switzerland,0.5577756409916756,1,1,fr,WCE,Europe
-'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,canicule basse gruyère,2026-06-17T07:33:00+00:00,Switzerland,0.5577461452505137,1,1,fr,WCE,Europe
-'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,canicule la chaux de fonds le locle,2026-06-17T07:33:00+00:00,Switzerland,0.5576168135297359,1,1,fr,WCE,Europe
-'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,canicule aarau lenzbourg,2026-06-17T07:33:00+00:00,Switzerland,0.5575527606296439,1,1,fr,WCE,Europe
-'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-06-13T06:38:00+00:00,Burkina Faso,0.556910800153001,1,1,fr,WAF,Africa
+'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-06-08T07:13:00+00:00,Comoros,0.5572293467654051,1,1,fr,ESAF,Africa
+'14c0b1f476',extremes,Heat Wave,#c40202,wmo,canicule werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.5566940453772027,1,1,fr,WCE,Europe
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,canicule européenne bordeaux,2026-05-30T06:01:00+00:00,France,0.5560908422962461,2,1,fr,,
-'5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-06-17T07:33:00+00:00,Switzerland,0.5559921793941045,1,1,fr,WCE,Europe
 '285520cfc4',extremes,Heat Wave,#c40202,wmo,canicule Monthey val d'illiez,2026-06-21T07:16:00+00:00,Switzerland,0.5559400974656792,1,1,fr,WCE,Europe
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-05-29T06:38:00+00:00,France,0.5558220566571597,2,2,fr,WCE,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.5552302118342878,2,1,fr,MDG,Africa
@@ -91,7 +77,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '471a805aef',extremes,Drought,#edc291,edo,sécheresse cambodge,2026-05-25T06:53:00+00:00,Cambodia,0.552952339205263,1,1,fr,SEA,Asia
 'd6b259f3bc',extremes,Heat Wave,#c40202,wmo,canicule brienz interlaken,2026-06-20T06:47:00+00:00,Switzerland,0.5525589052381121,1,1,fr,WCE,Europe
 '7a263703cd',extremes,Heat Wave,#c40202,wmo,canicule sarnen longern,2026-06-19T07:39:00+00:00,Switzerland,0.5523466490216168,1,1,fr,WCE,Europe
+'92fd344243',extremes,Heat Wave,#c40202,wmo,canicule laufental,2026-06-19T07:39:00+00:00,Switzerland,0.5523386156739233,1,1,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-05-25T06:53:00+00:00,Canada,0.5521055152228234,3,1,fr,NEN,North-America
+'edaa90837c',extremes,Heat Wave,#c40202,wmo,canicule nyon terre sainte,2026-06-18T07:16:00+00:00,Switzerland,0.5516202530382727,1,1,fr,WCE,Europe
+'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,canicule franches montagnes,2026-06-17T07:33:00+00:00,Switzerland,0.5514890760914527,1,1,fr,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,canicule erstfeld engelberg,2026-06-18T07:16:00+00:00,Switzerland,0.5513057426975582,1,1,fr,WCE,Europe
 '495243907b',extremes,Precipitation,#d60d2b,wmo,précipitation la majeure partie du pays.,2026-06-08T07:13:00+00:00,Mali,0.550979741447733,2,1,fr,SAH,Africa
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5464333130534057,3,2,fr,WCE,Europe
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,onde de tempête madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.546133997927136,2,1,fr,MDG,Africa
@@ -174,6 +164,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-06-07T06:48:00+00:00,French Southern Territories,0.496615711149646,1,1,fr,SOO,Antarctica
 '9be2ff9ed9',extremes,Drought,#edc291,edo,manque de pluie canada,2026-05-25T06:53:00+00:00,Canada,0.4962423505938214,1,1,fr,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-06-09T06:32:00+00:00,Canada,0.4955308108983633,2,1,fr,NEN,North-America
+'56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.4951739805619226,2,1,fr,WAF,Africa
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-05-30T06:01:00+00:00,Canada,0.4950702133691778,2,1,fr,NEN,North-America
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-05-30T06:01:00+00:00,Senegal,0.4943132008255756,1,1,fr,WAF,Africa
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-06-02T07:08:00+00:00,Italy,0.4940085673536442,1,1,fr,MED,Europe
@@ -216,10 +207,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-05-28T06:38:00+00:00,Canada,0.4802337107494114,2,1,fr,NEN,North-America
 '6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-06-03T07:23:00+00:00,Saint Barthelemy,0.4800592493928511,1,1,fr,CAR,North-America
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,tremblement de terre wallis et futuna,2026-05-27T06:46:00+00:00,Wallis and Futuna,0.4800020888230469,1,1,fr,SPO,Pacific Ocean
+'6d28d8faab',extremes,Fog,#d60d2b,wmo,brouillard résolu,2026-06-27T06:08:00+00:00,Canada,0.4798366415739452,2,1,fr,NEN,North-America
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-06-01T07:30:00+00:00,Reunion,0.4798205183812525,1,1,fr,SIO,Africa
 '840e458266',extremes,Heat Wave,#c40202,wmo,canicule marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.4792597219111419,2,1,fr,WCE,Europe
 '09649747d6',extremes,Storm,#b3b2b1,wmo,tempête saluit,2026-06-12T07:05:00+00:00,Canada,0.4788346383373709,2,1,fr,NEN,North-America
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,canicule du Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.4786563977013017,2,1,fr,WCE,Europe
+'5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-06-25T06:32:00+00:00,Cambodia,0.4785487110621353,2,1,fr,SEA,Asia
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,canicule vouvry,2026-06-17T07:33:00+00:00,Switzerland,0.478356356294929,2,1,fr,WCE,Europe
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,canicule sumiswald worb,2026-06-19T07:39:00+00:00,Switzerland,0.4782887782748598,2,1,fr,WCE,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,canicule fribourgeoise,2026-06-20T06:47:00+00:00,Switzerland,0.4780227373686394,2,1,fr,WCE,Europe
@@ -242,6 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a302e20e8c',extremes,Heat Wave,#c40202,wmo,canicule appenzelloise,2026-06-17T07:33:00+00:00,Switzerland,0.4764769081539124,2,1,fr,WCE,Europe
 '95738e04d7',extremes,Heat Wave,#c40202,wmo,canicule turbenthal sirnach,2026-06-17T07:33:00+00:00,Switzerland,0.4760422312265464,2,1,fr,WCE,Europe
 '0f960d8a1a',extremes,Heat Wave,#c40202,wmo,canicule schaffhouse,2026-06-18T07:16:00+00:00,Switzerland,0.4758147888634528,2,1,fr,WCE,Europe
+'a2febe259f',extremes,Heat Wave,#c40202,wmo,canicule kugaaruk,2026-06-27T06:08:00+00:00,Canada,0.4757731441965258,2,1,fr,NEN,North-America
 '2c615566d1',extremes,Heat Wave,#c40202,wmo,canicule îles dodekanisa,2026-06-06T06:08:00+00:00,Greece,0.4756207008063912,1,1,fr,MED,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,gel au Brésil,2026-06-15T08:36:00+00:00,Brazil,0.4755390002845757,2,1,fr,SAM,South-America
 '23779bbe2e',extremes,Storm,#b3b2b1,wmo,onde de tempête baie arctique,2026-05-31T06:40:00+00:00,Canada,0.4754484385559298,2,1,fr,NEN,North-America
@@ -251,10 +245,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed766fa753',extremes,Heat Wave,#c40202,wmo,canicule zurzach bülach,2026-06-17T07:33:00+00:00,Switzerland,0.4746163004469454,2,1,fr,WCE,Europe
 'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-06-18T07:16:00+00:00,Switzerland,0.4745929504112222,2,1,fr,WCE,Europe
 '7bed149a8a',extremes,Heat Wave,#c40202,wmo,canicule zoug knonau,2026-06-17T07:33:00+00:00,Switzerland,0.4745565025742975,2,1,fr,WCE,Europe
+'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-06-17T07:33:00+00:00,Switzerland,0.4741092948429243,2,1,fr,WCE,Europe
+'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,canicule basse gruyère,2026-06-17T07:33:00+00:00,Switzerland,0.4740842234629366,2,1,fr,WCE,Europe
+'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,canicule la chaux de fonds le locle,2026-06-17T07:33:00+00:00,Switzerland,0.47397429150027554,2,1,fr,WCE,Europe
+'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,canicule aarau lenzbourg,2026-06-17T07:33:00+00:00,Switzerland,0.47391984653519725,2,1,fr,WCE,Europe
 '85213d3f73',extremes,Heat Wave,#c40202,wmo,canicule lg quatre laforge et fontanges,2026-06-11T07:14:00+00:00,Canada,0.4736757454571147,2,1,fr,NEN,North-America
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-06-13T06:38:00+00:00,Burkina Faso,0.47337418013005084,2,1,fr,WAF,Africa
 'e9c919775b',extremes,Heat Wave,#c40202,wmo,canicule fürstenland,2026-06-17T07:33:00+00:00,Switzerland,0.4732810599139572,2,1,fr,WCE,Europe
 'a09a76e559',extremes,Heat Wave,#c40202,wmo,canicule îles de la mer Égée du nord-est,2026-06-08T07:13:00+00:00,Greece,0.4732082282138314,1,1,fr,MED,Europe
 'dfb51eb234',extremes,Heat Wave,#c40202,wmo,canicule goldau ägeri,2026-06-20T06:47:00+00:00,Switzerland,0.4730085549523785,2,1,fr,WCE,Europe
+'5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-06-17T07:33:00+00:00,Switzerland,0.4725933524849888,2,1,fr,WCE,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle au Brésil,2026-05-23T05:53:00+00:00,Brazil,0.4724530309153676,1,1,fr,SAM,South-America
 '2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,temps violent à l'ouest de la Macédoine,2026-05-25T06:53:00+00:00,Greece,0.4723684020051796,1,1,fr,MED,Europe
 '8d138ce8d8',extremes,Drought,#edc291,edo,période sèche saint barthélémy,2026-06-14T07:07:00+00:00,Saint Barthelemy,0.4716247326725683,2,1,fr,CAR,North-America
