@@ -4,8 +4,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.6971567885702563,5,3,fr,,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
+'854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-06-24T06:30:00+00:00,Canada,0.667866480932331,0,1,fr,NEN,North-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'1ce8f6f6b4',extremes,Heat Wave,#c40202,wmo,canicule huttwil willisau,2026-06-17T07:33:00+00:00,Switzerland,0.6571300392001087,0,1,fr,WCE,Europe
+'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,canicule lötschental naters,2026-06-20T06:47:00+00:00,Switzerland,0.6567771159228392,0,1,fr,WCE,Europe
+'81e27c4bec',extremes,Heat Wave,#c40202,wmo,canicule vallée de joux,2026-06-17T07:33:00+00:00,Switzerland,0.6560357271773,0,1,fr,WCE,Europe
+'83c01ff715',extremes,Heat Wave,#c40202,wmo,canicule Léventine,2026-06-26T06:36:00+00:00,Switzerland,0.655258155069056,0,1,fr,WCE,Europe
+'5511bac479',extremes,Heat Wave,#c40202,wmo,canicule luganaise,2026-06-19T07:39:00+00:00,Switzerland,0.6546732269773504,0,1,fr,WCE,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-05-21T06:35:00+00:00,France,0.6499602710616129,1,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
@@ -286,7 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,gel dans l'est du comté de Lemhi,2026-06-11T07:14:00+00:00,United States,0.4595886328080394,1,1,fr,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,États-Unis glacials,2026-06-07T06:48:00+00:00,United States,0.4592406905687582,1,1,fr,CNA,North-America
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-06-17T07:33:00+00:00,Belgium,0.4589724314175166,2,1,fr,WCE,Europe
-'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-05-25T06:53:00+00:00,Canada,0.45828885231941957,2,1,fr,NEN,North-America
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-05-25T06:53:00+00:00,Canada,0.4582888523194195,2,1,fr,NEN,North-America
 'cc4efe412f',extremes,Heat Wave,#c40202,wmo,canicule amriswil,2026-06-17T07:33:00+00:00,Switzerland,0.4571633260890613,2,1,fr,WCE,Europe
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-05-31T06:40:00+00:00,Saint Barthelemy,0.4556424861544727,2,1,fr,CAR,North-America
 '8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,canicule kerenzerberg seeztal,2026-06-17T07:33:00+00:00,Switzerland,0.4553167773225993,2,1,fr,WCE,Europe
