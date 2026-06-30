@@ -6,7 +6,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
+'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,canicule domleschg,2026-06-17T07:33:00+00:00,Switzerland,0.6529824709465776,0,1,fr,WCE,Europe
+'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-06-12T07:05:00+00:00,Ivory Coast,0.649467855361267,0,1,fr,WAF,Africa
+'6f8f50b514',extremes,Heat Wave,#c40202,wmo,canicule vispertal nanztal,2026-06-17T07:33:00+00:00,Switzerland,0.648561518280754,0,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
+'8025b5773e',extremes,Heat Wave,#c40202,wmo,canicule yverdon bevaix,2026-06-18T07:16:00+00:00,Switzerland,0.6476167908558257,0,1,fr,WCE,Europe
+'7535b4e5c1',extremes,Heat Wave,#c40202,wmo,canicule frutigen kiental,2026-06-18T07:16:00+00:00,Switzerland,0.6475990454418191,0,1,fr,WCE,Europe
+'33189dd77a',extremes,Heat Wave,#c40202,wmo,canicule lucerne alpnach,2026-06-20T06:47:00+00:00,Switzerland,0.6469746107224971,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
