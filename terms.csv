@@ -6,9 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
-'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-06-18T07:16:00+00:00,Canada,0.6515976313126184,1,2,fr,NEN,North-America
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'66206e02fd',extremes,Heat Wave,#c40202,wmo,canicule zofingen triengen,2026-06-17T07:33:00+00:00,Switzerland,0.6466558866453201,0,1,fr,WCE,Europe
 '4ce21d4729',extremes,Heat Wave,#c40202,wmo,canicule st.gallen rorschach,2026-06-17T07:33:00+00:00,Switzerland,0.6453208600213778,0,1,fr,WCE,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-06-16T08:27:00+00:00,Central African Republic,0.645054126823095,0,1,fr,CAF,Africa
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,canicule val de ruz colombier,2026-06-20T06:47:00+00:00,Switzerland,0.6445497902939397,0,1,fr,WCE,Europe
@@ -62,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.5552302118342878,2,1,fr,MDG,Africa
 'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,canicule domleschg,2026-06-17T07:33:00+00:00,Switzerland,0.5550351003045909,1,1,fr,WCE,Europe
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-06-25T06:32:00+00:00,Ivory Coast,0.55503017467091,1,1,fr,WAF,Africa
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-06-18T07:16:00+00:00,Canada,0.5541580166157256,2,2,fr,NEN,North-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.5539541103865112,1,1,fr,WAF,Africa
 '65c58eb7d3',extremes,Drought,#edc291,edo,période sèche à Maurice,2026-06-02T07:08:00+00:00,Mauritius,0.5536926567019108,2,2,fr,SIO,Indian Ocean
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.5531151172514776,2,1,fr,CAR,North-America
@@ -79,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8025b5773e',extremes,Heat Wave,#c40202,wmo,canicule yverdon bevaix,2026-06-18T07:16:00+00:00,Switzerland,0.5504742722274518,1,1,fr,WCE,Europe
 '7535b4e5c1',extremes,Heat Wave,#c40202,wmo,canicule frutigen kiental,2026-06-18T07:16:00+00:00,Switzerland,0.5504591886255462,1,1,fr,WCE,Europe
 '33189dd77a',extremes,Heat Wave,#c40202,wmo,canicule lucerne alpnach,2026-06-20T06:47:00+00:00,Switzerland,0.5499284191141225,1,1,fr,WCE,Europe
+'66206e02fd',extremes,Heat Wave,#c40202,wmo,canicule zofingen triengen,2026-06-17T07:33:00+00:00,Switzerland,0.5496575036485221,1,1,fr,WCE,Europe
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-06-28T06:44:00+00:00,Chad,0.5494674137220726,2,1,fr,SAH,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-09T06:32:00+00:00,Canada,0.549166946021181,4,1,fr,NEN,North-America
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-05-26T06:31:00+00:00,Switzerland,0.5464333130534057,3,2,fr,WCE,Europe
