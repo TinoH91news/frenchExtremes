@@ -10,6 +10,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ce21d4729',extremes,Heat Wave,#c40202,wmo,canicule st.gallen rorschach,2026-06-17T07:33:00+00:00,Switzerland,0.6453208600213778,0,1,fr,WCE,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,période sèche république centrafricaine,2026-06-16T08:27:00+00:00,Central African Republic,0.645054126823095,0,1,fr,CAF,Africa
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,canicule val de ruz colombier,2026-06-20T06:47:00+00:00,Switzerland,0.6445497902939397,0,1,fr,WCE,Europe
+'2eb4ed0a18',extremes,Heat Wave,#c40202,wmo,canicule muotathal,2026-06-17T07:33:00+00:00,Switzerland,0.643725488902722,0,1,fr,WCE,Europe
+'2c1ab9723c',extremes,Heat Wave,#c40202,wmo,canicule rhénane,2026-06-17T07:33:00+00:00,Switzerland,0.6427018143155377,0,1,fr,WCE,Europe
+'1350baf605',extremes,Heat Wave,#c40202,wmo,canicule lyss grenchen,2026-06-18T07:16:00+00:00,Switzerland,0.6422448318141744,0,1,fr,WCE,Europe
+'c1ad5b6068',extremes,Heat Wave,#c40202,wmo,canicule à Thoune Belp,2026-06-17T07:33:00+00:00,Switzerland,0.6416749301347145,0,1,fr,WCE,Europe
+'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-06-12T07:05:00+00:00,Benin,0.6413641817364999,0,1,fr,WAF,Africa
+'403eda3313',extremes,Heat Wave,#c40202,wmo,canicule saint cergue,2026-06-17T07:33:00+00:00,Switzerland,0.6413515494001422,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
