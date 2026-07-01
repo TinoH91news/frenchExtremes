@@ -3,11 +3,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.6971567885702563,5,3,fr,,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
+'190bcda954',extremes,Storm,#b3b2b1,wmo,onde de tempête fort nelson,2026-07-01T06:52:00+00:00,Canada,0.6746167667066177,0,1,fr,NEN,North-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
+'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.6626394988043173,0,1,fr,WCE,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
+'33c63ac237',extremes,Heat Wave,#c40202,wmo,canicule aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.6412955635377194,0,1,fr,WCE,Europe
+'43d19279b3',extremes,Heat Wave,#c40202,wmo,canicule soleure rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.640902494407178,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
+'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,canicule nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.6392395689088693,0,1,fr,WCE,Europe
+'6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-06-12T07:05:00+00:00,Senegal,0.6370466272299015,0,1,fr,WAF,Africa
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-06-08T07:13:00+00:00,Mauritius,0.6217083834883397,1,2,fr,SIO,Indian Ocean
