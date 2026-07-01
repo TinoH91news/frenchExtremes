@@ -1,14 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.7135436039836696,1,2,fr,WCE,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-06-09T06:32:00+00:00,Canada,0.7030204095187254,1,2,fr,NEN,North-America
 '220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-05-18T06:38:00+00:00,Cameroon,0.7026553396799982,2,2,fr,CAF,Africa
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.6971567885702563,5,3,fr,,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
+'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.681812093386119,2,2,fr,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,le Brésil glacial,2026-06-04T07:06:00+00:00,Brazil,0.6710510551892476,2,2,fr,SAM,South-America
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'33c63ac237',extremes,Heat Wave,#c40202,wmo,canicule aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.6412955635377194,0,1,fr,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,canicule soleure rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.640902494407178,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,canicule nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.6392395689088693,0,1,fr,WCE,Europe
@@ -86,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1ad5b6068',extremes,Heat Wave,#c40202,wmo,canicule à Thoune Belp,2026-06-17T07:33:00+00:00,Switzerland,0.5454236906145074,1,1,fr,WCE,Europe
 'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-06-12T07:05:00+00:00,Benin,0.5451595544760249,1,1,fr,WAF,Africa
 '403eda3313',extremes,Heat Wave,#c40202,wmo,canicule saint cergue,2026-06-17T07:33:00+00:00,Switzerland,0.5451488169901209,1,1,fr,WCE,Europe
+'33c63ac237',extremes,Heat Wave,#c40202,wmo,canicule aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.5451012290070615,1,1,fr,WCE,Europe
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-25T06:53:00+00:00,French Guiana,0.5450254985792484,1,1,fr,NSA,South-America
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-09T06:32:00+00:00,Italy,0.5440946137539622,2,1,fr,MED,Europe
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,grêle namur,2026-06-02T07:08:00+00:00,Belgium,0.5434535119427913,2,2,fr,WCE,Europe
