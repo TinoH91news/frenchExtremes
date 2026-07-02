@@ -9,8 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
-'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-06-19T07:39:00+00:00,Belgium,0.6359561967848014,0,1,fr,WCE,Europe
-'239db805fa',extremes,Heat Wave,#c40202,wmo,canicule val d'anniviers,2026-06-17T07:33:00+00:00,Switzerland,0.6344385965994236,0,1,fr,WCE,Europe
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,canicule olten gösgen,2026-06-18T07:16:00+00:00,Switzerland,0.6343443654870307,0,1,fr,WCE,Europe
 '45f67fbaba',extremes,Heat Wave,#c40202,wmo,canicule wahlern plaffeien,2026-06-18T07:16:00+00:00,Switzerland,0.6328730022643391,0,1,fr,WCE,Europe
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
@@ -29,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.5915789319908128,2,1,fr,WCE,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,temps violent brabant,2026-06-02T07:08:00+00:00,Belgium,0.5909713247460145,2,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-06-24T06:30:00+00:00,Canada,0.5902186134736092,2,2,fr,NEN,North-America
+'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-06-19T07:39:00+00:00,Belgium,0.5781757472670812,1,2,fr,WCE,Europe
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-05-26T06:31:00+00:00,Democratic Republic of the Congo,0.5769495575031285,3,2,fr,CAF,Africa
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-05-29T06:39:00+00:00,Guinea,0.5752151113457689,2,2,fr,WAF,Africa
 '57dbc9182a',extremes,Drought,#edc291,edo,période sèche réunion,2026-05-30T06:01:00+00:00,Reunion,0.5740494254175246,1,1,fr,SIO,Africa
@@ -100,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce884fadc9',extremes,Earthquake,#870007,usgs,tremblement de terre guadeloupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.5395811379923905,2,1,fr,NAO,Atlantic Ocean
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-06-17T07:33:00+00:00,Chad,0.5395779187862162,2,1,fr,SAH,Africa
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-05-26T06:31:00+00:00,Switzerland,0.5395155517365379,1,1,fr,WCE,Europe
+'239db805fa',extremes,Heat Wave,#c40202,wmo,canicule val d'anniviers,2026-06-17T07:33:00+00:00,Switzerland,0.5392728071095101,1,1,fr,WCE,Europe
 '8b7bb07843',extremes,Storm,#b3b2b1,wmo,onde de tempête liège,2026-05-31T06:40:00+00:00,Belgium,0.539113009992362,2,1,fr,WCE,Europe
 'e29021d398',extremes,Drought,#edc291,edo,manque de pluie nouvelle-calédonie,2026-05-26T06:31:00+00:00,New Caledonia,0.5382917732725309,1,1,fr,SPO,Oceania
 '10bce00d3d',extremes,Precipitation,#d60d2b,wmo,averse les zones citées ci haut,2026-06-10T06:49:00+00:00,Chad,0.5378744740983853,2,1,fr,SAH,Africa
