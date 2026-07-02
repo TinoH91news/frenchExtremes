@@ -12,6 +12,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,canicule nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.6392395689088693,0,1,fr,WCE,Europe
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-06-12T07:05:00+00:00,Senegal,0.6370466272299015,0,1,fr,WAF,Africa
+'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-06-14T07:07:00+00:00,Seychelles,0.6363951851076548,0,1,fr,EIO,Indian Ocean
+'365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.6363587387859669,0,1,fr,WCE,Europe
+'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-06-19T07:39:00+00:00,Belgium,0.6359561967848014,0,1,fr,WCE,Europe
+'239db805fa',extremes,Heat Wave,#c40202,wmo,canicule val d'anniviers,2026-06-17T07:33:00+00:00,Switzerland,0.6344385965994236,0,1,fr,WCE,Europe
+'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,canicule olten gösgen,2026-06-18T07:16:00+00:00,Switzerland,0.6343443654870307,0,1,fr,WCE,Europe
+'45f67fbaba',extremes,Heat Wave,#c40202,wmo,canicule wahlern plaffeien,2026-06-18T07:16:00+00:00,Switzerland,0.6328730022643391,0,1,fr,WCE,Europe
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-05-23T05:53:00+00:00,French Polynesia,0.6275484498330229,2,2,fr,SPO,Pacific Ocean
 '9fdd24ccd8',extremes,Snow&Ice,#d60d2b,wmo,gel france,2026-05-14T06:02:00+00:00,France,0.6266826312455325,2,3,fr,WCE,Europe
 'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-06-08T07:13:00+00:00,Mauritius,0.6217083834883397,1,2,fr,SIO,Indian Ocean
