@@ -8,10 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'43d19279b3',extremes,Heat Wave,#c40202,wmo,canicule soleure rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.640902494407178,0,1,fr,WCE,Europe
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
-'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,canicule nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.6392395689088693,0,1,fr,WCE,Europe
-'6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-06-12T07:05:00+00:00,Senegal,0.6370466272299015,0,1,fr,WAF,Africa
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-06-14T07:07:00+00:00,Seychelles,0.6363951851076548,0,1,fr,EIO,Indian Ocean
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.6363587387859669,0,1,fr,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,tempête belgique,2026-06-19T07:39:00+00:00,Belgium,0.6359561967848014,0,1,fr,WCE,Europe
@@ -93,9 +90,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '403eda3313',extremes,Heat Wave,#c40202,wmo,canicule saint cergue,2026-06-17T07:33:00+00:00,Switzerland,0.5451488169901209,1,1,fr,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,canicule aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.5451012290070615,1,1,fr,WCE,Europe
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-05-25T06:53:00+00:00,French Guiana,0.5450254985792484,1,1,fr,NSA,South-America
+'43d19279b3',extremes,Heat Wave,#c40202,wmo,canicule soleure rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.5447671202461012,1,1,fr,WCE,Europe
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-09T06:32:00+00:00,Italy,0.5440946137539622,2,1,fr,MED,Europe
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,grêle namur,2026-06-02T07:08:00+00:00,Belgium,0.5434535119427913,2,2,fr,WCE,Europe
+'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,canicule nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.543353633572539,1,1,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-06-12T07:05:00+00:00,Reunion,0.5433504968048687,2,2,fr,SIO,Africa
+'6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-06-12T07:05:00+00:00,Senegal,0.5419396781454162,1,1,fr,WAF,Africa
 'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.5417443172860251,2,1,fr,NAO,Atlantic Ocean
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-06-15T08:36:00+00:00,Canada,0.5417417729064927,2,2,fr,NEN,North-America
 'ce884fadc9',extremes,Earthquake,#870007,usgs,tremblement de terre guadeloupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.5395811379923905,2,1,fr,NAO,Atlantic Ocean
