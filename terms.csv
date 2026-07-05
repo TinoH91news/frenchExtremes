@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.6998444053641715,1,2,fr,WCE,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,canicule paris,2026-05-29T06:39:00+00:00,France,0.6971567885702563,5,3,fr,,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.681812093386119,2,2,fr,WCE,Europe
@@ -6,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7241e8be8',extremes,Drought,#edc291,edo,manque de pluie cameroun,2026-05-26T06:31:00+00:00,Cameroon,0.6635686783766531,1,2,fr,CAF,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-05-24T06:22:00+00:00,France,0.6601097937323378,4,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
-'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.6466992827813782,0,1,fr,WCE,Europe
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-06-18T07:16:00+00:00,French Guiana,0.6418434773029236,0,1,fr,NSA,South-America
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,canicule européenne paris,2026-05-28T06:38:00+00:00,France,0.6406473495986379,3,2,fr,,
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-19T07:39:00+00:00,Gabon,0.6303920323727469,1,1,fr,CAF,Africa
