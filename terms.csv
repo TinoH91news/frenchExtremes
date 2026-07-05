@@ -83,7 +83,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fb1d07808',extremes,Drought,#edc291,edo,période sèche au Sénégal,2026-06-12T07:05:00+00:00,Senegal,0.5419396781454162,1,1,fr,WAF,Africa
 'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.5417443172860251,2,1,fr,NAO,Atlantic Ocean
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-06-15T08:36:00+00:00,Canada,0.5417417729064927,2,2,fr,NEN,North-America
-'365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.5413549729680719,1,1,fr,WCE,Europe
 'fd25f2baec',extremes,Drought,#edc291,edo,sécheresse seychelles,2026-06-14T07:07:00+00:00,Seychelles,0.5409359073415065,1,1,fr,EIO,Indian Ocean
 'ce884fadc9',extremes,Earthquake,#870007,usgs,tremblement de terre guadeloupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.5395811379923905,2,1,fr,NAO,Atlantic Ocean
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,pluie tchad,2026-06-17T07:33:00+00:00,Chad,0.5395779187862162,2,1,fr,SAH,Africa
@@ -193,7 +192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2b54029f9',extremes,Flood,#030ba1,wmo,rivière des cygnes en crue près de Minitonas,2026-06-09T06:32:00+00:00,Canada,0.4819254846876387,2,1,fr,NEN,North-America
 '6ccf450c8e',extremes,Drought,#edc291,edo,période sèche saint pierre et miquelon,2026-07-02T06:24:00+00:00,Saint Pierre and Miquelon,0.4814728834767721,2,1,fr,ENA,North-America
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,pluie mali,2026-06-07T06:48:00+00:00,Mali,0.4808715039439001,4,1,fr,SAH,Africa
-'0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-06-21T07:16:00+00:00,Canada,0.48051852907973974,2,1,fr,NEN,North-America
+'0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-06-21T07:16:00+00:00,Canada,0.4805185290797397,2,1,fr,NEN,North-America
 '47031c8a18',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2026-06-03T07:23:00+00:00,Saint Vincent and the Grenadines,0.4802491118781214,1,1,fr,CAR,North-America
 '6b46d821ab',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-06-03T07:23:00+00:00,Saint Barthelemy,0.4800592493928511,1,1,fr,CAR,North-America
 '5d5d36e81f',extremes,Heat Wave,#c40202,wmo,effretikon de canicule,2026-06-17T07:33:00+00:00,Switzerland,0.4799722773028713,2,1,fr,WCE,Europe
@@ -302,6 +301,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,vague de froid au Brésil,2026-06-06T06:08:00+00:00,Brazil,0.4615331090922454,1,1,fr,SAM,South-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-05-31T06:40:00+00:00,Canada,0.4610004752422127,2,1,fr,NEN,North-America
 '7aabe0271d',extremes,Thunderstorm,#53785a,wmo,orage à l'ouest du Péloponnèse,2026-05-31T06:40:00+00:00,Greece,0.4608906213796634,1,1,fr,MED,Europe
+'365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.4606017720228611,2,1,fr,WCE,Europe
 '037bb37761',extremes,Flood,#030ba1,wmo,inondation aux États-Unis,2026-06-06T06:08:00+00:00,United States,0.4605169170749316,1,1,fr,CNA,North-America
 '29ab340774',extremes,Precipitation,#d60d2b,wmo,averse langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.4603169919787042,1,1,fr,WCE,Europe
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-06-03T07:23:00+00:00,Comoros,0.4601383303896774,1,1,fr,ESAF,Africa
