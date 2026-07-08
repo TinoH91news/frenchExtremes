@@ -26,9 +26,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e29021d398',extremes,Drought,#edc291,edo,manque de pluie nouvelle-calédonie,2026-06-25T06:32:00+00:00,New Caledonia,0.6026228763119746,0,1,fr,SPO,Oceania
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord.,2026-06-25T06:32:00+00:00,Vanuatu,0.6025926771663592,0,1,fr,SPO,Oceania
 '4af517fad7',extremes,Heat Wave,#c40202,wmo,canicule glaris süd grosstal,2026-06-17T07:33:00+00:00,Switzerland,0.6023022184846989,0,1,fr,WCE,Europe
+'22bab77b3f',extremes,Storm,#b3b2b1,wmo,onde de tempête dans les eaux côtières du nord.,2026-06-28T06:44:00+00:00,Vanuatu,0.6020803547672733,0,1,fr,SPO,Oceania
+'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.6019260541172112,0,1,fr,NSA,South-America
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-13T06:38:00+00:00,Republic of the Congo,0.601253424387805,2,1,fr,CAF,Africa
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-31T06:40:00+00:00,New Caledonia,0.5990319274266743,2,2,fr,SPO,Oceania
+'5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-06-20T06:47:00+00:00,Democratic Republic of the Congo,0.5987330862918663,0,1,fr,CAF,Africa
+'c08305ef9e',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-30T06:39:00+00:00,Martinique,0.5987254498096025,0,1,fr,CAR,North-America
+'50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-07-07T06:30:00+00:00,French Polynesia,0.5981414581609623,0,1,fr,SPO,Pacific Ocean
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-06-09T06:32:00+00:00,Canada,0.5975674080909165,2,1,fr,NEN,North-America
+'a5d2510da4',extremes,Drought,#edc291,edo,sécheresse saint barthélémy,2026-06-19T07:39:00+00:00,Saint Barthelemy,0.5975255650677792,0,1,fr,CAR,North-America
 'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.5948677595595457,2,1,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-05-26T06:31:00+00:00,Belgium,0.594552996666315,2,2,fr,WCE,Europe
 'b46c9cc9df',extremes,Drought,#edc291,edo,sécheresse togo,2026-06-04T07:06:00+00:00,Togo,0.5939669798479211,2,2,fr,WAF,Africa
