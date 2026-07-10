@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-07-04T05:59:00+00:00,France,0.7927661341650005,1,3,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-22T08:39:00+00:00,Republic of the Congo,0.7695065937255191,2,2,fr,CAF,Africa
-'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-07-04T05:59:00+00:00,France,0.7503423107823535,0,1,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
 'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-06-19T07:39:00+00:00,Mali,0.7356054336607517,2,2,fr,SAH,Africa
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-06-09T06:32:00+00:00,Canada,0.611344544950302,2,1,fr,NEN,North-America
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-06-23T06:33:00+00:00,Saint Pierre and Miquelon,0.609580986442698,0,1,fr,ENA,North-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-06-28T06:44:00+00:00,Canada,0.60707539433142,1,1,fr,NEN,North-America
-'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-07-02T06:23:00+00:00,New Caledonia,0.6057346586388164,0,1,fr,SPO,Pacific Ocean
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,canicule namur,2026-06-16T08:27:00+00:00,Belgium,0.6051832788949619,2,2,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-13T06:38:00+00:00,Republic of the Congo,0.601253424387805,2,1,fr,CAF,Africa
 '085c462798',extremes,Drought,#edc291,edo,sécheresse en Nouvelle-Calédonie,2026-05-31T06:40:00+00:00,New Caledonia,0.5990319274266743,2,2,fr,SPO,Oceania
@@ -138,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e09a3e3a50',extremes,Storm,#b3b2b1,wmo,onde de tempête corse du sud haute corse,2026-07-02T06:24:00+00:00,France,0.5167572326949718,1,1,fr,WCE,Europe
 '757cf38b46',extremes,Heat Wave,#c40202,wmo,canicule lausanne lavaux,2026-06-18T07:16:00+00:00,Switzerland,0.5153783512272189,1,1,fr,WCE,Europe
 'a68178343b',extremes,Drought,#edc291,edo,période sèche aux Seychelles,2026-06-26T06:36:00+00:00,Seychelles,0.5153505220645882,1,1,fr,EIO,Indian Ocean
+'a1fdba0d05',extremes,Earthquake,#870007,usgs,tremblement de terre en Nouvelle-Calédonie,2026-07-02T06:23:00+00:00,New Caledonia,0.5148744598429938,1,1,fr,SPO,Pacific Ocean
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,canicule val d'hérens,2026-06-23T06:33:00+00:00,Switzerland,0.5148001634067085,1,1,fr,WCE,Europe
 'f2536d75b7',extremes,Thunderstorm,#53785a,wmo,grêle à Grand Rapids et Easterville,2026-07-06T06:52:00+00:00,Canada,0.5145031471734475,1,1,fr,NEN,North-America
 '597a58110b',extremes,Heat Wave,#c40202,wmo,canicule blenio,2026-06-26T06:36:00+00:00,Switzerland,0.5135237606917582,1,1,fr,WCE,Europe
