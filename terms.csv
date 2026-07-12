@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.5915789319908128,2,1,fr,WCE,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,temps violent brabant,2026-06-02T07:08:00+00:00,Belgium,0.5909713247460145,2,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-06-24T06:30:00+00:00,Canada,0.5902186134736092,2,2,fr,NEN,North-America
-'75e7d0319a',extremes,Heat Wave,#c40202,wmo,canicule luxembourg,2026-07-09T06:27:00+00:00,Luxembourg,0.5872002479542803,0,1,fr,WCE,Europe
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-06-20T06:47:00+00:00,Mayotte,0.5847111751628824,1,1,fr,MDG,Africa
 'e551102071',extremes,Earthquake,#870007,usgs,tremblement de terre vanuatu,2026-06-27T06:08:00+00:00,Vanuatu,0.5846448575255627,0,1,fr,SPO,Pacific Ocean
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-25T06:32:00+00:00,Martinique,0.5835037480462877,0,1,fr,CAR,North-America
@@ -70,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord.,2026-06-25T06:32:00+00:00,Vanuatu,0.5637057925026945,2,2,fr,SPO,Oceania
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-06-06T06:08:00+00:00,Wallis and Futuna,0.560893562864629,2,2,fr,SPO,Pacific Ocean
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-06-20T06:47:00+00:00,Democratic Republic of the Congo,0.5602121825958734,2,1,fr,CAF,Africa
+'75e7d0319a',extremes,Heat Wave,#c40202,wmo,canicule luxembourg,2026-07-09T06:27:00+00:00,Luxembourg,0.5586161753065928,1,2,fr,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,brouillard États-Unis,2026-06-02T07:08:00+00:00,United States,0.5584295916104577,2,2,fr,CNA,North-America
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-06-26T06:36:00+00:00,Madagascar,0.5579572275435951,1,1,fr,MDG,Africa
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-06-19T07:39:00+00:00,Switzerland,0.5575912976990468,1,1,fr,WCE,Europe
