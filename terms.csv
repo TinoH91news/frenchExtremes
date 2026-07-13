@@ -19,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-05-26T06:31:00+00:00,France,0.6478639451179623,3,3,fr,WCE,Europe
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-25T06:32:00+00:00,Gabon,0.6468098494311536,1,1,fr,CAF,Africa
+'83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.6456307448813128,1,3,fr,WCE,Europe
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.6396555485590946,1,1,fr,MDG,Africa
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-06-23T06:33:00+00:00,Gabon,0.6387699968950529,1,1,fr,CAF,Africa
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-06-19T07:39:00+00:00,French Southern Territories,0.6356785275924306,2,2,fr,SOO,Antarctica
@@ -46,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,canicule Flandre occidentale,2026-06-16T08:27:00+00:00,Belgium,0.5915789319908128,2,1,fr,WCE,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,temps violent brabant,2026-06-02T07:08:00+00:00,Belgium,0.5909713247460145,2,2,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-06-24T06:30:00+00:00,Canada,0.5902186134736092,2,2,fr,NEN,North-America
-'83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.587966034084967,0,1,fr,WCE,Europe
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-06-20T06:47:00+00:00,Mayotte,0.5847111751628824,1,1,fr,MDG,Africa
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-25T06:32:00+00:00,Martinique,0.5835037480462877,0,1,fr,CAR,North-America
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-07-05T06:25:00+00:00,Djibouti,0.5823848238006776,0,1,fr,NEAF,Africa
