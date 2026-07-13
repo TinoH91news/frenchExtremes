@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-07-04T05:59:00+00:00,France,0.7927661341650005,1,3,fr,WCE,Europe
+'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.7706856646514677,1,3,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-22T08:39:00+00:00,Republic of the Congo,0.7695065937255191,2,2,fr,CAF,Africa
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-07-11T05:27:00+00:00,France,0.7474457538395388,1,2,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
 'bec00b646c',extremes,Drought,#edc291,edo,sécheresse mali,2026-06-19T07:39:00+00:00,Mali,0.7356054336607517,2,2,fr,SAH,Africa
-'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.7350890102851491,0,1,fr,WCE,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.7307985832950199,1,2,fr,WAF,Africa
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
 '0a54633be0',extremes,Drought,#edc291,edo,manque de pluie luxembourg,2026-06-23T06:33:00+00:00,Luxembourg,0.7101851975031421,2,2,fr,WCE,Europe
@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-06-02T07:08:00+00:00,Belgium,0.6948380273877017,2,2,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.6890248905483378,1,3,fr,WCE,Europe
 'f3d653a8ff',extremes,Drought,#edc291,edo,sécheresse comores,2026-06-29T07:13:00+00:00,Comoros,0.6831342636745049,0,1,fr,ESAF,Africa
-'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-07-01T06:52:00+00:00,Niger,0.6821185105882929,0,1,fr,SAH,Africa
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.681812093386119,2,2,fr,WCE,Europe
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-04T05:59:00+00:00,Burkina Faso,0.6800181871440297,0,1,fr,WAF,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-06-26T06:36:00+00:00,Switzerland,0.6797290609330016,0,1,fr,WCE,Europe
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-07-05T06:25:00+00:00,Djibouti,0.5823848238006776,0,1,fr,NEAF,Africa
 '491a82f8c3',extremes,Drought,#edc291,edo,période sèche au Cameroun,2026-06-26T06:36:00+00:00,Cameroon,0.5823816841249791,0,1,fr,CAF,Africa
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-06-25T06:32:00+00:00,Senegal,0.5819644329727662,0,1,fr,WAF,Africa
+'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-07-01T06:52:00+00:00,Niger,0.579800734000049,1,1,fr,SAH,Africa
 '9e0c993931',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle france,2026-06-23T06:33:00+00:00,France,0.5796063574287846,2,1,fr,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,manque de pluie suisse,2026-06-27T06:08:00+00:00,Switzerland,0.578802138012778,1,1,fr,WCE,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,tempête en Grèce,2026-06-24T06:30:00+00:00,Greece,0.5773410857855128,0,1,fr,MED,Europe
