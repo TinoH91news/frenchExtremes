@@ -25,12 +25,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-06-19T07:39:00+00:00,French Southern Territories,0.6356785275924306,2,2,fr,SOO,Antarctica
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.6310093854218431,2,3,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-19T07:39:00+00:00,Gabon,0.6303920323727469,1,1,fr,CAF,Africa
-'4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-07-04T05:59:00+00:00,Mali,0.6278033883955147,0,1,fr,SAH,Africa
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-06-24T06:30:00+00:00,Saint Martin,0.625790964722618,0,1,fr,CAR,North-America
 '4c395ac77e',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-06-25T06:32:00+00:00,Burkina Faso,0.6225809078102252,0,1,fr,WAF,Africa
 'c3a6040a94',extremes,Drought,#edc291,edo,sécheresse à Maurice,2026-06-08T07:13:00+00:00,Mauritius,0.6217083834883397,1,2,fr,SIO,Indian Ocean
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-06-28T06:44:00+00:00,Canada,0.6214325343141963,2,1,fr,NEN,North-America
-'220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-06-30T06:39:00+00:00,Cameroon,0.6175481890059388,0,1,fr,CAF,Africa
 'b009512785',extremes,Drought,#edc291,edo,sécheresse tunisie,2026-07-13T05:53:00+00:00,Tunisia,0.6173951091010778,0,1,fr,MED,Africa
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-06-14T07:07:00+00:00,Democratic Republic of the Congo,0.6157987186509938,2,1,fr,CAF,Africa
 '31e75af3af',extremes,Earthquake,#870007,usgs,tremblement de terre en Guinée,2026-06-12T07:05:00+00:00,Guinea,0.6121963282236529,2,2,fr,WAF,Africa
@@ -140,6 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5697633f0e',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles tchad,2026-06-26T06:36:00+00:00,Chad,0.5342998950665404,2,1,fr,SAH,Africa
 '54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-06-22T08:39:00+00:00,Central African Republic,0.5341822013336914,1,1,fr,CAF,Africa
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-06-16T08:27:00+00:00,Belgium,0.533934059616874,2,1,fr,WCE,Europe
+'4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-07-04T05:59:00+00:00,Mali,0.5337829101361875,1,1,fr,SAH,Africa
 '6716ad25a6',extremes,Storm,#b3b2b1,wmo,onde de tempête bouches du rhône vaucluse,2026-07-02T06:24:00+00:00,France,0.533699742409328,1,1,fr,WCE,Europe
 '3673936869',extremes,Drought,#edc291,edo,période de sécheresse république démocratique du congo,2026-06-28T06:44:00+00:00,Democratic Republic of the Congo,0.5325343418708118,1,1,fr,CAF,Africa
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,le Canada gelé,2026-06-22T08:39:00+00:00,Canada,0.5323774396168157,2,1,fr,NEN,North-America
@@ -158,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-06-07T06:48:00+00:00,France,0.5259056534395349,1,2,fr,WCE,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,canicule niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.5249638403604083,1,1,fr,WCE,Europe
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,tremblement de terre tadine,2026-06-30T06:39:00+00:00,New Caledonia,0.5249261318941204,1,1,fr,SPO,Pacific Ocean
+'220661589e',extremes,Drought,#edc291,edo,sécheresse cameroun,2026-06-30T06:39:00+00:00,Cameroon,0.524915960655048,1,1,fr,CAF,Africa
 'e700869fe4',extremes,Fog,#d60d2b,wmo,brouillard tuktoyaktuk région du chenal est,2026-06-27T06:08:00+00:00,Canada,0.5247674766706302,1,1,fr,NEN,North-America
 '02328cb582',extremes,Heat Wave,#c40202,wmo,canicule murten kerzers,2026-06-17T07:33:00+00:00,Switzerland,0.5235048793058941,1,1,fr,WCE,Europe
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,glace au Brésil,2026-06-15T08:36:00+00:00,Brazil,0.5228464372767665,2,2,fr,SAM,South-America
