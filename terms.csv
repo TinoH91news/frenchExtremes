@@ -59,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.5774064863084362,1,1,fr,WAF,Africa
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,tempête en Grèce,2026-06-24T06:30:00+00:00,Greece,0.5773410857855128,0,1,fr,MED,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-06-20T06:47:00+00:00,Canada,0.5770171536352092,1,1,fr,NEN,North-America
-'b863d00f22',extremes,Drought,#edc291,edo,sécheresse en Italie,2026-06-28T06:44:00+00:00,Italy,0.5766973606824859,0,1,fr,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,grêle en Grèce,2026-06-23T06:33:00+00:00,Greece,0.5762981624702229,0,1,fr,MED,Europe
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-07-12T05:43:00+00:00,Saint Pierre and Miquelon,0.5756465117345465,0,1,fr,ENA,North-America
 '6db948209a',extremes,Heat Wave,#c40202,wmo,canicule en Grèce,2026-06-28T06:44:00+00:00,Greece,0.5753145855652323,0,1,fr,MED,Europe
@@ -82,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '469f1c3ab9',extremes,Drought,#edc291,edo,sécheresse niger,2026-06-22T08:39:00+00:00,Niger,0.5676629236898868,1,1,fr,SAH,Africa
 '60159fd46f',extremes,Drought,#edc291,edo,manque de pluie polynésie française,2026-06-16T08:27:00+00:00,French Polynesia,0.567259673334445,1,1,fr,SPO,Pacific Ocean
 '4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-07-02T06:24:00+00:00,Burundi,0.5668818280865914,1,1,fr,SEAF,Africa
+'b863d00f22',extremes,Drought,#edc291,edo,sécheresse en Italie,2026-06-28T06:44:00+00:00,Italy,0.565792816580113,1,2,fr,MED,Europe
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,tempête madagascar,2026-06-21T07:16:00+00:00,Madagascar,0.5652709320774931,3,2,fr,MDG,Africa
 'c66aad611a',extremes,Drought,#edc291,edo,sécheresse au laos,2026-07-03T06:09:00+00:00,Laos,0.565159508720726,1,1,fr,SEA,Asia
 'a995f68c66',extremes,Wildfire,#d60d2b,cmeter,canicule européenne à toulouse,2026-07-10T06:27:00+00:00,France,0.5638735771121267,2,1,fr,WCE,Europe
