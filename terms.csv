@@ -68,6 +68,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-07-06T06:52:00+00:00,Vanuatu,0.5767001979677432,0,1,fr,SPO,Pacific Ocean
 'b863d00f22',extremes,Drought,#edc291,edo,sécheresse en Italie,2026-06-28T06:44:00+00:00,Italy,0.5766973606824859,0,1,fr,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,grêle en Grèce,2026-06-23T06:33:00+00:00,Greece,0.5762981624702229,0,1,fr,MED,Europe
+'86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-07-12T05:43:00+00:00,Saint Pierre and Miquelon,0.5756465117345465,0,1,fr,ENA,North-America
+'6db948209a',extremes,Heat Wave,#c40202,wmo,canicule en Grèce,2026-06-28T06:44:00+00:00,Greece,0.5753145855652323,0,1,fr,MED,Europe
+'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-05T06:25:00+00:00,France,0.5750617367141684,0,1,fr,WCE,Europe
+'64ad829968',extremes,Thunderstorm,#53785a,wmo,orage suisse,2026-07-01T06:52:00+00:00,Switzerland,0.5750356573555708,0,1,fr,WCE,Europe
+'213b50b853',extremes,Heat Wave,#c40202,wmo,canicule luxembourg sud,2026-07-11T05:27:00+00:00,Luxembourg,0.5750006366885574,0,1,fr,WCE,Europe
+'36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle suisse,2026-07-01T06:52:00+00:00,Switzerland,0.5749242044765349,0,1,fr,WCE,Europe
 'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-06-21T07:16:00+00:00,Saint Pierre and Miquelon,0.573607164235732,1,1,fr,ENA,North-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-30T06:39:00+00:00,Canada,0.5732815514535007,1,1,fr,NEN,North-America
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,canicule genève,2026-06-20T06:47:00+00:00,Switzerland,0.5728491817684734,2,1,fr,WCE,Europe
