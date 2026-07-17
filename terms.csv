@@ -58,7 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e0c993931',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle france,2026-06-23T06:33:00+00:00,France,0.5796063574287846,2,1,fr,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,manque de pluie suisse,2026-06-27T06:08:00+00:00,Switzerland,0.578802138012778,1,1,fr,WCE,Europe
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-04T05:59:00+00:00,Burkina Faso,0.5780154590724252,1,1,fr,WAF,Africa
-'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-30T06:39:00+00:00,Italy,0.5778384816134707,0,1,fr,MED,Europe
 '05201ab84b',extremes,Drought,#edc291,edo,sécheresse au togo,2026-07-13T05:53:00+00:00,Togo,0.5778024834214666,1,1,fr,WAF,Africa
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-06-26T06:36:00+00:00,Switzerland,0.5777697017930513,1,1,fr,WCE,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.5774064863084362,1,1,fr,WAF,Africa
@@ -113,6 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-06-28T06:44:00+00:00,Chad,0.5494674137220726,2,1,fr,SAH,Africa
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-25T06:32:00+00:00,Martinique,0.5493589857134429,2,2,fr,CAR,North-America
 'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-06-24T06:30:00+00:00,Chad,0.5486699354566784,1,1,fr,SAH,Africa
+'b4a448711b',extremes,Heat Wave,#c40202,wmo,canicule italie,2026-06-30T06:39:00+00:00,Italy,0.5475257793714501,1,2,fr,MED,Europe
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-07-07T06:30:00+00:00,Senegal,0.5466319348891567,1,1,fr,WAF,Africa
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,onde de tempête madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.546133997927136,2,1,fr,MDG,Africa
 'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-06-18T07:16:00+00:00,French Guiana,0.545566955707485,1,1,fr,NSA,South-America
