@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-25T06:32:00+00:00,Gabon,0.6468098494311536,1,1,fr,CAF,Africa
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-06-25T06:32:00+00:00,Senegal,0.6451198430268513,1,2,fr,WAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.6396555485590946,1,1,fr,MDG,Africa
+'213b50b853',extremes,Heat Wave,#c40202,wmo,canicule luxembourg sud,2026-07-11T05:27:00+00:00,Luxembourg,0.6393506011852738,1,2,fr,WCE,Europe
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-06-28T06:44:00+00:00,Canada,0.636764160181707,2,2,fr,NEN,North-America
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-06-19T07:39:00+00:00,French Southern Territories,0.6356785275924306,2,2,fr,SOO,Antarctica
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.6310093854218431,2,3,fr,WCE,Europe
@@ -58,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-06-20T06:47:00+00:00,Canada,0.5770171536352092,1,1,fr,NEN,North-America
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,grêle en Grèce,2026-06-23T06:33:00+00:00,Greece,0.5762981624702229,0,1,fr,MED,Europe
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-07-12T05:43:00+00:00,Saint Pierre and Miquelon,0.5756465117345465,0,1,fr,ENA,North-America
-'213b50b853',extremes,Heat Wave,#c40202,wmo,canicule luxembourg sud,2026-07-11T05:27:00+00:00,Luxembourg,0.5750006366885574,0,1,fr,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle suisse,2026-07-01T06:52:00+00:00,Switzerland,0.5749242044765349,0,1,fr,WCE,Europe
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-07-12T05:43:00+00:00,Saint Barthelemy,0.5745111550538461,0,1,fr,CAR,North-America
 '63ddfc83a8',extremes,Drought,#edc291,edo,période sèche vanuatu,2026-07-11T05:27:00+00:00,Vanuatu,0.5744311416519539,0,1,fr,SPO,Pacific Ocean
