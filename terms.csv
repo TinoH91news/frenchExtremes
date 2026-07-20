@@ -66,7 +66,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-07-12T05:43:00+00:00,Saint Barthelemy,0.5745111550538461,0,1,fr,CAR,North-America
 '63ddfc83a8',extremes,Drought,#edc291,edo,période sèche vanuatu,2026-07-11T05:27:00+00:00,Vanuatu,0.5744311416519539,0,1,fr,SPO,Pacific Ocean
 'c91b48115b',extremes,Drought,#edc291,edo,manque de pluie saint pierre et miquelon,2026-06-21T07:16:00+00:00,Saint Pierre and Miquelon,0.573607164235732,1,1,fr,ENA,North-America
-'1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2026-07-01T06:52:00+00:00,Tunisia,0.5735538578341978,0,1,fr,MED,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-06-30T06:39:00+00:00,Canada,0.5732815514535007,1,1,fr,NEN,North-America
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,canicule genève,2026-06-20T06:47:00+00:00,Switzerland,0.5728491817684734,2,1,fr,WCE,Europe
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,brouillard sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.5727500632442587,1,1,fr,NEN,North-America
@@ -91,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a995f68c66',extremes,Wildfire,#d60d2b,cmeter,canicule européenne à toulouse,2026-07-10T06:27:00+00:00,France,0.5638735771121267,2,1,fr,WCE,Europe
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord.,2026-06-25T06:32:00+00:00,Vanuatu,0.5637057925026945,2,2,fr,SPO,Oceania
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-07-11T05:27:00+00:00,Guinea,0.5631783347498018,1,1,fr,WAF,Africa
+'1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2026-07-01T06:52:00+00:00,Tunisia,0.5628208091590681,1,2,fr,MED,Africa
 '18125b01a5',extremes,Drought,#edc291,edo,manque de pluie au laos,2026-07-16T05:25:00+00:00,Laos,0.562659220019854,0,1,fr,SEA,Asia
 'e6b66cbfce',extremes,Storm,#b3b2b1,wmo,onde de tempête wawa parc pukaskwa,2026-07-13T05:53:00+00:00,Canada,0.5610236889733636,1,1,fr,NEN,North-America
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-06-06T06:08:00+00:00,Wallis and Futuna,0.560893562864629,2,2,fr,SPO,Pacific Ocean
