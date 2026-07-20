@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-25T06:32:00+00:00,Gabon,0.6468098494311536,1,1,fr,CAF,Africa
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-06-25T06:32:00+00:00,Senegal,0.6451198430268513,1,2,fr,WAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.6396555485590946,1,1,fr,MDG,Africa
-'6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-07-11T05:27:00+00:00,Rwanda,0.6378644899812103,1,2,fr,SEAF,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-06-28T06:44:00+00:00,Canada,0.636764160181707,2,2,fr,NEN,North-America
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-06-19T07:39:00+00:00,French Southern Territories,0.6356785275924306,2,2,fr,SOO,Antarctica
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-07-13T05:53:00+00:00,Luxembourg,0.6342253135085824,1,2,fr,WCE,Europe
@@ -38,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ac346e7e2',extremes,Drought,#edc291,edo,sécheresse république démocratique du congo,2026-06-14T07:07:00+00:00,Democratic Republic of the Congo,0.6157987186509938,2,1,fr,CAF,Africa
 '31e75af3af',extremes,Earthquake,#870007,usgs,tremblement de terre en Guinée,2026-06-12T07:05:00+00:00,Guinea,0.6121963282236529,2,2,fr,WAF,Africa
 'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-07-04T05:59:00+00:00,Switzerland,0.607626897538421,0,1,fr,WCE,Europe
-'83b144ae1c',extremes,Storm,#b3b2b1,wmo,prendre d'assaut le chenal et les eaux du sud.,2026-07-20T05:54:00+00:00,Vanuatu,0.6054171947444025,0,1,fr,SPO,Oceania
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,canicule namur,2026-06-16T08:27:00+00:00,Belgium,0.6051832788949619,2,2,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-13T06:38:00+00:00,Republic of the Congo,0.601253424387805,2,1,fr,CAF,Africa
 'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.5948677595595457,2,1,fr,WCE,Europe
@@ -138,6 +136,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f8aae8e4f',extremes,Drought,#edc291,edo,sécheresse saint martin,2026-07-02T06:24:00+00:00,Saint Martin,0.5445190867994818,1,1,fr,CAR,North-America
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-06-12T07:05:00+00:00,Reunion,0.5433504968048687,2,2,fr,SIO,Africa
 '13104e853c',extremes,Drought,#edc291,edo,période sèche au gabon,2026-06-23T06:33:00+00:00,Gabon,0.5429544973607949,2,1,fr,CAF,Africa
+'6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-07-11T05:27:00+00:00,Rwanda,0.5423348314840287,2,2,fr,SEAF,Africa
 '62c44885fc',extremes,Storm,#b3b2b1,wmo,tempête landes pyrénées atlantiques,2026-07-12T05:43:00+00:00,France,0.5420519307646098,1,1,fr,WCE,Europe
 'c81c03f06e',extremes,Earthquake,#870007,usgs,tremblement de terre beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.5417443172860251,2,1,fr,NAO,Atlantic Ocean
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-06-15T08:36:00+00:00,Canada,0.5417417729064927,2,2,fr,NEN,North-America
@@ -201,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,canicule val d'hérens,2026-06-23T06:33:00+00:00,Switzerland,0.5148001634067085,1,1,fr,WCE,Europe
 '96fce9e739',extremes,Flood,#030ba1,wmo,inondations à Trinité-et-Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.5146323397471352,1,1,fr,NSA,North-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,onde de tempête vanuatu,2026-07-13T05:53:00+00:00,Vanuatu,0.5146214263832078,1,1,fr,SPO,Oceania
+'83b144ae1c',extremes,Storm,#b3b2b1,wmo,prendre d'assaut le chenal et les eaux du sud.,2026-07-20T05:54:00+00:00,Vanuatu,0.5146046155327421,1,1,fr,SPO,Oceania
 'f2536d75b7',extremes,Thunderstorm,#53785a,wmo,grêle à Grand Rapids et Easterville,2026-07-06T06:52:00+00:00,Canada,0.5145031471734475,1,1,fr,NEN,North-America
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-06-28T06:44:00+00:00,Comoros,0.5141238602426753,1,1,fr,ESAF,Africa
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,onde de tempête sur toutes les eaux du vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.5140046392262928,1,1,fr,SPO,Oceania
