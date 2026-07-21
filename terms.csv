@@ -15,13 +15,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.6890248905483378,1,3,fr,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.681812093386119,2,2,fr,WCE,Europe
+'0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-06-29T07:13:00+00:00,French Southern Territories,0.675974700196704,1,2,fr,SOO,Antarctica
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6660051647413506,1,2,fr,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-06-17T07:33:00+00:00,Switzerland,0.6632124013850592,1,3,fr,WCE,Europe
 '31346b09b9',extremes,Heat Wave,#c40202,cmeter,canicule bordeaux,2026-06-17T07:34:00+00:00,France,0.6618117687972503,2,3,fr,,
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
-'0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.6548860511761748,1,3,fr,SPO,Pacific Ocean
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
 '82dac61e93',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-21T07:16:00+00:00,French Guiana,0.6533561852044131,1,2,fr,NSA,South-America
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-25T06:32:00+00:00,Gabon,0.6468098494311536,1,1,fr,CAF,Africa
@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,tempête en Grèce,2026-06-24T06:30:00+00:00,Greece,0.5773410857855128,0,1,fr,MED,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-06-20T06:47:00+00:00,Canada,0.5770171536352092,1,1,fr,NEN,North-America
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,grêle en Grèce,2026-06-23T06:33:00+00:00,Greece,0.5762981624702229,0,1,fr,MED,Europe
-'5eb3dff458',extremes,Earthquake,#870007,usgs,tremblement de terre kon tum,2026-07-15T05:15:00+00:00,Vietnam,0.5760763910295019,0,1,fr,SEA,Asia
 '86f6fcdcbf',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-07-12T05:43:00+00:00,Saint Pierre and Miquelon,0.5756465117345465,0,1,fr,ENA,North-America
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle suisse,2026-07-01T06:52:00+00:00,Switzerland,0.5749242044765349,0,1,fr,WCE,Europe
 '19c93ab39a',extremes,Drought,#edc291,edo,manque de pluie saint barthélémy,2026-07-12T05:43:00+00:00,Saint Barthelemy,0.5745111550538461,0,1,fr,CAR,North-America
@@ -254,6 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b20a18bcb',extremes,Drought,#edc291,edo,période sèche au maroc,2026-07-01T06:52:00+00:00,Morocco,0.4907115809574945,1,1,fr,MED,Africa
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-06-22T08:39:00+00:00,Canada,0.4905984707530537,2,1,fr,NEN,North-America
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-07-06T06:52:00+00:00,Vanuatu,0.4901951682725817,1,1,fr,SPO,Pacific Ocean
+'5eb3dff458',extremes,Earthquake,#870007,usgs,tremblement de terre kon tum,2026-07-15T05:15:00+00:00,Vietnam,0.48966493237507663,1,1,fr,SEA,Asia
 '1cf385e5d2',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-28T06:44:00+00:00,Haiti,0.4894124562605224,1,1,fr,CAR,North-America
 '124e1ae3f2',extremes,Drought,#edc291,edo,période sèche en Nouvelle-Calédonie,2026-07-11T05:27:00+00:00,New Caledonia,0.4889168910415014,1,1,fr,SPO,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-06-15T08:36:00+00:00,Canada,0.4879106026312658,2,1,fr,NEN,North-America
