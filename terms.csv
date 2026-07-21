@@ -18,8 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-06-16T08:27:00+00:00,Belgium,0.681812093386119,2,2,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '37222e0f0e',extremes,Drought,#edc291,edo,période sèche dans les territoires du sud de la France,2026-06-29T07:13:00+00:00,French Southern Territories,0.675974700196704,1,2,fr,SOO,Antarctica
-'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-07-07T06:30:00+00:00,Burundi,0.6714721205834232,0,1,fr,SEAF,Africa
-'1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-07-07T06:30:00+00:00,Seychelles,0.6709047858037724,0,1,fr,EIO,Africa
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 '9c32a6bc47',extremes,Heat Wave,#c40202,wmo,canicule siffleur howe sound,2026-07-21T05:36:00+00:00,Canada,0.6660973128981079,0,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6660051647413506,1,2,fr,WCE,Europe
@@ -79,6 +77,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,orage moosonee,2026-07-14T05:14:00+00:00,Canada,0.5723470561415912,1,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-07-01T06:52:00+00:00,Canada,0.5719428567788639,2,1,fr,NEN,North-America
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,canicule région de Fort Good Hope,2026-07-21T05:36:00+00:00,Canada,0.5710844929172637,1,1,fr,NEN,North-America
+'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-07-07T06:30:00+00:00,Burundi,0.5710513324959097,1,1,fr,SEAF,Africa
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempête seychelles,2026-07-07T06:30:00+00:00,Seychelles,0.5702690679332065,1,1,fr,EIO,Africa
 '4424a7edaf',extremes,Storm,#b3b2b1,wmo,tempête bay st. georges,2026-07-19T05:37:00+00:00,Canada,0.5698572399343695,1,1,fr,NEN,North-America
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,canicule Bâle,2026-06-20T06:47:00+00:00,Switzerland,0.5681978641448044,2,1,fr,WCE,Europe
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-28T06:44:00+00:00,Mayotte,0.5677321804797661,0,1,fr,MDG,Africa
