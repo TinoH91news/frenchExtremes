@@ -119,11 +119,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,sécheresse Guinée équatoriale,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.5539541103865112,1,1,fr,WAF,Africa
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,canicule basso moesano,2026-06-19T07:39:00+00:00,Switzerland,0.5537585507580974,1,1,fr,WCE,Europe
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,la tempête flims laax,2026-07-17T05:27:00+00:00,Switzerland,0.5535327444623035,0,1,fr,WCE,Europe
+'55459a4ab8',extremes,Drought,#edc291,edo,sécheresse luxembourg,2026-07-19T05:37:00+00:00,Luxembourg,0.5533267271878767,0,1,fr,WCE,Europe
+'821ad18287',extremes,Storm,#b3b2b1,wmo,onde de tempête brienz interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.5533038398956729,0,1,fr,WCE,Europe
+'c160cc7b69',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2026-07-10T06:27:00+00:00,Saint Vincent and the Grenadines,0.5532841770674114,0,1,fr,CAR,North-America
 '45015c86e8',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-06-14T07:07:00+00:00,Haiti,0.5531151172514776,2,1,fr,CAR,North-America
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.5527191082741791,2,1,fr,MDG,Africa
 '8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-06-28T06:44:00+00:00,Republic of the Congo,0.5523041992031412,1,1,fr,CAF,Africa
+'c1d5ba6a59',extremes,Thunderstorm,#53785a,wmo,orage zurzach bülach,2026-07-01T06:52:00+00:00,Switzerland,0.5521638402546392,0,1,fr,WCE,Europe
 '9125dbecfb',extremes,Drought,#edc291,edo,manque de pluie martinique,2026-06-24T06:30:00+00:00,Martinique,0.5518902223305853,1,1,fr,CAR,North-America
 '02bc9c64a4',extremes,Drought,#edc291,edo,manque de pluie au cambodge,2026-06-21T07:16:00+00:00,Cambodia,0.5518631077981813,1,1,fr,SEA,Asia
+'d04f6e57b1',extremes,Drought,#edc291,edo,période sèche au Mali,2026-07-03T06:09:00+00:00,Mali,0.5515647405645399,0,1,fr,SAH,Africa
+'cbda6735c3',extremes,Storm,#b3b2b1,wmo,onde de tempête appenzell,2026-07-15T05:15:00+00:00,Switzerland,0.550925313476482,0,1,fr,WCE,Europe
 '04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-06-23T06:33:00+00:00,Reunion,0.5503870244616206,1,1,fr,SIO,Africa
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-06-28T06:44:00+00:00,Chad,0.5494674137220726,2,1,fr,SAH,Africa
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-25T06:32:00+00:00,Martinique,0.5493589857134429,2,2,fr,CAR,North-America
