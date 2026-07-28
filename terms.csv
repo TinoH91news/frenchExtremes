@@ -26,8 +26,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-06-22T08:39:00+00:00,Republic of the Congo,0.6540806046666913,3,1,fr,CAF,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à madagascar,2026-07-11T05:27:00+00:00,Madagascar,0.6470531035179911,1,1,fr,MDG,Africa
+'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,canicule domleschg,2026-07-13T05:53:00+00:00,Switzerland,0.6470169949980334,0,1,fr,WCE,Europe
 '7467da3199',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-25T06:32:00+00:00,Gabon,0.6468098494311536,1,1,fr,CAF,Africa
+'a85598b6d2',extremes,Heat Wave,#c40202,wmo,canicule wohlen albis,2026-07-13T05:53:00+00:00,Switzerland,0.6457781306710042,0,1,fr,WCE,Europe
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-06-25T06:32:00+00:00,Senegal,0.6451198430268513,1,2,fr,WAF,Africa
+'41225e527b',extremes,Drought,#edc291,edo,période sèche en Polynésie française,2026-07-09T06:27:00+00:00,French Polynesia,0.6448280661426988,0,1,fr,SPO,Pacific Ocean
+'11b4484b9a',extremes,Drought,#edc291,edo,manque de pluie mayotte,2026-07-08T05:37:00+00:00,Mayotte,0.6443960338682837,0,1,fr,MDG,Africa
+'6ded337d1f',extremes,Heat Wave,#c40202,wmo,canicule langnau eggiwil,2026-07-12T05:43:00+00:00,Switzerland,0.6435243864539052,0,1,fr,WCE,Europe
+'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-07-12T05:43:00+00:00,Switzerland,0.6434235462694174,0,1,fr,WCE,Europe
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-07-13T05:53:00+00:00,Luxembourg,0.639541561482295,2,2,fr,WCE,Europe
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-07-03T06:09:00+00:00,France,0.6375300227394037,1,3,fr,WCE,Europe
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-06-28T06:44:00+00:00,Canada,0.636764160181707,2,2,fr,NEN,North-America
