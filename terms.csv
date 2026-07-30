@@ -34,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.6310093854218431,2,3,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-06-19T07:39:00+00:00,Gabon,0.6303920323727469,1,1,fr,CAF,Africa
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,canicule anvers,2026-07-10T06:27:00+00:00,Belgium,0.6282581977497044,2,2,fr,WCE,Europe
+'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-07-15T05:15:00+00:00,French Guiana,0.6275894114520452,2,2,fr,NSA,South-America
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6224091842503167,1,2,fr,SOO,Antarctica
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-07-15T05:15:00+00:00,Italy,0.6218862535166798,1,2,fr,MED,Europe
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-07-20T05:54:00+00:00,France,0.6217496495041547,3,3,fr,WCE,Europe
@@ -90,7 +91,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-09T06:27:00+00:00,Switzerland,0.5637512529324825,1,1,fr,WCE,Europe
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord.,2026-06-25T06:32:00+00:00,Vanuatu,0.5637057925026945,2,2,fr,SPO,Oceania
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-07-11T05:27:00+00:00,Guinea,0.5631783347498018,1,1,fr,WAF,Africa
-'e166ae6ea3',extremes,Drought,#edc291,edo,manque de pluie guyane française,2026-07-15T05:15:00+00:00,French Guiana,0.5616934075906413,1,1,fr,NSA,South-America
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-07-07T06:30:00+00:00,Benin,0.5616474630019759,2,2,fr,WAF,Africa
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,canicule sion crans montana,2026-07-08T05:37:00+00:00,Switzerland,0.5602067710231013,1,1,fr,WCE,Europe
 '1ae3c6ada3',extremes,Storm,#b3b2b1,wmo,onde de tempête fort severn,2026-07-13T05:53:00+00:00,Canada,0.5595153239646843,1,1,fr,NEN,North-America
