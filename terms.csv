@@ -22,7 +22,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,canicule namur,2026-07-28T05:31:00+00:00,Belgium,0.6570648535377722,1,3,fr,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,sécheresse gabon,2026-07-12T05:43:00+00:00,Gabon,0.6557928475909627,1,1,fr,CAF,Africa
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,canicule erstfeld engelberg,2026-07-12T05:43:00+00:00,Switzerland,0.6469006511963991,0,1,fr,WCE,Europe
+'2f2f638d6d',extremes,Heat Wave,#c40202,wmo,canicule niedersimmental,2026-07-13T05:53:00+00:00,Switzerland,0.6460817384961631,0,1,fr,WCE,Europe
 'fe9081a418',extremes,Drought,#edc291,edo,manque de pluie Sénégal,2026-06-25T06:32:00+00:00,Senegal,0.6451198430268513,1,2,fr,WAF,Africa
+'5939e7bd12',extremes,Heat Wave,#c40202,wmo,canicule thalwil wetzikon,2026-07-29T05:37:00+00:00,Switzerland,0.644788945237612,0,1,fr,WCE,Europe
+'239db805fa',extremes,Heat Wave,#c40202,wmo,canicule val d'anniviers,2026-07-31T05:51:00+00:00,Switzerland,0.6442016532958822,0,1,fr,WCE,Europe
+'5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-07-19T05:37:00+00:00,Cambodia,0.64309393432786,0,1,fr,SEA,Asia
+'2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-07-16T05:25:00+00:00,Ivory Coast,0.6426516535172325,0,1,fr,WAF,Africa
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-07-13T05:53:00+00:00,Luxembourg,0.639541561482295,2,2,fr,WCE,Europe
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-07-03T06:09:00+00:00,France,0.6375300227394037,1,3,fr,WCE,Europe
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-06-28T06:44:00+00:00,Canada,0.636764160181707,2,2,fr,NEN,North-America
@@ -292,8 +298,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '821ad18287',extremes,Storm,#b3b2b1,wmo,onde de tempête brienz interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.4703082639113219,1,1,fr,WCE,Europe
 'c160cc7b69',extremes,Drought,#edc291,edo,sécheresse saint vincent et les grenadines,2026-07-10T06:27:00+00:00,Saint Vincent and the Grenadines,0.4702915505072996,1,1,fr,CAR,North-America
 '8b63278dd1',extremes,Heat Wave,#c40202,wmo,canicule à l'est du Péloponnèse,2026-07-22T05:35:00+00:00,Greece,0.4697563695213455,1,1,fr,MED,Europe
-'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-07-11T05:27:00+00:00,Switzerland,0.46949577960760797,2,1,fr,WCE,Europe
-'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-06-28T06:44:00+00:00,Republic of the Congo,0.46945856932267005,2,1,fr,CAF,Africa
+'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-07-11T05:27:00+00:00,Switzerland,0.4694957796076079,2,1,fr,WCE,Europe
+'8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-06-28T06:44:00+00:00,Republic of the Congo,0.46945856932267,2,1,fr,CAF,Africa
 'c1d5ba6a59',extremes,Thunderstorm,#53785a,wmo,orage zurzach bülach,2026-07-01T06:52:00+00:00,Switzerland,0.4693392642164433,1,1,fr,WCE,Europe
 '93ee21e413',extremes,Heat Wave,#c40202,wmo,canicule gersau engelbergertal,2026-07-12T05:43:00+00:00,Switzerland,0.4692468375599156,2,1,fr,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,canicule bienne neuchâtel,2026-07-09T06:27:00+00:00,Switzerland,0.4690229997262861,2,1,fr,WCE,Europe
