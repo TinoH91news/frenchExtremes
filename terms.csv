@@ -15,11 +15,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
-'54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-07-18T05:10:00+00:00,Central African Republic,0.665375962047584,0,1,fr,CAF,Africa
-'8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2026-08-01T05:42:00+00:00,Senegal,0.6645696326053164,0,1,fr,WAF,Africa
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-07-30T05:24:00+00:00,Canada,0.6638408067186307,0,1,fr,NEN,North-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-06-17T07:33:00+00:00,Switzerland,0.6632124013850592,1,3,fr,WCE,Europe
-'c02b040746',extremes,Heat Wave,#c40202,wmo,canicule Landquart Coire,2026-07-29T05:37:00+00:00,Switzerland,0.6622196432064505,0,1,fr,WCE,Europe
 '31346b09b9',extremes,Heat Wave,#c40202,cmeter,canicule bordeaux,2026-06-17T07:34:00+00:00,France,0.6618117687972503,2,3,fr,,
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
@@ -59,12 +56,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4389b7abd6',extremes,Heat Wave,#c40202,wmo,canicule frick leibstadt,2026-07-08T05:37:00+00:00,Switzerland,0.5712219504677802,1,1,fr,WCE,Europe
 'b8545bc5d8',extremes,Drought,#edc291,edo,sécheresse burundi,2026-07-07T06:30:00+00:00,Burundi,0.5710513324959097,1,1,fr,SEAF,Africa
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,canicule olten gösgen,2026-07-09T06:27:00+00:00,Switzerland,0.5669103624031439,1,1,fr,WCE,Europe
+'54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-07-18T05:10:00+00:00,Central African Republic,0.5655695677404464,1,1,fr,CAF,Africa
 'ddbc45646b',extremes,Heat Wave,#c40202,wmo,canicule hainaut,2026-07-09T06:27:00+00:00,Belgium,0.5652426759737113,2,1,fr,WCE,Europe
+'8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2026-08-01T05:42:00+00:00,Senegal,0.565034217714519,1,1,fr,WAF,Africa
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,canicule aigle leysin,2026-07-09T06:27:00+00:00,Switzerland,0.5647866760151591,1,1,fr,WCE,Europe
 'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-31T05:51:00+00:00,Ivory Coast,0.564283154091294,1,1,fr,WAF,Africa
 'a995f68c66',extremes,Wildfire,#d60d2b,cmeter,canicule européenne à toulouse,2026-07-10T06:27:00+00:00,France,0.5638735771121267,2,1,fr,WCE,Europe
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,tempête dans les eaux côtières du nord.,2026-06-25T06:32:00+00:00,Vanuatu,0.5637057925026945,2,2,fr,SPO,Oceania
 '382f7ac114',extremes,Precipitation,#d60d2b,wmo,pluie pangnirtung iqaluit kimmirut,2026-08-01T05:42:00+00:00,Canada,0.5630203657932447,1,1,fr,NEN,North-America
+'c02b040746',extremes,Heat Wave,#c40202,wmo,canicule Landquart Coire,2026-07-29T05:37:00+00:00,Switzerland,0.562886696725483,1,1,fr,WCE,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-07-07T06:30:00+00:00,Benin,0.5616474630019759,2,2,fr,WAF,Africa
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,canicule sion crans montana,2026-07-08T05:37:00+00:00,Switzerland,0.5602067710231013,1,1,fr,WCE,Europe
 '1ae3c6ada3',extremes,Storm,#b3b2b1,wmo,onde de tempête fort severn,2026-07-13T05:53:00+00:00,Canada,0.5595153239646843,1,1,fr,NEN,North-America
@@ -83,11 +83,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a44ba5f85',extremes,Drought,#edc291,edo,manque de pluie tunisie,2026-07-01T06:52:00+00:00,Tunisia,0.5536977177852078,2,2,fr,MED,Africa
 '604d8535c2',extremes,Heat Wave,#c40202,wmo,canicule burgdorf limpachtal,2026-07-28T05:31:00+00:00,Switzerland,0.5533262129876023,1,1,fr,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,canicule oron – haute broye,2026-07-11T05:27:00+00:00,Switzerland,0.55283356951499,1,1,fr,WCE,Europe
-'6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.5527191082741791,2,1,fr,MDG,Africa
 '6c67a60d9b',extremes,Heat Wave,#c40202,wmo,tourtmanntal caniculaire,2026-07-09T06:27:00+00:00,Switzerland,0.5523690793792242,1,1,fr,WCE,Europe
 '92fd344243',extremes,Heat Wave,#c40202,wmo,canicule laufental,2026-07-12T05:43:00+00:00,Switzerland,0.5510564151935171,1,1,fr,WCE,Europe
 '72ffb98e6f',extremes,Heat Wave,#c40202,wmo,canicule flüelen unterschächen,2026-07-13T05:53:00+00:00,Switzerland,0.5508468155741498,1,1,fr,WCE,Europe
-'04fa203cfc',extremes,Drought,#edc291,edo,sécheresse réunion,2026-06-23T06:33:00+00:00,Reunion,0.5503870244616206,1,1,fr,SIO,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,période sèche à madagascar,2026-07-11T05:27:00+00:00,Madagascar,0.5499951379902924,2,1,fr,MDG,Africa
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-06-28T06:44:00+00:00,Chad,0.5494674137220726,2,1,fr,SAH,Africa
 'd427a415c9',extremes,Drought,#edc291,edo,sécheresse martinique,2026-06-25T06:32:00+00:00,Martinique,0.5493589857134429,2,2,fr,CAR,North-America
@@ -125,7 +123,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc6801e7ed',extremes,Drought,#edc291,edo,sécheresse bénin,2026-07-14T05:15:00+00:00,Benin,0.5372879812823012,2,1,fr,WAF,Africa
 '6db948209a',extremes,Heat Wave,#c40202,wmo,canicule en Grèce,2026-06-28T06:44:00+00:00,Greece,0.5372364820708803,2,1,fr,MED,Europe
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-06-29T07:13:00+00:00,Burkina Faso,0.5344944050183686,1,1,fr,WAF,Africa
-'5697633f0e',extremes,Precipitation,#d60d2b,wmo,pluies torrentielles tchad,2026-06-26T06:36:00+00:00,Chad,0.5342998950665404,2,1,fr,SAH,Africa
 '4d38c6f2d7',extremes,Drought,#edc291,edo,sécheresse mali,2026-07-04T05:59:00+00:00,Mali,0.5337829101361875,1,1,fr,SAH,Africa
 '6716ad25a6',extremes,Storm,#b3b2b1,wmo,onde de tempête bouches du rhône vaucluse,2026-07-02T06:24:00+00:00,France,0.533699742409328,1,1,fr,WCE,Europe
 '8d8ec2d008',extremes,Drought,#edc291,edo,période sèche saint martin,2026-06-24T06:30:00+00:00,Saint Martin,0.5319223200142252,1,1,fr,CAR,North-America
@@ -195,9 +192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3d653a8ff',extremes,Drought,#edc291,edo,sécheresse comores,2026-06-29T07:13:00+00:00,Comoros,0.4935645055048297,2,1,fr,ESAF,Africa
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-07-11T05:27:00+00:00,Mayotte,0.4928783770135401,2,1,fr,MDG,Africa
 'a0374d7fc3',extremes,Drought,#edc291,edo,manque de pluie niger,2026-07-01T06:52:00+00:00,Niger,0.4928306389000416,2,1,fr,SAH,Africa
-'618e955f78',extremes,Drought,#edc291,edo,manque de pluie suisse,2026-06-27T06:08:00+00:00,Switzerland,0.4925818773108613,2,1,fr,WCE,Europe
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-04T05:59:00+00:00,Burkina Faso,0.4913131552115614,2,1,fr,WAF,Africa
-'6fd5acddee',extremes,Storm,#b3b2b1,wmo,tempête en Grèce,2026-06-24T06:30:00+00:00,Greece,0.4911899679176859,1,1,fr,MED,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.4907955133621707,2,1,fr,WAF,Africa
 '2b20a18bcb',extremes,Drought,#edc291,edo,période sèche au maroc,2026-07-01T06:52:00+00:00,Morocco,0.4907115809574945,1,1,fr,MED,Africa
 '3d7bb780ca',extremes,Earthquake,#870007,usgs,tremblement de terre à Port Olry,2026-07-06T06:52:00+00:00,Vanuatu,0.4901951682725817,1,1,fr,SPO,Pacific Ocean
@@ -267,7 +262,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6b66cbfce',extremes,Storm,#b3b2b1,wmo,onde de tempête wawa parc pukaskwa,2026-07-13T05:53:00+00:00,Canada,0.4768701356273591,2,1,fr,NEN,North-America
 '1dc0ec5609',extremes,Thunderstorm,#53785a,wmo,temps violent pfungen hettlingen,2026-07-01T06:52:00+00:00,Switzerland,0.4765922876935442,1,1,fr,WCE,Europe
 'd7ca6f870f',extremes,Thunderstorm,#53785a,wmo,temps violent bellinzonais,2026-07-21T05:36:00+00:00,Switzerland,0.4763037750304661,1,1,fr,WCE,Europe
-'a2febe259f',extremes,Heat Wave,#c40202,wmo,canicule kugaaruk,2026-06-27T06:08:00+00:00,Canada,0.4757731441965258,2,1,fr,NEN,North-America
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,canicule rheinfelden,2026-07-10T06:27:00+00:00,Switzerland,0.4755475877890506,2,1,fr,WCE,Europe
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-07-08T05:37:00+00:00,Niger,0.4751593393683752,1,1,fr,SAH,Africa
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,canicule soleure rothrist,2026-07-09T06:27:00+00:00,Switzerland,0.4751469011687405,2,1,fr,WCE,Europe
