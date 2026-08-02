@@ -14,8 +14,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-08-01T05:42:00+00:00,Canada,0.6690163188635156,0,1,fr,NEN,North-America
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
+'54b8b61db1',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-07-18T05:10:00+00:00,Central African Republic,0.665375962047584,0,1,fr,CAF,Africa
+'8d48e50118',extremes,Drought,#edc291,edo,sécheresse Sénégal,2026-08-01T05:42:00+00:00,Senegal,0.6645696326053164,0,1,fr,WAF,Africa
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-07-30T05:24:00+00:00,Canada,0.6638408067186307,0,1,fr,NEN,North-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-06-17T07:33:00+00:00,Switzerland,0.6632124013850592,1,3,fr,WCE,Europe
+'382f7ac114',extremes,Precipitation,#d60d2b,wmo,pluie pangnirtung iqaluit kimmirut,2026-08-01T05:42:00+00:00,Canada,0.662376900933229,0,1,fr,NEN,North-America
+'c02b040746',extremes,Heat Wave,#c40202,wmo,canicule Landquart Coire,2026-07-29T05:37:00+00:00,Switzerland,0.6622196432064505,0,1,fr,WCE,Europe
 '31346b09b9',extremes,Heat Wave,#c40202,cmeter,canicule bordeaux,2026-06-17T07:34:00+00:00,France,0.6618117687972503,2,3,fr,,
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
@@ -245,13 +251,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f8f50b514',extremes,Heat Wave,#c40202,wmo,canicule vispertal nanztal,2026-07-10T06:27:00+00:00,Switzerland,0.480383470745115,2,1,fr,WCE,Europe
 '7210963114',extremes,Heat Wave,#c40202,wmo,canicule dans la vallée de Skagit,2026-07-23T05:40:00+00:00,Canada,0.4800706428695444,2,1,fr,NEN,North-America
 'ae962285fa',extremes,Flood,#030ba1,wmo,rivière moussue en crue,2026-07-08T05:37:00+00:00,Canada,0.4800422858309478,2,1,fr,NEN,North-America
-'97e8e6e190',extremes,Heat Wave,#c40202,wmo,canicule locarnaise,2026-07-09T06:27:00+00:00,Switzerland,0.47991896562249103,2,1,fr,WCE,Europe
+'97e8e6e190',extremes,Heat Wave,#c40202,wmo,canicule locarnaise,2026-07-09T06:27:00+00:00,Switzerland,0.479918965622491,2,1,fr,WCE,Europe
 '4c48a100d9',extremes,Heat Wave,#c40202,wmo,canicule salluit kangirsuk,2026-07-07T06:30:00+00:00,Canada,0.4798381716865649,2,1,fr,NEN,North-America
 'a2c72301a8',extremes,Drought,#edc291,edo,sécheresse au Cameroun,2026-07-08T05:37:00+00:00,Cameroon,0.4798028402792452,1,1,fr,CAF,Africa
 '9abdcab263',extremes,Heat Wave,#c40202,wmo,canicule aupaluk tasiujaq kuujjuaq,2026-07-08T05:37:00+00:00,Canada,0.4793963534688022,2,1,fr,NEN,North-America
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,canicule attawapiskat fort albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.4792052258522122,2,1,fr,NEN,North-America
-'5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-07-09T06:27:00+00:00,Switzerland,0.47920168876055863,2,1,fr,WCE,Europe
-'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-09T06:27:00+00:00,Switzerland,0.47918856499261014,2,1,fr,WCE,Europe
+'5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-07-09T06:27:00+00:00,Switzerland,0.4792016887605586,2,1,fr,WCE,Europe
+'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-09T06:27:00+00:00,Switzerland,0.4791885649926101,2,1,fr,WCE,Europe
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-07-14T05:14:00+00:00,Canada,0.4791036809434368,2,1,fr,NEN,North-America
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,canicule puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.4788850358268741,2,1,fr,NEN,North-America
 'ba9b41e35b',extremes,Drought,#edc291,edo,période sèche en Guinée,2026-07-11T05:27:00+00:00,Guinea,0.4787015845373315,2,1,fr,WAF,Africa
@@ -299,9 +305,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,onde de tempête appenzell,2026-07-15T05:15:00+00:00,Switzerland,0.4682865164550097,1,1,fr,WCE,Europe
 'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,canicule domleschg,2026-07-13T05:53:00+00:00,Switzerland,0.4674697788860791,2,1,fr,WCE,Europe
 '42cb1ac630',extremes,Heat Wave,#c40202,wmo,canicule erstfeld engelberg,2026-07-12T05:43:00+00:00,Switzerland,0.4673857204893983,2,1,fr,WCE,Europe
-'2f2f638d6d',extremes,Heat Wave,#c40202,wmo,canicule niedersimmental,2026-07-13T05:53:00+00:00,Switzerland,0.46679405606347785,2,1,fr,WCE,Europe
+'2f2f638d6d',extremes,Heat Wave,#c40202,wmo,canicule niedersimmental,2026-07-13T05:53:00+00:00,Switzerland,0.4667940560634778,2,1,fr,WCE,Europe
 'a85598b6d2',extremes,Heat Wave,#c40202,wmo,canicule wohlen albis,2026-07-13T05:53:00+00:00,Switzerland,0.4665746994098005,2,1,fr,WCE,Europe
-'5939e7bd12',extremes,Heat Wave,#c40202,wmo,canicule thalwil wetzikon,2026-07-29T05:37:00+00:00,Switzerland,0.46586001293417467,2,1,fr,WCE,Europe
+'5939e7bd12',extremes,Heat Wave,#c40202,wmo,canicule thalwil wetzikon,2026-07-29T05:37:00+00:00,Switzerland,0.4658600129341746,2,1,fr,WCE,Europe
 '11b4484b9a',extremes,Drought,#edc291,edo,manque de pluie mayotte,2026-07-08T05:37:00+00:00,Mayotte,0.4655761344698349,2,1,fr,MDG,Africa
 'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-07-12T05:43:00+00:00,Switzerland,0.464873512179654,2,1,fr,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,canicule Flandre orientale,2026-07-28T05:31:00+00:00,Belgium,0.4647814186252884,2,1,fr,WCE,Europe
