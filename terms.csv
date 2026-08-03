@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.7307985832950199,1,2,fr,WAF,Africa
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.7157464926499404,1,2,fr,NEN,North-America
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
 '0a54633be0',extremes,Drought,#edc291,edo,manque de pluie luxembourg,2026-06-23T06:33:00+00:00,Luxembourg,0.7101851975031421,2,2,fr,WCE,Europe
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
@@ -17,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 'b2bbe70547',extremes,Heat Wave,#c40202,wmo,canicule sarganserland,2026-07-28T05:31:00+00:00,Switzerland,0.6654350974178322,0,1,fr,WCE,Europe
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6654076207646358,0,1,fr,NEN,North-America
 'd6b259f3bc',extremes,Heat Wave,#c40202,wmo,canicule brienz interlaken,2026-07-31T05:51:00+00:00,Switzerland,0.6651272663140181,0,1,fr,WCE,Europe
 'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,canicule la chaux de fonds le locle,2026-07-30T05:24:00+00:00,Switzerland,0.6649169259506966,0,1,fr,WCE,Europe
 '16ae9a19a5',extremes,Heat Wave,#c40202,wmo,canicule einsiedeln wägital,2026-08-02T05:42:00+00:00,Switzerland,0.6649075507837532,0,1,fr,WCE,Europe
