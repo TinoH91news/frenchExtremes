@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '925ddc15dd',extremes,Heat Wave,#c40202,wmo,canicule alta valmaggia,2026-07-28T05:31:00+00:00,Switzerland,0.6669702438785834,0,1,fr,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-06-17T07:33:00+00:00,Switzerland,0.6632124013850592,1,3,fr,WCE,Europe
 '31346b09b9',extremes,Heat Wave,#c40202,cmeter,canicule bordeaux,2026-06-17T07:34:00+00:00,France,0.6618117687972503,2,3,fr,,
-'90cbdf698e',extremes,Heat Wave,#c40202,wmo,canicule genève,2026-07-31T05:51:00+00:00,Switzerland,0.6615441686373175,0,1,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
 '83c01ff715',extremes,Heat Wave,#c40202,wmo,canicule Léventine,2026-07-28T05:31:00+00:00,Switzerland,0.6567060142861915,0,1,fr,WCE,Europe
@@ -42,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.6193377156256138,3,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-07-29T05:38:00+00:00,Reunion,0.6170914068369278,1,2,fr,SIO,Africa
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,zone côtière de tempête,2026-07-10T06:27:00+00:00,Belgium,0.6167562153210213,2,2,fr,WCE,Europe
+'90cbdf698e',extremes,Heat Wave,#c40202,wmo,canicule genève,2026-07-31T05:51:00+00:00,Switzerland,0.6127625883417198,1,1,fr,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2026-07-17T05:27:00+00:00,Italy,0.6096149057062523,2,2,fr,MED,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6083845337524494,2,1,fr,NEN,North-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.6069395974859975,2,1,fr,WCE,Europe
