@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-07-04T05:59:00+00:00,France,0.7563983725087267,7,3,fr,WCE,Europe
+'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.7502873933835791,1,2,fr,MDG,Africa
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-07-07T06:30:00+00:00,Belgium,0.7484279245832425,2,3,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-07-10T06:27:00+00:00,France,0.7361298771309851,1,3,fr,WCE,Europe
@@ -9,14 +10,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
 '0a54633be0',extremes,Drought,#edc291,edo,manque de pluie luxembourg,2026-06-23T06:33:00+00:00,Luxembourg,0.7101851975031421,2,2,fr,WCE,Europe
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.7060439745689165,0,1,fr,MDG,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-08-01T05:42:00+00:00,Equatorial Guinea,0.6858872927118634,0,1,fr,WAF,Africa
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-07-20T05:54:00+00:00,Canada,0.6825918024913367,0,1,fr,NEN,North-America
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-08-06T05:33:00+00:00,Canada,0.673527331800157,0,1,fr,NEN,North-America
-'9a57e5e313',extremes,Flood,#030ba1,wmo,crue éclair du lac Dauphin,2026-08-06T05:33:00+00:00,Canada,0.6725756830972012,0,1,fr,NEN,North-America
 '47a06a39e2',extremes,Flood,#030ba1,wmo,crue soudaine de la rivière Mossey,2026-08-06T05:33:00+00:00,Canada,0.6719394182829331,0,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
@@ -51,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '213b50b853',extremes,Heat Wave,#c40202,wmo,canicule luxembourg sud,2026-07-11T05:27:00+00:00,Luxembourg,0.5815480710074826,2,2,fr,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,pluie canada,2026-07-28T05:31:00+00:00,Canada,0.5798752445099439,2,1,fr,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-07-01T06:52:00+00:00,Canada,0.5719428567788639,2,1,fr,NEN,North-America
+'9a57e5e313',extremes,Flood,#030ba1,wmo,crue éclair du lac Dauphin,2026-08-06T05:33:00+00:00,Canada,0.571689330632621,1,1,fr,NEN,North-America
 '4389b7abd6',extremes,Heat Wave,#c40202,wmo,canicule frick leibstadt,2026-07-08T05:37:00+00:00,Switzerland,0.5712219504677802,1,1,fr,WCE,Europe
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,canicule olten gösgen,2026-07-09T06:27:00+00:00,Switzerland,0.5669103624031439,1,1,fr,WCE,Europe
 '66206e02fd',extremes,Heat Wave,#c40202,wmo,canicule zofingen triengen,2026-07-30T05:24:00+00:00,Switzerland,0.5663008111311559,1,1,fr,WCE,Europe
