@@ -2,12 +2,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.7502873933835791,1,2,fr,MDG,Africa
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-07-07T06:30:00+00:00,Belgium,0.7484279245832425,2,3,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
+'06c7da61ee',extremes,Precipitation,#d60d2b,wmo,pluie la majeure partie sud du pays,2026-08-08T03:51:00+00:00,Mali,0.7426801433140907,0,1,fr,SAH,Africa
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-07-10T06:27:00+00:00,France,0.7361298771309851,1,3,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,sécheresse en Guinée équatoriale,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.7307985832950199,1,2,fr,WAF,Africa
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-07-20T05:54:00+00:00,Canada,0.730503062117636,1,2,fr,NEN,North-America
+'b8a0990dab',extremes,Heat Wave,#c40202,cmeter,canicule france,2026-07-26T05:46:00+00:00,France,0.7208897488184182,0,1,fr,WCE,Europe
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
+'e7298fae8f',extremes,Wildfire,#d60d2b,effis,"incendie de forêt à Btaaboura, Liban",2026-08-07T11:06:00+00:00,Lebanon,0.7122569542897145,0,1,fr,MED,Asia
+'e2609489f3',extremes,Wildfire,#d60d2b,effis,incendie de forêt ankoune liban,2026-08-07T11:06:00+00:00,Lebanon,0.7122568261076341,0,1,fr,MED,Asia
+'3efcf61c61',extremes,Wildfire,#d60d2b,effis,"incendie de forêt à Harouf, Liban",2026-08-07T11:06:00+00:00,Lebanon,0.7122565976125926,0,1,fr,MED,Asia
+'b136fb0b82',extremes,Wildfire,#d60d2b,effis,feu de brousse majdel baana liban,2026-08-07T11:06:00+00:00,Lebanon,0.7122565491813986,0,1,fr,MED,Asia
 '0a54633be0',extremes,Drought,#edc291,edo,manque de pluie luxembourg,2026-06-23T06:33:00+00:00,Luxembourg,0.7101851975031421,2,2,fr,WCE,Europe
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
