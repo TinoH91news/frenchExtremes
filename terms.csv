@@ -8,6 +8,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-07-20T05:54:00+00:00,Canada,0.730503062117636,1,2,fr,NEN,North-America
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
 'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
+'3617de9e43',extremes,Wildfire,#d60d2b,effis,incendie de forêt au Liban,2026-08-07T11:06:00+00:00,Lebanon,0.7122508767989351,0,1,fr,MED,Asia
+'c7b2ebe1a5',extremes,Wildfire,#d60d2b,effis,feux de brousse liban kboula n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7122488936465875,0,1,fr,MED,Asia
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,incendie de forêt en Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.7122478774638106,0,1,fr,MED,Africa
+'793ba29f43',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban sarafend n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7122433732988243,0,1,fr,MED,Asia
+'56c99f5cea',extremes,Wildfire,#d60d2b,effis,feux de brousse au Liban niha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7122360052583938,0,1,fr,MED,Asia
+'f66335160e',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban aïn jarfa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7122338609106035,0,1,fr,MED,Asia
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
