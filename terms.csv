@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,temps violent au Canada,2026-07-20T05:54:00+00:00,Canada,0.730503062117636,1,2,fr,NEN,North-America
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
-'c98330318c',extremes,Drought,#edc291,edo,sécheresse guyane française,2026-06-27T06:08:00+00:00,French Guiana,0.7126691018496851,2,2,fr,NSA,South-America
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
@@ -17,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
-'0ad538a863',extremes,Heat Wave,#c40202,wmo,canicule suisse,2026-06-17T07:33:00+00:00,Switzerland,0.6632124013850592,1,3,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-06-18T07:16:00+00:00,Switzerland,0.6581306239434856,1,3,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
@@ -37,12 +35,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.6193377156256138,3,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-07-29T05:38:00+00:00,Reunion,0.6170914068369278,1,2,fr,SIO,Africa
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,zone côtière de tempête,2026-07-10T06:27:00+00:00,Belgium,0.6167562153210213,2,2,fr,WCE,Europe
+'2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-07-16T05:25:00+00:00,Ivory Coast,0.6144658346662004,2,2,fr,WAF,Africa
 '62c44885fc',extremes,Storm,#b3b2b1,wmo,tempête landes pyrénées atlantiques,2026-07-12T05:43:00+00:00,France,0.6108941561499183,2,2,fr,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2026-07-17T05:27:00+00:00,Italy,0.6096149057062523,2,2,fr,MED,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6083845337524494,2,1,fr,NEN,North-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.6069395974859975,2,1,fr,WCE,Europe
-'785f49402b',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban haret jandal n.d.,2026-08-07T11:06:00+00:00,Lebanon,0.6053946720255974,1,1,fr,MED,Asia
-'df6e516080',extremes,Wildfire,#d60d2b,effis,feux de brousse en tunisie,2026-08-07T11:06:00+00:00,Tunisia,0.605393714085751,1,1,fr,MED,Africa
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,incendie de forêt en tunisie n.d. n / A.,2026-08-07T09:56:00+00:00,Tunisia,0.6053935119702998,1,1,fr,MED,Africa
 '2464ad564a',extremes,Wildfire,#d60d2b,effis,incendie de forêt au Liban nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.6053919764555806,1,1,fr,MED,Asia
 '18f7983eca',extremes,Precipitation,#d60d2b,wmo,averses régions ouest et sud du pays.,2026-08-07T04:37:00+00:00,Mali,0.6001042889866628,2,1,fr,SAH,Africa
@@ -66,7 +63,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5937c23b3a',extremes,Drought,#edc291,edo,sécheresse au Bénin,2026-07-07T06:30:00+00:00,Benin,0.5616474630019759,2,2,fr,WAF,Africa
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,canicule rhénane,2026-08-02T05:42:00+00:00,Switzerland,0.5615428255493355,1,1,fr,WCE,Europe
 '6c57527c47',extremes,Heat Wave,#c40202,wmo,canicule langenthal,2026-07-29T05:37:00+00:00,Switzerland,0.5608653343224967,1,1,fr,WCE,Europe
-'2a75ed7db3',extremes,Precipitation,#d60d2b,wmo,averse labrador city et wabush,2026-08-04T05:32:00+00:00,Canada,0.5608443978089133,1,1,fr,NEN,North-America
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,canicule sion crans montana,2026-07-08T05:37:00+00:00,Switzerland,0.5602067710231013,1,1,fr,WCE,Europe
 '8025b5773e',extremes,Heat Wave,#c40202,wmo,canicule yverdon bevaix,2026-08-01T05:42:00+00:00,Switzerland,0.5597423948125234,1,1,fr,WCE,Europe
 'ce884fadc9',extremes,Earthquake,#870007,usgs,tremblement de terre guadeloupe,2026-07-19T05:37:00+00:00,Guadeloupe,0.5596039618495361,1,1,fr,NAO,Atlantic Ocean
@@ -99,7 +95,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c8f191aa4',extremes,Drought,#edc291,edo,sécheresse au Sénégal,2026-07-07T06:30:00+00:00,Senegal,0.5466319348891567,1,1,fr,WAF,Africa
 '5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-07-19T05:37:00+00:00,Cambodia,0.546629844178681,1,1,fr,SEA,Asia
 '9495481d82',extremes,Heat Wave,#c40202,wmo,canicule martigny verbier,2026-07-09T06:27:00+00:00,Switzerland,0.5462643470098919,1,1,fr,WCE,Europe
-'2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-07-16T05:25:00+00:00,Ivory Coast,0.5462539054896476,1,1,fr,WAF,Africa
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,canicule sumiswald worb,2026-07-13T05:53:00+00:00,Switzerland,0.5459544051336799,1,1,fr,WCE,Europe
 '655291dc6f',extremes,Heat Wave,#c40202,wmo,canicule pfungen hettlingen,2026-07-13T05:53:00+00:00,Switzerland,0.5458449783166781,1,1,fr,WCE,Europe
 '471a805aef',extremes,Drought,#edc291,edo,sécheresse cambodge,2026-07-12T05:43:00+00:00,Cambodia,0.5457712311507072,1,1,fr,SEA,Asia
@@ -138,7 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,feux de brousse au Liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146064943124393,2,1,fr,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,incendie de forêt sarafend liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146057134503154,2,1,fr,MED,Asia
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,incendie de forêt nabi youcheaa liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146057036006649,2,1,fr,MED,Asia
-'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,feu de forêt habbouche liban,2026-08-07T11:06:00+00:00,Lebanon,0.514605697533798,2,1,fr,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,feu de brousse n.d. Tunisie,2026-08-07T11:06:00+00:00,Tunisia,0.5146056927362458,2,1,fr,MED,Africa
 'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,feu de brousse bchatfine liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146056875657555,2,1,fr,MED,Asia
 'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,incendie de forêt el mery liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146056873382859,2,1,fr,MED,Asia
@@ -162,6 +156,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f66335160e',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban aïn jarfa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.514588964507911,2,1,fr,MED,Asia
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban el mery n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.5145877539914359,2,1,fr,MED,Asia
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,incendie de forêt au Liban nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.5145855272669984,2,1,fr,MED,Asia
+'785f49402b',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban haret jandal n.d.,2026-08-07T11:06:00+00:00,Lebanon,0.5145854712217578,2,1,fr,MED,Asia
+'df6e516080',extremes,Wildfire,#d60d2b,effis,feux de brousse en tunisie,2026-08-07T11:06:00+00:00,Tunisia,0.5145846569728884,2,1,fr,MED,Africa
 'f2536d75b7',extremes,Thunderstorm,#53785a,wmo,grêle à Grand Rapids et Easterville,2026-07-06T06:52:00+00:00,Canada,0.5145031471734475,1,1,fr,NEN,North-America
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,onde de tempête sur toutes les eaux du vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.5140046392262928,1,1,fr,SPO,Oceania
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-07-03T06:09:00+00:00,French Southern Territories,0.513432407902653,1,1,fr,SOO,Antarctica
@@ -269,6 +265,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '323f237847',extremes,Heat Wave,#c40202,wmo,canicule fribourgeoise,2026-07-12T05:43:00+00:00,Switzerland,0.4778850459390257,2,1,fr,WCE,Europe
 'ed766fa753',extremes,Heat Wave,#c40202,wmo,canicule zurzach bülach,2026-07-08T05:37:00+00:00,Switzerland,0.4777667434107553,2,1,fr,WCE,Europe
 'e6b66cbfce',extremes,Storm,#b3b2b1,wmo,onde de tempête wawa parc pukaskwa,2026-07-13T05:53:00+00:00,Canada,0.4768701356273591,2,1,fr,NEN,North-America
+'2a75ed7db3',extremes,Precipitation,#d60d2b,wmo,averse labrador city et wabush,2026-08-04T05:32:00+00:00,Canada,0.4767177381375763,2,1,fr,NEN,North-America
 'd7ca6f870f',extremes,Thunderstorm,#53785a,wmo,temps violent bellinzonais,2026-07-21T05:36:00+00:00,Switzerland,0.4763037750304661,1,1,fr,WCE,Europe
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,onde de tempête belgique,2026-07-27T06:05:00+00:00,Belgium,0.4755783388440018,2,1,fr,WCE,Europe
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,canicule rheinfelden,2026-07-10T06:27:00+00:00,Switzerland,0.4755475877890506,2,1,fr,WCE,Europe
@@ -313,6 +310,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-07-12T05:43:00+00:00,Switzerland,0.464873512179654,2,1,fr,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,canicule Flandre orientale,2026-07-28T05:31:00+00:00,Belgium,0.4647814186252884,2,1,fr,WCE,Europe
 '8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,canicule kerenzerberg seeztal,2026-07-13T05:53:00+00:00,Switzerland,0.464327747632722,2,1,fr,WCE,Europe
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,feu de forêt habbouche liban,2026-08-07T11:06:00+00:00,Lebanon,0.43741484290372834,3,1,fr,MED,Asia
 'bc55fa8b03',extremes,Drought,#edc291,edo,manque de pluie guadeloupe,2026-07-07T06:30:00+00:00,Guadeloupe,0.4350141343979485,2,1,fr,CAR,North-America
 '66a3eabe76',extremes,Earthquake,#870007,usgs,tremblement de terre à Maurice,2026-07-08T05:37:00+00:00,Mauritius,0.4289314979276282,2,1,fr,SIO,Indian Ocean
 '2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-07-30T05:24:00+00:00,Burundi,0.4198781006201436,3,1,fr,SEAF,Africa
