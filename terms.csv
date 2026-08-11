@@ -31,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-07-06T06:52:00+00:00,Canada,0.633711647124955,3,1,fr,NEN,North-America
 '66c12f18a7',extremes,Storm,#b3b2b1,wmo,tempête sur les côtes sud-ouest et sud.,2026-07-25T05:29:00+00:00,Madagascar,0.6319656584963471,3,2,fr,MDG,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,période sèche france,2026-06-26T06:36:00+00:00,France,0.6310093854218431,2,3,fr,WCE,Europe
+'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-31T05:51:00+00:00,Ivory Coast,0.6297906959776,2,2,fr,WAF,Africa
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-07-20T05:54:00+00:00,France,0.6217496495041547,3,3,fr,WCE,Europe
 'b9722a9061',extremes,Heat Wave,#c40202,wmo,canicule pyrénées orientales hérault,2026-07-04T05:59:00+00:00,France,0.6193377156256138,3,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-07-29T05:38:00+00:00,Reunion,0.6170914068369278,1,2,fr,SIO,Africa
@@ -40,8 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2026-07-17T05:27:00+00:00,Italy,0.6096149057062523,2,2,fr,MED,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6083845337524494,2,1,fr,NEN,North-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.6069395974859975,2,1,fr,WCE,Europe
-'7616afd0a2',extremes,Wildfire,#d60d2b,effis,feux de brousse liban el charkiyé n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.605389710778758,1,1,fr,MED,Asia
-'648f46497d',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban habbouche n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.6053849894083488,1,1,fr,MED,Asia
 '9f352d30ee',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban machha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.6053843071006643,1,1,fr,MED,Asia
 'bd617db6de',extremes,Wildfire,#d60d2b,effis,feux de brousse liban machha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.6053836176557484,1,1,fr,MED,Asia
 'afda8bb534',extremes,Wildfire,#d60d2b,effis,feux de brousse au Liban bchatfine n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.6053831558620248,1,1,fr,MED,Asia
@@ -61,7 +60,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddbc45646b',extremes,Heat Wave,#c40202,wmo,canicule hainaut,2026-07-09T06:27:00+00:00,Belgium,0.5652426759737113,2,1,fr,WCE,Europe
 '16ae9a19a5',extremes,Heat Wave,#c40202,wmo,canicule einsiedeln wägital,2026-08-02T05:42:00+00:00,Switzerland,0.5651714181661902,1,1,fr,WCE,Europe
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grêle canada,2026-07-30T05:24:00+00:00,Canada,0.5645647157108361,1,1,fr,NEN,North-America
-'cf2a7c2402',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-31T05:51:00+00:00,Ivory Coast,0.564283154091294,1,1,fr,WAF,Africa
 'a995f68c66',extremes,Wildfire,#d60d2b,cmeter,canicule européenne à toulouse,2026-07-10T06:27:00+00:00,France,0.5638735771121267,2,1,fr,WCE,Europe
 '9fa978592e',extremes,Heat Wave,#c40202,wmo,canicule linthebene gaster,2026-08-02T05:42:00+00:00,Switzerland,0.5630507147565046,1,1,fr,WCE,Europe
 '6fcf85ee78',extremes,Heat Wave,#c40202,wmo,canicule steckborn müllheim,2026-07-30T05:24:00+00:00,Switzerland,0.5617698403409744,2,1,fr,WCE,Europe
@@ -157,6 +155,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df6e516080',extremes,Wildfire,#d60d2b,effis,feux de brousse en tunisie,2026-08-07T11:06:00+00:00,Tunisia,0.5145846569728884,2,1,fr,MED,Africa
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,incendie de forêt en tunisie n.d. n / A.,2026-08-07T09:56:00+00:00,Tunisia,0.5145844851747547,2,1,fr,MED,Africa
 '2464ad564a',extremes,Wildfire,#d60d2b,effis,incendie de forêt au Liban nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.5145831799872436,2,1,fr,MED,Asia
+'7616afd0a2',extremes,Wildfire,#d60d2b,effis,feux de brousse liban el charkiyé n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.5145812541619443,2,1,fr,MED,Asia
+'648f46497d',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban habbouche n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.5145772409970965,2,1,fr,MED,Asia
 'f2536d75b7',extremes,Thunderstorm,#53785a,wmo,grêle à Grand Rapids et Easterville,2026-07-06T06:52:00+00:00,Canada,0.5145031471734475,1,1,fr,NEN,North-America
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,onde de tempête sur toutes les eaux du vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.5140046392262928,1,1,fr,SPO,Oceania
 '0f0e673b14',extremes,Drought,#edc291,edo,manque de pluie territoires du sud français,2026-07-03T06:09:00+00:00,French Southern Territories,0.513432407902653,1,1,fr,SOO,Antarctica
