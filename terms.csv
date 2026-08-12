@@ -1,12 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-08-12T04:23:00+00:00,Guadeloupe,0.7630829879080059,0,1,fr,CAR,North-America
 'b8a0990dab',extremes,Heat Wave,#c40202,cmeter,canicule france,2026-07-26T05:46:00+00:00,France,0.7620719393167616,2,3,fr,WCE,Europe
+'945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-08-07T11:06:00+00:00,Djibouti,0.7535044731127932,0,1,fr,NEAF,Africa
 'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.7502873933835791,1,2,fr,MDG,Africa
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-07-07T06:30:00+00:00,Belgium,0.7484279245832425,2,3,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-07-10T06:27:00+00:00,France,0.7437281872280039,2,3,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
+'b0681c71a1',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban aïn baal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7108996425481777,0,1,fr,MED,Asia
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
+'08c9f5afc7',extremes,Wildfire,#d60d2b,effis,feux de brousse kboula liban,2026-08-07T11:06:00+00:00,Lebanon,0.707938113522984,0,1,fr,MED,Asia
+'a11c9801bd',extremes,Wildfire,#d60d2b,effis,feu de brousse niha liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079380416906256,0,1,fr,MED,Asia
+'159901e108',extremes,Wildfire,#d60d2b,effis,feu de brousse machha liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079378237403886,0,1,fr,MED,Asia
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-08-01T05:42:00+00:00,Belgium,0.681310648242422,2,2,fr,WCE,Europe
@@ -301,19 +307,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1cf385e5d2',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-07-28T05:31:00+00:00,Haiti,0.4649403848567894,2,1,fr,CAR,North-America
 'b396f5b534',extremes,Heat Wave,#c40202,wmo,canicule glaris nord mitte,2026-07-12T05:43:00+00:00,Switzerland,0.464873512179654,2,1,fr,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,canicule Flandre orientale,2026-07-28T05:31:00+00:00,Belgium,0.4647814186252884,2,1,fr,WCE,Europe
-'5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-07-19T05:37:00+00:00,Cambodia,0.46463536755187884,2,1,fr,SEA,Asia
+'5cdea4e4af',extremes,Drought,#edc291,edo,période de sécheresse au Cambodge,2026-07-19T05:37:00+00:00,Cambodia,0.4646353675518788,2,1,fr,SEA,Asia
 '8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,canicule kerenzerberg seeztal,2026-07-13T05:53:00+00:00,Switzerland,0.464327747632722,2,1,fr,WCE,Europe
 '9495481d82',extremes,Heat Wave,#c40202,wmo,canicule martigny verbier,2026-07-09T06:27:00+00:00,Switzerland,0.4643246949584081,2,1,fr,WCE,Europe
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,canicule sumiswald worb,2026-07-13T05:53:00+00:00,Switzerland,0.4640612443636279,2,1,fr,WCE,Europe
 '655291dc6f',extremes,Heat Wave,#c40202,wmo,canicule pfungen hettlingen,2026-07-13T05:53:00+00:00,Switzerland,0.4639682315691764,2,1,fr,WCE,Europe
-'471a805aef',extremes,Drought,#edc291,edo,sécheresse cambodge,2026-07-12T05:43:00+00:00,Cambodia,0.46390554647810117,2,1,fr,SEA,Asia
-'046313f1e1',extremes,Thunderstorm,#53785a,wmo,grêle à Gillam Shamattawa,2026-07-30T05:24:00+00:00,Canada,0.46346830421771434,2,1,fr,NEN,North-America
+'471a805aef',extremes,Drought,#edc291,edo,sécheresse cambodge,2026-07-12T05:43:00+00:00,Cambodia,0.4639055464781011,2,1,fr,SEA,Asia
+'046313f1e1',extremes,Thunderstorm,#53785a,wmo,grêle à Gillam Shamattawa,2026-07-30T05:24:00+00:00,Canada,0.4634683042177143,2,1,fr,NEN,North-America
 '1ce8f6f6b4',extremes,Heat Wave,#c40202,wmo,canicule huttwil willisau,2026-07-13T05:53:00+00:00,Switzerland,0.4632863518842905,2,1,fr,WCE,Europe
 'b63eebbbb1',extremes,Heat Wave,#c40202,wmo,canicule meiringen gadmertal,2026-07-12T05:43:00+00:00,Switzerland,0.4631929315917746,2,1,fr,WCE,Europe
 '7535b4e5c1',extremes,Heat Wave,#c40202,wmo,canicule frutigen kiental,2026-07-13T05:53:00+00:00,Switzerland,0.4626164013034389,2,1,fr,WCE,Europe
-'f4d16ac321',extremes,Heat Wave,#c40202,wmo,canicule schiers,2026-07-13T05:53:00+00:00,Switzerland,0.46249651789121127,2,1,fr,WCE,Europe
-'47f4d3e73c',extremes,Heat Wave,#c40202,wmo,canicule thal,2026-07-28T05:31:00+00:00,Switzerland,0.46236919321948344,2,1,fr,WCE,Europe
-'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-07-14T05:15:00+00:00,Central African Republic,0.46193130282770534,2,1,fr,CAF,Africa
+'f4d16ac321',extremes,Heat Wave,#c40202,wmo,canicule schiers,2026-07-13T05:53:00+00:00,Switzerland,0.4624965178912112,2,1,fr,WCE,Europe
+'47f4d3e73c',extremes,Heat Wave,#c40202,wmo,canicule thal,2026-07-28T05:31:00+00:00,Switzerland,0.4623691932194834,2,1,fr,WCE,Europe
+'68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-07-14T05:15:00+00:00,Central African Republic,0.4619313028277053,2,1,fr,CAF,Africa
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,feu de forêt habbouche liban,2026-08-07T11:06:00+00:00,Lebanon,0.4374148429037283,3,1,fr,MED,Asia
 '2bd15f5616',extremes,Drought,#edc291,edo,manque de pluie burundi,2026-07-30T05:24:00+00:00,Burundi,0.4198781006201436,3,1,fr,SEAF,Africa
 '05201ab84b',extremes,Drought,#edc291,edo,sécheresse au togo,2026-07-13T05:53:00+00:00,Togo,0.4174622942720095,3,1,fr,WAF,Africa
