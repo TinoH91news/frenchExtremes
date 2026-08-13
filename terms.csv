@@ -1,12 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b8a0990dab',extremes,Heat Wave,#c40202,cmeter,canicule france,2026-07-26T05:46:00+00:00,France,0.7620719393167616,2,3,fr,WCE,Europe
-'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.7502873933835791,1,2,fr,MDG,Africa
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,canicule liège,2026-07-07T06:30:00+00:00,Belgium,0.7484279245832425,2,3,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-07-10T06:27:00+00:00,France,0.7437281872280039,2,3,fr,WCE,Europe
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-07-07T06:30:00+00:00,France,0.7435115875224252,1,3,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,canicule liechtenstein,2026-08-02T05:42:00+00:00,Switzerland,0.7160733103245461,1,2,fr,WCE,Europe
-'b0681c71a1',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban aïn baal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.7108996425481777,0,1,fr,MED,Asia
 '9d59677e87',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-06-25T06:32:00+00:00,Mayotte,0.708155529053844,1,2,fr,MDG,Africa
 '08c9f5afc7',extremes,Wildfire,#d60d2b,effis,feux de brousse kboula liban,2026-08-07T11:06:00+00:00,Lebanon,0.707938113522984,0,1,fr,MED,Asia
 'a11c9801bd',extremes,Wildfire,#d60d2b,effis,feu de brousse niha liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079380416906256,0,1,fr,MED,Asia
@@ -34,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,incendie de forêt en Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.6422266192176032,2,1,fr,MED,Africa
 '945465874b',extremes,Drought,#edc291,edo,sécheresse à Djibouti,2026-08-07T11:06:00+00:00,Djibouti,0.6404788021458743,1,1,fr,NEAF,Africa
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,canicule luxembourg nord,2026-07-13T05:53:00+00:00,Luxembourg,0.639541561482295,2,2,fr,WCE,Europe
+'a12b6ff421',extremes,Drought,#edc291,edo,sécheresse mayotte,2026-07-21T05:36:00+00:00,Mayotte,0.6378942993760423,2,2,fr,MDG,Africa
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-07-03T06:09:00+00:00,France,0.6375300227394037,1,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-07-11T05:27:00+00:00,France,0.635329025763608,2,1,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-07-11T05:27:00+00:00,France,0.6338214036667953,2,2,fr,WCE,Europe
@@ -54,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2026-07-17T05:27:00+00:00,Italy,0.6096149057062523,2,2,fr,MED,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6083845337524494,2,1,fr,NEN,North-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,canicule val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.6069395974859975,2,1,fr,WCE,Europe
+'b0681c71a1',extremes,Wildfire,#d60d2b,effis,incendie de forêt liban aïn baal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.604264696165951,1,1,fr,MED,Asia
 '18f7983eca',extremes,Precipitation,#d60d2b,wmo,averses régions ouest et sud du pays.,2026-08-07T04:37:00+00:00,Mali,0.6001042889866628,2,1,fr,SAH,Africa
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempête en Italie,2026-07-15T05:15:00+00:00,Italy,0.5926454014158011,3,2,fr,MED,Europe
 '01acf89af7',extremes,Drought,#edc291,edo,période sèche canada,2026-07-04T05:59:00+00:00,Canada,0.5837689700825566,2,2,fr,NEN,North-America
