@@ -11,6 +11,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08c9f5afc7',extremes,Wildfire,#d60d2b,effis,feux de brousse kboula liban,2026-08-07T11:06:00+00:00,Lebanon,0.707938113522984,0,1,fr,MED,Asia
 'a11c9801bd',extremes,Wildfire,#d60d2b,effis,feu de brousse niha liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079380416906256,0,1,fr,MED,Asia
 '159901e108',extremes,Wildfire,#d60d2b,effis,feu de brousse machha liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079378237403886,0,1,fr,MED,Asia
+'2106301762',extremes,Wildfire,#d60d2b,effis,feu de forêt hayzouk liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079376543211597,0,1,fr,MED,Asia
+'f839ef80f1',extremes,Wildfire,#d60d2b,effis,feu de brousse majdel selm liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079351728895995,0,1,fr,MED,Asia
+'0d4503ee95',extremes,Wildfire,#d60d2b,effis,incendie de forêt haret saïda liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079339339163034,0,1,fr,MED,Asia
+'6cf82c3fab',extremes,Wildfire,#d60d2b,effis,incendie de forêt majdel baana liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079337005447692,0,1,fr,MED,Asia
+'241f25b23c',extremes,Wildfire,#d60d2b,effis,incendie de forêt aïn baal liban,2026-08-07T11:06:00+00:00,Lebanon,0.7079162785472285,0,1,fr,MED,Asia
+'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-28T05:31:00+00:00,Burkina Faso,0.7010125319462576,0,1,fr,WAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-08-01T05:42:00+00:00,Belgium,0.681310648242422,2,2,fr,WCE,Europe
