@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-07-30T05:24:00+00:00,Republic of the Congo,0.698020254921558,0,1,fr,CAF,Africa
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6887355213019932,0,1,fr,WCE,Europe
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-08-05T05:31:00+00:00,Canada,0.6859355289618729,1,2,fr,NEN,North-America
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-01T05:42:00+00:00,Switzerland,0.6854573021877937,0,1,fr,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6837417366431763,0,1,fr,NEN,North-America
@@ -20,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-08-12T04:23:00+00:00,Guadeloupe,0.6791049865135342,2,2,fr,CAR,North-America
 '46aa4a3181',extremes,Drought,#edc291,edo,manque de pluie mali,2026-07-26T05:46:00+00:00,Mali,0.6771316507610293,0,1,fr,SAH,Africa
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.6737764344240494,0,1,fr,NEN,North-America
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-08-05T05:31:00+00:00,Canada,0.6732181281904388,0,1,fr,NEN,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-08-03T05:58:00+00:00,Guadeloupe,0.6715137062192384,2,1,fr,CAR,North-America
