@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6887355213019932,0,1,fr,WCE,Europe
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,inondations au Canada,2026-08-05T05:31:00+00:00,Canada,0.6859355289618729,1,2,fr,NEN,North-America
 '6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-07-18T05:10:00+00:00,Madagascar,0.6843493114832205,2,2,fr,MDG,Africa
-'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6837417366431763,0,1,fr,NEN,North-America
 '21bb34673b',extremes,Wildfire,#d60d2b,effis,incendie de forêt en France,2026-08-13T04:26:00+00:00,France,0.681838351943842,0,1,fr,WCE,Europe
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-08-01T05:42:00+00:00,Belgium,0.681310648242422,2,2,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
@@ -28,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-08-03T05:58:00+00:00,French Southern Territories,0.65753051035979,2,2,fr,SOO,Antarctica
+'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6570805661466999,1,2,fr,NEN,North-America
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
 '06c7da61ee',extremes,Precipitation,#d60d2b,wmo,pluie la majeure partie sud du pays,2026-08-08T03:51:00+00:00,Mali,0.6542433835087161,2,2,fr,SAH,Africa
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-08-01T05:42:00+00:00,Canada,0.6439639160339883,1,2,fr,NEN,North-America
