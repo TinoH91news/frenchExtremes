@@ -36,7 +36,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,canicule verzasca,2026-07-29T05:37:00+00:00,Switzerland,0.6685387805136699,0,1,fr,WCE,Europe
 '85213d3f73',extremes,Heat Wave,#c40202,wmo,canicule lg quatre laforge et fontanges,2026-08-07T04:37:00+00:00,Canada,0.6679071613113078,0,1,fr,NEN,North-America
+'d9f5a28608',extremes,Heat Wave,#c40202,wmo,canicule basso moesano,2026-07-31T05:51:00+00:00,Switzerland,0.6673745909511548,0,1,fr,WCE,Europe
+'5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-07-30T05:24:00+00:00,Switzerland,0.6672292918524937,0,1,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
+'9495481d82',extremes,Heat Wave,#c40202,wmo,canicule martigny verbier,2026-08-01T05:42:00+00:00,Switzerland,0.6668949373498206,0,1,fr,WCE,Europe
+'1350baf605',extremes,Heat Wave,#c40202,wmo,canicule lyss grenchen,2026-07-31T05:51:00+00:00,Switzerland,0.6664628046436875,0,1,fr,WCE,Europe
+'02328cb582',extremes,Heat Wave,#c40202,wmo,canicule murten kerzers,2026-07-29T05:37:00+00:00,Switzerland,0.6661525250160418,0,1,fr,WCE,Europe
+'f3d653a8ff',extremes,Drought,#edc291,edo,sécheresse comores,2026-08-12T04:23:00+00:00,Comoros,0.6660634457878947,0,1,fr,ESAF,Africa
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-08-03T05:58:00+00:00,French Southern Territories,0.65753051035979,2,2,fr,SOO,Antarctica
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6570805661466999,1,2,fr,NEN,North-America
