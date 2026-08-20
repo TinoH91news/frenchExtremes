@@ -24,8 +24,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-08-03T05:58:00+00:00,Guadeloupe,0.6715137062192384,2,1,fr,CAR,North-America
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
+'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-30T05:24:00+00:00,Switzerland,0.6680891270380717,0,1,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
+'6ded337d1f',extremes,Heat Wave,#c40202,wmo,canicule langnau eggiwil,2026-08-02T05:42:00+00:00,Switzerland,0.6643811869822531,0,1,fr,WCE,Europe
+'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-07-31T05:51:00+00:00,Belgium,0.6642353081330065,0,1,fr,WCE,Europe
+'403eda3313',extremes,Heat Wave,#c40202,wmo,canicule saint cergue,2026-08-01T05:42:00+00:00,Switzerland,0.664100227960232,0,1,fr,WCE,Europe
+'757cf38b46',extremes,Heat Wave,#c40202,wmo,canicule lausanne lavaux,2026-07-31T05:51:00+00:00,Switzerland,0.6638006721088358,0,1,fr,WCE,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.6630410086719027,1,2,fr,WCE,Europe
+'f6f32944d1',extremes,Heat Wave,#c40202,wmo,canicule gros de vaud,2026-08-02T05:42:00+00:00,Switzerland,0.6629274774026878,0,1,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-08-03T05:58:00+00:00,French Southern Territories,0.65753051035979,2,2,fr,SOO,Antarctica
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6570805661466999,1,2,fr,NEN,North-America
