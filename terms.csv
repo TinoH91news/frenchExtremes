@@ -24,10 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-07-10T06:27:00+00:00,France,0.6716145251611229,6,3,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-08-03T05:58:00+00:00,Guadeloupe,0.6715137062192384,2,1,fr,CAR,North-America
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
-'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-30T05:24:00+00:00,Switzerland,0.6680891270380717,0,1,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
-'6ded337d1f',extremes,Heat Wave,#c40202,wmo,canicule langnau eggiwil,2026-08-02T05:42:00+00:00,Switzerland,0.6643811869822531,0,1,fr,WCE,Europe
-'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-07-31T05:51:00+00:00,Belgium,0.6642353081330065,0,1,fr,WCE,Europe
 '403eda3313',extremes,Heat Wave,#c40202,wmo,canicule saint cergue,2026-08-01T05:42:00+00:00,Switzerland,0.664100227960232,0,1,fr,WCE,Europe
 '757cf38b46',extremes,Heat Wave,#c40202,wmo,canicule lausanne lavaux,2026-07-31T05:51:00+00:00,Switzerland,0.6638006721088358,0,1,fr,WCE,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.6630410086719027,1,2,fr,WCE,Europe
@@ -111,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.5699544365439071,1,1,fr,WAF,Africa
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-08-03T05:57:00+00:00,Canada,0.5683883826218895,1,1,fr,NEN,North-America
 '16664cc668',extremes,Heat Wave,#c40202,wmo,canicule verzasca,2026-07-29T05:37:00+00:00,Switzerland,0.5682579634366194,1,1,fr,WCE,Europe
+'e9f196dfee',extremes,Heat Wave,#c40202,wmo,canicule mendrisiotto,2026-07-30T05:24:00+00:00,Switzerland,0.5678757579823609,1,1,fr,WCE,Europe
 '85213d3f73',extremes,Heat Wave,#c40202,wmo,canicule lg quatre laforge et fontanges,2026-08-07T04:37:00+00:00,Canada,0.5677210871146116,1,1,fr,NEN,North-America
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,canicule basso moesano,2026-07-31T05:51:00+00:00,Switzerland,0.5672684023084815,1,1,fr,WCE,Europe
 '5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-07-30T05:24:00+00:00,Switzerland,0.5671448980746197,1,1,fr,WCE,Europe
@@ -125,6 +123,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,canicule bex villars,2026-08-02T05:42:00+00:00,Switzerland,0.5650444143728607,1,1,fr,WCE,Europe
 '8e76e97181',extremes,Heat Wave,#c40202,wmo,canicule morges cossonay,2026-07-31T05:51:00+00:00,Switzerland,0.5649284258187922,1,1,fr,WCE,Europe
 '6f8f50b514',extremes,Heat Wave,#c40202,wmo,canicule vispertal nanztal,2026-08-02T05:42:00+00:00,Switzerland,0.5649195929825268,1,1,fr,WCE,Europe
+'6871a315cf',extremes,Heat Wave,#c40202,wmo,canicule dans le Limbourg,2026-07-31T05:51:00+00:00,Belgium,0.5649000419130555,1,1,fr,WCE,Europe
+'6ded337d1f',extremes,Heat Wave,#c40202,wmo,canicule langnau eggiwil,2026-08-02T05:42:00+00:00,Switzerland,0.5647240089349151,1,1,fr,WCE,Europe
 '6fcf85ee78',extremes,Heat Wave,#c40202,wmo,canicule steckborn müllheim,2026-07-30T05:24:00+00:00,Switzerland,0.5617698403409744,2,1,fr,WCE,Europe
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,canicule namur,2026-07-28T05:31:00+00:00,Belgium,0.5585055905071064,2,2,fr,WCE,Europe
 '6798e95667',extremes,Drought,#edc291,edo,période sèche au rwanda,2026-07-11T05:27:00+00:00,Rwanda,0.5423348314840287,2,2,fr,SEAF,Africa
