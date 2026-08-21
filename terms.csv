@@ -14,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-25T05:29:00+00:00,Ivory Coast,0.7278782919914595,1,2,fr,WAF,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.7137353673711173,2,3,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.6986100592604421,1,2,fr,NEN,North-America
+'2ee1b74fdf',extremes,Heat Wave,#c40202,wmo,canicule corse du sud haute corse,2026-08-21T03:30:00+00:00,France,0.6975024849976805,1,3,fr,WCE,Europe
 '5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,pluie france,2026-07-15T05:15:00+00:00,France,0.6909517498267489,2,3,fr,WCE,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,côte de canicule,2026-07-31T05:51:00+00:00,Switzerland,0.6880273706474073,1,3,fr,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempête canada,2026-07-29T05:37:00+00:00,Canada,0.6851437781641321,1,2,fr,NEN,North-America
@@ -21,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-08-01T05:42:00+00:00,Belgium,0.681310648242422,2,2,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-08-12T04:23:00+00:00,Guadeloupe,0.6791049865135342,2,2,fr,CAR,North-America
-'2ee1b74fdf',extremes,Heat Wave,#c40202,wmo,canicule corse du sud haute corse,2026-08-21T03:30:00+00:00,France,0.6757294374304263,0,1,fr,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-08-03T05:58:00+00:00,Guadeloupe,0.6715137062192384,2,1,fr,CAR,North-America
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
