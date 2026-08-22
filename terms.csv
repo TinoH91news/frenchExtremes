@@ -27,6 +27,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
 '03e105065b',extremes,Heat Wave,#c40202,meteo,haute température france,2026-08-07T11:06:00+00:00,France,0.6611138828220435,2,3,fr,MED,Europe
+'0a43eb8b74',extremes,Heat Wave,#c40202,wmo,canicule vouvry,2026-08-01T05:42:00+00:00,Switzerland,0.6609911431433242,0,1,fr,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,sécheresse belgique,2026-08-07T11:06:00+00:00,Belgium,0.6609817499535088,0,1,fr,WCE,Europe
+'3caca873cf',extremes,Heat Wave,#c40202,wmo,canicule rheinfelden,2026-08-01T05:42:00+00:00,Switzerland,0.660954184176944,0,1,fr,WCE,Europe
+'1c6f676a4c',extremes,Storm,#b3b2b1,wmo,tempête gatineau,2026-08-13T04:26:00+00:00,Canada,0.6604592520167938,0,1,fr,NEN,North-America
+'1ceabbdb5b',extremes,Heat Wave,#c40202,meteo,haute température en Suisse,2026-08-07T11:06:00+00:00,Switzerland,0.6589454557026051,0,1,fr,WCE,Europe
+'4b03494102',extremes,Heat Wave,#c40202,wmo,canicule delémont bellelay,2026-08-01T05:42:00+00:00,Switzerland,0.6577024016708566,0,1,fr,WCE,Europe
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-08-03T05:58:00+00:00,French Southern Territories,0.65753051035979,2,2,fr,SOO,Antarctica
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6570805661466999,1,2,fr,NEN,North-America
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-06-29T07:13:00+00:00,France,0.6543751554598811,1,3,fr,WCE,Europe
