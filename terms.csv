@@ -8,9 +8,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa924fd1fe',extremes,Wildfire,#d60d2b,effis,incendie de forêt bas rhin france,2026-08-15T03:13:00+00:00,France,0.7444481217045924,2,2,fr,WCE,Europe
 '07161d16b7',extremes,Thunderstorm,#53785a,wmo,orage france,2026-07-10T06:27:00+00:00,France,0.7437281872280039,2,3,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-07-30T05:24:00+00:00,Republic of the Congo,0.7434672316833243,1,2,fr,CAF,Africa
+'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-08-17T03:28:00+00:00,France,0.7415292480616518,0,1,fr,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,canicule belgique,2026-07-07T06:30:00+00:00,Belgium,0.7315334728751781,2,3,fr,WCE,Europe
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.7312897140157852,1,3,fr,WCE,Europe
 '21bb34673b',extremes,Wildfire,#d60d2b,effis,incendie de forêt en France,2026-08-13T04:26:00+00:00,France,0.7293793494748464,1,3,fr,WCE,Europe
+'43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-08-22T03:22:00+00:00,Burkina Faso,0.7279714911382114,0,1,fr,WAF,Africa
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-25T05:29:00+00:00,Ivory Coast,0.7278782919914595,1,2,fr,WAF,Africa
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.7137353673711173,2,3,fr,WCE,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.6986100592604421,1,2,fr,NEN,North-America
@@ -21,8 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,canicule zone côtière,2026-08-01T05:42:00+00:00,Belgium,0.681310648242422,2,2,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 '34a17efe0a',extremes,Drought,#edc291,edo,période sèche guadeloupe,2026-08-12T04:23:00+00:00,Guadeloupe,0.6791049865135342,2,2,fr,CAR,North-America
+'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-08-03T05:58:00+00:00,Mayotte,0.6730342430576574,0,1,fr,MDG,Africa
+'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-08-22T03:22:00+00:00,Niger,0.6720458069823131,0,1,fr,SAH,Africa
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-07-08T05:37:00+00:00,Belgium,0.6719007388763019,2,2,fr,WCE,Europe
 'ddce611b1d',extremes,Drought,#edc291,edo,sécheresse guadeloupe,2026-08-03T05:58:00+00:00,Guadeloupe,0.6715137062192384,2,1,fr,CAR,North-America
+'dd25cffe03',extremes,Wildfire,#d60d2b,effis,incendie de forêt n.d. Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.6711411887759121,0,1,fr,MED,Africa
+'4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-08-22T03:22:00+00:00,Burundi,0.6706436290129208,0,1,fr,SEAF,Africa
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
 'add55cb2e5',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-07-09T06:27:00+00:00,French Southern Territories,0.6614979266127692,2,2,fr,SOO,Antarctica
