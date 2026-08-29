@@ -1,13 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-08-24T03:32:00+00:00,France,0.7844159641812773,1,2,fr,WCE,Europe
+'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-08-25T03:27:00+00:00,France,0.7783957295414229,1,3,fr,WCE,Europe
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-07-25T05:29:00+00:00,Ivory Coast,0.7689965781927406,2,2,fr,WAF,Africa
-'33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-08-25T03:27:00+00:00,France,0.7446700876957917,0,1,fr,WCE,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,cmeter,canicule france,2026-07-26T05:46:00+00:00,France,0.7436301693283383,3,3,fr,WCE,Europe
 '4bd633f474',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-07-30T05:24:00+00:00,Republic of the Congo,0.7434672316833243,1,2,fr,CAF,Africa
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-08-17T03:28:00+00:00,France,0.7398025603978585,1,3,fr,WCE,Europe
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.7312897140157852,1,3,fr,WCE,Europe
 '34799f2163',extremes,Drought,#edc291,edo,sécheresse république du congo,2026-08-21T03:30:00+00:00,Republic of the Congo,0.7310622769047784,0,1,fr,CAF,Africa
-'d7c3241e3e',extremes,Wildfire,#d60d2b,effis,incendie de forêt france lozère prévenchères,2026-08-26T03:34:00+00:00,France,0.7191261213559428,0,1,fr,MED,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.7137353673711173,2,3,fr,WCE,Europe
 '03e105065b',extremes,Heat Wave,#c40202,meteo,haute température france,2026-08-07T11:06:00+00:00,France,0.7069028435566317,3,3,fr,MED,Europe
 '2e66b8fc93',extremes,Wildfire,#d60d2b,effis,feux de brousse france nièvre gâcogne,2026-08-27T13:00:00+00:00,France,0.6966707314539565,0,1,fr,WCE,Europe
@@ -26,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a26a8440a',extremes,Wildfire,#d60d2b,emdat,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6701168215896034,2,3,fr,WCE,Europe
 '6f0714f764',extremes,Flood,#030ba1,wmo,inondation france,2026-08-04T05:32:00+00:00,France,0.6694980449511723,2,2,fr,WCE,Europe
 '9ca03cbcc4',extremes,Wildfire,#d60d2b,cmeter,canicule européenne en France,2026-07-09T06:28:00+00:00,France,0.6669872640790406,2,3,fr,WCE,Europe
+'36da4dc56f',extremes,Flood,#030ba1,wmo,crue éclair france,2026-08-24T03:32:00+00:00,France,0.6667535995540858,2,1,fr,WCE,Europe
 '9d1b29af9d',extremes,Wildfire,#d60d2b,effis,incendie de forêt en Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.6603936334222343,3,2,fr,MED,Africa
 'f8883e118b',extremes,Drought,#edc291,edo,sécheresse territoires du sud français,2026-08-03T05:58:00+00:00,French Southern Territories,0.65753051035979,2,2,fr,SOO,Antarctica
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.6570805661466999,1,2,fr,NEN,North-America
@@ -52,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152f501aa1',extremes,Thunderstorm,#53785a,wmo,grêle france,2026-07-20T05:54:00+00:00,France,0.6217496495041547,3,3,fr,WCE,Europe
 '4f8dad48b5',extremes,Wildfire,#d60d2b,effis,feux de brousse en France,2026-08-07T09:56:00+00:00,France,0.619656441465821,2,2,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-07-29T05:38:00+00:00,Reunion,0.6170914068369278,1,2,fr,SIO,Africa
+'d7c3241e3e',extremes,Wildfire,#d60d2b,effis,incendie de forêt france lozère prévenchères,2026-08-26T03:34:00+00:00,France,0.6112572031525514,1,1,fr,MED,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,période sèche en Belgique,2026-08-06T05:33:00+00:00,Belgium,0.6105254285754724,2,2,fr,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,grêle italie,2026-07-17T05:27:00+00:00,Italy,0.6096149057062523,2,2,fr,MED,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-02T05:42:00+00:00,Canada,0.6083845337524494,2,1,fr,NEN,North-America
