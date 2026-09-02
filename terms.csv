@@ -47,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-08-26T03:34:00+00:00,France,0.5980375211733269,1,2,fr,WCE,Europe
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-28T05:31:00+00:00,Burkina Faso,0.596010682154319,1,1,fr,WAF,Africa
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.5939685653713758,2,2,fr,NEN,North-America
-'2ee1b74fdf',extremes,Heat Wave,#c40202,wmo,canicule corse du sud haute corse,2026-08-21T03:30:00+00:00,France,0.5928777572480284,2,2,fr,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-01T05:42:00+00:00,Switzerland,0.5923982765806808,2,1,fr,WCE,Europe
 '2e66b8fc93',extremes,Wildfire,#d60d2b,effis,feux de brousse france nièvre gâcogne,2026-08-27T13:00:00+00:00,France,0.592170121735863,1,1,fr,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-08-16T03:28:00+00:00,Djibouti,0.5904108026212811,2,1,fr,NEAF,Africa
@@ -71,15 +70,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50b49cd97b',extremes,Drought,#edc291,edo,sécheresse polynésie française,2026-07-29T05:38:00+00:00,French Polynesia,0.5738028649950998,1,1,fr,SPO,Pacific Ocean
 '3d3f82b6fc',extremes,Flood,#030ba1,wmo,crue du lac dauphin,2026-08-18T03:24:00+00:00,Canada,0.5734145005782076,1,1,fr,NEN,North-America
 '2db2e92a6a',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle burgeo ramea,2026-08-25T03:27:00+00:00,Canada,0.5733391085116948,1,1,fr,NEN,North-America
+'2ee1b74fdf',extremes,Heat Wave,#c40202,wmo,canicule corse du sud haute corse,2026-08-21T03:30:00+00:00,France,0.5725329972971878,3,2,fr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inondation au Canada,2026-08-15T03:13:00+00:00,Canada,0.5723471117268543,1,1,fr,NEN,North-America
 'b34c05e44d',extremes,Drought,#edc291,edo,période sèche à mayotte,2026-08-03T05:58:00+00:00,Mayotte,0.5720791065990087,1,1,fr,MDG,Africa
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,"onde de tempête dans le comté d'Inverness, Mabou et nord",2026-08-23T03:30:00+00:00,Canada,0.5719118908589182,1,1,fr,NEN,North-America
-'326bb7cdcb',extremes,Flood,#030ba1,wmo,crue soudaine littoral nord-ouest sud-ouest,2026-08-17T03:28:00+00:00,Cameroon,0.5716531388737267,1,1,fr,CAF,Africa
 '8cd0067da6',extremes,Heat Wave,#c40202,wmo,canicule windsor leamington comté d'essex,2026-08-31T08:51:00+00:00,Canada,0.5711357376180206,1,1,fr,NEN,North-America
 'fb43bdaa2f',extremes,Drought,#edc291,edo,sécheresse saint pierre et miquelon,2026-08-12T04:23:00+00:00,Saint Pierre and Miquelon,0.5710975532686061,1,1,fr,ENA,North-America
 '8650417750',extremes,Drought,#edc291,edo,période sèche république du congo,2026-08-16T03:28:00+00:00,Republic of the Congo,0.5705782341744081,1,1,fr,CAF,Africa
 'dd25cffe03',extremes,Wildfire,#d60d2b,effis,incendie de forêt n.d. Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.5704700104595253,1,1,fr,MED,Africa
-'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-08-11T04:01:00+00:00,Burkina Faso,0.570310006696572,1,1,fr,WAF,Africa
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,canicule bellinzonaise,2026-08-04T05:32:00+00:00,Switzerland,0.5701882334513485,1,1,fr,WCE,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.5699544365439071,1,1,fr,WAF,Africa
 '5d8c69af03',extremes,Heat Wave,#c40202,wmo,canicule vallon de saint imier,2026-07-30T05:24:00+00:00,Switzerland,0.5671448980746197,1,1,fr,WCE,Europe
@@ -196,15 +194,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d4503ee95',extremes,Wildfire,#d60d2b,effis,incendie de forêt haret saïda liban,2026-08-07T11:06:00+00:00,Lebanon,0.5114822672545293,2,1,fr,MED,Asia
 '6cf82c3fab',extremes,Wildfire,#d60d2b,effis,incendie de forêt majdel baana liban,2026-08-07T11:06:00+00:00,Lebanon,0.5114820986435957,2,1,fr,MED,Asia
 'c3d6eccf81',extremes,Wildfire,#d60d2b,effis,feu de brousse aïn el tiné liban,2026-08-15T03:13:00+00:00,Lebanon,0.4958274604531275,2,1,fr,MED,Asia
-'c4be795f03',extremes,Drought,#edc291,edo,manque de pluie guinée équatoriale,2026-08-01T05:42:00+00:00,Equatorial Guinea,0.4955535689843213,2,1,fr,WAF,Africa
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,onde de tempête seychelles,2026-07-29T05:37:00+00:00,Seychelles,0.4908225390132243,2,1,fr,EIO,Africa
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-08-06T05:33:00+00:00,Canada,0.4866234972256134,2,1,fr,NEN,North-America
 '825ca3582e',extremes,Storm,#b3b2b1,wmo,tempête cariboo nord incluant quesnel,2026-08-11T04:01:00+00:00,Canada,0.4860096347593171,2,1,fr,NEN,North-America
 '9a57e5e313',extremes,Flood,#030ba1,wmo,crue éclair du lac Dauphin,2026-08-06T05:33:00+00:00,Canada,0.4859359310377278,2,1,fr,NEN,North-America
+'326bb7cdcb',extremes,Flood,#030ba1,wmo,crue soudaine littoral nord-ouest sud-ouest,2026-08-17T03:28:00+00:00,Cameroon,0.4859051680426677,2,1,fr,CAF,Africa
 'e720d59629',extremes,Wildfire,#d60d2b,effis,incendie de forêt tunisie n.d. n / A.,2026-08-07T09:56:00+00:00,Tunisia,0.4855680598368933,2,1,fr,MED,Africa
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-08-22T03:22:00+00:00,Niger,0.4855530955447212,2,1,fr,SAH,Africa
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,onde de tempête canada,2026-08-02T05:42:00+00:00,Canada,0.4854849469776562,2,1,fr,NEN,North-America
 '47a06a39e2',extremes,Flood,#030ba1,wmo,crue soudaine de la rivière Mossey,2026-08-06T05:33:00+00:00,Canada,0.4854762297094191,2,1,fr,NEN,North-America
+'495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-08-11T04:01:00+00:00,Burkina Faso,0.48476350569208615,2,1,fr,WAF,Africa
 '4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-08-22T03:22:00+00:00,Burundi,0.4845400219618353,2,1,fr,SEAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-08-21T03:30:00+00:00,Djibouti,0.4836828651256153,2,1,fr,NEAF,Africa
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-08-03T05:57:00+00:00,Canada,0.483130125228606,2,1,fr,NEN,North-America
