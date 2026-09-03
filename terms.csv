@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-09-02T07:17:00+00:00,Madagascar,0.7614821359831206,0,1,fr,MDG,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,cmeter,canicule france,2026-07-26T05:46:00+00:00,France,0.7436301693283383,3,3,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-08-17T03:28:00+00:00,France,0.7398025603978585,1,3,fr,WCE,Europe
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.7312897140157852,1,3,fr,WCE,Europe
@@ -7,8 +8,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-08-24T03:32:00+00:00,France,0.7119166982110667,1,3,fr,WCE,Europe
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-08-15T03:13:00+00:00,France,0.7093923574340331,1,3,fr,WCE,Europe
 '03e105065b',extremes,Heat Wave,#c40202,meteo,haute température france,2026-08-07T11:06:00+00:00,France,0.7069028435566317,3,3,fr,MED,Europe
+'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-09-01T07:58:00+00:00,Chad,0.6935884518156651,0,1,fr,SAH,Africa
+'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-09-01T07:58:00+00:00,Switzerland,0.6926237944913424,0,1,fr,WCE,Europe
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-08-07T04:37:00+00:00,Ivory Coast,0.6915982365023361,2,2,fr,WAF,Africa
+'cd4f522432',extremes,Drought,#edc291,edo,période sèche aux Comores,2026-08-20T03:26:00+00:00,Comoros,0.6914784794825095,0,1,fr,ESAF,Africa
+'1cf385e5d2',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-08-19T03:26:00+00:00,Haiti,0.6878708412681107,0,1,fr,CAR,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-08-21T03:30:00+00:00,Belgium,0.6868181329855246,2,2,fr,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-23T03:30:00+00:00,Switzerland,0.686052291021942,0,1,fr,WCE,Europe
 'aa924fd1fe',extremes,Wildfire,#d60d2b,effis,incendie de forêt bas rhin france,2026-08-15T03:13:00+00:00,France,0.6836809934489034,3,2,fr,WCE,Europe
 '0362f0b9c1',extremes,Earthquake,#870007,usgs,tremblement de terre également,2026-07-19T05:37:00+00:00,Wallis and Futuna,0.679969350741128,2,3,fr,SPO,Pacific Ocean
 'cc72486ea7',extremes,Flood,#030ba1,wmo,inondation du littoral nord-ouest sud-ouest,2026-08-16T03:28:00+00:00,Cameroon,0.679713205121456,4,2,fr,CAF,Africa
