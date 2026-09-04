@@ -45,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '241f25b23c',extremes,Wildfire,#d60d2b,effis,incendie de forêt aïn baal liban,2026-08-07T11:06:00+00:00,Lebanon,0.6017288367651442,1,1,fr,MED,Asia
 '79079cfee6',extremes,Drought,#edc291,edo,sécheresse tchad,2026-08-07T09:56:00+00:00,Chad,0.600650340232719,2,1,fr,SAH,Africa
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-08-26T03:34:00+00:00,France,0.5980375211733269,1,2,fr,WCE,Europe
-'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-23T03:30:00+00:00,Switzerland,0.5966331189071122,1,1,fr,WCE,Europe
 'b64451d0c0',extremes,Drought,#edc291,edo,sécheresse burkina faso,2026-07-28T05:31:00+00:00,Burkina Faso,0.596010682154319,1,1,fr,WAF,Africa
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.5939685653713758,2,2,fr,NEN,North-America
 'b5cb89d511',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-01T05:42:00+00:00,Switzerland,0.5923982765806808,2,1,fr,WCE,Europe
@@ -132,6 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '355605856d',extremes,Precipitation,#d60d2b,wmo,précipitation tchad,2026-08-02T05:42:00+00:00,Chad,0.5392599740659304,2,1,fr,SAH,Africa
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,onde de tempête france,2026-08-06T05:33:00+00:00,France,0.5340261899650544,3,1,fr,WCE,Europe
 '9d6cac03c7',extremes,Precipitation,#d60d2b,meteo,précipitations suisse,2026-08-20T03:26:00+00:00,Switzerland,0.5334957089355207,2,1,fr,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,sécheresse suisse,2026-08-23T03:30:00+00:00,Switzerland,0.5306669474996168,2,1,fr,WCE,Europe
 'faf74e1444',extremes,Drought,#edc291,edo,manque de pluie république du congo,2026-08-07T09:56:00+00:00,Republic of the Congo,0.5296906075141009,2,1,fr,CAF,Africa
 '4f8dad48b5',extremes,Wildfire,#d60d2b,effis,feux de brousse en France,2026-08-07T09:56:00+00:00,France,0.5267080202459478,3,1,fr,WCE,Europe
 '43cb23896c',extremes,Drought,#edc291,edo,manque de pluie burkina faso,2026-08-22T03:22:00+00:00,Burkina Faso,0.5259594023473577,2,1,fr,WAF,Africa
