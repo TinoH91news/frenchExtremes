@@ -85,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4208a0b339',extremes,Heat Wave,#c40202,wmo,canicule oberes Baselbiet,2026-08-11T04:01:00+00:00,Switzerland,0.5622080441907581,1,1,fr,WCE,Europe
 'dc604c5097',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle arviat,2026-08-18T03:24:00+00:00,Canada,0.561981749999728,1,1,fr,NEN,North-America
 '1c6f676a4c',extremes,Storm,#b3b2b1,wmo,tempête gatineau,2026-08-13T04:26:00+00:00,Canada,0.5613903642142747,1,1,fr,NEN,North-America
-'1ceabbdb5b',extremes,Heat Wave,#c40202,meteo,haute température en Suisse,2026-08-07T11:06:00+00:00,Switzerland,0.5608537123472144,1,1,fr,WCE,Europe
 '68ce9d0e23',extremes,Drought,#edc291,edo,sécheresse république centrafricaine,2026-08-03T05:58:00+00:00,Central African Republic,0.5585743407091441,1,1,fr,CAF,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,orage canada,2026-08-09T03:59:00+00:00,Canada,0.5585185112246949,2,1,fr,NEN,North-America
 'e76c4f25ab',extremes,Wildfire,#d60d2b,effis,feu de brousse france morbihan cléguérec,2026-08-13T04:26:00+00:00,France,0.5579642243474526,1,1,fr,WCE,Europe
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e666a03504',extremes,Wildfire,#d60d2b,effis,feux de brousse france hérault saint félix de l'héras,2026-08-20T03:26:00+00:00,France,0.5209741811251755,2,1,fr,MED,Europe
 'd7c3241e3e',extremes,Wildfire,#d60d2b,effis,incendie de forêt france lozère prévenchères,2026-08-26T03:34:00+00:00,France,0.5195686226796686,2,1,fr,MED,Europe
 '3e23a187ad',extremes,Flood,#030ba1,wmo,inondation pas de calais oise,2026-08-28T14:32:00+00:00,France,0.5175154531461572,2,1,fr,WCE,Europe
+'1ceabbdb5b',extremes,Heat Wave,#c40202,meteo,haute température en Suisse,2026-08-07T11:06:00+00:00,Switzerland,0.5148257154951322,2,1,fr,WCE,Europe
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,incendie de forêt au Liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146077512526677,2,1,fr,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,feux de brousse au Liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146064943124393,2,1,fr,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,incendie de forêt sarafend liban,2026-08-07T11:06:00+00:00,Lebanon,0.5146057134503154,2,1,fr,MED,Asia
