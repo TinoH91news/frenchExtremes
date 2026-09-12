@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-09-05T07:05:00+00:00,France,0.7649676136903062,2,3,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-08-25T03:27:00+00:00,France,0.7302240237465731,2,3,fr,WCE,Europe
+'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-09-05T07:05:00+00:00,France,0.7142706257276694,3,3,fr,WCE,Europe
 'b5e8cf4b65',extremes,Drought,#edc291,edo,manque de pluie france,2026-07-31T05:51:00+00:00,France,0.7137353673711173,2,3,fr,WCE,Europe
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-08-15T03:13:00+00:00,France,0.7093923574340331,1,3,fr,WCE,Europe
 '03e105065b',extremes,Heat Wave,#c40202,meteo,haute température france,2026-08-07T11:06:00+00:00,France,0.7069028435566317,3,3,fr,MED,Europe
@@ -191,13 +191,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d3f82b6fc',extremes,Flood,#030ba1,wmo,crue du lac dauphin,2026-08-18T03:24:00+00:00,Canada,0.4874023254914765,2,1,fr,NEN,North-America
 '825ca3582e',extremes,Storm,#b3b2b1,wmo,tempête cariboo nord incluant quesnel,2026-08-11T04:01:00+00:00,Canada,0.4860096347593171,2,1,fr,NEN,North-America
 '326bb7cdcb',extremes,Flood,#030ba1,wmo,crue soudaine littoral nord-ouest sud-ouest,2026-08-17T03:28:00+00:00,Cameroon,0.4859051680426677,2,1,fr,CAF,Africa
-'e720d59629',extremes,Wildfire,#d60d2b,effis,incendie de forêt tunisie n.d. n / A.,2026-08-07T09:56:00+00:00,Tunisia,0.4855680598368933,2,1,fr,MED,Africa
 'bc92dfa830',extremes,Drought,#edc291,edo,sécheresse niger,2026-08-22T03:22:00+00:00,Niger,0.4855530955447212,2,1,fr,SAH,Africa
-'dd25cffe03',extremes,Wildfire,#d60d2b,effis,incendie de forêt n.d. Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.4848995088905964,2,1,fr,MED,Africa
 '495c4fe025',extremes,Drought,#edc291,edo,période sèche burkina faso,2026-08-11T04:01:00+00:00,Burkina Faso,0.4847635056920861,2,1,fr,WAF,Africa
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle seychelles,2026-09-07T07:29:00+00:00,Seychelles,0.4847569087608418,2,1,fr,EIO,Africa
 '4253da7ee8',extremes,Drought,#edc291,edo,période sèche burundi,2026-08-22T03:22:00+00:00,Burundi,0.4845400219618353,2,1,fr,SEAF,Africa
-'56dca2743f',extremes,Drought,#edc291,edo,période sèche en Guinée équatoriale,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.484461271062321,2,1,fr,WAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,manque de pluie djibouti,2026-08-21T03:30:00+00:00,Djibouti,0.4836828651256153,2,1,fr,NEAF,Africa
 '06ba9a49ed',extremes,Storm,#b3b2b1,wmo,tempête avant JC rivière de la paix nord,2026-08-10T04:14:00+00:00,Canada,0.4805376202623748,2,1,fr,NEN,North-America
 '8d56eb929a',extremes,Wildfire,#d60d2b,effis,incendie de forêt france ille et vilaine saint just,2026-08-14T04:24:00+00:00,France,0.4779297033526463,2,1,fr,WCE,Europe
