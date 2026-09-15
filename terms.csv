@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-09-05T07:05:00+00:00,France,0.7439044836867008,4,3,fr,WCE,Europe
 '03e105065b',extremes,Heat Wave,#c40202,meteo,haute température france,2026-08-07T11:06:00+00:00,France,0.7069028435566317,3,3,fr,MED,Europe
+'9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-08-21T03:30:00+00:00,Belgium,0.7037527658948387,3,2,fr,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,wmo,inondations en France,2026-08-25T03:27:00+00:00,France,0.7033378469978082,4,3,fr,WCE,Europe
 'ec40c4b9fa',extremes,Drought,#edc291,edo,sécheresse france,2026-08-17T03:28:00+00:00,France,0.6970261380607767,6,3,fr,WCE,Europe
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,incendie de forêt en Tunisie,2026-08-07T09:56:00+00:00,Tunisia,0.6960426413349627,3,2,fr,MED,Africa
 '2b6285aa8a',extremes,Drought,#edc291,edo,période de sécheresse en côte d'ivoire,2026-08-07T04:37:00+00:00,Ivory Coast,0.6915982365023361,2,2,fr,WAF,Africa
-'9ea0e31db4',extremes,Drought,#edc291,edo,manque de pluie belgique,2026-08-21T03:30:00+00:00,Belgium,0.6868181329855246,2,2,fr,WCE,Europe
 'faa6e785e8',extremes,Wildfire,#d60d2b,cmeter,incendie de forêt en France,2026-08-04T05:32:00+00:00,France,0.6843121080424497,2,3,fr,WCE,Europe
 'f90a18c448',extremes,Drought,#edc291,edo,sécheresse france,2026-08-15T03:13:00+00:00,France,0.6761199870007463,2,3,fr,WCE,Europe
 '7517434da4',extremes,Drought,#edc291,edo,réunion de sécheresse,2026-07-29T05:38:00+00:00,Reunion,0.6703873717204795,2,3,fr,SIO,Africa
@@ -25,9 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b5264574',extremes,Heat Wave,#c40202,wmo,canicule canada,2026-08-23T03:30:00+00:00,Canada,0.6018027429804885,2,2,fr,NEN,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,brouillard canada,2026-08-13T04:26:00+00:00,Canada,0.5939685653713758,2,2,fr,NEN,North-America
 'd3353562c0',extremes,Drought,#edc291,edo,sécheresse djibouti,2026-08-16T03:28:00+00:00,Djibouti,0.5904108026212811,2,1,fr,NEAF,Africa
-'8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-08-17T03:28:00+00:00,Djibouti,0.5829721109704521,1,1,fr,NEAF,Africa
 'aa924fd1fe',extremes,Wildfire,#d60d2b,effis,incendie de forêt bas rhin france,2026-08-15T03:13:00+00:00,France,0.5811289194315679,4,1,fr,WCE,Europe
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-23T03:30:00+00:00,Canada,0.5808621491215246,1,1,fr,NEN,North-America
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-08-20T03:26:00+00:00,France,0.580741141517075,2,2,fr,WCE,Europe
 '291335c911',extremes,Drought,#edc291,edo,manque de pluie au gabon,2026-08-18T03:24:00+00:00,Gabon,0.5807381649436306,1,1,fr,CAF,Africa
 'cc72486ea7',extremes,Flood,#030ba1,wmo,inondation du littoral nord-ouest sud-ouest,2026-08-16T03:28:00+00:00,Cameroon,0.5777562243532376,5,1,fr,CAF,Africa
@@ -108,7 +106,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1cf385e5d2',extremes,Drought,#edc291,edo,sécheresse Haïti,2026-08-19T03:26:00+00:00,Haiti,0.4969866828162099,2,1,fr,CAR,North-America
 '0f23209d1b',extremes,Thunderstorm,#53785a,wmo,orage aux Seychelles,2026-09-04T07:23:00+00:00,Seychelles,0.4960611957328991,2,1,fr,EIO,Africa
 'c3d6eccf81',extremes,Wildfire,#d60d2b,effis,feu de brousse aïn el tiné liban,2026-08-15T03:13:00+00:00,Lebanon,0.4958274604531275,2,1,fr,MED,Asia
+'8143644bfb',extremes,Drought,#edc291,edo,période sèche à Djibouti,2026-08-17T03:28:00+00:00,Djibouti,0.49552629432488426,2,1,fr,NEAF,Africa
 '8a70b03114',extremes,Drought,#edc291,edo,manque de pluie comores,2026-09-02T07:17:00+00:00,Comoros,0.49517106567023,2,1,fr,ESAF,Africa
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,averse canada,2026-08-23T03:30:00+00:00,Canada,0.4937328267532959,2,1,fr,NEN,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle canada,2026-08-28T14:32:00+00:00,Canada,0.4932354260761974,2,1,fr,NEN,North-America
 '5a0fa006b2',extremes,Wildfire,#d60d2b,effis,feu de brousse nièvre france,2026-08-27T13:00:00+00:00,France,0.4909301775969078,2,1,fr,WCE,Europe
 '655a534d0c',extremes,Wildfire,#d60d2b,effis,feux de brousse liban aïn el tiné n.a.,2026-08-15T03:13:00+00:00,Lebanon,0.489025071879878,2,1,fr,MED,Asia
