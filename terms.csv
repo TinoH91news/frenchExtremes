@@ -10,20 +10,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-08-23T03:30:00+00:00,Canada,0.5493223099268341,3,2,fr,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neige canada,2026-09-08T07:23:00+00:00,Canada,0.5373218480270464,8,1,fr,NEN,North-America
 '9d6cac03c7',extremes,Precipitation,#d60d2b,meteo,précipitations suisse,2026-08-20T03:26:00+00:00,Switzerland,0.5287713825951925,3,2,fr,WCE,Europe
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-09-03T07:20:00+00:00,Canada,0.5194815785568092,4,2,fr,NEN,North-America
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-08-20T03:26:00+00:00,France,0.5185183442688139,4,3,fr,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-09-01T07:58:00+00:00,Switzerland,0.5122590201231961,4,2,fr,WCE,Europe
 'f230c43f55',extremes,Thunderstorm,#53785a,wmo,temps violent france,2026-08-26T03:34:00+00:00,France,0.4849565524491998,5,2,fr,WCE,Europe
-'6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-09-02T07:17:00+00:00,Madagascar,0.4676452167606339,3,1,fr,MDG,Africa
 '6c43d087ad',extremes,Storm,#b3b2b1,wmo,onde de tempête sur les côtes sud-ouest de madagascar.,2026-09-05T07:05:00+00:00,Madagascar,0.4611693947299444,3,1,fr,MDG,Africa
 '97e6994817',extremes,Storm,#b3b2b1,wmo,onde de tempête sur les côtes nord-ouest de madagascar.,2026-09-09T07:32:00+00:00,Madagascar,0.4608192329299562,3,1,fr,MDG,Africa
-'06adbcbae1',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-08-28T14:32:00+00:00,Madagascar,0.4607614554195989,3,1,fr,MDG,Africa
 'f20b4c0efe',extremes,Storm,#b3b2b1,wmo,onde de tempête sur la côte nord ouest de madagascar.,2026-08-29T09:18:00+00:00,Madagascar,0.4594861572136693,3,1,fr,MDG,Africa
 '2700cb4b50',extremes,Storm,#b3b2b1,wmo,tempête sur les côtes sud-ouest de madagascar.,2026-09-06T07:16:00+00:00,Madagascar,0.4585356682317478,3,1,fr,MDG,Africa
 'e3a776caa1',extremes,Storm,#b3b2b1,wmo,tempête sur les côtes nord-ouest de madagascar.,2026-09-07T07:29:00+00:00,Madagascar,0.4581148560788668,3,1,fr,MDG,Africa
 'f6fe680be4',extremes,Storm,#b3b2b1,wmo,tempête sur les côtes sud de madagascar.,2026-09-10T07:28:00+00:00,Madagascar,0.4556942700849056,3,1,fr,MDG,Africa
 'ecd6c72a27',extremes,Drought,#edc291,edo,manque de pluie madagascar,2026-09-06T07:16:00+00:00,Madagascar,0.451140557036645,3,1,fr,MDG,Africa
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-09-04T07:23:00+00:00,Ivory Coast,0.4487864515409261,4,1,fr,WAF,Africa
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,glace canada,2026-09-03T07:20:00+00:00,Canada,0.4415596267732878,5,1,fr,NEN,North-America
 '3e23a187ad',extremes,Flood,#030ba1,wmo,inondation pas de calais oise,2026-08-28T14:32:00+00:00,France,0.4398881351742336,3,1,fr,WCE,Europe
 '6ad689a8ba',extremes,Wildfire,#d60d2b,effis,feux de brousse france ardèche malbosc,2026-09-07T07:29:00+00:00,France,0.4321786868575877,3,1,fr,MED,Europe
 'c9b69132e4',extremes,Wildfire,#d60d2b,effis,feu de brousse ardèche france,2026-09-07T07:29:00+00:00,France,0.4290883292478707,3,1,fr,MED,Europe
@@ -35,4 +33,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a938304ae1',extremes,Wildfire,#d60d2b,effis,incendie de forêt france haute corse cagnano,2026-08-31T08:51:00+00:00,France,0.4122792306772938,3,1,fr,MED,Europe
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,pluie torrentielle seychelles,2026-09-07T07:29:00+00:00,Seychelles,0.4120433724467155,3,1,fr,EIO,Africa
 '15ce6add21',extremes,Flood,#030ba1,wmo,inondations dans les comtés d'Inverness et de Victoria,2026-09-09T07:32:00+00:00,Canada,0.4116158501250517,3,1,fr,NEN,North-America
+'6977541e84',extremes,Drought,#edc291,edo,sécheresse madagascar,2026-09-02T07:17:00+00:00,Madagascar,0.3974984342465388,4,1,fr,MDG,Africa
 '390d7b98ae',extremes,Wildfire,#d60d2b,effis,feux de brousse france aude puilaurens,2026-09-07T07:29:00+00:00,France,0.3633621177343072,4,1,fr,MED,Europe
