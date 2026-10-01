@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-09-09T07:32:00+00:00,Canada,0.630680525292352,4,2,fr,NEN,North-America
-'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-08-24T03:32:00+00:00,France,0.6049274609612197,4,3,fr,WCE,Europe
 'f69e2488b5',extremes,Drought,#edc291,edo,sécheresse tchad,2026-09-01T07:58:00+00:00,Chad,0.6046959383249759,4,2,fr,SAH,Africa
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-09-05T07:05:00+00:00,France,0.5939585314111001,9,3,fr,WCE,Europe
 'd2dcba4137',extremes,Wildfire,#d60d2b,effis,incendie de forêt haute corse france,2026-08-31T08:51:00+00:00,France,0.5514546549988412,4,2,fr,MED,Europe
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,précipitations canada,2026-08-23T03:30:00+00:00,Canada,0.5493223099268341,3,2,fr,NEN,North-America
+'5c0a076489',extremes,Storm,#b3b2b1,wmo,tempête france,2026-08-24T03:32:00+00:00,France,0.5486185641854578,5,3,fr,WCE,Europe
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-09-09T07:32:00+00:00,Canada,0.5360785664984992,5,1,fr,NEN,North-America
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-08-20T03:26:00+00:00,France,0.5185183442688139,4,3,fr,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-09-01T07:58:00+00:00,Switzerland,0.5122590201231961,4,2,fr,WCE,Europe
 '2700cb4b50',extremes,Storm,#b3b2b1,wmo,tempête sur les côtes sud-ouest de madagascar.,2026-09-06T07:16:00+00:00,Madagascar,0.4585356682317478,3,1,fr,MDG,Africa
