@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-09-09T07:32:00+00:00,Canada,0.6065668715237242,6,2,fr,NEN,North-America
 'd2dcba4137',extremes,Wildfire,#d60d2b,effis,incendie de forêt haute corse france,2026-08-31T08:51:00+00:00,France,0.5514546549988412,4,2,fr,MED,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,canicule france,2026-09-05T07:05:00+00:00,France,0.5461821530630715,10,3,fr,WCE,Europe
-'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,gel canada,2026-09-09T07:32:00+00:00,Canada,0.5360785664984992,5,1,fr,NEN,North-America
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,précipitations france,2026-08-20T03:26:00+00:00,France,0.5185183442688139,4,3,fr,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,période sèche en suisse,2026-09-01T07:58:00+00:00,Switzerland,0.5122590201231961,4,2,fr,WCE,Europe
 'dd6af43803',extremes,Drought,#edc291,edo,sécheresse côte d'ivoire,2026-09-04T07:23:00+00:00,Ivory Coast,0.4487864515409261,4,1,fr,WAF,Africa
